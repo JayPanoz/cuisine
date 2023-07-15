@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Cookies moelleux aux noisettes"
 image: banana-nut-cookie/banana-nut-cookie-1.jpg
-tags: snack, cookie, banane, chocolat, chocolat, noisette, avoine, moelleux, Belvita
+tags: snack, cookie, banane, chocolat, noisette, avoine, moelleux, Belvita
 
 ingredients:
 - 160–220g de flocons/son d’avoine
