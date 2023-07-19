@@ -22,8 +22,9 @@ ingredients:
 directions:
 - Tapissez un moule à charnière avec votre crust/pâte sablée, en prenant bien soin de la presser et tasser pour que celle-ci soit compacte et solide après refroidissement.
 - Réservez au moins 30 minutes au réfrigérateur pour faire durcir cette base.
-- Pendant que votre pâte est au frais, mélangez la ricotta, le mascarpone, et la cacao amer en poudre jusqu’à sa complète intégration. 
+- Pendant que votre pâte est au frais, mélangez la ricotta, le mascarpone, et le cacao amer en poudre jusqu’à sa complète intégration. 
 - Ajoutez le sucre glace et battez vigoureusement jusqu’à l’obtention d’un appareil bien lisse et aérien.
+- Incorporez enfin l‘extrait de vanille.
 - Si votre cheesecake ne sera pas consommé en une seule fois, il peut être utile d’ajouter un gélifiant pour assurer sa tenue une fois démoulé, surtout qu’on va ajouter du poids par dessus.
 - Retirez votre pâte du réfrigérateur et étalez votre mélange ricotta-mascarpone sur la pâte.
 - Remettez le tout au frais pour au moins 2h ou, encore mieux, toute une nuit.
