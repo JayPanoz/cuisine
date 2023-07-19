@@ -3,7 +3,7 @@
 layout: recipe
 title: "Cheesecake Turtle"
 image: turtle-cheesecake/turtle-cheesecake-1.jpg
-tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four
+tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four, turtle, caramel, pécan, cacao, chocolat
 
 components:
 - Cocoa Crust

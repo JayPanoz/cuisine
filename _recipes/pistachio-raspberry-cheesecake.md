@@ -3,7 +3,7 @@
 layout: recipe
 title: "Cheesecake double-cacao, pistaches & framboises"
 image: pistachio-raspberry-cheesecake/pistachio-raspberry-cheesecake-1.jpg
-tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four
+tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four, pistache, framboise
 
 components:
 - Cocoa Crust
@@ -33,7 +33,7 @@ directions:
 
 ---
 
-Une recette de cheesecake ricotta-mascarpone avec deux doses de cacao (une dans la <i lang="en">crust</i>, l’autre dans l’appareil), des framboises bien fraîches et des pistaches croquantes.
+Une recette de cheesecake ricotta-mascarpone sans cuisson avec deux doses de cacao (une dans la <i lang="en">crust</i>, l’autre dans l’appareil), des framboises bien fraîches et des pistaches croquantes.
 
 À la dégustation, vous aurez peut-être même l’impression de croquer des pépites de chocolat plutôt que des pistaches tellement le cheesecake est riche en cacao.
 
