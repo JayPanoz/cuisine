@@ -12,11 +12,13 @@ ingredients:
 - 250g de mascarpone
 - 250g de ricotta
 - 125g de sucre glace
+- 6g soit 1 sachet ou 3 feuilles de gélifiant (facultatif)
 
 directions:
 - Tapissez un moule à charnière avec votre crust/pâte sablée, en prenant bien soin de la presser et tasser pour que celle-ci soit compacte et solide après refroidissement.
 - Réservez au moins 30 minutes au réfrigérateur pour faire durcir cette base.
 - Pendant que votre pâte est au frais, mélangez la ricotta et le mascarpone avec le sucre glace. Battez vigoureusement jusqu’à l’obtention d’un appareil bien lisse et aérien.
+- Si votre cheesecake ne sera pas consommé en une seule fois, il peut être utile d’ajouter un gélifiant pour assurer sa tenue une fois démoulé, surtout qu’on va ajouter du poids par dessus.
 - Retirez votre pâte du réfrigérateur et étalez votre mélange ricotta-mascarpone sur la pâte.
 - Remettez le tout au frais pour au moins 2h ou, encore mieux, toute une nuit.
 - Ajoutez vos toppings préférés.

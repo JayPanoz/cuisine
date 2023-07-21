@@ -19,7 +19,7 @@ ingredients:
 - 45g de caramel pour le nappage
 - 40–50g de noix de pécan
 - 15–20g de glaçage cacao
-- du gélifiant (facultatif)
+- 6g soit 1 sachet ou 3 feuilles de gélifiant (facultatif)
 
 directions:
 - Tapissez un moule à charnière avec votre crust/pâte sablée, en prenant bien soin de la presser et tasser pour que celle-ci soit compacte et solide après refroidissement.
