@@ -19,7 +19,7 @@ components:
 directions:
 - Préchauffez le four à 180°C.
 - Abaissez la pâte puis foncez-la dans un moule à tarte. 
-- Pas besoin de la piquer. Contrairement à la croyance populaire, c'est en la piquant qu'on risque de la rendre humide avec l'appareil, surtout la crème prise à la cuisson, et pas l'inverse – et c'est Thierry Marx qui l'a découvert avec l'aide du physico-chimiste Raphaël Haumont. Après si vous tenez absolument à piquer, vous pouvez appliquer du blanc d'oeuf et passer 3 minutes au four pour créer une couche d'imperméabilisation.
+- Pas besoin de la piquer. Contrairement à la croyance populaire, c'est en la piquant qu'on risque de la rendre humide avec l'appareil, surtout la crème prise à la cuisson, et pas l'inverse – et c'est Thierry Marx qui l'a découvert avec l'aide du physico-chimiste Raphaël Haumont. Après si vous tenez absolument à piquer, vous pouvez appliquer du blanc d’œuf et la passer 3 minutes au four pour créer une couche d'imperméabilisation.
 - Mélangez la crème avec l’œuf, la farine et la vanille. Réservez.
 - Coupez les pommes en tranches fines, mettez-les sur le fond de tarte et versez la préparation par dessus. 
 - Enfournez pendant environ 20 min ou jusqu'à ce que l'appareil soit tout juste pris.
