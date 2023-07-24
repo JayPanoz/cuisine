@@ -3,7 +3,7 @@
 layout: recipe
 title: "Cookie Dough"
 image: cookie-dough/cookie-dough-1.jpg
-tags: snack, cru, cookie, sans cuisson, chocolat
+tags: snack, cru, cookie, sans cuisson, chocolat, bouchée, bites
 
 ingredients:
 - 125g de farine
@@ -11,8 +11,8 @@ ingredients:
 - 45g de sucre de canne complet ou cassonade
 - 30g de sucre blanc
 - 20ml de lait ou boisson végétale
-- extrait vanille
-- pincée sel de Guérande 
+- extrait de vanille
+- pincée de sel de Guérande 
 - 40g de pépites de chocolat
 
 directions:
@@ -22,8 +22,9 @@ directions:
 - Ajoutez le lait et la vanille et continuez à battre jusqu'à blanchiment.
 - Il se peut qu'à la sortie du four, votre farine ait formé des petites boules. Celles-ci vont être difficiles à incorporer donc le mieux est de la tamiser plusieurs fois avant de la verser dans le bol. Ajoutez le sel et battez ensuite pour incorporer le tout à la crème.
 - Si la texture vous semble trop friable vous pouvez ajouter du lait. 
-- Ajoutez enfin les pépites et incorporez les à la spatule/maryse.
+- Ajoutez enfin les pépites dans la pâte et incorporez les à la spatule/maryse.
 - Formez des petites boules comme si vous vous apprétiez à cuire vos cookies.
+- Stockez au frigo.
 
 ---
 
