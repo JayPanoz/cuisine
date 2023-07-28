@@ -34,6 +34,9 @@ translation:
     blog: "Blog"
     subscribe: "Subscribe"
     yield: "Yield"
+    prep: "Prep"
+    cook: "Cook"
+    totalTime: "Total"
   fr:
     components: "Préparations"
     ingredients: "Ingrédients"
@@ -44,4 +47,7 @@ translation:
     search: "Recherche"
     blog: "Blog"
     subscribe: "S’abonner"
-    yield: Portions
+    yield: Parts
+    prep: "Prép."
+    cook: "Cuisson"
+    totalTime: "Total"
