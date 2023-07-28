@@ -9,6 +9,8 @@ preptime: 10 min
 cooktime: 20 min
 yield: 6 mini brownies
 
+storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
+
 ingredients:
 - 2 bananes mûres
 - 80g de chocolat
@@ -33,5 +35,3 @@ Encore une fois, c’est la banane mûre écrasée en purée qui va venir faire 
 Dans la même optique, on peut aller sélectionner un chocolat avec des inserts (noisettes, amandes, raisins secs, etc.), qui ajoutera une dimension en plus. Il faudra simplement en mettre un peu plus pour obtenir les 80&nbsp;grammes de chocolat. N’hésitez pas à vous faire plaisir.
 
 ![On sent bien le chocolat, et la banane assure un résultat ultra fondant pour ceux qui aiment leur brownie comme ça.](../images/banana-brownie/banana-brownie-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.

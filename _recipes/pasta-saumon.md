@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 12 min
 yield: 2 portions
 
+storage: 2–3 jours dans une boîte hermétique au réfrigérateur.
+
 ingredients:
 - 160g de spaghetti à la semoule de blé ou farine complète
 - 1 sucrine
@@ -35,5 +37,3 @@ directions:
 Un plat de pâtes rapide à préparer et qui n’a même pas besoin de sauce, qui se mélange tranquillement dans une seule et même poêle. Fondant, croquant, moelleux et <i lang="it">al dente</i> à la fois.
 
 ![On peut imaginer remplacer la sucrine par du brocolis pour rendre le plat encore plus healthy.](../images/pates-saumon/pates-saumon-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours dans une boîte hermétique au réfrigérateur.

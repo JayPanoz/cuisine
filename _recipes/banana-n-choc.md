@@ -9,6 +9,8 @@ preptime: 25 min
 cooktime: 20 min
 yield: 12 cookies
 
+storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.
+
 ingredients:
 - 150–200g de farine
 - 2 bananes bien mûres
@@ -40,5 +42,3 @@ Le petit bonus, c’est qu’ils se fabriquent sans œuf ni beurre.
 Par contre attention, il va falloir doser la farine au jugé. Le poids d’une banane peut énormément varier donc le mélange sera plus ou moins humide avec ces proportions – et également en fonction du sucre que vous utilisez. N’hésitez pas à ajouter de la farine pour obtenir une consistance qui se rapproche de la pâte à cookie avec laquelle vous êtes familier. 
 
 ![Ici on est plus sur du cake que du cookie, il y a de quoi être décontenancé si on ne s’y attend pas.](../images/banana-n-choc/banana-n-choc-2.jpg)
-
-Conservation&nbsp;: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.

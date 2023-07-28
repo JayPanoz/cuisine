@@ -9,6 +9,8 @@ preptime: 20 min
 cooktime: 45 min
 yield: 16 tranches
 
+storage: 2–3 jours à température ambiante à l'abri de la lumière et de la chaleur dans une boîte hermétique. 5 jours au frigo.
+
 ingredients:
 - 150g de farine semi-complète T110
 - 125g de myrtilles
@@ -45,5 +47,3 @@ Le <i lang="en">Berry crumble</i> est un <i lang="en">coffee cake</i> typique de
 Le risque avec cette recette finalement, c’est de voir disparaître le cake en un seul goûter.
 
 ![C’est moelleux et sucré-acidulé, c’est difficile de s’arrêter de croquer dedans.](../images/berry-crumble/berry-crumble-2.jpg)
-
-Conservation&nbsp;: 2–3 jours à température ambiante à l'abri de la lumière et de la chaleur dans une boîte hermétique. 5 jours au frigo.

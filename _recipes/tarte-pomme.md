@@ -10,6 +10,8 @@ cooktime: 35 min
 totaltime: 2 h
 yield: 6–8 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 2 à 3 pommes
 - 200g de crème fraîche épaisse
@@ -39,5 +41,3 @@ Une tarte classique qui utilise une pâte sablée au seigle pour complimenter la
 Pour le choix des pommes, il vous faut une variété qui reste ferme après cuisson et suffisamment sucré pour venir balancer l'acidité de la crème fraîche. Nous éviterons donc la Granny Smith trop acide pour cette recette, et privilégierons la Golden, la Fuji, la Gala ou le grand classique, la Royal Gala. 
 
 ![Il faut des belles couches de pomme lovées dans un appareil bien crémeux.](../images/tarte-pomme/tarte-pomme-2.jpg)
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

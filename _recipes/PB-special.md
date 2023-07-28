@@ -9,6 +9,8 @@ preptime: 30 min
 totaltime: 2 h 30 min
 yield: 2 portions
 
+storage: 5–7 jours dans une boîte hermétique au frigo.
+
 ingredients:
 - 40–50g de chocolat noir
 
@@ -33,5 +35,3 @@ Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans 
 Le Peanut Butter Special peut se concevoir comme la rencontre entre un fond de cheesecake et une <i lang="en">cup</i> au beurre de cacahuète Reese’s géante.
 
 ![Le fourrage au beurre de cacahuète](../images/PB-Special/pbs-2.jpg)
-
-Conservation&nbsp;: 5–7 jours dans une boîte hermétique au frigo.

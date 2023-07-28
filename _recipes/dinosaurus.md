@@ -9,6 +9,8 @@ preptime: 1 h 20 m
 cooktime: 20 min
 yield: 18–24 biscuits
 
+storage: 1 semaine dans boîte hermétique à l'abri de la chaleur et de la lumière. Ça peut se congeler aussi mais il faudra évidemment les décongeler dans le frigo puis à température ambiante, et éviter le micro-ondes, étant donné qu'ils sont nappés de chocolat.
+
 ingredients:
 - 100–120g de chocolat noir
 - lait pour dorure
@@ -33,5 +35,3 @@ L’inspiration de ces biscuits est je pense assez claire. Le point le plus impo
 Ma technique quasiment infaillible pour le nappage, c'est de faire fondre ⅔ du chocolat au micro ondes en 3 fois 30 secondes en mélangeant bien les morceaux entre chaque section, puis d'incorporer le ⅓ restant dans le chocolat fondu pour le faire revenir à la bonne température.
 
 ![Le nappage chocolat bien épais au pinceau, pour amener un peu de texture en plus](../images/dino/dino-2.jpg)
-
-Conservation&nbsp;: 1 semaine dans boîte hermétique à l'abri de la chaleur et de la lumière. Ça peut se congeler aussi mais il faudra évidemment les décongeler dans le frigo puis à température ambiante, et éviter le micro-ondes, étant donné qu'ils sont nappés de chocolat.

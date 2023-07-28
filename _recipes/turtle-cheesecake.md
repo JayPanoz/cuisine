@@ -7,7 +7,9 @@ tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans fo
 
 preptime: 45 min
 totaltime: 3 h 15 min
-yield: 6–8 portions 
+yield: 6–8 portions
+
+storage: 48 heures au frigo. 1 mois au congélateur mais il faut absolument faire prendre le cheesecake au réfrigérateur avant, on ne peut pas le mettre directement au congélateur.
 
 components:
 - Cocoa Crust
@@ -45,5 +47,3 @@ Une autre recette de cheesecake, mais avec un mélange “Turtle”, c’est à 
 C’est tellement délicieux que ce mélange est décliné de moult façons, et qu’on peut donc trouver des brownies Turtle, des cookies Turtle, des tartes Turtle ou encore, comme ici, des cheesecakes Turtle.
 
 ![C'est totalement décadent, ça dégouline de caramel, les noix de pécan sont recouvertes de glaçage au cacao, c’est riche, croquant, intense et tout doux à la fois, ça explose en bouche et ça n’en finit jamais.](../images/turtle-cheesecake/turtle-cheesecake-2.jpg)
-
-Conservation&nbsp;: 48 heures au frigo. 1 mois au congélateur mais il faut absolument faire prendre le cheesecake au réfrigérateur avant, on ne peut pas le mettre directement au congélateur.

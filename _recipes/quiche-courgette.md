@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 45 min
 yield: 6–8 portions
 
+storage: 2–3 jours au réfrigérateur.
+
 components:
 - Pâte brisée au fromage blanc
 
@@ -39,5 +41,3 @@ directions:
 Une quiche pour changer du gratin de courgettes. 
 
 ![Plus flan que gratin, mais pas moins délicieux.](../images/quiche-courgette/quiche-courgette-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

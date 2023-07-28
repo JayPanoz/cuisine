@@ -9,6 +9,8 @@ preptime: 25 min
 cooktime: 55 minutes
 yield: 2 portions
 
+storage: 2–3 jours au réfrigérateur.
+
 ingredients:
 - 125g de pain rassis
 - 2 œufs
@@ -30,5 +32,3 @@ directions:
 Une recette pour sauver du pain rassis, parce qu’il n’y a pas que le <i alt="en">french toast</i>/pain perdu dans la vie. Ici on associe notre pain au kaki, fruit d’hiver, en pudding. Dégusté tiède, c’est hyper réconfortant avec la touche de miel qui se sent bien à la dégustation.
 
 ![Moelleux et sucré se marient à merveille dans cette recette.](../images/pudding-kaki/pudding-kaki-2.jpg)
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

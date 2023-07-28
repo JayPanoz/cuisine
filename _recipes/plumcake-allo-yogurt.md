@@ -9,6 +9,8 @@ preptime: 20 min
 cooktime: 45 min
 yield: 6 mini cakes
 
+storage: 3–5 jours dans une boîte hermétique à l'abri de la chaleur et de la lumière, 2–3 mois au congélateur.
+
 ingredients:
 - 115g de farine italienne 00/française T45
 - 35g de fécule de maïs/Maïzena
@@ -43,5 +45,3 @@ Non, c’est plutôt une sorte de quatre-quarts allégé – sans beurre et donc
 Ici, c’est une version au yaourt grec, pour amener cette petite pointe d’acidité qui vient trancher avec la douceur de ce plumcake tout léger.
 
 ![Ici en version muffin, on voit bien la croûte qui s’est formée tout autour de notre plumcake, sous sa belle bosse bien gonflée.](../images/plumcake/plumcake-2.jpg)
-
-Conservation&nbsp;: 3–5 jours dans une boîte hermétique à l'abri de la chaleur et de la lumière, 2–3 mois au congélateur.

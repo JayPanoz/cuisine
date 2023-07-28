@@ -7,7 +7,9 @@ tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans fo
 
 preptime: 30 min
 totaltime: 3 h
-yield: 6–8 portions 
+yield: 6–8 portions
+
+storage: 48 heures au frigo. 1 mois au congélateur mais il faut absolument faire prendre le cheesecake au réfrigérateur avant, on ne peut pas le mettre directement au congélateur.
 
 components:
 - Cocoa Crust
@@ -45,5 +47,3 @@ Une recette de cheesecake ricotta-mascarpone sans cuisson avec deux doses de cac
 Pas fan du cacao&nbsp;? Essayez plutôt une <i lang="en">crust</i> Speculoos et un appareil à l’extrait d’amande amère.
 
 ![Un fond de tarte friable et riche en cacao, un appareil vanille-cacao bien onctueux, des framboises qui se dégorgent sous la dent et des pistaches pour amener du croquant.](../images/pistachio-raspberry-cheesecake/pistachio-raspberry-cheesecake-2.jpg)
-
-Conservation&nbsp;: 48 heures au frigo. 1 mois au congélateur mais il faut absolument faire prendre le cheesecake au réfrigérateur avant, on ne peut pas le mettre directement au congélateur.

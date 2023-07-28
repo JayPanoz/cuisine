@@ -9,6 +9,8 @@ preptime: 20 min
 cooktime: 25 min
 yield: 2 ramequins
 
+storage: 48 heures au frigo, ramequin recouvert de film alimentaire.
+
 ingredients:
 - 2 pêches
 - 6 abricots
@@ -38,5 +40,3 @@ On pense d'ailleurs très peu au goût de la farine utilisée dans les recettes 
 ![Le crumble réussi c’est du croquant qui accompagne des fruits qui baignent dans leur propre sirop tout en restant suffisamment fermes et fondants](../images/crumble-fruits/crumble-fruits-2.jpg)
 
 Le crumble aux fruits peut se manger tiède ou froid, nature ou accompagné d'une boule de glace ou de crème fouettée. Pour la variante allégée, regardez du côté du yaourt grec ou du Cottage cheese.
-
-Conservation&nbsp;: 48 heures au frigo, ramequin recouvert de film alimentaire.

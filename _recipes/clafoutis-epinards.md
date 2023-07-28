@@ -9,6 +9,8 @@ preptime: 25 min
 cooktime: 45 min
 yield: 4 portions
 
+storage: 2–3 jours au réfrigérateur.
+
 ingredients:
 - 50g de farine
 - 3 œufs
@@ -39,5 +41,3 @@ directions:
 Un clafoutis salé&nbsp;? Un flan&nbsp;? L’important finalement c’est le mélange ricotta épinards qui fonctionne à coup sûr.
 
 ![Les tranches de carottes apportent un peu de croquant à cette recette comme un clafoutis](../images/clafoutis-epinards/clafoutis-epinards-2.jpg)
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

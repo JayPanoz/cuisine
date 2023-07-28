@@ -10,6 +10,8 @@ cooktime: 20 min
 totaltime: 4 h 30 min
 yield: 8 donuts
 
+storage: 3–5 jours dans une boîte à l’abri de la lumière et de la chaleur ou emballé dans un torchon comme le pain. 2–3 mois au congélateur.
+
 ingredients:
 - 250g de farine T55
 - 150ml de lait
@@ -53,5 +55,3 @@ Pour la glaçage on joue la valeur sûre&nbsp;: chocolat noir/cacao et gros sel.
 Note&nbsp;: Si tu préfères une pâte à donut un peu plus aérée pour réaliser ces bretzels, il suffit d’ajouter un œuf à la pâte. Le reste fonctionne de la même façon.
 
 ![Si vous savez la flemme, même pas besoin de faire la forme de bretzel. La forme de donut avec ou sans trou, petit pain ou barre fonctionne très bien aussi, et permet de s’amuser sur la décoration.](../images/donut-bretzel/donut-bretzel-2.jpg)
-
-Conservation&nbsp;: 3–5 jours dans une boîte à l’abri de la lumière et de la chaleur ou emballé dans un torchon comme le pain. 2–3 mois au congélateur.

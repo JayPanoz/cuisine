@@ -21,4 +21,4 @@ directions:
 
 Un beurre de myrtille qui peut se décliner en tartinade ou fourrage de tartelettes et beignets.
 
-Conservation&nbsp;: 10 jours maximum au frigo si vous en faites plus que nécessaire.
+storage: 10 jours maximum au frigo si vous en faites plus que nécessaire.

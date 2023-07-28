@@ -9,6 +9,8 @@ preptime: 45 min
 cooktime: 20 min
 yield: 6 mini cakes
 
+storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois. 
+
 directions:
 - Préchauffez votre four à 180°C.
 - Versez la pâte à brownie dans votre moule et assurez-vous que la pâte soit bien tassée. 
@@ -25,5 +27,3 @@ components:
 Un mélange absolument décadent entre brownie fondant et cookie à mâcher.
 
 ![L’intérieur est tellement gooey que le brookie se délie entre les lèvres.](../images/pbb-brookie/pbb6.jpg)
-
-Conservation&nbsp;: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois. 

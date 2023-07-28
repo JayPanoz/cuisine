@@ -37,6 +37,7 @@ translation:
     prep: "Prep"
     cook: "Cook"
     totaltime: "Total"
+    storage: "Storage"
   fr:
     components: "Préparations"
     ingredients: "Ingrédients"
@@ -51,3 +52,4 @@ translation:
     prep: "Prép."
     cook: "Cuisson"
     totaltime: "Total"
+    storage: "Conservation"

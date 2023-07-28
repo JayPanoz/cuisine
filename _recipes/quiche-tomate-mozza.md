@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 45 min
 yield: 6–8 portions
 
+storage: 2–3 jours au réfrigérateur.
+
 components:
 - Pâte brisée au fromage blanc
 
@@ -39,5 +41,3 @@ directions:
 Une quiche simple, basique, tomate, mozza. Privilégiez des ingrédients de qualité, notamment du basilic bien frais car c’est lui qui va véritablement sublimer votre quiche.
 
 ![On dirait presque un tableau de Van Gogh dans l’assiette.](../images/Quiche-tomate-mozza/quiche-tomate-mozza-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

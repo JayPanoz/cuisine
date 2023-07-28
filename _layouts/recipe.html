@@ -27,7 +27,10 @@ layout: default
   </header>
 
   <div class="px2 mt3 clearfix">
-    <div class="sm-col-8 mx-auto" itemprop="description">{{page.content}}</div>
+    <div class="sm-col-8 mx-auto" itemprop="description">
+      {{page.content}}
+      {% include storage.html recipe=page %}
+    </div>
   </div>
 
   <!-- call up recipe and directions -->

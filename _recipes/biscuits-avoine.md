@@ -10,6 +10,8 @@ cooktime: 20 min
 totaltime: 1 h
 yield: 16–24 biscuits
 
+storage: 1 semaine dans une boîte à biscuits à l'abri de la chaleur et de la lumière. 
+
 ingredients:
 - 1 cuillère à soupe de graines de chia
 - 40–50g de raisins secs
@@ -34,5 +36,3 @@ directions:
 Pour plus de croquant je conseille le riz soufflé, même si c’est plus compliqué à trouver sans une quantité ahurissante de sucre, au contraire des <i lang="en">corn flakes</i> qui eux, seront trouvables quasi pour sûr en vrac sans sucre ajouté par dessus.
 
 ![On peut aussi les former dans un moule, comme ici en format financier](../images/biscuit-avoine/biscuit-avoine-2.jpg)
-
-Conservation&nbsp;: 1 semaine dans une boîte à biscuits à l'abri de la chaleur et de la lumière. 

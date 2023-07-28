@@ -10,6 +10,8 @@ cooktime: 25 min
 totaltime: 2 h
 yield: 6–8 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte sucrée au cacao
 - jus et zestes d’1 orange ou 2 mandarines pour préparer 1 curd d’orange
@@ -40,5 +42,3 @@ Une tarte qui joue à fond le mariage entre chocolat, huile d’olive, et orange
 Pour ce faire, on prépare une crème d’orange comme une crème pâtissière, et pour la rendre encore plus gourmande, venir y déposer du chocolat noir et quelques zestes d’orange.
 
 ![La pâte friable vient complimenter l’appareil à l’orange bien crémeux tandis que le chocolat vient enrober le tout en bouche.](../images/tarte-cacao-orange/tarte-cacao-orange-2.jpg)
-
-Conservation&nbsp;: 2 jours au réfrigérateur.

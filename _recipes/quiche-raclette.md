@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 45 min
 yield: 6–8 portions
 
+storage: 2–3 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte brisée
 - 3 œufs
@@ -33,5 +35,3 @@ directions:
 Une quiche rapide à enfourner et hyper réconfortante pour les courtes journées d’hiver.
 
 Note&nbsp;: le jambon cru étant particulièrement salé, on n'utilise pas de sel dans cette recette.
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

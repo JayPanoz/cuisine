@@ -9,6 +9,8 @@ preptime: 30 min
 cooktime: 55 min 
 yield: 16 tranches
 
+storage: 2–3 jours au réfrigérateur.
+
 components:
 - Lait fermenté
 
@@ -44,5 +46,3 @@ directions:
 Un cake/pain irlandais (<i lang="en">soda bread</i>) à l’épeautre et légumes frais. Délicieux pour le brunch, l’apéro, l’entrée voire même le plat si accompagné d’une belle salade.
 
 ![Un pain bien moelleux avec des beaux morceaux de légumes.](../images/pain-legumes/pain-legumes-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

@@ -10,6 +10,8 @@ cooktime: 35 min
 totaltime: 2 h
 yield: 6–8 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte sablée Dinosaure
 - 2 œufs
@@ -50,5 +52,3 @@ Quant à la nectarine et la pêche, elles viennent trancher l’acidité de abri
 Pas de purée d’amandes sous la main&nbsp;? Essayez la compote de pomme.
 
 ![Un biscuit friable, un appareil hyper moelleux et tout doux à la dégustation, des beaux fruits juteux et sucrés pour harmoniser le tout. Une belle tarte pour l’été.](../images/tarte-fruits-jaunes/tarte-fruits-jaunes-2.jpg)
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

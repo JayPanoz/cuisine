@@ -10,6 +10,8 @@ cooktime: 35 min
 totaltime: 2 h
 yield: 6–8 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte sucrée
 - 200g de ricotta
@@ -38,5 +40,3 @@ directions:
 On pourrait se dire que c’est une tarte aux myrtilles toute simple et pourtant, la surprise réside dans la crème. Ce n‘est pas une crème pâtissière que l’on utilise ici, mais une crème de ricotta au miel ultra facile et rapide à préparer.
 
 ![Pour la brillance et pour protéger les myrtilles, n’oubliez pas le nappage neutre.](../images/tarte-myrtille/tarte-myrtille-2.jpg)
-
-Conservation&nbsp;: 2 jours au réfrigérateur.

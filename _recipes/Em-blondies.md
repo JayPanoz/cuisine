@@ -9,6 +9,8 @@ preptime: 25 min
 cooktime: 25 min
 yield: 6 mini cakes
 
+storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
+
 ingredients:
 - 1 banane mûre
 - 100g de cerises (soit environ 90g une fois dénoyautées)
@@ -46,5 +48,3 @@ Et pour ceux qui pourraient craindre un écho au confiseries “Mon Chéri”, a
 Pan fan du sarrasin&nbsp;? Utilisez de la poudre d’amande pour doubler la mise de départ.
 
 ![De bons gros morceaux de cerises bien juteuse, des éclats de chocolat blanc, une belle croûte et un cœur bien fondant dégoulinant pour se faire plaisir en été.](../images/em-blondies/em-blondies-2.jpg)
-
-Conservation&nbsp;: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.

@@ -8,6 +8,8 @@ tags: salade, dessert, sucré, melon, fruits rouges, myrtilles, mûres, frambois
 preptime: 10 min
 yield: 2 portions
 
+storage: 2 jours dans une boîte hermétique au réfrigérateur.
+
 ingredients:
 - 1 melon
 - 1 barquette de mûres 
@@ -28,5 +30,3 @@ directions:
 Une salade de fruits d’été sucrée-acidulée à base de melon et fruits rouges. Simple, basique, rafraichissant.
 
 ![L’été on privilégie les recettes d’assemblage sans prise de tête, sans cuisson et surtout, bien fraiche.](../images/salade-fruits-ete/salade-fruits-ete-2.jpg) 
-
-Conservation&nbsp;: 2 jours dans une boîte hermétique au réfrigérateur.

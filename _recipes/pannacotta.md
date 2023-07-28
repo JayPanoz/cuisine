@@ -1,13 +1,15 @@
 ---
 
 layout: recipe
-title:  "Pannacotta amande framboise Spéculoos"
+title:  "Panna cotta amande framboise Spéculoos"
 image: panacotta/panacotta-1.jpg
 tags: dessert, froid, sans cuisson, framboise, amande, speculoos, lait fermenté
 
 preptime: 20 min
 totaltime: 3 h 20 min
 yield: 2 verrines
+
+storage: 48 heures au frigo.
 
 ingredients:
 - 10cl de boisson végétale à l’amande intense
@@ -31,10 +33,8 @@ directions:
 
 ---
 
-La <i lang="it">pannacotta</i> est un peu le dessert italien en verrine que l’on a tendance à oublier mais qui, quand les ingrédients sont bien associés, peut clotûrer un repas sur une note toute douce.
+La <i lang="it">panna cotta</i> est un peu le dessert italien en verrine que l’on a tendance à oublier mais qui, quand les ingrédients sont bien associés, peut clotûrer un repas sur une note toute douce.
 
 La particularité de cette recette, c’est qu’on utilise une boisson végétale à l’amande plutôt que du lait, et qu’on la fermente en plus pour obtenir quelque chose de bien crémeux.
 
 ![Le biscuit Spéculoos amène du croquant, c’est toujours mieux de varier les textures pour rendre le dessert plus intéressant](../images/panacotta/panacotta-2.jpg)
-
-Conservation&nbsp;: 48 heures au frigo.

@@ -9,6 +9,8 @@ preptime: 10 min
 totaltime: 6 h 10 min
 yield: 24 bouchées
 
+storage: 2–3 semaines au frigo.
+
 ingredients:
 - 100g de chocolat noir
 - 85g de sucre glace
@@ -33,5 +35,3 @@ Le <i lang="en">fudge</i>, c‘est la recette sans prise de tête qu’on peut f
 Donc tu as bien compris je l’espère que c'est une recette à partager, si possible avec un maximum de personnes. Ou alors si tu as la force mentale d’un moine bouddhiste et que tu es capable de t’arrêter après 2 petits cubes d’un demi-centimètre, ça te fera ton snack de 4 heures pour les 3 prochaines semaines.
 
 ![C’est sucré, c’est gras, ça colle aux dents, c’est complètement décadent, c’est hyper dense et on est même pas sûr que ton estomac pourra le digérer entièrement un jour, le fudge dans toute sa splendeur.](../images/fudge/fudge-2.jpg)
-
-Conservation&nbsp;: 2–3 semaines au frigo.

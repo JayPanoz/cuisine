@@ -9,6 +9,8 @@ preptime: 25 min
 cooktime: 20 min
 yield: 6 mini cakes
 
+storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
+
 ingredients:
 - 1 banane mûre
 - 125g de beurre de cacahuète Crunchy (avec des morceaux)
@@ -38,5 +40,3 @@ C'est un sucre qui n'est pas totalement raffiné, qui est par conséquent plus h
 Vous pouvez d'ailleurs remplacer une partie du beurre de cacahuète et de la banane/compote par du beurre noisette – mais je n'ai pas testé donc je ne pourrais pas dire dans quelles proportions. 
 
 ![C’est dégoulinant au milieu, moelleux aux bords et craquant à l’extérieur, c’est tout ce qu’on attend d’un brownie, mais en différent.](../images/PBB-blondies/PBB-blondies-2.jpg)
-
-Conservation&nbsp;: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.

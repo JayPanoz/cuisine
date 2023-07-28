@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 45 min
 yield: 6–8 portions
 
+storage: 2–3 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte brisée
 - 3 œufs
@@ -31,5 +33,3 @@ directions:
 Une quiche rapide à enfourner et valeur sûre puisqu’elle rassemble saumon fumé, ricotta et fines herbes.
 
 Note&nbsp;: le saumon fumé étant particulièrement salé, on n'utilise pas de sel dans cette recette.
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

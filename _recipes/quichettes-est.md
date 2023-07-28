@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 30 min
 yield: 6–8 portions
 
+storage: 2–3 jours au réfrigérateur.
+
 components:
 - Pâte brisée au fromage blanc
 
@@ -34,5 +36,3 @@ directions:
 Une quiche du Nord-Est, un peu lorraine sur les bords mais sans le gras des lardons.
 
 ![Un bel appareil parfumé dans lequel sont venus se figer les allumettes de poulet.](../images/quichette-lorraine/quichette-lorraine-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

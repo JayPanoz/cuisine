@@ -10,6 +10,8 @@ cooktime: 15 min
 totaltime: 2 h
 yield: 24 sablés
 
+storage: 3–5 jours dans une boîte hermétique au frigo. 
+
 ingredients:
 - 150g de farine
 - 1 œuf
@@ -34,5 +36,3 @@ directions:
 ---
 
 Un sablé salé au fromage Pecorino pour changer. Idéal à l’apéro ou pour le grignotage en retard du goûter. En plus la recette fonctionne avec toute sorte de fromage rapé&nbsp;!
-
-Conservation&nbsp;; 3–5 jours dans une boîte hermétique au frigo. 

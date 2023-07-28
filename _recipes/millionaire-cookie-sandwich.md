@@ -10,6 +10,8 @@ cooktime: 30 min
 totaltime: 3 h 20 min
 yield: 24 biscuits
 
+storage: 5–7 jours dans une boîte à biscuit avec du papier cuisson pour absorber l’humidité.
+
 components:
 - Ganache chocolat noir
 
@@ -49,5 +51,3 @@ Le plus important dans cette recette, c’est le sucre car c’est lui qui va am
 Quant au chocolat de la ganache, n’hésite pas à prendre le plus riche en cacao possible. Ça aménera un contraste hyper intéressant avec le sucré caramel.
 
 ![Le biscuit est d’une richesse assez exceptionnelle quand on prend le temps de le déguster, car on découvre différents niveaux de saveurs en bouche.](../images/millionnaire-sandwich/millionnaire-sandwich-2.jpg)
-
-Conservation&nbsp;: 5–7 jours dans une boîte à biscuit avec du papier cuisson pour absorber l’humidité.

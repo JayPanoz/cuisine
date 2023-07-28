@@ -10,6 +10,8 @@ cooktime: 35 min
 totaltime: 2 h
 yield: 6–8 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte sucrée
 - 1 crème pâtissière
@@ -41,5 +43,3 @@ directions:
 Le grand classique&nbsp;: pâte sucrée, crème pâtissière à la vanille, fruits rouges. Impossible de se tromper.
 
 ![Pour la brillance et pour protéger les fruits, n’oubliez pas le nappage neutre.](../images/tarte-fruits-rouges/tarte-fruits-rouges-2.jpg)
-
-Conservation&nbsp;: 2 jours au réfrigérateur.

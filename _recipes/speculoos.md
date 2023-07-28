@@ -10,6 +10,8 @@ cooktime: 15 min
 totaltime: 2 h 45 min 
 yield: 24–36 biscuits
 
+storage: 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de la lumière. Vous pouvez également les congeler pour 2–3 mois. 
+
 ingredients:
 - 150g de farine
 - 30g de son d’avoine
@@ -40,5 +42,3 @@ Le biscuit iconique à la cannelle, référence bien connue des rayons de la gra
 Chacun à sa recette, son propre mélange d’épices, ses ingrédients secrets (e.g. la vergeoise brune) et pourtant… c'est peut-être ce qu’on y met pas qui est le plus important. En l’ocurrence ici, ni œuf ni levure, pour obtenir un résultat craquant et friable.
 
 ![Quand on retourne le biscuit, on peut voir les trous typiques qu’on retrouve sur le biscuit industriel.](../images/speculoos/speculoos-2.jpg)
-
-Conservation&nbsp;; 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de la lumière. Vous pouvez également les congeler pour 2–3 mois. 

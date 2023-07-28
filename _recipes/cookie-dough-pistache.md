@@ -9,6 +9,8 @@ preptime: 25 min
 totaltime: 1 h
 yield: 18 bouchées
 
+storage: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélateur.
+
 ingredients:
 - 125g de farine
 - 75g de beurre doux ramolli
@@ -39,5 +41,3 @@ Une alternative à la recette classique de [<i lang="en">cookie dough</i> aux p�
 Encore une fois, veillez à bien cuire votre farine 10 minutes à 180°C pour éliminer tout risque d’intoxication alimentaire, ou à utiliser une farine qui peut être consommée crue. Ici, j’ai choisi une farine d’avoine mixée à partir de flocons, mais vous pourriez très bien utiliser de la poudre d’amande, d’autant que celle-ci s’harmonisera particulièrement bien avec la pistache et le chocolat blanc.
 
 ![Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre de craquant qu’à travers les éclats de pistache.](../images/cookie-dough-pistache/cookie-dough-pistache-2.jpg)
-
-Conservation&nbsp;: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélateur.

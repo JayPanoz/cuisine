@@ -10,6 +10,8 @@ cooktime: 30 min
 totaltime: 4 h 15 min
 yield: 8 roulés
 
+storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
+
 components: 
 - Brioche Butchy pour Rolls
 - Crème de pavot
@@ -36,5 +38,3 @@ Des petits roulés briochés à la crème de pavot. Moelleux, riches et bien hum
 Astuce&nbsp;: si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ![Des roulés avec une crème de pavot, par contre il ne faudra pas faire de test toxicologique après en avoir mangé.](../images/poppy-rolls/poppy-rolls-2.jpg)
-
-Conservation&nbsp;: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.

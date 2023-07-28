@@ -9,6 +9,8 @@ preptime: 30 min
 totaltime: 2 h 30 min
 yield: 2 portions
 
+storage: 5–7 jours dans une boîte hermétique au frigo.
+
 ingredients:
 - 40–50g de chocolat blanc
 
@@ -36,5 +38,3 @@ Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans 
 Le Special à la myrtille c’est une crust à cheesecake qui accueille un beurre de myrtille et une énorme couche de chocolat blanc décorée de beurre de cacahuète. On l’accompagne d’une belle boule de glace, par exemple celle au <a href="glace-yaourt.html">yaourt sans sorbetière</a>.
 
 ![Le fourrage au beurre de myrtille](../images/EmBB-Special/embbs-2.jpg)
-
-Conservation&nbsp;: 5–7 jours dans une boîte hermétique au frigo.

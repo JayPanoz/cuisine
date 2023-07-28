@@ -9,6 +9,8 @@ preptime: 10 min
 cooktime: 20 min
 yield: 2 portions
 
+storage: 1–2 jours au réfrigérateur.
+
 ingredients:
 - 100g de roquette
 - quelques feuilles de sucrine
@@ -35,5 +37,3 @@ directions:
 Une salade sucrée-salée hyper réconfortante et pas trop compliquée à préparer. La petite astuce, c’est que les feuilles de sucrine peuvent servir de barquette pour composer des bouchées, comme des tortillas ou du pain plat.
 
 ![Fondant et croquant s’entremêlent dans chaque bouchée, tout autant que le sucré et le salé. Des contrastes qui se dégustent dans une jolie entrée.](../images/salade-figue-poire/salade-figue-poire-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

@@ -9,6 +9,8 @@ preptime: 20 min
 cooktime: 45 min
 yield: 6 mini cakes
 
+storage: 2–3 jours à température ambiante à l'abri de la lumière et de la chaleur dans une boîte hermétique.
+
 ingredients:
 - 150g de farine semi-complète T110
 - 125g de myrtilles
@@ -45,5 +47,3 @@ Plus besoin de choisir entre le biscuit Spéculoos et le coffee cake à l'heure 
 Si vous voulez vraiment vraiment enfoncer le clou, vous pouvez faire votre crumble avec une farine de biscuits Spéculoos mixés/émiettés.
 
 Et si vous souhaitez remplacer la myrtille dans la recette, vous pouvez chercher du côté des ingrédients qui s'associent bien à la cannelle, et pas uniquement axer votre recherche spécifiquement sur le Spéculoos – qui vous mènera probablement sur la framboise et la fraise.
-
-Conservation&nbsp;: 2–3 jours à température ambiante à l'abri de la lumière et de la chaleur dans une boîte hermétique.

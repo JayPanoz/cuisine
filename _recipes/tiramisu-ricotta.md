@@ -8,6 +8,8 @@ tags: dessert, froid, sans cuisson, fraises, ricotta, amaretti morbidi, crémeux
 preptime: 20 min
 yield: 4 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 250g de ricotta
 - 250g de fraises
@@ -38,5 +40,3 @@ On peut évidemment le conserver au frais si préparé à l’avance mais il fau
 ![Vanille fraise pistache, crémeux et moelleux, le tout aux couleurs du drapeau italien. La dolce vita.](../images/tiramisu-ricotta/tiramisu-ricotta-2.jpg)
 
 En alternative à la pistache, vous pouvez utiliser des <i lang="en">amaretti</i> à l’amande – et éventuellement de l’extrait d’amande à la place de la cuillère à soupe de jus de citron dans la crème sucrée de ricotta. Notez que la recette fonctionne également avec des framboises.
-
-Conservation&nbsp;: 48 heures au frigo.

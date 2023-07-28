@@ -7,7 +7,9 @@ tags: special, sans cuisson, cacao, banane, dulce de leche, sans four
 
 preptime: 30 min
 totaltime: 10 h 
-yield: 2 portions 
+yield: 2 portions
+
+storage: 5–7 jours dans une boîte hermétique au frigo.
 
 ingredients:
 - 150g confiture de lait/dulce de leche
@@ -37,6 +39,4 @@ Le Banoffee Special est la rencontre entre la banane et le goût caramel sous to
 
 ![Le fourrage au beurre de cacahuète](../images/Banoffee-Special/banoffee-2.jpg)
 
-Le double glaçage est une idée de décoration, vous pouvez également zapper cette étape et faire un rappel avec quelques tranches de bananes et une cuillerée/traînée de confiture de lait juste avant de servir, ou ajouter du croquant avec quelques miettes des mêmes biscuits que ceux utilisées pour la pâte, partir sur un caramel, etc. À vous de jouer.  
-
-Conservation&nbsp;: 5–7 jours dans une boîte hermétique au frigo.
+Le double glaçage est une idée de décoration, vous pouvez également zapper cette étape et faire un rappel avec quelques tranches de bananes et une cuillerée/traînée de confiture de lait juste avant de servir, ou ajouter du croquant avec quelques miettes des mêmes biscuits que ceux utilisées pour la pâte, partir sur un caramel, etc. À vous de jouer.

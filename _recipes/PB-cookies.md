@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 10 min
 yield: 12 cookies
 
+storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur.
+
 ingredients:
 - 100g de beurre de cacahuète crunchy (avec des morceaux de cacahuète)
 - 40g sucre de canne complet
@@ -39,5 +41,3 @@ Ici on utilise du beurre de cacahuète chunky (avec des cacahuètes concassées)
 Attention, la pâte est particulièrement collante, n'hésite pas à mouiller/huiler tes mains pour la manipuler plus facilement.
 
 ![Le cookie est très différent de ce que tu peux attendre car il force à mâcher longuement en bouche, pas à croquer sous la dent](../images/PB-cookies/PB-cookies-2.jpg)
-
-Conservation&nbsp;: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur.

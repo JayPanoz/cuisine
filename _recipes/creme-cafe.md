@@ -9,6 +9,8 @@ preptime: 30 min
 totaltime: 1 jour
 yield: 2 ramequins
 
+storage: 2 jours au frigo.
+
 ingredients:
 - 150g de tofu soyeux
 - 25ml d’espresso (café très serré)
@@ -34,5 +36,3 @@ La crème de café c'est une recette en trompe l’œil dans un ramequin. D’ai
 Recette à 4 ingrédients, c’est le batteur/mixeur qui va faire le plus gros du travail. Il faudra juste prévoir un passage de 24 heures au frigo pour que le mélange prenne.
 
 ![Selon ta préférence, en mixant plus ou moins le mélange, tu peux obtenir soit une crème avec quelques morceaux encore apparents, comme ici, soit une belle mousse.](../images/creme-cafe/creme-cafe-2.jpg)
-
-Conservation&nbsp;: 2 jours au frigo.

@@ -9,6 +9,8 @@ preptime: 20 min
 cooktime: 12 min
 yield: 1 portion
 
+storage: 2–3 jours dans une boîte hermétique au réfrigérateur.
+
 ingredients:
 - 100g de pâtes courtes à la semoule de blé ou farine complète
 - 75g de tomates cerises
@@ -33,5 +35,3 @@ Une petite salade de pâtes pour accompagner l’été. Bien sûr, on pourra rem
 Le top c’est qu’on peut également la préparer en avance et la conserver dans des boîtes hermétiques au frais. Et ça mine de rien, ça sauve bien la mise quand on a la grosse flemme de se faire à manger. Les quantités peuvent d’ailleurs être multipliés aisèment pour ça.
 
 ![C’est assez rapide, ça peut se préparer à l’avance, ça peut faire office d’accompagnement, d’entrée ou de plat principal. Que demande le peuple ?](../images/pasta-thon/pasta-thon-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours dans une boîte hermétique au réfrigérateur.

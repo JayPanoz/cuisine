@@ -10,6 +10,8 @@ cooktime: 15 min
 totaltime: 1 h 45 min
 yield: 6–8 portions
 
+storage: 2–3 jours au frigo.
+
 components:
 - Pâte brisée épeautre caramel
 - Ganache chocolat noir
@@ -44,5 +46,3 @@ Une autre recette “Turtle”, mais on inverse les composants par rapport au <a
 Pour encore plus de gourmandise, vous pouvez ajouter des morceaux de noix de pécan dans la ganache voire même dans la pâte. En tout cas cette ganache saura mettre en valeur sa belle couleur ambrée après cuisson à blanc.
 
 ![C'est incroyablement riche, bien plus que le cheesecake, et plus amer aussi, surtout en ajoutant du café à la ganache. Du coup ça pourra plaire à d’autres gens.](../images/tarte-turtle/tarte-turtle-2.jpg)
-
-Conservation&nbsp;: 2–3 jours au frigo.

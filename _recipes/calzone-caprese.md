@@ -9,6 +9,8 @@ preptime: 10 min
 cooktime: 25 min
 yield: 2 portions
 
+storage: 2–3 jours au réfrigérateur.
+
 components:
 - Pâte brisée au fromage blanc
 
@@ -42,5 +44,3 @@ La calzone, c’est un chausson généralement réalisé avec une pâte à pizza
 Encore une fois, choisissez les meilleurs ingrédients que vous pouvez vous permettre d’acheter. La composition est simple mais du basilic bien frais, ça change absolument tout.
 
 ![Tomate, mozza, basilic. Les couleurs de l’Italie. Une salade caprese emballée dans un chausson bien gourmand.](../images/calzone-caprese/calzone-caprese-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

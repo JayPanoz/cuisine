@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 20 min
 yield: 12 cookies
 
+storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.
+
 ingredients:
 - 160–220g de flocons/son d’avoine
 - 2 bananes mûres
@@ -43,5 +45,3 @@ Le résultat&nbsp;: des cookies super moelleux, un peu comme les Belvita petit d
 Cette recette est sensée être rapide pour se faire plaisir au petit dej ou au goûter, on va donc faire au plus vite.
 
 ![C‘est vraiment très très moelleux, il ne faut pas en attendre du croquant.](../images/banana-nut-cookie/banana-nut-cookie-2.jpg)
-
-Conservation&nbsp;: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.

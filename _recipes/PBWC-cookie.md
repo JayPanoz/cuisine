@@ -9,6 +9,8 @@ preptime: 30 min
 cooktime: 10 min
 yield: 12 cookies
 
+storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur.
+
 ingredients:
 - 45g beurre de cacahuète smooth
 - 20g chocolat blanc fondu
@@ -34,5 +36,3 @@ directions:
 Des cookies à mâcher, et pas à croquer.
 
 ![Chunks de chocolat blanc et noisettes pour le croc, beurre de cacahuète pour la mâche](../images/pbwc-cookie/pbwc2.jpg)
-
-Conservation&nbsp;: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur.

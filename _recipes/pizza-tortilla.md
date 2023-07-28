@@ -9,6 +9,8 @@ preptime: 10 min
 cooktime: 15 min
 yield: 4 pizze
 
+storage: 1–2 jours au réfrigérateur.
+
 ingredients:
 - 4 tortillas
 - 2 petites boîtes de thon sauce tomate
@@ -35,5 +37,3 @@ directions:
 ---
 
 Une recette de montage pour l’apéro qui a la particularité de pouvoir se faire soit au four, soit à la poêle. Dans ce cas, il faudra simplement veiller à cuire la première face dans une poêle bien chaude avant de monter la pizza quand l’autre face cuit.
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

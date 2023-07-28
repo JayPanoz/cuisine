@@ -8,7 +8,9 @@ tags: snack, biscuit, sablé, chocolat, orange, nappage
 preptime: 30 min
 cooktime: 15 min
 totaltime: 2 h
-yield: 12 biscuits
+yield: 12 sablés
+
+storage: 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de la lumière. Vous pouvez également les congeler pour 2–3 mois. 
 
 ingredients:
 - 160g de farine semi-complète T110
@@ -39,5 +41,3 @@ Un sablé enrobé de chocolat avec une double dose d’orange&nbsp;: la fleur d�
 La spécificité de cette recette, c'est qu’on obtient un sablé bien croquant avec une pâte qui se manipule comme celle des cookies&nbsp;! Ça fait un peu bizarre au début mais le résultat est canon.
 
 ![À l’intérieur c’est un sablé, et ça rappelle pas mal le snack shortcake de chez Cadbury pour ceux qui connaissent.](../images/sable-orange/sable-orange-2.jpg)
-
-Conservation&nbsp;; 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de la lumière. Vous pouvez également les congeler pour 2–3 mois. 

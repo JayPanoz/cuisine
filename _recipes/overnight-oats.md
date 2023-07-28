@@ -9,6 +9,8 @@ preptime: 5 min
 totaltime: 6 h 
 yield: 1 portion
 
+storage: 48 heures au frigo.
+
 ingredients:
 - 35–40g de flocons ou son avoine
 - 1 cuillère à café de graines de chia
@@ -39,5 +41,3 @@ Les <i lang="en">overnight oats</i>, ce sont des flocons ou du son d’avoine tr
 On peut éventuellement le voir comme la version froide et sans prise de tête du porridge&nbsp;: zéro cuisson et une liberté totale sur les ingrédients&nbsp;! Pour dire la vérité, c’est même le petit déjeuner qui a accompagné mon rééquilibrage alimentaire et a contribué à atteindre la meilleure forme de ma vie.
 
 ![On peut ajouter de tout, n’hésitez pas à privilégier quelques graines pour amener du croquant et rendre le bol plus intéressant](../images/overnight-oats/overnight-oats-2.jpg)
-
-Conservation&nbsp;: 48 heures au frigo.

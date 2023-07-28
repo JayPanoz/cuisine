@@ -9,6 +9,8 @@ preptime: 25 min
 cooktime: 20 min
 yield: 12 mini tartelettes
 
+storage: 3 jours dans une boîte hermétique au frigo.
+
 ingredients:
 - 125g de beurre de cacahuète smooth
 - 40g de sucre de canne complet ou cassonnade
@@ -37,5 +39,3 @@ Une petite astuce à noter. On utilise 2 types de sucre car ils apportent la tex
 Vous pouvez également faire l’impasse sur la confiture et la remplacer par… De la banane en purée ou en morceaux, du caramel, de la pâte à tartiner chocolat noisette ou du fluff – pâte de marshmallow. Ces associations fonctionnent également très bien. 
 
 ![La cups est très moelleuse et pas trop sucrée. Elle ne se désagrège pas du tout lorsqu’on croque dedans. Et avec la chaleur, la confiture se transforme en gelée.](../images/pbj-cups/pbj-cups-2.jpg)
-
-Conservation&nbsp;: 3 jours dans une boîte hermétique au frigo.

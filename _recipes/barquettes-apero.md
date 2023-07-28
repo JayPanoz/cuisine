@@ -8,6 +8,8 @@ tags: amuse-bouche, salé, apéro, thon, endive, avocat, tomates, graines, rapid
 preptime: 10 min
 yield: 12 barquettes
 
+storage: 2–3 jours au réfrigérateur.
+
 ingredients:
 - 1 endive
 - 50g de rillettes/tartinade/crème de thon
@@ -25,5 +27,3 @@ directions:
 ---
 
 Des barquettes rapides à réaliser pour un apéro improvisé (ou pas d’ailleurs). 
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 55 min
 yield: 16 tranches
 
+storage: 2–3 jours au réfrigérateur.
+
 ingredients:
 - 150g de farine
 - 3 œufs
@@ -32,5 +34,3 @@ directions:
 ---
 
 Une association classique chèvre-épinards pour un cake rapide à préparer. Parfait pour l’apéro voire même le dîner si accompagné d’une belle salade verte.
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

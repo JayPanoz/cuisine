@@ -10,6 +10,8 @@ cooktime: 30 min
 totaltime: 4 h 15 min
 yield: 8 roulés
 
+storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
+
 components: 
 - Brioche Butchy pour Rolls
 - Crème pâtissière
@@ -40,5 +42,3 @@ Des petits roulés briochés à la crème pâtissière et pépites de chocolat. 
 Astuce&nbsp;: si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ![Une crème pâtissière pour ajouter du crémeux au moelleux et véhiculer les pépites de chocolat qui croquent puis fondent en bouche](../images/butchy-custard/butchy-custard-2.jpg)
-
-Conservation&nbsp;: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.

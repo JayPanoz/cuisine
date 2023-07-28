@@ -10,6 +10,8 @@ cooktime: 15 min
 totaltime: 1 h 30 min
 yield: 12 cookies
 
+storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
+
 ingredients:
 - 125g de farine
 - 50g de cassonade
@@ -46,5 +48,3 @@ Pour ré-équilibrer la mâche et ramener du croquant, on utilise du coup de la 
 À noter que si vous ne trouvez pas de <i lang="en">Peanut Butter Chips</i> Reese’s, vous pouvez aussi les remplacer par des morceaux de fudge caramel, ça fonctionne de la même façon.
 
 ![Croquant à l’extérieur mais tout moelleux à l’intérieur, avec des flaques de chocolat fondu.](../images/reeses-chunkies/reeses-chunkies-2.jpg) 
-
-Conservation&nbsp;: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.

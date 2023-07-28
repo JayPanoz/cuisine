@@ -10,6 +10,8 @@ cooktime: 15 min
 totaltime: 1 h 25 min
 yield: 12 cookies
 
+storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
+
 ingredients:
 - 125g de farine
 - 50g de sucre de canne complet ou muscovado
@@ -42,6 +44,4 @@ Notez qu’en jouant sur la quantité de sucre et de chocolat, vous pouvez contr
 
 Pour le cookie 100% américain, vous pouvez aussi remplacer la cuillère à café de levure par une 1/2 cuillère à café de levure et 1/2 cuillère à café de bicarbonate alimentaire.
 
-![Croquant à l’extérieur mais tout moelleux à l’intérieur.](../images/browned-cookies/browned-cookies-2.jpg) 
-
-Conservation&nbsp;: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
+![Croquant à l’extérieur mais tout moelleux à l’intérieur.](../images/browned-cookies/browned-cookies-2.jpg)

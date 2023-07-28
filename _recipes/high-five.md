@@ -7,7 +7,9 @@ tags: snack, sans cuisson, bretzel, beurre de cacahuète, chocolat, bretzel apé
 
 preptime: 30 min
 totaltime: 3 h 30 min 
-yield: 15 bretzels maxi
+yield: 15 bretzels maxi/36 bretzels mini
+
+storage: 5–7 jours dans une boîte hermétique – au frigo s’il fait trop chaud. 2 mois au congélateur.
 
 components:
 - Caramel de dattes
@@ -47,5 +49,3 @@ Pour les bretzels, le top est de trouver des bretzels carrés. Mais pas d’inqu
 L’astuce&nbsp;: si vous n’avez que du beurre de cacahuète crunchy (i.e. avec des éclats de cacahuètes) sous la main, vous pouvez en mettre environ 30&nbsp;grammes de plus dans le fourrage – soit 150&nbsp;grammes. Avec le beurre de cacahuète crunchy dans le caramel de dattes, vous devriez obtenir plus ou moins la bonne quantité des cacahuètes à concasser.
 
 ![Bretzel apéritif, garniture au beurre de cacahuète, caramel de dattes, cacahuètes, et chocolat noir. On peut bien voir les ingrédients quand on découpe/croque dans cette confiserie, comme dans l’originale.](../images/high-five/high-five-2.jpg)
-
-Conservation&nbsp;: 5–7 jours dans une boîte hermétique – au frigo s’il fait trop chaud. 2 mois au congélateur.

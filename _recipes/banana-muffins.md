@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 35 min
 yield: 12 mini muffins
 
+storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
+
 ingredients:
 - 85g de farine d’épeautre 
 - 40g de farine complète T150 
@@ -46,6 +48,4 @@ Dans cette recette, on utilise en plus du lait d’amande fermenté et du bicarb
 
 Vous pouvez utiliser des pépites de chocolat plutôt que de découper des morceaux – elles tiendront mieux à la cuisson – voire mélanger les 2 – on obtiendra alors une double texture avec des flaques liquides et pépites solides.
 
-![Une mie câline et des chunks de chocolat fondu ultra gourmands.](../images/banana-muffins/banana-muffins-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
+![Une mie câline et des chunks de chocolat fondu ultra gourmands.](../images/banana-muffins/banana-muffins-2.jpg)

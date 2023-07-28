@@ -9,6 +9,8 @@ preptime: 1 h
 cooktime: 15 min
 yield: 12 mini tartelettes
 
+storage: 4–5 jours dans une boîte hermétique au frigo. 2–3 mois au congélateur.
+
 components:
 - Pâte sablée à l’avoine
 - Caramel au beurre salé
@@ -29,5 +31,3 @@ Des mini tartelettes toutes simples avec une pâte sablée à l’avoine et une 
 L’intérêt c‘est de bien combiner la garniture et la farine. Avec le caramel, l’épeautre fonctionne aussi très bien par exemple.
 
 ![La surprise de la tartelette, c’est le fourrage au caramel beurre salé bien dégoulinant et intense en goût](../images/tartelette-avoine-caramel/tartelette-avoine-caramel-2.jpg)
-
-Conservation&nbsp;: 4–5 jours dans une boîte hermétique au frigo. 2–3 mois au congélateur.

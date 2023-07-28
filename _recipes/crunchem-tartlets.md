@@ -9,6 +9,8 @@ preptime: 1 h
 cooktime: 20 min
 yield: 12 mini tartelettes
 
+storage: 4–5 jours dans une boîte (pas besoin qu'elle soit hermétique) à l'abri de la lumière et de la chaleur.
+
 ingredients:
 - 80–100g de chocolat blanc
 - 1 cuillère à soupe d’huile de coco (facultatif)
@@ -42,5 +44,3 @@ Les tartelettes Crunch’ Em sont des bouchées snack qui marient le beurre de c
 Si vous comptez transporter les tartelettes ou qu'il fait chaud, ajouter de l'huile de coco fondue pourra aider à solidifier le nappage au chocolat même s'il ne faut pas non plus espérer de trop gros miracle – elle se fige en dessous de 25°C.
 
 ![La surprise de la tartelette, c’est le fourrage au beurre de myrtille](../images/crunchem/crunchem-2.jpg)
-
-Conservation&nbsp;: 4–5 jours dans une boîte (pas besoin qu'elle soit hermétique) à l'abri de la lumière et de la chaleur.

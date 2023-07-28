@@ -7,7 +7,9 @@ tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans fo
 
 preptime: 30 min
 totaltime: 3 h
-yield: 6–8 portions 
+yield: 6–8 portions
+
+storage: 48 heures au frigo. 1 mois au congélateur mais il faut absolument faire prendre le cheesecake au réfrigérateur avant, on ne peut pas le mettre directement au congélateur.
 
 components:
 - Cheesecake Crust
@@ -34,5 +36,3 @@ Par fortes chaleurs, il est utile d’avoir des recettes sans cuisson sous la ma
 C‘est justement l’idée de cette recette de cheesecake à 5 ingrédients. La base ne change pas, c’est toi qui vient ensuite la personnaliser pour en faire <em>ton</em> cheesecake, avec les ingrédients que tu adores – et il est aussi plus léger que le cheesecake au Philadelphia, qui est une bombe calorique, donc ça offre plus de marge pour pas faire exploser les macros.
 
 ![Ici la version simplement habillée de quelques myrtilles, qui apportent une pointe acidulée et du peps à la mâche.](../images/ricotta-masc-cheesecake/ricotta-masc-cheesecake-2.jpg)
-
-Conservation&nbsp;: 48 heures au frigo. 1 mois au congélateur mais il faut absolument faire prendre le cheesecake au réfrigérateur avant, on ne peut pas le mettre directement au congélateur.

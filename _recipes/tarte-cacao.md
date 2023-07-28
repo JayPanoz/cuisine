@@ -10,6 +10,8 @@ cooktime: 25 min
 totaltime: 2 h
 yield: 6–8 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte sucrée au cacao
 - jus/soupe d’1 kiwi pour préparer 1 curd kiwi
@@ -41,5 +43,3 @@ Un duo de tartes au cacao et à l’huile d’olive. La particularité, c’est 
 À la dégustation il y aura une petite surprise puisque le visuel ne correspond pas au parfum&nbsp;!
 
 ![La surprise, c’est que ce qui semble être une tarte au kiwi est en réalité une tarte au citron, et vice-versa.](../images/tarte-cacao/tarte-cacao-2.jpg)
-
-Conservation&nbsp;: 2 jours au réfrigérateur.

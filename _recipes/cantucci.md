@@ -9,6 +9,8 @@ preptime: 25 minutes
 cooktime: 45 minutes
 yield: 24–32 biscuits
 
+storage: 5–7 jours dans une boîte à biscuits non-hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
+
 ingredients:
 - 215g de farine italienne 00/française T45
 - 100g de sucre blanc
@@ -38,6 +40,4 @@ Le <i lang="it">cantucci</i>, c’est le vrai biscuit à l’ancienne, le biscui
 
 Si vous savez faire un <i lang="it">cantucci</i>, vous saurez quasiment faire un canistrelli corse. D’une pierre deux coups&nbsp;!
 
-![On voit bien la croûte autour du biscuit, et c’est ultra croquant sous la dent.](../images/cantucci/cantucci-2.jpg) 
-
-Conservation&nbsp;: 5–7 jours dans une boîte à biscuits non-hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
+![On voit bien la croûte autour du biscuit, et c’est ultra croquant sous la dent.](../images/cantucci/cantucci-2.jpg)

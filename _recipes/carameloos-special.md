@@ -9,6 +9,8 @@ preptime: 30 min
 totaltime: 2 h 30 min
 yield: 2 portions
 
+storage: 5–7 jours dans une boîte hermétique au frigo.
+
 components:
 - Speculoos Crust
 - Ganache chocolat noir
@@ -34,5 +36,3 @@ Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans 
 Le Carameloos Special peut se concevoir comme une tarte Speculoos-chocolat nappée de caramel.
 
 ![Friable, bien ambré, caramélisé et un cœur en chocolat très riche. C'est une véritable explosion de saveurs et textures en bouche](../images/carameloos-special/carameloos-special-2.jpg)
-
-Conservation&nbsp;: 5–7 jours dans une boîte hermétique au frigo.

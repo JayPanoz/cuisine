@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 30 min
 yield: 12 mini muffins
 
+storage: 48 heures au réfrigérateur dans un contenant hermétique. 1–2 mois au congélateur.
+
 ingredients:
 - 75g de farine semi-complète
 - 70g de jambon coupé en dés
@@ -36,5 +38,3 @@ Petite préparation salée pour l’apéro, entrée sur le pouce pour amuser la 
 Ici, on choisit consciencieusement les ingrédients pour rééquilibrer les macro-nutriments. Le fromage rapé apporte pas mal de gras saturés donc on évite le beurre et on le remplace par de l’huile et du lait, on choisit si possible une farine moins raffinée pour conserver les fibres en plus des protéines, et on évite de saler parce qu’il y a déjà suffisament de sel dans les ingrédients de la recette. Attention également à la moutarde car certaines font exploser le compteur des glucides avec du sucre ajouté.
 
 ![L’idéal c’est d’avoir un mini muffin qui déborde de garniture, avec des beaux dés de jambon et herbes aux bords pour amener une esthétique intéressante.](../images/muffin-jambon/muffin-jambon-2.jpg)
-
-Conservation&nbsp;: 48 heures au réfrigérateur dans un contenant hermétique. 1–2 mois au congélateur.

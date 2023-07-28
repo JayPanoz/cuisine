@@ -9,6 +9,8 @@ preptime: 10 min
 totaltime: 2 h 10 min
 yield: 2 portions
 
+storage: 2 jours dans une boîte hermétique au réfrigérateur.
+
 ingredients:
 - 1 mandarine/orange/clémentine
 - 1 kiwi
@@ -31,5 +33,3 @@ Une salade magique qui se fait quasiment toute seule en la secouant dans un tupp
 L”important c'est d’avoir quelques fruits qui rendent du jus et 1 bonne association de goûts/saison. 
 
 ![Évidemment on a ici des fruits qui se tiennent, donc on peut bien secouer le tupperware. Si vous avez des fruits plus fragiles comme des framboises par exemple, mieux vaut les ajouter à la fin.](../images/salade-magique/salade-magique-2.jpg) 
-
-Conservation&nbsp;: 2 jours dans une boîte hermétique au réfrigérateur.

@@ -9,6 +9,8 @@ preptime: 35 min
 cooktime: 55 min
 yield: 6–8 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte feuilletée
 - 2 poires (environ 300g)
@@ -49,5 +51,3 @@ Une tarte en trompe l’œil qui joue sur le contraste sucré salé. De loin, on
 Pour encore plus de gourmandise, on ajoute des allumettes de bleu d’Auvergne, bien que vous pouvez utiliser un autre fromage à pâte persillée – voire tenter autre chose. Pour parfaire l’illusion de la tarte au chocolat, vous pourriez même plutôt en faire des copeaux. À vous de jouer.
 
 ![On dirait une tarte aux poires et chocolat, mais l’appareil est composé de boudin pour un mélange sucré-salé.](../images/tarte-boudin/tarte-boudin-2.jpg)
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

@@ -9,6 +9,8 @@ preptime: 25 min
 totaltime: 1 h
 yield: 18 bouchées
 
+storage: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélateur.
+
 ingredients:
 - 125g de farine
 - 75g de beurre doux ramolli
@@ -39,5 +41,3 @@ La solution c’est cette pâte à cookie crue, qui ne contient pas d’œuf pou
 Je déconseille vivement d’utiliser cette pâte pour réaliser des cookies cuits, il manque en effet quelques ingrédients qui font du cookie un cookie (œuf, levure, bicarbonate). Par contre vous pouvez l’utiliser pour faire votre glace <i lang="en">Cookie Dough</i> maison.
 
 ![Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre aucun craquant.](../images/cookie-dough/cookie-dough-2.jpg)
-
-Conservation&nbsp;: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélateur.

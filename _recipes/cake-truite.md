@@ -9,6 +9,8 @@ preptime: 15 min
 cooktime: 55 min
 yield: 16 tranches
 
+storage: 2–3 jours au réfrigérateur.
+
 components: 
 - Lait fermenté
 
@@ -42,5 +44,3 @@ directions:
 Un cake citron pavot avec un <i lang="en">twist</i> puisque ce n‘est pas un cake sucré que nous avons ici, mais bel et bien un cake salé. L’association naturelle, c’est le saumon ou la truite fumée. Mais rien ne vous empêche d’essayer une autre combinaison.
 
 ![La texture est à mi-chemin entre cake et flanc, presque mousseuse plutôt que moelleuse.](../images/cake-truite/cake-truite-2.jpg) 
-
-Conservation&nbsp;: 2–3 jours au réfrigérateur.

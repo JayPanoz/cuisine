@@ -10,6 +10,8 @@ cooktime: 30 min
 totaltime: 3 h
 yield: 24–36 biscuits
 
+storage: 7–10 jours dans une boîte à biscuit avec du papier cuisson pour absorber l’humidité.
+
 ingredients:
 - 120g de farine
 - 100g de beurre
@@ -40,5 +42,3 @@ Les proportions du <i lang="en">shortbread</i> sont plutôt simples à retenir&n
 Le sucre glace est un détail important dans le sens où il va apporter un croquant majestueux par rapport à du sucre en poudre classique. La recette reste faisable sans, mais le résultat sera un peu différent. L’autre secret, c’est une cuisson plus longue à plus basse température.
 
 ![Le biscuit reste ultra craquant tout en amenant des fibres et protéines par rapport au shortbread classique.](../images/cacao-son/cacao-son-2.jpg)
-
-Conservation&nbsp;: 7–10 jours dans une boîte à biscuit avec du papier cuisson pour absorber l’humidité.

@@ -9,6 +9,8 @@ preptime: 10 min
 totaltime: 2 h 10 min
 yield: 2 portions
 
+storage: 2 jours dans une boîte hermétique au réfrigérateur.
+
 ingredients:
 - 1 pêche
 - 2 abricots
@@ -29,5 +31,3 @@ directions:
 Une autre salade magique qui se fait quasiment toute seule en la secouant dans un tupperware. Ce coup-ci on prend le couple pêche abricot et on le saupoudre d’une belle cuillérée de cannelle.
 
 ![Ce qu’on veut c’est que le fruit soit bien frais après passage au frigo, et qu’il dégouline de son propre jus.](../images/salade-peche-abricot/salade-peche-abricot-2.jpg) 
-
-Conservation&nbsp;: 2 jours dans une boîte hermétique au réfrigérateur.

@@ -10,6 +10,8 @@ cooktime: 25 min
 totaltime: 2 h
 yield: 6–8 portions
 
+storage: 2 jours au réfrigérateur.
+
 ingredients:
 - 1 pâte sucrée
 - quartiers d’une clémentine ou mandarine
@@ -40,5 +42,3 @@ Une crème pâtissière ultra gourmande au chocolat et notes d’orange (écorce
 Pour ajouter une note acidulée, on utilise des quartiers de clémentine entiers mais vous pouvez tout aussi bien faire l’impasse et déguster tel quel.
 
 ![Une crème pâtissière au chocolat ultra crémeuse sur un biscuit bien gonflé, le tout toppé d’un quartier de clémentine](../images/tarte-clementine/tarte-clementine-2.jpg)
-
-Conservation&nbsp;: 2 jours au réfrigérateur.

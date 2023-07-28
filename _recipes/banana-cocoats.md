@@ -9,6 +9,8 @@ preptime: 10 min
 cooktime: 20 min
 yield: 12 cookies
 
+storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.
+
 ingredients:
 - 120g de farine
 - 100g de flocons d’avoine
@@ -39,5 +41,3 @@ Banana, cacao, et avoine pour un petit snack “assaini” qui peut se personnal
 En bouche, on obtient une belle mâche un peu élastique qui donne l’impression de bien se rassasier, d’autant plus qu’on a pas mal de fibres grâce aux flocons d’avoine et graines.
 
 ![C‘est vraiment très très moelleux, il ne faut pas en attendre du croquant.](../images/banana-cocoats/banana-cocoats-2.jpg)
-
-Conservation&nbsp;: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.
