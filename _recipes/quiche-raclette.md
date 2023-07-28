@@ -5,6 +5,10 @@ title: "Quiche raclette"
 image: quiche-misc/quiche-raclette.jpg
 tags: quiche, salé, fromage, raclette, jambon, rapide
 
+preptime: 15 min
+cooktime: 45 min
+yield: 6–8 portions
+
 ingredients:
 - 1 pâte brisée
 - 3 œufs

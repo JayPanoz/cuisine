@@ -5,6 +5,11 @@ title: "Tarte aux pommes"
 image: tarte-pomme/tarte-pomme-1.jpg
 tags: tarte, pomme, fruit, Dinosaurus, seigle, crème fraîche
 
+preptime: 35 min
+cooktime: 35 min
+totaltime: 2 h
+yield: 6–8 portions
+
 ingredients:
 - 2 à 3 pommes
 - 200g de crème fraîche épaisse

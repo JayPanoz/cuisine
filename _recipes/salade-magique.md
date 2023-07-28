@@ -5,6 +5,10 @@ title: "Salade de fruits magique"
 image: salade-magique/salade-magique-1.jpg
 tags: salade, dessert, sucré, melon, fruits rouges, myrtilles, mûres, framboises, citron
 
+preptime: 10 min
+totaltime: 2 h 10 min
+yield: 2 portions
+
 ingredients:
 - 1 mandarine/orange/clémentine
 - 1 kiwi

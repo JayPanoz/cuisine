@@ -5,6 +5,10 @@ title:  "Brownie de triche à la banane"
 image: banana-brownie/banana-brownie-1.jpg
 tags: banane, muffin, cake, chocolat, moelleux, snack
 
+preptime: 10 min
+cooktime: 20 min
+yield: 6 mini brownies
+
 ingredients:
 - 2 bananes mûres
 - 80g de chocolat

@@ -5,6 +5,9 @@ title: "Yaourt aux fruits jaunes"
 image: yaourt-fruits-jaunes/yaourt-fruits-jaunes-1.jpg
 tags: yaourt, grec, fruits jaunes, abricot, pêche, miel, nectarine, graines, sans cuisson
 
+preptime: 5 min
+yield: 2 portions
+
 ingredients:
 - 150g de yaourt grec 0%
 - 2 abricots 

@@ -5,6 +5,11 @@ title: "Tarte Turtle"
 image: tarte-turtle/tarte-turtle-1.jpg
 tags: tarte, épeautre, caramel, caramel, turtle, ganache, chocolat noir, noix de pécan
 
+preptime: 30 min
+cooktime: 15 min
+totaltime: 1 h 45 min
+yield: 6–8 portions
+
 components:
 - Pâte brisée épeautre caramel
 - Ganache chocolat noir

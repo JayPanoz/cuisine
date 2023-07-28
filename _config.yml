@@ -36,7 +36,7 @@ translation:
     yield: "Yield"
     prep: "Prep"
     cook: "Cook"
-    totalTime: "Total"
+    totaltime: "Total"
   fr:
     components: "Préparations"
     ingredients: "Ingrédients"
@@ -50,4 +50,4 @@ translation:
     yield: Parts
     prep: "Prép."
     cook: "Cuisson"
-    totalTime: "Total"
+    totaltime: "Total"

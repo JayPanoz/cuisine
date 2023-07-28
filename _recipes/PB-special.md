@@ -5,6 +5,10 @@ title: "Peanut Butter Special"
 image: PB-Special/pbs-1.jpg
 tags: special, sans cuisson, speculoos, beurre de cacahuète, chocolat, sans four
 
+preptime: 30 min
+totaltime: 2 h 30 min
+yield: 2 portions
+
 ingredients:
 - 40–50g de chocolat noir
 

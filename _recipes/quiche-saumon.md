@@ -5,6 +5,10 @@ title: "Quiche au samon"
 image: quiche-misc/quiche-saumon.jpg
 tags: quiche, salé, pâte brisée, saumon fumé, ricotta, fines herbes, rapide
 
+preptime: 15 min
+cooktime: 45 min
+yield: 6–8 portions
+
 ingredients:
 - 1 pâte brisée
 - 3 œufs

@@ -5,6 +5,9 @@ title: "Nice cream"
 image: nice-cream/nice-cream-1.jpg
 tags: dessert, ice cream, banane, glace, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière
 
+preptime: 5 min
+yield: 2 portions
+
 ingredients:
 - 2 bananes mûres coupées en tranches et congelées
 - 2–4 cuillères à soupe de lait ou boisson végétale

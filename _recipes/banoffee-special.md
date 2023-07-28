@@ -5,6 +5,10 @@ title: "Banoffee Special"
 image: Banoffee-Special/banoffee-1.jpg
 tags: special, sans cuisson, cacao, banane, dulce de leche, sans four
 
+preptime: 30 min
+totaltime: 10 h 
+yield: 2 portions 
+
 ingredients:
 - 150g confiture de lait/dulce de leche
 - 2 bananes mûres coupées en tranches

@@ -5,6 +5,10 @@ title: "Salade de pâtes au thon, tomate cerise et maïs"
 image: pasta-thon/pasta-thon-1.jpg
 tags: salade, entrée, plat, accompagnement, thon, pâtes, semoule, farine complète, maïs, tomate cerise, basilic, huile d’olive
 
+preptime: 20 min
+cooktime: 12 min
+yield: 1 portion
+
 ingredients:
 - 100g de pâtes courtes à la semoule de blé ou farine complète
 - 75g de tomates cerises

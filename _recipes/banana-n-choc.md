@@ -5,6 +5,10 @@ title:  "Banana’n’Choc Cookies"
 image: banana-n-choc/banana-n-choc-1.jpg
 tags: snack, cookie, banane, chocolat, sans œuf, cakeux, graines de chia, boisson végétale, vegan
 
+preptime: 25 min
+cooktime: 20 min
+yield: 12 cookies
+
 ingredients:
 - 150–200g de farine
 - 2 bananes bien mûres

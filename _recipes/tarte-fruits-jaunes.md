@@ -5,6 +5,11 @@ title: "Tarte aux fruits jaunes"
 image: tarte-fruits-jaunes/tarte-fruits-jaunes-1.jpg
 tags: tarte, pomme, fruit, Dinosaurus, seigle, crème fraîche
 
+preptime: 35 min
+cooktime: 35 min
+totaltime: 2 h
+yield: 6–8 portions
+
 ingredients:
 - 1 pâte sablée Dinosaure
 - 2 œufs

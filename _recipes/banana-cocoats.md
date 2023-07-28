@@ -5,6 +5,10 @@ title:  "Banana Cocoats Cookies"
 image: banana-cocoats/banana-cocoats-1.jpg
 tags: snack, cookie, banane, cacao, graines, avoine, moelleux, healthy
 
+preptime: 10 min
+cooktime: 20 min
+yield: 12 cookies
+
 ingredients:
 - 120g de farine
 - 100g de flocons d’avoine

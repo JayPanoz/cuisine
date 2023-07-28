@@ -5,6 +5,11 @@ title: "Shortbread au cacao et son"
 image: cacao-son/cacao-son-1.jpg
 tags: snack, biscuit, avoine, cacao, beurre, shortbread
 
+preptime: 30 min
+cooktime: 30 min
+totaltime: 3 h
+yield: 24–36 biscuits
+
 ingredients:
 - 120g de farine
 - 100g de beurre

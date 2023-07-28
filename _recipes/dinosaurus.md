@@ -5,6 +5,10 @@ title: "Biscuits Dinosaure"
 image: dino/dino-1.jpg
 tags: snack, biscuit, cannelle, chocolat, nappage, Dinosaurus
 
+preptime: 1 h 20 m
+cooktime: 20 min
+yield: 18–24 biscuits
+
 ingredients:
 - 100–120g de chocolat noir
 - lait pour dorure

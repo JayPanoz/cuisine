@@ -5,6 +5,11 @@ title: "Cookies au beurre noisette"
 image: browned-cookies/browned-cookies-1.jpg
 tags: cookie, beurre de cacahuète, chocolat, snack, croquant, moelleux, beurre noisette, caramel
 
+preptime: 10 min
+cooktime: 15 min
+totaltime: 1 h 25 min
+yield: 12 cookies
+
 ingredients:
 - 125g de farine
 - 50g de sucre de canne complet ou muscovado

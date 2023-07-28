@@ -5,6 +5,10 @@ title: "Quiche sans pâte"
 image: quiche-misc/quiche-sans-pate.jpg
 tags: quiche, salé, sans pâte, farine, fromage rapé, emmental, jambon, rapide
 
+preptime: 15 min
+cooktime: 45 min
+yield: 6–8 portions
+
 ingredients:
 - 150g de farine
 - 3 œufs

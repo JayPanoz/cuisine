@@ -5,6 +5,10 @@ title: "Biscoffee Cakes"
 image: biscoffee/biscoffee-1.jpg
 tags: snack, cakes, crumble, Speculoos, Biscoff, myrtille, cannelle
 
+preptime: 20 min
+cooktime: 45 min
+yield: 6 mini cakes
+
 ingredients:
 - 150g de farine semi-complète T110
 - 125g de myrtilles

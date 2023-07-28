@@ -5,6 +5,10 @@ title: "Berry Crumble"
 image: berry-crumble/berry-crumble-1.jpg
 tags: snack, cake, crumble, framboise, myrtille, cannelle, yaourt grec, crème épaisse
 
+preptime: 20 min
+cooktime: 45 min
+yield: 16 tranches
+
 ingredients:
 - 150g de farine semi-complète T110
 - 125g de myrtilles

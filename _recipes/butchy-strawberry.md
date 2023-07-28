@@ -5,6 +5,11 @@ title: "Butchy’s Strawberry Rolls"
 image: butchy-strawberry/butchy-strawberry-1.jpg
 tags: snack, brioche, fraise, roll, roulé, glaçage citron
 
+preptime: 45 min
+cooktime: 30 min
+totaltime: 4 h 15 min
+yield: 8 roulés
+
 components: 
 - Brioche Butchy pour Rolls
 - Garniture à la fraise

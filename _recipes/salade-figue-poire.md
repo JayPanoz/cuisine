@@ -5,6 +5,10 @@ title: "Salade au chèvre, figues, poires et miel"
 image: salade-figue-poire/salade-figue-poire-1.jpg
 tags: salade, entrée, sucré-salé, figue, poire, miel, chèvre, fromage frais, roquette, vinaigrette, sucrine, graines
 
+preptime: 10 min
+cooktime: 20 min
+yield: 2 portions
+
 ingredients:
 - 100g de roquette
 - quelques feuilles de sucrine

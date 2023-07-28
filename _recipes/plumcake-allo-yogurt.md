@@ -5,6 +5,10 @@ title: "Plumcake allo Yogurt"
 image: plumcake/plumcake-1.jpg
 tags: snack, moelleux, cake, yaourt grec, sans beurre
 
+preptime: 20 min
+cooktime: 45 min
+yield: 6 mini cakes
+
 ingredients:
 - 115g de farine italienne 00/française T45
 - 35g de fécule de maïs/Maïzena

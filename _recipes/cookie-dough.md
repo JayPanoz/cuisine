@@ -5,6 +5,10 @@ title: "Cookie Dough"
 image: cookie-dough/cookie-dough-1.jpg
 tags: snack, cru, cookie, sans cuisson, chocolat, bouchée, bites
 
+preptime: 25 min
+totaltime: 1 h
+yield: 18 bouchées
+
 ingredients:
 - 125g de farine
 - 75g de beurre doux ramolli

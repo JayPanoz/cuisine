@@ -5,6 +5,10 @@ title: "Œuf cocotte à la truite"
 image: oeuf-cocotte-truite/oeuf-cocotte-truite-1.jpg
 tags: entrée, salé, truite, crème fraîche
 
+preptime: 5 min
+cooktime: 15 min
+yield: 4 ramequins
+
 ingredients:
 - 1 tranche de truite ou de saumon fumé
 - 1 œuf

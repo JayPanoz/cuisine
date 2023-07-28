@@ -5,6 +5,10 @@ title:  "Glace au yaourt"
 image: glace-yaourt.jpg
 tags: snack, glace, sans sorbetière, recette de base, yaourt
 
+preptime: 10 min
+totaltime: 4 h 10 min
+yield: 2 portions
+
 ingredients:
 - 100g yaourt nature ou parfumé
 - 10–15g sucre ou 10% du poids du yaourt minimum, et environ 15% pour les becs sucrés

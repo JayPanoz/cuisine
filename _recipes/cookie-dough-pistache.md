@@ -5,6 +5,10 @@ title: "Cookie Dough pistaches chocolat blanc"
 image: cookie-dough-pistache/cookie-dough-pistache-1.jpg
 tags: snack, cru, cookie, sans cuisson, chocolat, chocolat blanc, pistache, bouchée, bites
 
+preptime: 25 min
+totaltime: 1 h
+yield: 18 bouchées
+
 ingredients:
 - 125g de farine
 - 75g de beurre doux ramolli

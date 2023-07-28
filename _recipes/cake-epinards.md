@@ -5,6 +5,10 @@ title: "Cake chèvre-épinards"
 image: cake-epinards/cake-epinards.jpg
 tags: cake, salé, apéro, plat, épinards, fromage, fromage de chèvre
 
+preptime: 15 min
+cooktime: 55 min
+yield: 16 tranches
+
 ingredients:
 - 150g de farine
 - 3 œufs

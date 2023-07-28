@@ -5,6 +5,11 @@ title: "Duo de tartes au cacao"
 image: tarte-cacao/tarte-cacao-1.jpg
 tags: tarte, cacao, fruit, kiwi, citron, pavot, crème pâtissière, curd, huile d’olive
 
+preptime: 35 min
+cooktime: 25 min
+totaltime: 2 h
+yield: 6–8 portions
+
 ingredients:
 - 1 pâte sucrée au cacao
 - jus/soupe d’1 kiwi pour préparer 1 curd kiwi

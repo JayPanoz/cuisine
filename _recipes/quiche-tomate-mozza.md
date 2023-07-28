@@ -5,6 +5,10 @@ title: "Quiche tomate mozza"
 image: Quiche-tomate-mozza/quiche-tomate-mozza-1.jpg
 tags: quiche, salé, pâte brisée, poulet, tomate, mozza, sans viande
 
+preptime: 15 min
+cooktime: 45 min
+yield: 6–8 portions
+
 components:
 - Pâte brisée au fromage blanc
 

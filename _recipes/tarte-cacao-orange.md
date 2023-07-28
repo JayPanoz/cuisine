@@ -5,6 +5,11 @@ title: "Tarte cacao et orange"
 image: tarte-cacao-orange/tarte-cacao-orange-1.jpg
 tags: tarte, cacao, fruit, orange, crème pâtissière, huile d’olive, chocolat
 
+preptime: 25 min
+cooktime: 25 min
+totaltime: 2 h
+yield: 6–8 portions
+
 ingredients:
 - 1 pâte sucrée au cacao
 - jus et zestes d’1 orange ou 2 mandarines pour préparer 1 curd d’orange

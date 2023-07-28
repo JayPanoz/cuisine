@@ -5,6 +5,10 @@ title: "Tartelettes Crunch’ Em"
 image: crunchem/crunchem-1.jpg
 tags: tartelette, myrtille, fruit, Dinosaurus, seigle, beurre de cacahuète, chocolat blanc
 
+preptime: 1 h
+cooktime: 20 min
+yield: 12 mini tartelettes
+
 ingredients:
 - 80–100g de chocolat blanc
 - 1 cuillère à soupe d’huile de coco (facultatif)
