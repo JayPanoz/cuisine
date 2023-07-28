@@ -5,6 +5,10 @@ title: "Gratin de courgettes"
 image: gratin-courgette/gratin-courgette-1.jpg
 tags: plat, salé, gratin, légume, courgette, poulet, fromage
 
+preptime: 30 min
+cooktime: 20 min
+yield: 4 portions
+
 ingredients:
 - 4 courgettes
 - 150g d’allumettes de jambon ou de poulet, ou lardons végétaux

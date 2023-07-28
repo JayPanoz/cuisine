@@ -5,6 +5,10 @@ title: "Clafoutis aux épinards"
 image: clafoutis-epinards/clafoutis-epinards-1.jpg
 tags: clafoutis, salé, flan, plat, épinards, carottes, œufs, ricotta
 
+preptime: 25 min
+cooktime: 45 min
+yield: 4 portions
+
 ingredients:
 - 50g de farine
 - 3 œufs

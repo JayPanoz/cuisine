@@ -5,6 +5,10 @@ title: "Cantucci aux amandes"
 image: cantucci/cantucci-1.jpg
 tags: biscuit, Italie, amande, snack, craquant, sucre, canistrelli corse, fleur d’oranger
 
+preptime: 25 minutes
+cooktime: 45 minutes
+yield: 24–32 biscuits
+
 ingredients:
 - 215g de farine italienne 00/française T45
 - 100g de sucre blanc

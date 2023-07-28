@@ -5,6 +5,11 @@ title: "Tarte au chocolat et clémentine"
 image: tarte-clementine/tarte-clementine-1.jpg
 tags: tarte, chocolat, fruit, clémentine, crème pâtissière, huile d’olive
 
+preptime: 25 min
+cooktime: 25 min
+totaltime: 2 h
+yield: 6–8 portions
+
 ingredients:
 - 1 pâte sucrée
 - quartiers d’une clémentine ou mandarine

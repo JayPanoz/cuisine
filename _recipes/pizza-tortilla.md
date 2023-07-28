@@ -5,6 +5,10 @@ title: "Pizza tortilla"
 image: pizza-tortilla/pizza-tortilla.jpg
 tags: salé, apéro, pizza, tortilla, thon, tomates, roquette, chèvre
 
+preptime: 10 min
+cooktime: 15 min
+yield: 4 pizze
+
 ingredients:
 - 4 tortillas
 - 2 petites boîtes de thon sauce tomate

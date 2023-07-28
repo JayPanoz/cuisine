@@ -5,6 +5,11 @@ title: "Sablés au Pecorino"
 image: sables-pecorino/sables-pecorino.jpg
 tags: apéro, biscuit, sablé, fromage, pecorino, salé
 
+preptime: 10 min
+cooktime: 15 min
+totaltime: 2 h
+yield: 24 sablés
+
 ingredients:
 - 150g de farine
 - 1 œuf

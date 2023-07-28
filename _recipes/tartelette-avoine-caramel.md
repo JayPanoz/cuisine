@@ -5,6 +5,10 @@ title: "Tartelettes avoine et caramel"
 image: tartelette-avoine-caramel/tartelette-avoine-caramel-1.jpg
 tags: tartelette, avoine, caramel, beurre salé, fourrage, garniture
 
+preptime: 1 h
+cooktime: 15 min
+yield: 12 mini tartelettes
+
 components:
 - Pâte sablée à l’avoine
 - Caramel au beurre salé

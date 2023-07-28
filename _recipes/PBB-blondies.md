@@ -5,6 +5,10 @@ title: "PB&B Blondies"
 image: PBB-blondies/PBB-blondies-1.jpg
 tags: snack, blondie, brownie, chocolat, beurre de cacahuète, fleur de sel, banane, dégoulinant, gooey
 
+preptime: 25 min
+cooktime: 20 min
+yield: 6 mini cakes
+
 ingredients:
 - 1 banane mûre
 - 125g de beurre de cacahuète Crunchy (avec des morceaux)

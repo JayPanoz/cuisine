@@ -5,6 +5,10 @@ title: "Salade magique pêche abricot"
 image: salade-peche-abricot/salade-peche-abricot-1.jpg
 tags: salade, dessert, sucré, pêche, abricot, myrtilles, banane, cannelle
 
+preptime: 10 min
+totaltime: 2 h 10 min
+yield: 2 portions
+
 ingredients:
 - 1 pêche
 - 2 abricots

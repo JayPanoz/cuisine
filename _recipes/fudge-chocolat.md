@@ -5,6 +5,10 @@ title: "Fudge au chocolat noir"
 image: fudge/fudge-1.jpg
 tags: snack, chocolat, bouchée, fêtes, noël, sans cuisson, sans four
 
+preptime: 10 min
+totaltime: 6 h 10 min
+yield: 24 bouchées
+
 ingredients:
 - 100g de chocolat noir
 - 85g de sucre glace

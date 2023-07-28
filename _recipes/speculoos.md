@@ -5,6 +5,11 @@ title: "Speculoos"
 image: speculoos/speculoos-1.jpg
 tags: snack, biscuit, speculoos, 4 épices, cannelle, muscade, croquant
 
+preptime: 30 min
+cooktime: 15 min
+totaltime: 2 h 45 min 
+yield: 24–36 biscuits
+
 ingredients:
 - 150g de farine
 - 30g de son d’avoine

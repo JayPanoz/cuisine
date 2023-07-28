@@ -5,6 +5,9 @@ title: "Shake banane framboise"
 image: shake-banane-framboise/shake-banane-framboise-1.jpg
 tags: dessert, snack, crème, banane, froid, blender, mixer, sans cuisson, framboise
 
+preptime: 5 min
+yield: 1 portion
+
 ingredients:
 - 2 bananes mûres coupées en tranches et congelées
 - 125g de framboises stockées au réfrigérateur

@@ -5,6 +5,10 @@ title: "Cheesecake double-cacao, pistaches & framboises"
 image: pistachio-raspberry-cheesecake/pistachio-raspberry-cheesecake-1.jpg
 tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four, pistache, framboise
 
+preptime: 30 min
+totaltime: 3 h
+yield: 6–8 portions 
+
 components:
 - Cocoa Crust
 

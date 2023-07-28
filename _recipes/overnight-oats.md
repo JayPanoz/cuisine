@@ -5,6 +5,10 @@ title:  "Overnight oats"
 image: overnight-oats/overnight-oats-1.jpg
 tags: petit déjeuner, avoine, froid, sans cuisson, lendemain, fruits rouges, yaourt, healthy
 
+preptime: 5 min
+totaltime: 6 h 
+yield: 1 portion
+
 ingredients:
 - 35–40g de flocons ou son avoine
 - 1 cuillère à café de graines de chia

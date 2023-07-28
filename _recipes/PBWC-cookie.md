@@ -5,6 +5,10 @@ title: "PB Cookies chocolat blanc noisettes"
 image: pbwc-cookie/pbwc1.jpg
 tags: snack, cookie, biscuit, chocolat blanc, beurre de cacahuète, noisette
 
+preptime: 30 min
+cooktime: 10 min
+yield: 12 cookies
+
 ingredients:
 - 45g beurre de cacahuète smooth
 - 20g chocolat blanc fondu

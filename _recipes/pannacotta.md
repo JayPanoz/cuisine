@@ -5,6 +5,10 @@ title:  "Pannacotta amande framboise Spéculoos"
 image: panacotta/panacotta-1.jpg
 tags: dessert, froid, sans cuisson, framboise, amande, speculoos, lait fermenté
 
+preptime: 20 min
+totaltime: 3 h 20 min
+yield: 2 verrines
+
 ingredients:
 - 10cl de boisson végétale à l’amande intense
 - 10g de sucre de canne complet

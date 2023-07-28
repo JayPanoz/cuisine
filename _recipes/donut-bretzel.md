@@ -5,6 +5,11 @@ title: "Donut bretzel"
 image: donut-bretzel/donut-bretzel-1.jpg
 tags: snack, cannelle, cacao, bretzel, gros sel, levure boulangère, lait, bicarbonate, repos, levée, boulangerie, sans œuf
 
+preptime: 40 min
+cooktime: 20 min
+totaltime: 4 h 30 min
+yield: 8 donuts
+
 ingredients:
 - 250g de farine T55
 - 150ml de lait

@@ -5,6 +5,10 @@ title:  "Cookies moelleux aux noisettes"
 image: banana-nut-cookie/banana-nut-cookie-1.jpg
 tags: snack, cookie, banane, chocolat, noisette, avoine, moelleux, Belvita
 
+preptime: 15 min
+cooktime: 20 min
+yield: 12 cookies
+
 ingredients:
 - 160–220g de flocons/son d’avoine
 - 2 bananes mûres

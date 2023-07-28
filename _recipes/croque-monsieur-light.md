@@ -5,6 +5,10 @@ title: "Croque-monsieur allégé"
 image: croque-allege/croque-allege-1.jpg
 tags: plat, salé, four, sandwich, béchamel, jambon, fromage, protéines
 
+preptime: 25 min
+cooktime: 20 min
+yield: 2 croque
+
 components:
 - Béchamel light
 

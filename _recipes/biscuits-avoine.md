@@ -5,6 +5,11 @@ title: "Biscuits à l’avoine"
 image: biscuit-avoine/biscuit-avoine-1.jpg
 tags: snack, biscuit, raisins secs, graines de chia, riz soufflé, corn flakes, healthy, santé
 
+preptime: 10 min
+cooktime: 20 min
+totaltime: 1 h
+yield: 16–24 biscuits
+
 ingredients:
 - 1 cuillère à soupe de graines de chia
 - 40–50g de raisins secs

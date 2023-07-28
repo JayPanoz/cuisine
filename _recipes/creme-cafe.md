@@ -5,6 +5,10 @@ title: "Crème de café"
 image: creme-cafe/creme-cafe-1.jpg
 tags: snack, crème, mousse, café, 3 ingrédients, sans cuisson, ramequin, chocolat, peu calorique
 
+preptime: 30 min
+totaltime: 1 jour
+yield: 2 ramequins
+
 ingredients:
 - 150g de tofu soyeux
 - 25ml d’espresso (café très serré)

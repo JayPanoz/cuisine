@@ -5,6 +5,10 @@ title: "Empanadas"
 image: empanadas/empanadas-1.jpg
 tags: apéro, salé, thon, pâte brisée
 
+preptime: 20 min
+cooktime: 20 min
+yield: 8 empanadas
+
 components:
 - Pâte brisée au fromage blanc
 

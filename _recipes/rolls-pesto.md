@@ -5,6 +5,10 @@ title: "Roulés au pesto"
 image: rolls/rolls.jpg
 tags: apéro, salé, pesto, pâte feuilletée, parmigiano, tapenade, rillette
 
+preptime: 45 min
+cooktime: 15 min
+yield: 12 roulés
+
 ingredients:
 - 1 pâte feuilletée
 - 100g de pesto genovese

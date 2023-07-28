@@ -5,6 +5,10 @@ title:  "PB&B Brookie"
 image: pbb-brookie/pbb1.jpg
 tags: snack, brookie, goûter, beurre de cacahuète
 
+preptime: 45 min
+cooktime: 20 min
+yield: 6 mini cakes
+
 directions:
 - Préchauffez votre four à 180°C.
 - Versez la pâte à brownie dans votre moule et assurez-vous que la pâte soit bien tassée. 

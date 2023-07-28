@@ -5,6 +5,10 @@ title:  "Peanut Butter & Jelly Cups"
 image: pbj-cups/pbj-cups-1.jpg
 tags: snack, tartelettes, beurre de cacahuète, confiture, gelée, myrtilles, cups
 
+preptime: 25 min
+cooktime: 20 min
+yield: 12 mini tartelettes
+
 ingredients:
 - 125g de beurre de cacahuète smooth
 - 40g de sucre de canne complet ou cassonnade

@@ -5,6 +5,10 @@ title: "Pâtes au saumon"
 image: pates-saumon/pates-saumon-1.jpg
 tags: entrée, plat, saumon, pâtes, semoule, farine complète, sucrine, oignon, champignon
 
+preptime: 15 min
+cooktime: 12 min
+yield: 2 portions
+
 ingredients:
 - 160g de spaghetti à la semoule de blé ou farine complète
 - 1 sucrine

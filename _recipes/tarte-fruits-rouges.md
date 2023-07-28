@@ -5,6 +5,11 @@ title: "Tarte aux fruits rouges"
 image: tarte-fruits-rouges/tarte-fruits-rouges-1.jpg
 tags: tarte, vanille, fruit, fruits rouges, crème pâtissière, huile d’olive, myrtilles, framboises, mûres, fraises, nappage
 
+preptime: 35 min
+cooktime: 35 min
+totaltime: 2 h
+yield: 6–8 portions
+
 ingredients:
 - 1 pâte sucrée
 - 1 crème pâtissière

@@ -5,6 +5,10 @@ title: "Cheesecake Turtle"
 image: turtle-cheesecake/turtle-cheesecake-1.jpg
 tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four, turtle, caramel, pécan, cacao, chocolat
 
+preptime: 45 min
+totaltime: 3 h 15 min
+yield: 6–8 portions 
+
 components:
 - Cocoa Crust
 - Caramel au beurre salé

@@ -5,6 +5,11 @@ title: "Butchy’s Poppy Rolls"
 image: poppy-rolls/poppy-rolls-1.jpg
 tags: snack, brioche, pavot, roll, roulé, glaçage, yaourt grec
 
+preptime: 45 min
+cooktime: 30 min
+totaltime: 4 h 15 min
+yield: 8 roulés
+
 components: 
 - Brioche Butchy pour Rolls
 - Crème de pavot

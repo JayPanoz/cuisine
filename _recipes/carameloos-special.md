@@ -5,6 +5,10 @@ title: "Carameloos Special"
 image: carameloos-special/carameloos-special-1.jpg
 tags: special, sans cuisson, speculoos, chocolat, caramel, sans four
 
+preptime: 30 min
+totaltime: 2 h 30 min
+yield: 2 portions
+
 components:
 - Speculoos Crust
 - Ganache chocolat noir

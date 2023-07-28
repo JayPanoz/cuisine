@@ -5,6 +5,10 @@ title: "Banana Muffins"
 image: banana-muffins/banana-muffins-1.jpg
 tags: banane, muffin, cake, chocolat, moelleux, snack
 
+preptime: 15 min
+cooktime: 35 min
+yield: 12 mini muffins
+
 ingredients:
 - 85g de farine d’épeautre 
 - 40g de farine complète T150 

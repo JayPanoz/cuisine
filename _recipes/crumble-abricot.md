@@ -5,6 +5,10 @@ title: "Crumble aux pêches et aux abricots"
 image: crumble-fruits/crumble-fruits-1.jpg
 tags: snack, crumble, de saison, pêche, abricot, sucre de canne, seigle
 
+preptime: 20 min
+cooktime: 25 min
+yield: 2 ramequins
+
 ingredients:
 - 2 pêches
 - 6 abricots

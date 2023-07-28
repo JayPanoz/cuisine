@@ -5,6 +5,9 @@ title: "Smoothie protéiné"
 image: smoothie-proteine/smoothie-proteine-1.jpg
 tags: dessert, snack, smoothie, banane, froid, blender, mixer, sans cuisson, skyr, yaourt grec, fromage blanc, petit suisse, abricot, lait, cannelle, miel
 
+preptime: 10 min
+yield: 1 portion
+
 ingredients:
 - 1 banane mûre 
 - 2 abricots bien froids

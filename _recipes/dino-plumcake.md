@@ -5,6 +5,10 @@ title: "Plumcake dinosaure allo Yogurt"
 image: dino-plumcake/dino-plumcake-1.jpg
 tags: snack, moelleux, cake, seigle, nappage, Dinosaurus, yaourt grec, sans beurre
 
+preptime: 20 min
+cooktime: 45 min
+yield: 6 mini cakes
+
 ingredients:
 - 90g de farine semi-complète T110
 - 30g de farine de seigle

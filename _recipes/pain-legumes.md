@@ -5,6 +5,10 @@ title: "Pain aux légumes"
 image: pain-legumes/pain-legumes-1.jpg
 tags: cake, salé, pain, apéro, plat, carottes, courgettes, poivron
 
+preptime: 30 min
+cooktime: 55 min 
+yield: 16 tranches
+
 components:
 - Lait fermenté
 

@@ -5,6 +5,11 @@ title: "Reese’s Chunkies"
 image: reeses-chunkies/reeses-chunkies-1.jpg
 tags: cookie, beurre de cacahuète, chocolat, snack, croquant, beurre noisette, caramel
 
+preptime: 15 min
+cooktime: 15 min
+totaltime: 1 h 30 min
+yield: 12 cookies
+
 ingredients:
 - 125g de farine
 - 50g de cassonade
