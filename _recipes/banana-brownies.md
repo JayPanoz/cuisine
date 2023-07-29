@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title:  "Brownie de triche à la banane"
+title:  "Banana brownies"
 image: banana-brownie/banana-brownie-1.jpg
-tags: banane, muffin, cake, chocolat, moelleux, snack
+tags: banane, muffin, cake, chocolat, moelleux, snack, brownie
 
 preptime: 10 min
 cooktime: 20 min
