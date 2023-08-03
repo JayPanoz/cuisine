@@ -27,7 +27,8 @@ directions:
 - Vous pouvez soit abaissez la pâte avec une épaisseur d’environ 4–5mm puis découpez vos biscuits à l’aide d’un emporte-pièce, soit la diviser en petites boules égales et les foncer dans un emporte-pièce sur la plaque de cuisson. Cela permettra d’obtenir des cookies de taille similaire qui seront plus faciles à assembler ensuite – ils ne vont pas s'étaler à la cuisson.
 - Enfournez pour 12–15 min ou jusqu'à ce que les bords soient légèrement dorés – ou qu'une très légère indentation reste après avoir appuyé dessus avec le doigt. Surveillez avec attention car les cookies peuvent brunir extrêmement rapidement en fin de cuisson.
 - Laissez les cookies sur leur plaque pendant 10 minutes à la sortie du four puis transférez-les sur une grille pour les faire refroidir. Ils devraient durcir en refroidissant. 
-- Prenez un cookie et, à l’aide de 2 cuillères à café, déposez une quenelle de fluff dessus puis refermez le sandwich avec un 2e cookie pour l’étaler de manière bien homogène.
+- Prenez un cookie et, à l’aide de 2 cuillères à café, déposez une quenelle de fluff dessus puis refermez le sandwich avec un 2e cookie pour l’étaler de manière bien homogène. 
+- Lissez le pourtour du sandwich à l’aide d’une spatule pour récupérer l’excédent de fluff qui a débordé.
 - Dégustez !
 
 ---
