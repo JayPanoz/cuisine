@@ -7,7 +7,7 @@ tags: cookie, beurre de cacahuète, chocolat, snack, croquant, beurre noisette, 
 
 preptime: 15 min
 cooktime: 15 min
-totaltime: 1 h 30 min
+totaltime: 1 h 40 min
 yield: 12 cookies
 
 storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
@@ -18,12 +18,11 @@ ingredients:
 - 25g de sucre blanc
 - 75g de beurre noisette (soit environ 90g de beurre)
 - 1 œuf
-- ½ cuillère à café de levure chimique
-- ¼ cuillère à café de bicarbonate alimentaire
+- ¼ cuillère à café de levure chimique
+- ⅛ cuillère à café de bicarbonate alimentaire
 - 50g de chocolat noir concassé
 - 50g de pépites de beurre de cacahuète Reese’s
 - Extrait de vanille
-- ½ cuillère à café de lait ou boisson végétale amande
 - Pincée de sel de Guérande
 
 components:

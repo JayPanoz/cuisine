@@ -5,9 +5,9 @@ title: "Cookies au beurre noisette"
 image: browned-cookies/browned-cookies-1.jpg
 tags: cookie, beurre de cacahuète, chocolat, snack, croquant, moelleux, beurre noisette, caramel
 
-preptime: 10 min
+preptime: 15 min
 cooktime: 15 min
-totaltime: 1 h 25 min
+totaltime: 1 h 40 min
 yield: 12 cookies
 
 storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
@@ -18,7 +18,7 @@ ingredients:
 - 25g de sucre blanc
 - 75g de beurre noisette (soit environ 90g de beurre)
 - 1 œuf
-- 1 cuillère à café de levure
+- ½ cuillère à café de levure
 - 50g de pépites de chocolat
 - Extrait de vanille
 - Pincée sel de Guérande 
