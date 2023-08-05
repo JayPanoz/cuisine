@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "S’more cookies"
-image: smore-cookies/smore-cookies-1.jpg
+image: smore-cookies/smore-cookies-1b.jpg
 tags: cookie, s’more, smore, guimauve, marshmallow, chocolat, snack, croquant, cracker, miel, Graham cracker, chunks, gooey
 
 preptime: 15 min
