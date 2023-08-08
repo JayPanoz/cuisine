@@ -25,13 +25,13 @@ ingredients:
 - 1 blanc d’œuf
 
 directions:
-- Foncez la pâte dans un moule beurré et réservez au réfrigérateur.
+- Foncez la pâte dans un moule beurré, piquez le fond et réservez au réfrigérateur.
 - Préparez votre ganache au chocolat noir.
 - Préchauffez le four à 180°C.
 - Sortez votre moule du réfrigérateur, ajoutez du papier cuisson sur la pâte puis déposez des cailloux ou des billes de cuisson.
 - Faites-la cuire à blanc pendant 10 minutes.
-- Ressortez-la du four, enlevez les billes et le papier, et nappez le fond de blanc d’œuf.
-- Réenfournez pour 5 minutes. L’idée est de créer une sorte de barrière afin que la crème ne vienne pas rendre le fond de tarte trop humide.
+- Ressortez-la du four, enlevez les billes et le papier.
+- Réenfournez pour 5 minutes ou jusqu’à ce que le fond de tarte soit légèrement doré. 
 - Versez votre ganache dans le fond de tarte et égalisez.
 - Déposez les noix de pécan par dessus.
 - Faites prendre la ganache au frigo pour 1 heure.
@@ -44,5 +44,7 @@ directions:
 Une autre recette “Turtle”, mais on inverse les composants par rapport au <a href="turtle-cheesecake.html">cheesecake</a>&nbsp;: le chocolat se retrouve en ganache, le caramel dans la pâte et le glaçage. Vous l’aurez compris, c’est une tarte pour ceux qui préférent le chocolat au caramel – ou l’amertume au sucré –, ou ceux qui adorent le mélange mais souhaitent varier.
 
 Pour encore plus de gourmandise, vous pouvez ajouter des morceaux de noix de pécan dans la ganache voire même dans la pâte. En tout cas cette ganache saura mettre en valeur sa belle couleur ambrée après cuisson à blanc.
+
+La magie de cette pâte épeautre caramel c’est qu’elle demande à être imbibée pour la rendre plus humide. Donc même pas besoin de napper le fond de blanc d’œuf pour créer une barrière.
 
 ![C'est incroyablement riche, bien plus que le cheesecake, et plus amer aussi, surtout en ajoutant du café à la ganache. Du coup ça pourra plaire à d’autres gens.](../images/tarte-turtle/tarte-turtle-2.jpg)

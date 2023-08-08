@@ -18,7 +18,7 @@ ingredients:
 
 directions:
 - Préparez une plaque avec du papier de cuisson/sufurisé qui puisse être déposée aux réfrigérateur ou congélateur.
-- Faites fondres le chocolat. Si celui-ci ne vous semble pas suffisamment liquide pour napper les bretzels, ajoutez quelques gouttes d’huile de coco fondue ou d’huile neutre.
+- Faites fondre le chocolat. Si celui-ci ne vous semble pas suffisamment liquide pour napper les bretzels, ajoutez quelques gouttes d’huile de coco fondue ou d’huile neutre.
 - Plongez les bretzels un à un dans le chocolat et enrobez-les à l’aide d’une fourchette en prenant bien soin de la taper sur les bords pour faire couler l’excédent.
 - Déposez le bretzel sur la plaque.
 - Une fois tous les bretzels enrobés, vous pouvez soit laisser prendre le chocolat à température ambiante s’il ne fait pas trop chaud, soit 1 à 2 heures au réfrigérateur, voire 20 minutes au congélateur en express.
@@ -27,9 +27,9 @@ directions:
 
 Une recette basique, presque simpliste, qui tient davantage de l’assemblage que de la pâtisserie.
 
-Grand classique du snack US, le <i lang="en">dipped pretzel</i> (ou bretzel apéritif enrobé) joue à fond sur la carte du sucré fondant, salé croquant. Avec 2 ingrédients en tout et pour tout, la recette se révèle donc personnalisable à l'envi. 
+Grand classique du snack US, le <i lang="en">dipped pretzel</i> (ou bretzel apéritif enrobé) joue à fond sur la carte du sucré fondant, salé croquant. Avec 2 ingrédients en tout et pour tout – 3 si vous avez besoin de rendre le chocolat plus liquide avec de l’huile –, la recette se révèle donc personnalisable à l'envi. 
 
-Si le b.a.-ba reste le bretzel enrobé de chocolat au lait, on peut trouver moult variantes sur le marché États-Unien&nbsp;: bretzel enrobé de chocolat blanc, bretzel enrobé de caramel au beurre salé, bretzel enrobé de beurre de cacahuète, bretzel enrobé de cookies ’n’ cream, etc. Parfois même, un 3<sup>e</sup> ingrédient s’invite sous la forme de coulures/traits par dessus l’enrobage.
+Si le b.a.-ba reste le bretzel enrobé de chocolat au lait, on peut trouver moult variantes sur le marché États-Unien&nbsp;: bretzel enrobé de chocolat blanc, bretzel enrobé de caramel au beurre salé, bretzel enrobé de beurre de cacahuète, bretzel enrobé de cookies ’n’ cream, etc. Parfois même, un 3<sup>e</sup> ingrédient s’invite sous la forme d’un filet par dessus l’enrobage.
 
 Vous l’aurez compris, la seule limite est votre imagination. Personnellement, j’ai tenté le chocolat au lait macchiato avec de l’huile d'olive – plutôt qu’une huile neutre – pour amener une légère nuance supplémentaire, mais je ne doute pas que vous saurez expérimenter et trouver des combinaisons ultra savoureuses.
 

@@ -3,10 +3,10 @@
 layout: recipe
 title: "Tarte aux myrtilles et crème ricotta"
 image: tarte-myrtille/tarte-myrtille-1.jpg
-tags: tarte, vanille, fruit, fruits rouges, crème pâtissière, huile d’olive, myrtilles, framboises, mûres, fraises, nappage
+tags: tarte, miel, fruit, ricotta, myrtilles, nappage neutre
 
 preptime: 35 min
-cooktime: 35 min
+cooktime: 20 min
 totaltime: 2 h
 yield: 6–8 portions
 
