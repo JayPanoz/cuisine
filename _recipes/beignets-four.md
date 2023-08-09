@@ -1,16 +1,16 @@
 ---
 
 layout: recipe
-title: "Beignets caramel beurre de myrtilles"
-image: beignets-bluebutter/beignets-bluebutter-1.jpg
-tags: snack, beignet, four, caramel, donut, gros sel, myrtilles, cacahuète, beurre de myrtilles, beurre de cacahuètes, levure boulangère, lait, repos, levée, pousse, boulangerie
+title: "Beignets au four"
+image: beignets-four/beignets-four-1.jpg
+tags: snack, beignet, four, confiture, donut, sucre glace, levure boulangère, lait, repos, levée, pousse, boulangerie
 
 preptime: 40 min
 cooktime: 30 min
 totaltime: 4 h 40 min
 yield: 6–8 beignets (selon l’emporte-pièce)
 
-storage: 2 jours dans une boîte à l’abri de la lumière et de la chaleur. 2–3 mois au congélateur sans glaçage. Pas de frigo car cela va assécher le beignet.
+storage: 2 jours dans une boîte à l’abri de la lumière et de la chaleur. 2–3 mois au congélateur. Pas de frigo car cela va assécher le beignet.
 
 ingredients:
 - 200–230g de farine T45–65
@@ -19,17 +19,16 @@ ingredients:
 - 30g de sucre
 - 20g de beurre mou
 - 1 sachet de levure boulangère sèche
-- 150–200g de beurre de myrtilles
-- 1 portion de glaçage caramel
+- 200g de confiture
+- sucre glace
 - pincée de sel 
-- gros sel de Guérande
 - lait (+ jaune d’œuf) pour dorure
 
 components:
-- Beurre de myrtille
-- Glaçage caramel à l’ancienne
+- Confiture de myrtille
 
 directions:
+- Préparez votre confiture la veille – ou utilisez une confiture du commerce si grosse flemme.
 - Si besoin, réhydratez votre levure dans le lait/eau tiède et le sucre.
 - Dans un grand bol, mélangez la farine et le sel.
 - Ajoutez la levure, le lait/eau tiède, le sucre et l’œuf. Incorporez bien le tout – environ 5 minutes de pétrissage à la main, ou à vitesse lente au robot en raclant les bords si besoin.
@@ -41,18 +40,15 @@ directions:
 - Préchauffez le four à 180°C.
 - Enfournez pendant 12-18 minutes où jusqu’à ce que l’empreinte d’un doigt se résorbe lentement quand on appuie sur le dessus du beignet.
 - Disposez les beignets sur une grille de refroidissement et nappez-les entièrement d’eau frissonnante à l’aide d’un pinceau – pour les aider à conserver leur moelleux plus longtemps. Répétez l’opération quand l’eau a séché.
-- Préparez votre beurre de myrtilles.
 - Une fois les beignets refroidis, fourrez-les à la poche à douille/seringue.
-- Préparez les glaçage au caramel puis nappez le dessus des beignets et disposez-les à nouveau sur la grille.
-- Saupoudrez d’une pincée de gros sel.
-- Laissez le glaçage se figer – soit à température ambiante soit par un passage rapide au frigo – avant de déguster.
+- Saupoudrez de sucre glace et dégustez.
 
 ---
 
-Des beignets à cuire au four donc sans le gras de l’huile de cuisson, garnis avec un beurre de myrtilles bien gourmand, et glacés avec un caramel à l’ancienne – réalisé avec du sucre complet. Pour parachever le tout, on vient les saupoudrer d’une pincée de cristaux de sel.
-
-Le résultat est tout doux, bien équilibré au niveau des goûts et, surtout, original par rapport aux beignets à la confiture ou au nutella et leur sempiternel sucre glace, ou au <i lang="en">donut Boston Cream</i> et sa garniture de crème patissière.
+Des beignets à cuire au four donc sans le gras de l’huile de cuisson. Ici on joue le grand classique de la confiture et sucre glace, mais vous pouvez bien évidemment les personnaliser à l’envi – et il n’y a pas que le Nutella/Nocciolata dans la vie.
 
 Comme d’habitude avec les recettes incluant une levure boulangère, vous pouvez préparer la veille pour laisser pousser toute la nuit au frigo et pouvoir vous lancer directement dans la confection le lendemain matin.
 
-![Une mie bien douce, un fourrage au beurre de myrtilles ultra gourmand, un glaçage au caramel réhaussé par des cristaux de sel, le tout en fond un beignent super équilibré au terme de goût.](../images/beignets-bluebutter/beignets-bluebutter-2.jpg)
+À noter que si vous ne vous sentez pas de garnir à la poche à douille il est tout à fait possible de confectionner des beignets avec 2 ronds de pâte – à ce moment-là, abaissez avec une épaisseur de 5mm plutôt qu’1cm. Il faudra faire un petit puit au centre de la moitié des ronds de pâte, disposer la confiture à cet endroit puis refermer avec les ronds de pâte restants en prenant soin de bien souder les bords avec de l’eau.
+
+![Une mie bien douce, un fourrage au beurre de myrtilles ultra gourmand, un glaçage au caramel réhaussé par des cristaux de sel, le tout en fond un beignent super équilibré au terme de goût.](../images/beignets-four/beignets-four-2.jpg)

@@ -33,7 +33,8 @@ directions:
 - Dans un grand bol, mélangez la farine et le sel.
 - Ajoutez la levure, le lait tiède, le sucre et le beurre. 
 - Bien pétrir jusqu'à ce que la pâte ne colle quasiment plus aux doigts – au robot, quand la pâte se décolle des parois, pas plus. Elle doit néanmoins rester bien souple, donc ajustez farine et liquide en conséquence. 
-- Laissez lever le mélange recouvert d’un torchon dans un endroit chaud pendant 1h30–2h. Elle devrait avoir doublé de volume au bout de ce laps de temps.
+- Formez une boule.
+- Laissez lever la pâte dans un bol huilé et recouvert d’un torchon dans un endroit chaud pendant 1h30–2h. Elle devrait avoir doublé de volume au bout de ce laps de temps.
 - Sur un plan de travail légèrement fariné – moins que d'habitude, la pâte doit rester un tout petit peu collante –, abaissez la pâte.
 - Façonner des bretzels, des donuts ou des petites baguettes puis déposez-les délicatement sur la plaque de cuisson en les espaçant bien. Couvrez-les d’un torchon propre pour une seconde levée de 30 minutes environ.
 - Préchauffez le four à 200°C.
