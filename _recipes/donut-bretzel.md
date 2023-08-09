@@ -44,7 +44,7 @@ directions:
 - Enfournez pendant 12-20 minutes où jusqu’à ce que le bretzel ait bien bruni, que les entailles se soient développées, et qu’il sonne creux quand vous tapotez le dessous.
 - Attendez quelques minutes avant de disposer les bretzels sur une grille de refroidissement. Si vous faites des bretzels nature, arrêtez-vous là.
 - Une fois les bretzels refroidis, déversez le glaçage cacao ou cannelle par dessus, puis saupoudrez du gros sel ou des morceaux de noix de pécan, etc.
-- Laissez le glaçage se figer – soit à température ambiant soit par un passage rapide au frigo – avant de déguster. 
+- Laissez le glaçage se figer – soit à température ambiante soit par un passage rapide au frigo – avant de déguster. 
 
 ---
 
