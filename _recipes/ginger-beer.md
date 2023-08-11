@@ -23,7 +23,7 @@ directions:
 - Dans une bouteille de 1.5L minimum, avec l’aide d'un entonnoir ajoutez le gingembre, le sucre, la levure, le jus de citron, et enfin l’eau.
 - Refermez la bouteille puis secouez très légèrement pour lancer le processus. 
 - Laissez fermenter 24h à une température ambiante d’environ 20–22°C. S’il fait plus chaud, la fermentation peut être beaucoup beaucoup plus rapide – en été, avec la chaleur, ça peut se faire beaucoup plus vite que ce que vous pensez.
-- Une fois que la bouteille est tellement dure qu’il vout est impossible d’appuyez dessus, ouvrez très délicatement la bouteille si vous ne voulez pas vous retrouver avec de la ginger beer au plafond. 
+- Une fois que la bouteille est tellement dure qu’il vous est impossible d’appuyez dessus, ouvrez très délicatement la bouteille si vous ne voulez pas vous retrouver avec de la ginger beer au plafond. 
 - Reversez dans une autre bouteille en prenant soin de filtrer avec un tamis très très fin afin de récupérer les morceaux de gingembre et autres impuretés.
 - Conservez au réfrigérateur et dégustez dans les 48 h, tel quel ou en cocktail.
 

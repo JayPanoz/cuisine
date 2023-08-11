@@ -27,18 +27,18 @@ ingredients:
 
 directions:
 - Faites tremper les pois chiches si besoin puis faites les cuire.
-- Une fois les pois chiches refroidis, préparez la salade:
-    - Découpez le concombre en petits dés.
-    - Découpez les tomates cerises en quartiers.
-    - Épluchez et hachez l’oignon rouge. 
-    - Ajoutez l’ensemble des ingrédients dans un saladier.
-    - Déposez le cottage cheese par-dessus puis mélangez bien le tout.
 - Préparez la vinaigrette:
     - Épluchez et hachez l’ail très finement.
     - Lavez et hachez le persil.
     - Saler et poivrer le vinaigre dans un bol.
     - Versez progressivement l’huile en fouettant.
     - Ajoutez l’ail et le persil.
+- Une fois les pois chiches refroidis, préparez la salade:
+    - Découpez le concombre en petits dés.
+    - Découpez les tomates cerises en quartiers.
+    - Épluchez et hachez l’oignon rouge. 
+    - Déversez l’ensemble des ingrédients dans un saladier.
+    - Ajoutez le cottage cheese et la vinaigrette par-dessus puis mélangez bien le tout.
 
 ---
 
