@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Quiche au samon"
+title: "Quiche au saumon"
 image: quiche-misc/quiche-saumon.jpg
 tags: quiche, salé, pâte brisée, saumon fumé, ricotta, fines herbes, rapide
 
