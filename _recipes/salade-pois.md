@@ -42,9 +42,9 @@ directions:
 
 ---
 
-Une petite salade de pois chiches pour accompagner la récupération après l’affort, avec des protéines végétales (pois chiches) mais également animales (<i lang="en">cottage cheese</i> ou feta, voire même du thon si vous préférez), et des aliments riches en eau histoire de bien se réhydrater.
+Une petite salade de pois chiches pour accompagner la récupération après l’effort, avec des protéines végétales (pois chiches) mais également animales (<i lang="en">cottage cheese</i> ou feta, voire même du thon si vous préférez), et des aliments riches en eau histoire de bien se réhydrater.
 
-Évidemment, cette salade peut se préparer à l’avance et se composer d’autres ingrédients, par exemple des légumes de saison ou des alternatives <i lang="en">vegan</i>. On l’accompagne ici d’une vinaigrette, mais rien ne vous empêche de faire une sauce aux herbes et fromage blanc pour apporter un peu de velouté par exemple.
+Évidemment, cette salade peut se préparer à l’avance et se composer d’autres ingrédients, par exemple des légumes de saison ou des alternatives <i lang="en">vegan</i>. On l’accompagne ici d’une vinaigrette, mais rien ne vous empêche de faire une sauce aux herbes et fromage blanc pour apporter l’effet velouté si vous n’avez pas de <i lang="en">cottage cheese</i> sous la main par exemple.
 
 L’astuce&nbsp;: Récupérez le jus de cuisson des pois chiches (aquafaba) pour une autre recette, comme par exemple cette [mousse au chocolat.](mousse-chocofaba.html)
 
