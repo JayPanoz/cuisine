@@ -7,7 +7,7 @@ tags: special, sans cuisson, speculoos, chocolat, caramel, sans four
 
 preptime: 30 min
 totaltime: 2 h 30 min
-yield: 2 portions
+yield: 4 portions
 
 storage: 5–7 jours dans une boîte hermétique au frigo.
 
