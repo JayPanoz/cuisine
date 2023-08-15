@@ -23,8 +23,9 @@ ingredients:
 directions:
 - Mélangez l’eau sucrée avec l’extrait d’amandes puis imbibez légèrement vos biscuits à la cuillère.
 - Séparez les blancs des jaunes de vos œufs. 
-- Fouettez les jaunes avec le sucre jusqu’à ce que le mélange blanchisse. On ne recherche pas le volume ici, on l’amènera plus tard avec les blancs en neige. Ajoutez le mascarpone et fouettez de nouveau.
-- Montez les blancs en neige puis incorporez-les  en soulevant la masse à la maryse jusqu’à obtenir une crème homogène.
+- Fouettez les jaunes avec le sucre jusqu’à ce que le mélange blanchisse. On ne recherche pas le volume ici, on l’amènera plus tard avec les blancs en neige. 
+- Ajoutez le mascarpone et fouettez à nouveau.
+- Montez les blancs en neige puis incorporez-les en soulevant la masse à la maryse jusqu’à obtenir une crème homogène.
 - Lavez les framboises. Conservez quelques framboises pour le décor et mixez/écrasez les autres. Si vous préférez un coulis lisse, n'hésitez pas à le filtrer au tamis. 
 - Faites le montage des couches de votre tiramisu en alternant biscuits, crème au mascarpone et coulis/purée de framboises.
 - Laissez prendre au moins 1 heure au frigo
