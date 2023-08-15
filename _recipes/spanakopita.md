@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Spanakopita"
-image: spanakopita/Spanakopita-1.jpg
+image: spanakopita/spanakopita-1.jpg
 tags: phyllo, filo, pâte, tourte, friand, tarte, épinards, feta, fromage
 
 preptime: 15 min
@@ -45,4 +45,4 @@ Pour la pâte, c’est de la pâte phyllo qu’on utilise traditionnellement, un
 
 Note&nbsp;: on n’ajoute pas de sel dans cette recette car la feta en contient déjà suffisamment.
 
-![Ultra craquant à l’extérieur à la sortie du four, et bien moelleux à l’intérieur, ce friand permet de jouer sur les textures et saura mettre en avant sa farce aux épinards et à la feta.](../images/spanakopita/Spanakopita-2.jpg) 
+![Ultra craquant à l’extérieur à la sortie du four, et bien moelleux à l’intérieur, ce friand permet de jouer sur les textures et saura mettre en avant sa farce aux épinards et à la feta.](../images/spanakopita/spanakopita-2.jpg) 
