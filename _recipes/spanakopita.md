@@ -1,0 +1,48 @@
+---
+
+layout: recipe
+title: "Spanakopita"
+image: spanakopita/Spanakopita-1.jpg
+tags: phyllo, filo, pâte, tourte, friand, tarte, épinards, feta, fromage
+
+preptime: 15 min
+cooktime: 30 min
+yield: 4 friands
+
+storage: 2 jours au réfrigérateur.
+
+ingredients:
+- 8 feuilles soit 200g de pâte filo
+- 200g d’épinards frais
+- 150g de feta
+- 1 gousse ou 3g d’ail
+- 2 œufs
+- 1 pot ou 100g de fromage blanc
+- poivre
+- huile d’olive (facultatif)
+- graines (facultatif)
+
+directions:
+- Préparez l’ail, équeutez et faites revenir les épinards frais dans une poêle.
+- Préchauffez le four à 200°C.
+- "Cassez les 2 œufs et battez-les légèrement. Divisez les en 2 parties&nbsp;: ⅔ pour la farce, ⅓ pour l'appareil liquide."
+- Émiettez la feta et ajoutez les ⅔ de l’œuf battu, mélangez. 
+- Ajoutez-y ensuite les épinards refroidis et l’ail. Poivrez, mélangez et réservez. 
+- Dans un autre bol mélangez le fromage blanc avec le ⅓ restant d’œuf battu. Nous allons utiliser cet appareil pour badigeonner les feuilles de pâte Filo en remplacement de beurre ou d’huile.
+- Prenez une feuille de pâte et badigeonnez-la de l'appareil au fromage blanc à l’aide d’un pinceau, déposez une deuxième feuille et badigeonnez-la elle aussi. 
+- Ajoutez la farce sur les feuilles de manière à pouvoir délicatement replier les 4 bords puis rouler le boudin pour former un petit paquet hermétique. 
+- Déposez le feuilleté sur une plaque de cuisson et répétez l’opération pour les 3 friands restants.
+- Badigeonnez le dessus des feuilletés avec de l’huile d'olive. S'il vous reste de l’appareil liquide, vous pouvez également utiliser celle-ci à la place. 
+- Vous pouvez ajouter des graines de pavot ou de sésame par dessus à ce moment-là.
+- Enfournez pour 20-25 minutes ou jusqu’à ce que les feuilletés soient bien dorés. 
+- Ils peuvent être mangés chauds, tièdes ou froids.
+
+---
+
+La <i lang="gr">Spanakopita</i> peut se traduire par “tarte aux épinards”, et c’est en version friand qu’on la présente ici – ce plat étant le plus souvent consommé dans la restauration à emporter. Vous pouvez également en faire une version tarte ou tourte à partager, bien évidemment.
+
+Pour la pâte, c’est de la pâte phyllo qu’on utilise traditionnellement, une pâte sur laquelle il faut venir ajouter du gras, et qui permet donc de doser les lipides (et acides gras saturés) comme vous le souhaitez, au contraire des pâtes brisées et feuilletées industrielles. On utilise généralement du beurre fondu ou de l’huile d’olive, mais un mélange de fromage blanc et d’œuf fonctionne parfaitement, nous allons donc en profiter.
+
+Note&nbsp;: on n’ajoute pas de sel dans cette recette car la feta en contient déjà suffisamment.
+
+![Ultra craquant à l’extérieur à la sortie du four, et bien moelleux à l’intérieur, ce friand permet de jouer sur les textures et saura mettre en avant sa farce aux épinards et à la feta.](../images/spanakopita/Spanakopita-2.jpg) 
