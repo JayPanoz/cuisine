@@ -6,7 +6,7 @@ image: creme-curd.jpg
 
 ingredients:
 - le jus/purée/soupe du fruit (et ses zestes)
-- du lait pour compléter et obtenir (un multiple de) 20cl
+- du lait pour compléter si besoin et obtenir (un multiple de) 20cl
 - 2 jaunes d’œuf ou 1 œuf complet
 - 40g de sucre
 - 20g de farine
@@ -14,7 +14,7 @@ ingredients:
 
 directions:
 - Pressez le fruit pour obtenir son jus, ou mixez-le pour obtenir une soupe.
-- Passez-la au tamis et complétez avec du lait pour obtenir 20cl (ou un multiple de 20cl si vous doublez, triplez, etc. les quantités).
+- Passez-la au tamis et complétez avec du lait pour obtenir 20cl si besoin (ou un multiple de 20cl si vous doublez, triplez, etc. les quantités).
 - Si vous avez des zestes, faites les infuser dans ce mélange froid pendant au moins une heure.
 - Faites bouillir le mélange de lait et de fruit.
 - Travaillez les jaunes d'œufs avec le sucre jusqu’à ce que la pâte s’étire en ruban lorsqu’on la soulève.
