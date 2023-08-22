@@ -5,7 +5,7 @@ title: "Smoothie protéiné"
 image: smoothie-proteine/smoothie-proteine-1.jpg
 tags: dessert, snack, smoothie, banane, froid, blender, mixer, sans cuisson, skyr, yaourt grec, fromage blanc, petit suisse, abricot, lait, cannelle, miel
 
-preptime: 10 min
+preptime: 5 min
 yield: 1 portion
 
 ingredients:
@@ -32,4 +32,4 @@ Quand on souhaite consommer des protéines sans trop se prendre la tête après 
 
 Cette recette de smoothie pourra donc être utile, ne serait-ce que pour changer de temps en temps – on ne va pas se cacher que le goût des aliments protéinés, ça passe ou ça casse.
 
-![On peut jouer sur l’épaisseur en ajoutant plus ou moins de lait, ](../images/smoothie-proteine/smoothie-proteine-2.jpg)
+![On peut jouer sur l’épaisseur en ajoutant plus ou moins de lait.](../images/smoothie-proteine/smoothie-proteine-2.jpg)
