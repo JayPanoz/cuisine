@@ -9,7 +9,7 @@ preptime: 30 min
 totaltime: 2 h 30 min
 yield: 4 portions
 
-storage: 5–7 jours dans une boîte hermétique au frigo.
+storage: 2–3 jours dans une boîte hermétique au frigo.
 
 components:
 - Speculoos Crust
@@ -24,7 +24,8 @@ ingredients:
 directions:
 - Tapissez un moule pouvant allant au réfrigérateur de papier cuisson en minimisant au maximum les plis.
 - Foncez ensuite la pâte dans votre moule en prenant soin de bien tasser la base et les bords. Les bords doivent être suffisamment hauts pour accueillir la ganache et le glaçage – après à vous d'adapter les proportions aux différentes étapes du montage si vous voyez que les bords ne le sont pas assez. 
-- Réservez au frais pendant au minimum 1 heure, il faut que cette base soit suffisamment solide pour accueillir le fourrage au beurre de cacahuète.
+- Réservez au frais pendant au minimum 1 heure, il faut que cette base soit suffisamment solide pour accueillir la ganache.
+- Pendant ce temps, préparez la ganache.
 - Étalez la ganache au chocolat dans cette coque en Spéculoos.
 - Réservez au frais pendant au minimum 30 minutes.
 - Ajoutez enfin le glaçage caramel et lissez bien. Il devrait prendre assez vite sans avoir besoin de passer au réfrigérateur.

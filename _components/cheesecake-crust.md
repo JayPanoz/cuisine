@@ -5,7 +5,7 @@ title:  "Cheesecake Crust"
 image: cheesecake-crust.jpg
 
 ingredients:
-- 1 paquet de biscuits sablés
+- 1 paquet/140g de biscuits sablés
 - 70g de beurre mou
 
 directions:
