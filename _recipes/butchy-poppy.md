@@ -19,13 +19,14 @@ components:
 
 directions:
 - Préchauffez le four à 160°C.
-- Sur un plan de travail fariné, abaissez la pâte en un rectangle de 35 cm sur 25 environ.
+- Sur un plan de travail fariné, dégazez puis abaissez la pâte en un rectangle de 35 cm sur 25 environ.
 - Tapissez-la de la crème de pavot en prenant bien soin d’égaliser à la spatule, et de laisser un espace des 4 côtés.
 - Roulez la pâte en un boudin.
-- Découpez 8 petits roulés de taille et poids environ identiques. 
+- Découpez 8 petits roulés de taille et poids environ identiques – pour une coupe plus nette, utilisez du fil alimentaire. 
 - Placez-les côte à côte dans un moule beurré et fariné en laissant un peu d’espace. 
 - Laissez lever 45 minutes à 1 h jusqu’à ce que ces espaces soient comblés.
-- Enfournez 25 à 30 min où jusqu’à ce que le dessus des boules soient bien dorés.
+- Préchauffez le four à 160°C.
+- Enfournez 25 à 30 min où jusqu’à ce que le dessus des roulés soit bien doré.
 - Laissez refroidir la brioche sur une grille avant de la glacer.
 - Préparez le glaçage au yaourt grec.
 - Déversez-le sur le dessus de la brioche en prenant soin de bien le couvrir à l’aide d’une spatule.
