@@ -3,7 +3,7 @@
 layout: recipe
 title: "Pralin Rolls"
 image: pralin-rolls/pralin-rolls-1.jpg
-tags: snack, brioche, pralin, praliné, amandes, noisettes, carmélisé, beurre, roll, roulé, glaçage cacao
+tags: snack, brioche, pralin, praliné, amandes, noisettes, caramélisé, beurre, roll, roulé, glaçage cacao
 
 preptime: 30 min
 cooktime: 20 min
