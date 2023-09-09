@@ -6,7 +6,7 @@ image: banana-brioche/banana-brioche-1.jpg
 tags: snack, brioche, pralin, praliné, amandes, noisettes, caramélisé, beurre, roll, roulé, banane
 
 preptime: 30 min
-cooktime: 20 min
+cooktime: 30 min
 totaltime: 4 h
 yield: 8 roulés
 
