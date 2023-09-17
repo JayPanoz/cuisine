@@ -34,7 +34,7 @@ directions:
 - Montez les blancs en neige avec la pincée de sel puis incorporez-les en soulevant la masse à la maryse jusqu’à obtenir une crème homogène.
 - Lavez et essuyez les myrtilles et les figues.
 - Découpez les figues en quartiers (8 par figue).
-- Réalisez la première couche de votre tiramisu en déponsant les biscuits, puis la crème mascarpone et cacao, et les myrtilles entières.
+- Réalisez la première couche de votre tiramisu en déposant les biscuits, puis la crème mascarpone et cacao, et les myrtilles entières.
 - Réalisez la seconde couche dans le même ordre, mais avec les quartiers de figues pour finir.
 - Laissez prendre au moins 4 heures au frigo
 - Avant de servir, agrémentez le dessus de votre tiramisu comme vous le sentez. Il n’y a pas besoin de plus, mais c’est l’occasion d’amener des nuances de goût et contrastes à la mâche donc laissez parler votre imagination.
@@ -43,7 +43,7 @@ directions:
 
 Variante du [tiramisu aux framboises](tiramisu-framboises.html), ce tiramisu au cacao et fruits violets apporte un peu de réconfort et rebooste le mental avant d’attaquer l’automne.
 
-Fruit emblématique de fin d’été, on profite de la figue dans un <i lang="en">pairing</i> qui ne va pas forcément de soi quand on pense à comment l’associer. 
+Fruit emblématique de fin d’été, on profite de la figue dans un <i lang="en">pairing</i> qui ne va pas forcément de soi quand on réfléchit à comment l’associer. 
 
 On pense naturellement à la framboise… mais c’est la myrtille, un autre fruit à la peau violette, qui vient apporter un peu d’acidité dans cette recette. Et on la laisse entière plutôt que de la mixer pour apporter du peps à la mâche et contraster avec le crémeux du mascarpone et le moelleux des biscuits cuillère.
 
