@@ -6,7 +6,7 @@ image: tiramisu-framboises/tiramisu-framboises-1.jpg
 tags: dessert, froid, sans cuisson, framboise, mascarpone, biscuit cuiller, amande, crémeux
 
 preptime: 20 min
-totaltime: 1 h 20 min
+totaltime: 4 h 20 min
 yield: 4 portions
 
 storage: 2 jours au réfrigérateur.
@@ -28,8 +28,8 @@ directions:
 - Montez les blancs en neige puis incorporez-les en soulevant la masse à la maryse jusqu’à obtenir une crème homogène.
 - Lavez les framboises. Conservez quelques framboises pour le décor et mixez/écrasez les autres. Si vous préférez un coulis lisse, n'hésitez pas à le filtrer au tamis. 
 - Faites le montage des couches de votre tiramisu en alternant biscuits, crème au mascarpone et coulis/purée de framboises.
-- Laissez prendre au moins 1 heure au frigo
-- Avant de servir, ajoutez un peu de coulis et de quelques framboises fraiches sur votre tiramisu. Vous pouvez également agrémenter de sucre glace et/ou de feuilles de menthes, de spéculoos ou pistaches concassées, de cacao en poudre, des brisures ou copeaux de chocolat noir, de zestes de citron, etc.
+- Laissez prendre au moins 4 heures au frigo
+- Avant de servir, ajoutez un peu de coulis et quelques framboises fraiches sur votre tiramisu. Vous pouvez également agrémenter de sucre glace et/ou de feuilles de menthes, de spéculoos ou pistaches concassées, de cacao en poudre, des brisures ou copeaux de chocolat noir, de zestes de citron, etc.
 
 ---
 
