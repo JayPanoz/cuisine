@@ -32,7 +32,7 @@ directions:
 - Si besoin, réhydratez votre levure dans le lait tiède et le sucre.
 - Dans un grand bol, mélangez la farine, le sel, et le mélange 4 épices.
 - Ajoutez l’œuf et pétrissez jusqu’à ce que les ingrédients secs soient bien humides.
-- Ajoutez la levure, le lait tiède, le sucre, l’extrait de fleur d’oranger, et la crème fraîche. 
+- Ajoutez la levure, le lait tiède, l’extrait de fleur d’oranger, et la crème fraîche. 
 - Bien pétrir jusqu'à ce que la pâte soit bien lisse et ne colle quasiment plus aux doigts – au robot, quand la pâte se décolle des parois, pas plus. Elle doit néanmoins rester bien souple, donc ajustez farine et liquide en conséquence. 
 - Laissez lever la pâte dans un bol huilé recouvert d’un torchon dans un endroit chaud pendant 1h30–2h. Elle devrait avoir doublé de volume au bout de ce laps de temps. Vous pouvez également la préparer la veille et la laisser lever au frigo pendant la nuit.
 - Préchauffez le four à 160°C.
