@@ -8,7 +8,7 @@ tags: snack, brioche, fleur d’oranger, crème épaisse, amandes, pralines rose
 preptime: 30 min
 cooktime: 35 min
 totaltime: 4 h
-yield: 12 parts
+yield: 12 tranches
 
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante. 2–3 mois au congélateur.
 
