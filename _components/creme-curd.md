@@ -9,7 +9,7 @@ ingredients:
 - du lait pour compléter si besoin et obtenir (un multiple de) 20cl
 - 2 jaunes d’œuf ou 1 œuf complet
 - 40g de sucre
-- 20g de farine
+- 20–30g de farine
 - extrait au choix (facultatif)
 
 directions:
