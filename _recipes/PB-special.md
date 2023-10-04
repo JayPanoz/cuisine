@@ -30,7 +30,7 @@ directions:
 
 ---
 
-Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">cheat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
+Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Le Peanut Butter Special peut se concevoir comme la rencontre entre un fond de cheesecake et une <i lang="en">cup</i> au beurre de cacahuète Reese’s géante.
 

@@ -33,7 +33,7 @@ directions:
 
 ---
 
-Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">cheat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
+Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Le Banoffee Special est la rencontre entre la banane et le goût caramel sous toutes ses formes. Pour une garniture hyper coulante, on utilise ici de la confiture de lait (<i lang="es">dulce de leche</i>).
 

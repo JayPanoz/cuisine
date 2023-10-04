@@ -34,7 +34,7 @@ directions:
 
 ---
 
-Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">cheat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
+Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Par Tuxedo en pâtisserie US, on entend des couches de noir et de blanc qui rappellent le smoking que l’on porte pour les grandes occasions – comme les <i lang="en">Specials</i>, le monde est bien fait. En général présenté sous forme de gâteau à multiples couches (<i lang="en">layer cake</i>), on alterne entre le chocolat blanc et le chocolat noir, sous forme de ganache, de mousse, de <i lang="en">fudge</i>, etc.
 

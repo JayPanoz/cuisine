@@ -35,7 +35,7 @@ directions:
 
 ---
 
-Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">cheat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
+Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Banane et chocolat, un duo iconique qui se revisite en tartelette sans cuisson pour une grande occasion&nbsp;: un biscuit cheesecake au cacao vient accueillir une crème à la banane bien onctueuse, et une coque en chocolat noir vient refermer le tout. Pour une déclinaison encore plus rapide, on peut remplacer la crème banane par une simple purée de bananes mûres écrasées et la coque par une ganache au chocolat. À vous de voir ce que vous préférez.
 
