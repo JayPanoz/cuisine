@@ -1,0 +1,41 @@
+---
+
+layout: recipe
+title: "Pudding poire prune"
+image: pudding-poire-prune/pudding-poire-prune-1.jpg
+tags: pudding, pain, récup, sauvetage, rassis, muscovado, poire, prune, œufs, 4 épices, lait, antigaspi
+
+preptime: 25 min
+cooktime: 55 minutes
+yield: 2 portions
+
+storage: 2–3 jours au réfrigérateur.
+
+ingredients:
+- 125g de pain rassis
+- 2 œufs
+- 25cl de lait
+- 1 poire Williams 
+- 1 prune rouge
+- 1 cuillère à café de fécule de maïs/Maïzena
+- 20g de sucre muscovado + ½ cuillère à soupe pour saupoudrer le dessus
+- ½ cuillère à café de mélange 4 épices ou, à défaut, de la cannelle 
+
+directions:
+- Lavez et coupez la poire et la prune en petits dés.
+- Dans un plat à gratin, battez les œufs avec le lait et le sucre.
+- Ajoutez le mélange 4 épices et la fécule de maïs tamisées tout en continuant de fouetter.
+- Ajoutez le pain rassis coupé en petits morceaux.
+- Ajoutez les dés de fruits et mélangez bien.
+- Laissez mariner le mélange au moins 15 minutes – dans l’idéal plusieurs heures. L’idée est de bien ramollir le pain avant cuisson.
+- Préchauffez le four à 180°C.
+- Saupoudrez le dessus du pudding avec du sucre muscovado
+- Enfournez pour 30–55 minutes où jusqu’à ce que l’appareil soit pris – ça va dépendre de votre plat mais également du degré de maturité de vos fruits.
+
+---
+
+Un pudding avec du pain rassis, rapide à préparer et qui associe les saveurs d’automne&nbsp;: prune et poire d’un côté, mélange 4 épices de l’autre. C’est très très gourmand tout en restant bien équilibré, moelleux et fondant en bouche, et c’est très difficile de s’arrêter si vous commencez à taper directement dans le plat.
+
+Pour aider un peu le pudding à se tenir étant donné qu’on utilise des fruits frais qui rendent pas mal de jus lors de la cuisson, on utilise une toute petite portion de fécule de maïs. Mais vous pouvez également faire sans si vous n’en avez pas. Quant au sucre muscovado, vous pouvez le remplacer par du sucre vanillé ou du sucre roux.
+
+![Le moelleux du pain rassis imbibé de l’appareil sucré, le fondant des fruits, les arômes des épices, quoi de mieux pour finir l’automne ?](../images/pudding-poire-prune/pudding-poire-prune-2.jpg)
