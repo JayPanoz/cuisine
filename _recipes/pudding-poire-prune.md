@@ -38,4 +38,6 @@ Un pudding avec du pain rassis, rapide à préparer et qui associe les saveurs d
 
 Pour aider un peu le pudding à se tenir étant donné qu’on utilise des fruits frais qui rendent pas mal de jus lors de la cuisson, on utilise une toute petite portion de fécule de maïs. Mais vous pouvez également faire sans si vous n’en avez pas. Quant au sucre muscovado, vous pouvez le remplacer par du sucre vanillé ou du sucre roux.
 
+L’astuce&nbsp;: si vous multipliez les quantités pour obtenir davantage de portions, n’hésitez pas à ajouter de la pomme plutôt que de simplement multiplier le nombre de prunes ou de poires. Si ça fonctionne bien pour la confiture et que vous aimez le goût, il n’y a pas de raison que ça ne soit pas le cas pour ce pudding. La variété Gala, qui se tient bien à la cuisson, fera largement l’affaire.
+
 ![Le moelleux du pain rassis imbibé de l’appareil sucré, le fondant des fruits, les arômes des épices, quoi de mieux pour finir l’automne ?](../images/pudding-poire-prune/pudding-poire-prune-2.jpg)
