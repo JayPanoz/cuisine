@@ -20,6 +20,7 @@ ingredients:
 
 directions:
 - Recouvrez un plat à gratin de papier cuisson en laissant du papier en plus sur 2 côtés pour pouvoir le soulever plus facilement. Assurez-vous qu’il puisse aller au frigo.
+- Hachez le chocolat en petits morceaux.
 - Faites fondre le beurre, le lait, l'extrait de vanille et le chocolat au micro-ondes en plusieurs fois, en mélangeant entre chaque itération. 
 - Ajoutez le sucre glace tamisé dans le mélange encore chaud et mélangez bien pour l'intégrer sans grumeau et obtenir une texture lisse.
 - Versez le tout dans le plat à gratin, égalisez et lissez.
