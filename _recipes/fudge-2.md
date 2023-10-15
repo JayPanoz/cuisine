@@ -13,7 +13,7 @@ storage: 2–3 semaines au frigo.
 
 ingredients:
 - 200g de chocolat
-- 180g de lait condensé sucré
+- 180g de lait concentré sucré
 
 directions:
 - Recouvrez un plat à gratin de papier cuisson en laissant du papier en plus sur 2 côtés pour pouvoir le soulever plus facilement. Assurez-vous qu’il puisse aller au frigo.
