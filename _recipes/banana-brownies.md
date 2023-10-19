@@ -3,16 +3,16 @@
 layout: recipe
 title:  "Banana brownies"
 image: banana-brownie/banana-brownie-1.jpg
-tags: banane, muffin, cake, chocolat, moelleux, snack, brownie
+tags: banane, muffin, cake, chocolat, moelleux, snack, brownie, compote de pomme, 3 ingrédients
 
 preptime: 10 min
 cooktime: 20 min
-yield: 6 mini brownies
+yield: 6 mini brownies ou 12 mini muffins
 
 storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
 
 ingredients:
-- 2 bananes mûres
+- 2 bananes mûres (ou 200g de compote de pomme)
 - 80g de chocolat
 - 30g de farine
 
