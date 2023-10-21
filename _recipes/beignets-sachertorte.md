@@ -5,9 +5,9 @@ title: "Beignets façon Sachertorte"
 image: beignets-sacher/beignets-sacher-1.jpg
 tags: snack, beignet, four, donut, sachertorte, cacao, chocolat, abricot, confiture, glaçage levure boulangère, lait, repos, levée, pousse, boulangerie
 
-preptime: 40 min
-cooktime: 30 min
-totaltime: 4 h 40 min
+preptime: 25 min
+cooktime: 20 min
+totaltime: 3 h 30 min
 yield: 6–8 beignets (selon l’emporte-pièce)
 
 storage: 2 jours dans une boîte à l’abri de la lumière et de la chaleur. 2–3 mois au congélateur. Pas de frigo car cela va assécher le beignet.
