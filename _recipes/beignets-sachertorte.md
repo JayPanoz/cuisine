@@ -47,7 +47,7 @@ La <i lang="de">Sachertorte</i>, ou tarte Sacher, est un [gateau au chocolat vie
 
 La recette traditionnelle du gateau n’utilisant aucun agent levant, tout repose sur les blancs battus en neige. Et pour beaucoup de personnes, la confiture d’abricot est un ajout malin et quelque peu nécessaire pour rendre le gateau un peu plus léger – en plus de la crème chantilly qui l’accompagne et du café pour faire passer le tout.
 
-Si notre version beignet utilise une levure boulangère qui devrait donner un résultat un peu plus léger, on n’hésite pourtant pas à bien le garnir de cette même confiture, car c’est ce qui le rend bien humide au cœur, tout doux et réconfortant.
+Si notre version beignet utilise une levure boulangère qui devrait logiquement donner un résultat un peu plus aérien, on n’hésitera pourtant pas à bien le garnir de cette même confiture, car c’est ce qui le rend bien humide au cœur, tout doux et réconfortant.
 
 Bien sûr, les beignets à la confiture d’abricot n’ont rien de spécial, on peut même les trouver en pâtisserie industrielle. Mais l’intérêt de cette recette, c’est de jouer à fond la carte de l’association avec le chocolat. Cacao dans la pâte, chocolat noir pour le glaçage. Ça n’a l’air de rien dit comme ça, mais ça change tout.
 
