@@ -3,7 +3,7 @@
 layout: recipe
 title: "PBB Frozen Sandwich Bites"
 image: pbb-bites/pbb-bites-1.jpg
-tags: snack, glacé, 3 ingrédients, banane, beurre de cacahuète, chocolat, chocolat noir, bouchée, dessert, fruit enrobé, sans cuisson, assemblage
+tags: [snack, glacé, 3 ingrédients, banane, beurre de cacahuète, chocolat, chocolat noir, bouchée, dessert, fruit enrobé, sans cuisson, assemblage]
 
 preptime: 15 min
 totaltime: 1 h 15 min

@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Panna cotta amande framboise Spéculoos"
 image: panacotta/panacotta-1.jpg
-tags: dessert, froid, sans cuisson, framboise, amande, speculoos, lait fermenté
+tags: [dessert, froid, sans cuisson, framboise, amande, speculoos, lait fermenté]
 
 preptime: 20 min
 totaltime: 3 h 20 min

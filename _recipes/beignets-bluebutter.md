@@ -3,7 +3,7 @@
 layout: recipe
 title: "Beignets caramel beurre de myrtilles"
 image: beignets-bluebutter/beignets-bluebutter-1.jpg
-tags: snack, beignet, four, caramel, donut, gros sel, myrtilles, cacahuète, beurre de myrtilles, beurre de cacahuètes, levure boulangère, lait, repos, levée, pousse, boulangerie
+tags: [snack, beignet, four, caramel, donut, gros sel, myrtilles, cacahuète, beurre de myrtilles, beurre de cacahuètes, levure boulangère, lait, repos, levée, pousse, boulangerie]
 
 preptime: 40 min
 cooktime: 30 min

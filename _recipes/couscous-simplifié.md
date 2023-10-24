@@ -3,7 +3,7 @@
 layout: recipe
 title: "Couscous de légumes"
 image: couscous-mini/couscous-mini.jpg
-tags: plat, salé, poêle, maïs, légumineuses, couscous, semoule, brocolis, carottes, vegan
+tags: [plat, salé, poêle, maïs, légumineuses, couscous, semoule, brocolis, carottes, vegan]
 
 preptime: 10 min
 cooktime: 20 min

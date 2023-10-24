@@ -3,7 +3,7 @@
 layout: recipe
 title: "Sablés au Pecorino"
 image: sables-pecorino/sables-pecorino.jpg
-tags: apéro, biscuit, sablé, fromage, pecorino, salé
+tags: [apéro, biscuit, sablé, fromage, pecorino, salé]
 
 preptime: 10 min
 cooktime: 15 min

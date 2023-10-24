@@ -3,7 +3,7 @@
 layout: recipe
 title: "Brioche aux myrtilles"
 image: bb-brioche/bb-brioche-1.jpg
-tags: snack, brioche, yaourt grec, myrtilles, sirop d’érable, sirop d’agave, miel, levure boulangère, café
+tags: [snack, brioche, yaourt grec, myrtilles, sirop d’érable, sirop d’agave, miel, levure boulangère, café]
 
 preptime: 30 min
 cooktime: 35 min

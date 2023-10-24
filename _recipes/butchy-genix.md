@@ -3,7 +3,7 @@
 layout: recipe
 title: "Brioche Butchy’s Genix"
 image: butchy-genix/butchy-genix-1.jpg
-tags: snack, brioche, fleur d’oranger, crème épaisse, amandes, pralines roses
+tags: [snack, brioche, fleur d’oranger, crème épaisse, amandes, pralines roses]
 
 preptime: 30 min
 cooktime: 35 min

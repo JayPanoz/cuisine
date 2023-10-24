@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Tiramisu aux fraises et à la ricotta"
 image: tiramisu-ricotta/tiramisu-ricotta-1.jpg
-tags: dessert, froid, sans cuisson, fraises, ricotta, amaretti morbidi, crémeux
+tags: [dessert, froid, sans cuisson, fraises, ricotta, amaretti morbidi, crémeux]
 
 preptime: 20 min
 yield: 4 portions

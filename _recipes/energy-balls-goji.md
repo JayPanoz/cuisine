@@ -3,7 +3,7 @@
 layout: recipe
 title: "Energy balls au tahini & goji"
 image: goji-balls/goji-balls-1.jpg
-tags: snack, cru, healthy, sans cuisson, bouchée, bites, sport, energy balls, énergie, baies de goji, goji, purée de sésame, sésame, tahini, miel, avoine, amandes
+tags: [snack, cru, healthy, sans cuisson, bouchée, bites, sport, energy balls, énergie, baies de goji, goji, purée de sésame, sésame, tahini, miel, avoine, amandes]
 
 preptime: 10 min
 totaltime: 40 min

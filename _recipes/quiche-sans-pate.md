@@ -3,7 +3,7 @@
 layout: recipe
 title: "Quiche sans pâte"
 image: quiche-misc/quiche-sans-pate.jpg
-tags: quiche, salé, sans pâte, farine, fromage rapé, emmental, jambon, rapide
+tags: [quiche, salé, sans pâte, farine, fromage rapé, emmental, jambon, rapide]
 
 preptime: 15 min
 cooktime: 45 min

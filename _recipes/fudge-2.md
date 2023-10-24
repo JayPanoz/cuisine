@@ -3,7 +3,7 @@
 layout: recipe
 title: "Fudge en 2–2 (express)"
 image: fudge-2/fudge-2-1.jpg
-tags: snack, chocolat, bouchée, fêtes, noël, sans cuisson, sans four, tablette, lait concentré, lait concentré sucré, micro-ondes
+tags: [snack, chocolat, bouchée, fêtes, noël, sans cuisson, sans four, tablette, lait concentré, lait concentré sucré, micro-ondes]
 
 preptime: 5 min
 totaltime: 6 h 10 min

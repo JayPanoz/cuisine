@@ -3,7 +3,7 @@
 layout: recipe
 title: "Banoffee Special"
 image: Banoffee-Special/banoffee-1.jpg
-tags: special, sans cuisson, cacao, banane, dulce de leche, sans four
+tags: [special, sans cuisson, cacao, banane, dulce de leche, sans four]
 
 preptime: 30 min
 totaltime: 10 h 

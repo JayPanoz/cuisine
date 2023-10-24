@@ -3,7 +3,7 @@
 layout: recipe
 title: "Barquettes apéro"
 image: barquettes-apero/barquettes-apero.jpg
-tags: amuse-bouche, salé, apéro, thon, endive, avocat, tomates, graines, rapide, facile
+tags: [amuse-bouche, salé, apéro, thon, endive, avocat, tomates, graines, rapide, facile]
 
 preptime: 10 min
 yield: 12 barquettes

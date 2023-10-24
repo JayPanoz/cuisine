@@ -3,7 +3,7 @@
 layout: recipe
 title: "Cookie baies de goji beurre de cacahuète"
 image: pb-goji-cookies/pb-goji-cookies-1.jpg
-tags: snack, biscuit, avoine, vegan, sablé, beurre de cacahuète, sirop d’érable, cookie, sans œuf, sans beurre, sans huile, pépites de chocolat, baies de goji, gros sel
+tags: [snack, biscuit, avoine, vegan, sablé, beurre de cacahuète, sirop d’érable, cookie, sans œuf, sans beurre, sans huile, pépites de chocolat, baies de goji, gros sel]
 
 preptime: 15 min
 cooktime: 15 min

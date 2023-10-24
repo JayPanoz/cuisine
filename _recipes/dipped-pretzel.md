@@ -3,7 +3,7 @@
 layout: recipe
 title: "Dipped Pretzels"
 image: dipped-pretzel/dipped-pretzel-1.jpg
-tags: snack, bretzel apéritif, chocolat, 2 ingrédients, sans cuisson, sans four, nappage
+tags: [snack, bretzel apéritif, chocolat, 2 ingrédients, sans cuisson, sans four, nappage]
 
 preptime: 15 min
 totaltime: 35 min

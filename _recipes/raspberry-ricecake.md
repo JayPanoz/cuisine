@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Raspberry Ricecake"
 image: raspberry-ricecake/raspberry-ricecake-1.jpg
-tags: goûter, snack, froid, sans cuisson, framboise, crème, galette de riz, galette de maïs, ricotta, yaourt grec, fraises, miel
+tags: [goûter, snack, froid, sans cuisson, framboise, crème, galette de riz, galette de maïs, ricotta, yaourt grec, fraises, miel]
 
 preptime: 5 min
 yield: 2 portions

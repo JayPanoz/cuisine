@@ -3,7 +3,7 @@
 layout: recipe
 title: "Choco Banana Special"
 image: choco-banana-special/choco-banana-1.jpg
-tags: special, sans cuisson, cacao, banane, curd, crème, chocolat, sans four, CBS, choco banane
+tags: [special, sans cuisson, cacao, banane, curd, crème, chocolat, sans four, CBS, choco banane]
 
 preptime: 30 min
 totaltime: 2 h

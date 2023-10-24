@@ -3,7 +3,7 @@
 layout: recipe
 title: "Quichettes de l’Est"
 image: quichette-lorraine/quichette-lorraine-1.jpg
-tags: quiche, salé, pâte brisée, poulet, muscade
+tags: [quiche, salé, pâte brisée, poulet, muscade]
 
 preptime: 15 min
 cooktime: 30 min

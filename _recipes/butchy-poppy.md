@@ -3,7 +3,7 @@
 layout: recipe
 title: "Butchy’s Poppy Rolls"
 image: poppy-rolls/poppy-rolls-1.jpg
-tags: snack, brioche, pavot, roll, roulé, glaçage, yaourt grec
+tags: [snack, brioche, pavot, roll, roulé, glaçage, yaourt grec]
 
 preptime: 45 min
 cooktime: 30 min

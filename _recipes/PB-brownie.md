@@ -3,7 +3,7 @@
 layout: recipe
 title:  "PB brownies"
 image: PB-brownie/PB-brownie-1.jpg
-tags: banane, muffin, cake, chocolat, fondant, snack, brownie, gooey, compote de pomme, cacao, beurre de cacahète, peanut butter, PB, 3 ingrédients
+tags: [banane, muffin, cake, chocolat, fondant, snack, brownie, gooey, compote de pomme, cacao, beurre de cacahète, peanut butter, PB, 3 ingrédients]
 
 preptime: 10 min
 cooktime: 25 min

@@ -3,7 +3,7 @@
 layout: recipe
 title: "Em’s Blondies"
 image: em-blondies/em-blondies-1.jpg
-tags: snack, blondie, brownie, chocolat blanc, purée d’amande, banane, cerise, sarrasin dégoulinant, gooey
+tags: [snack, blondie, brownie, chocolat blanc, purée d’amande, banane, cerise, sarrasin dégoulinant, gooey]
 
 preptime: 25 min
 cooktime: 25 min

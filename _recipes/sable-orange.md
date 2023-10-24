@@ -3,7 +3,7 @@
 layout: recipe
 title: "Sablés à l’orange et au chocolat"
 image: sable-orange/sable-orange-1.jpg
-tags: snack, biscuit, sablé, chocolat, orange, nappage
+tags: [snack, biscuit, sablé, chocolat, orange, nappage]
 
 preptime: 30 min
 cooktime: 15 min

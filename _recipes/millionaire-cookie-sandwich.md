@@ -3,7 +3,7 @@
 layout: recipe
 title: "Millionaire Cookie Sandwich"
 image: millionnaire-sandwich/millionnaire-sandwich-1.jpg
-tags: snack, biscuit, épeautre, beurre, shortbread, caramel, ganache, chocolat noir, muscovado, cookie
+tags: [snack, biscuit, épeautre, beurre, shortbread, caramel, ganache, chocolat noir, muscovado, cookie]
 
 preptime: 30 min
 cooktime: 30 min

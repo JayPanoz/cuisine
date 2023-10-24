@@ -3,7 +3,7 @@
 layout: recipe
 title: "Bouchées de flan patissier"
 image: Bouchees-flan/bouchees-flan-1.jpg
-tags: snack, crème patissière, flan, bouchée, sans gluten, sans four
+tags: [snack, crème patissière, flan, bouchée, sans gluten, sans four]
 
 preptime: 20 min 
 totaltime: 4 h 20 min

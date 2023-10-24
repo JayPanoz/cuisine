@@ -3,7 +3,7 @@
 layout: recipe
 title: "Cookies au beurre noisette"
 image: browned-cookies/browned-cookies-1.jpg
-tags: cookie, beurre de cacahuète, chocolat, snack, croquant, moelleux, beurre noisette, caramel
+tags: [cookie, beurre de cacahuète, chocolat, snack, croquant, moelleux, beurre noisette, caramel]
 
 preptime: 15 min
 cooktime: 15 min
