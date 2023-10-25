@@ -29,7 +29,7 @@ translation:
     directions: "Directions"
     category: "Category"
     nutritional_information: "Nutritional Information"
-    component_based: 'This is a <strong class="blue">component-based recipe</strong>.'
+    component_based: 'This is a <strong class="accent">component-based recipe</strong>.'
     search: "Search"
     blog: "Blog"
     subscribe: "Subscribe"
@@ -53,7 +53,7 @@ translation:
     directions: "Instructions"
     category: "Catégorie"
     nutritional_information: "Informations nutritionnelles (théoriques)"
-    component_based: 'Cette recette est composée <strong class="blue">d’une ou plusieurs préparations</strong>.'
+    component_based: 'Cette recette est composée <strong class="accent">d’une ou plusieurs préparations</strong>.'
     search: "Recherche"
     blog: "Blog"
     subscribe: "S’abonner"

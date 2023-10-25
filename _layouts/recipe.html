@@ -39,7 +39,7 @@ layout: default
     <div class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h4>
+      <h4 class="accent mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h4>
       <ul>
         <!-- list components that make up recipe -->
         {% for component in page.components %}
@@ -49,7 +49,7 @@ layout: default
       {% endif %}
 
       {% if page.ingredients %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <h4 class="accent mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
@@ -69,7 +69,7 @@ layout: default
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6">
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
+      <h4 class="accent mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
           {% if direction.first %}
@@ -101,7 +101,7 @@ layout: default
     <div class="sm-col sm-col-4 px2">
     {% for recipe in site.components %}
     {% if recipe.title == component %}
-      <h4 class="blue center">{{recipe.title}}</h4>
+      <h4 class="accent center">{{recipe.title}}</h4>
 
       {% for image in recipe.image %}
       <div class="image ratio bg-cover" style="background-image:url('{{site.baseurl}}/images/{{ image }}');">
@@ -118,7 +118,7 @@ layout: default
 
       {% include timings.html recipe=recipe %}
 
-      <h4 class="blue regular xs-center">{{ site.translation[site.language].ingredients }}</h4>
+      <h4 class="accent regular xs-center">{{ site.translation[site.language].ingredients }}</h4>
         <ul class="ingredients" itemprop="ingredients">
           {% for ingredient in recipe.ingredients %}
             {% if ingredient.first %}
@@ -134,7 +134,7 @@ layout: default
           {% endfor %}
       </ul>
 
-      <h4 class="blue regular xs-center">{{ site.translation[site.language].directions }}</h4>
+      <h4 class="accent regular xs-center">{{ site.translation[site.language].directions }}</h4>
         <ul itemprop="instructions">
         {% for direction in recipe.directions %}
           {% if direction.first %}
