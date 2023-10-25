@@ -77,9 +77,11 @@ nav.main-nav .nav-item.active{
 	color: #CB4E06;
 }
 
+/*
 nav.main-nav .nav-item.active svg{
 	animation: zap .2s ease forwards;
 }
+*/
 
 nav.main-nav .nav-item path, nav.main-nav .item g{
 	transition: .2s ease all;
@@ -92,7 +94,7 @@ nav.main-nav .nav-item.active path, nav.main-nav .nav-item.active g{
 nav.main-nav .nav-item .gingerbread path, nav.main-nav .nav-item .gingerbread g{
   fill:#000000;
   stroke: #000000;
-  stroke-width: 6;
+  stroke-width: 10;
 }
 
 nav.main-nav .nav-item.active .gingerbread path, nav.main-nav .nav-item.active .gingerbread g{
@@ -114,6 +116,7 @@ nav.main-nav .nav-label{
 nav.main-nav .nav-item.active .nav-label{
 	margin:0;
   color: #CB4E06;
+	font-weight: bold;
 }
 
 @media (orientation: landscape) {
