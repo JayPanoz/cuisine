@@ -27,7 +27,7 @@
 		</svg>
 		<p class="nav-label">{{ site.translation[site.language].tags }}</p>
 	</a>
-	<a href="{{ site.baseurl }}/blog.html" class="nav-item nav-blog {% if current[0] == 'blog' %}active{% endif %}">
+	<a href="{{ site.baseurl }}/blog.html" class="nav-item nav-blog {% if current[0] == 'blog' or currentUrl contains 'posts' %}active{% endif %}">
 		<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
 		  <g>
 		    <path d="M20.12 4.92a.715.715 0 0 0-.269-.05c-.319 0-.604.21-.708.522a.814.814 0 0 0 .478 1 9.651 9.651 0 0 1 4.96 4.622 9.65 9.65 0 0 1 .718 6.742.814.814 0 0 0 .512.982c.08.026.163.04.246.04a.74.74 0 0 0 .717-.54 11.19 11.19 0 0 0-.807-7.916 11.202 11.202 0 0 0-5.846-5.401z"/>

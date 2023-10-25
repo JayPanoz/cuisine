@@ -19,6 +19,8 @@ collections:
     output: true
   recipes:
     output: true
+  posts:
+    permalink: /:collection/:title:output_ext
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
@@ -34,6 +36,7 @@ translation:
     search: "Search"
     blog: "Blog"
     subscribe: "Subscribe"
+    read_more: "Read More"
     yield: "Yield"
     prep: "Prep"
     cook: "Cook"
@@ -59,6 +62,7 @@ translation:
     search: "Recherche"
     blog: "Blog"
     subscribe: "S’abonner"
+    read_more: "Lire le billet"
     yield: Parts
     prep: "Prép."
     cook: "Cuisson"
