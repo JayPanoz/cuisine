@@ -24,6 +24,7 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 translation:
   en:
+    recipes: "Recipes"
     components: "Components"
     ingredients: "Ingredients"
     directions: "Directions"
@@ -48,6 +49,7 @@ translation:
     tags: "Tags"
     tag_browse: "No recipes have any tags yet."
   fr:
+    recipes: "Recettes"
     components: "Préparations"
     ingredients: "Ingrédients"
     directions: "Instructions"
