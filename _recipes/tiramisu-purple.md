@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Tiramisu aux figues et myrtilles"
 image: purple-tiramisu/purple-tiramisu-1.jpg
-tags: dessert, froid, sans cuisson, framboise, mascarpone, biscuit cuiller, amande, crémeux
+tags: [dessert, froid, sans cuisson, framboise, mascarpone, biscuit cuiller, amande, crémeux]
 
 preptime: 20 min
 totaltime: 4 h 20 min

@@ -3,7 +3,7 @@
 layout: recipe
 title: "Baked oats"
 image: baked-oats-prune/baked-oats-prune-1.jpg
-tags: flocons d’avoine, miel, œuf, prune, avoine, cannelle, lait, compote de pomme, yaourt grec, mascarpone, ricotta
+tags: [flocons d’avoine, miel, œuf, prune, avoine, cannelle, lait, compote de pomme, yaourt grec, mascarpone, ricotta]
 
 preptime: 10 min
 cooktime: 55 minutes

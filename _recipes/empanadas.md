@@ -3,7 +3,7 @@
 layout: recipe
 title: "Empanadas"
 image: empanadas/empanadas-1.jpg
-tags: apéro, salé, thon, pâte brisée
+tags: [apéro, salé, thon, pâte brisée]
 
 preptime: 20 min
 cooktime: 20 min

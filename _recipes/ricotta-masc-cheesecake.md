@@ -3,7 +3,7 @@
 layout: recipe
 title: "Cheesecake à la ricotta et au mascarpone"
 image: ricotta-masc-cheesecake/ricotta-masc-cheesecake-1.jpg
-tags: cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four
+tags: [cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four]
 
 preptime: 30 min
 totaltime: 3 h

@@ -3,7 +3,7 @@
 layout: recipe
 title: "Nice cream cacao & noix de cajou"
 image: nice-cream/nice-cream-cacao-cajou.jpg
-tags: dessert, ice cream, banane, glace, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière, cacao, noix de cajou, cajou
+tags: [dessert, ice cream, banane, glace, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière, cacao, noix de cajou, cajou]
 
 preptime: 5 min
 yield: 2 portions

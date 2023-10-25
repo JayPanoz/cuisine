@@ -3,7 +3,7 @@
 layout: recipe
 title: "Berry White Special"
 image: berry-white/berry-white-1.jpg
-tags: special, sans cuisson, speculoos, mascarpone, café, sans four, lait condensé sucré, lait, lait condensé, espresso, myrtilles, mousse de lait, framboise, fruits rouges, fraise, mûre, groseille, cassis
+tags: [special, sans cuisson, speculoos, mascarpone, café, sans four, lait condensé sucré, lait, lait condensé, espresso, myrtilles, mousse de lait, framboise, fruits rouges, fraise, mûre, groseille, cassis]
 
 preptime: 30 min
 totaltime: 6 h

@@ -3,7 +3,7 @@
 layout: recipe
 title: "Clafoutis aux épinards"
 image: clafoutis-epinards/clafoutis-epinards-1.jpg
-tags: clafoutis, salé, flan, plat, épinards, carottes, œufs, ricotta
+tags: [clafoutis, salé, flan, plat, épinards, carottes, œufs, ricotta]
 
 preptime: 25 min
 cooktime: 45 min

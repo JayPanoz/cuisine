@@ -3,7 +3,7 @@
 layout: recipe
 title: "Riz aux épinards et à la feta"
 image: riz-feta/riz-feta.jpg
-tags: plat, salé, poêle, épinards, feta, navet, riz
+tags: [plat, salé, poêle, épinards, feta, navet, riz]
 
 preptime: 10 min
 cooktime: 20 min

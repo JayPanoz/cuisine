@@ -3,7 +3,7 @@
 layout: recipe
 title: "Tarte aux poires et au boudin"
 image: tarte-boudin/tarte-boudin-1.jpg
-tags: tarte, poire, boudin noir, bleu d’auvergne, fromage, tofu, sucré salé
+tags: [tarte, poire, boudin noir, bleu d’auvergne, fromage, tofu, sucré salé]
 
 preptime: 35 min
 cooktime: 55 min

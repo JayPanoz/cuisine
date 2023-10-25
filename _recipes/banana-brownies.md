@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Banana brownies"
 image: banana-brownie/banana-brownie-1.jpg
-tags: banane, muffin, cake, chocolat, moelleux, snack, brownie, compote de pomme, 3 ingrédients
+tags: [banane, muffin, cake, chocolat, moelleux, snack, brownie, compote de pomme, 3 ingrédients]
 
 preptime: 10 min
 cooktime: 20 min

@@ -3,7 +3,7 @@
 layout: recipe
 title: "Pudding au kaki"
 image: pudding-kaki/pudding-kaki-1.jpg
-tags: pudding, pain, récup, sauvetage, rassis, miel, kaki, œufs
+tags: [pudding, pain, récup, sauvetage, rassis, miel, kaki, œufs]
 
 preptime: 25 min
 cooktime: 55 minutes

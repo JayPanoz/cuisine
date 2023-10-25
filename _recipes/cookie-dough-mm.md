@@ -3,7 +3,7 @@
 layout: recipe
 title: "Cookie Dough M&M’s"
 image: cookie-dough-mm/cookie-dough-mm-1.jpg
-tags: snack, cru, cookie, sans cuisson, chocolat, bouchée, bites, M&M’s, M&M, crispy
+tags: [snack, cru, cookie, sans cuisson, chocolat, bouchée, bites, M&M’s, M&M, crispy]
 
 preptime: 25 min
 totaltime: 1 h

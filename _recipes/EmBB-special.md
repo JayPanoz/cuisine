@@ -3,7 +3,7 @@
 layout: recipe
 title: "Em’s Blueberry Special"
 image: EmBB-Special/embbs-1.jpg
-tags: special, sans cuisson, speculoos, beurre de cacahuète, myrtille, chocolat blanc, sans four
+tags: [special, sans cuisson, speculoos, beurre de cacahuète, myrtille, chocolat blanc, sans four]
 
 preptime: 30 min
 totaltime: 2 h 30 min

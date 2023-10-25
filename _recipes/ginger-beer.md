@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Ginger beer"
 image: ginger-beer/ginger-beer.jpg
-tags: boisson, fermentation, soda, gingembre, levure boulangère, liquide, cocktail
+tags: [boisson, fermentation, soda, gingembre, levure boulangère, liquide, cocktail]
 
 preptime: 20 min
 totaltime: 24 h

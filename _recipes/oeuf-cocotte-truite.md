@@ -3,7 +3,7 @@
 layout: recipe
 title: "Œuf cocotte à la truite"
 image: oeuf-cocotte-truite/oeuf-cocotte-truite-1.jpg
-tags: entrée, salé, truite, crème fraîche
+tags: [entrée, salé, truite, crème fraîche]
 
 preptime: 5 min
 cooktime: 15 min

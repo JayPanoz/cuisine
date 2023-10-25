@@ -3,7 +3,7 @@
 layout: recipe
 title: "Salade de pâtes au thon, tomate cerise et maïs"
 image: pasta-thon/pasta-thon-1.jpg
-tags: salade, entrée, plat, accompagnement, thon, pâtes, semoule, farine complète, maïs, tomate cerise, basilic, huile d’olive
+tags: [salade, entrée, plat, accompagnement, thon, pâtes, semoule, farine complète, maïs, tomate cerise, basilic, huile d’olive]
 
 preptime: 20 min
 cooktime: 12 min

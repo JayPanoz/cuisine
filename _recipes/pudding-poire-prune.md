@@ -3,7 +3,7 @@
 layout: recipe
 title: "Pudding poire prune"
 image: pudding-poire-prune/pudding-poire-prune-1.jpg
-tags: pudding, pain, récup, sauvetage, rassis, muscovado, poire, prune, œufs, 4 épices, lait, antigaspi
+tags: [pudding, pain, récup, sauvetage, rassis, muscovado, poire, prune, œufs, 4 épices, lait, antigaspi]
 
 preptime: 25 min
 cooktime: 55 minutes

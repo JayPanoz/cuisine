@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Glace au yaourt"
 image: glace-yaourt.jpg
-tags: snack, glace, sans sorbetière, recette de base, yaourt
+tags: [snack, glace, sans sorbetière, recette de base, yaourt]
 
 preptime: 10 min
 totaltime: 4 h 10 min

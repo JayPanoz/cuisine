@@ -19,37 +19,61 @@ collections:
     output: true
   recipes:
     output: true
+  posts:
+    permalink: /:collection/:title:output_ext
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 translation:
   en:
+    recipes: "Recipes"
     components: "Components"
     ingredients: "Ingredients"
     directions: "Directions"
     category: "Category"
     nutritional_information: "Nutritional Information"
-    component_based: 'This is a <strong class="blue">component-based recipe</strong>.'
+    component_based: 'This is a <strong class="accent">component-based recipe</strong>.'
     search: "Search"
     blog: "Blog"
     subscribe: "Subscribe"
+    read_more: "Read More"
     yield: "Yield"
     prep: "Prep"
     cook: "Cook"
     totaltime: "Total"
     storage: "Storage"
+    browse_by: "Browse by:"
+    courses: "Courses"
+    course_browse: "No recipes are marked as being for a specific course."
+    cuisines: "Cuisines"
+    cuisine_browse: "No recipes are marked as being for a specific cuisine."
+    diets: "Diets"
+    diet_browse: "No recipes are marked as being for a specific diet."
+    tags: "Tags"
+    tag_browse: "No recipes have any tags yet."
   fr:
+    recipes: "Recettes"
     components: "Préparations"
     ingredients: "Ingrédients"
     directions: "Instructions"
     category: "Catégorie"
     nutritional_information: "Informations nutritionnelles (théoriques)"
-    component_based: 'Cette recette est composée <strong class="blue">d’une ou plusieurs préparations</strong>.'
+    component_based: 'Cette recette est composée <strong class="accent">d’une ou plusieurs préparations</strong>.'
     search: "Recherche"
     blog: "Blog"
     subscribe: "S’abonner"
+    read_more: "Lire le billet"
     yield: Parts
     prep: "Prép."
     cook: "Cuisson"
     totaltime: "Total"
     storage: "Conservation"
+    browse_by: "Naviguer par:"
+    courses: "Type de plat"
+    course_browse: "Aucune recette n’a encore été taggée pour un type de plat."
+    cuisines: "Types de cuisine"
+    cuisine_browse: "Aucune recette n’a encore été taggée pour un type de cuisine."
+    diets: "Régimes alimentaires"
+    diet_browse: "Aucune recette n’a encore été taggée pour un type de régime alimentaire."
+    tags: "Tags"
+    tag_browse: "Aucune recette n’a encore été taggée."

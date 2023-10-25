@@ -3,7 +3,7 @@
 layout: recipe
 title: "Gnocchi aux tomates"
 image: gnocchi-tomate/gnocchi-tomate.jpg
-tags: entrée, plat, tomates, gnocchi, poêlée, coulis, mozza, mozzarella
+tags: [entrée, plat, tomates, gnocchi, poêlée, coulis, mozza, mozzarella]
 
 preptime: 15 min
 cooktime: 10 min

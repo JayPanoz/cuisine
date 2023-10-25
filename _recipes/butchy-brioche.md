@@ -3,7 +3,7 @@
 layout: recipe
 title: "Brioche Butchy"
 image: butchy-brioche/butchy-brioche-1.jpg
-tags: snack, cannelle, brioche, raisins secs, fleur d’oranger, 4 épices
+tags: [snack, cannelle, brioche, raisins secs, fleur d’oranger, 4 épices]
 
 preptime: 30 min
 cooktime: 30 min

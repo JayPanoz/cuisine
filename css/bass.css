@@ -855,8 +855,10 @@ body {
 }
 
 a {
-  color: #007FFF;
+  /* color: #007FFF; */
+  color: #CB4E06;
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
@@ -876,7 +878,7 @@ hr {
 
 .button {
   color: white;
-  background-color: #007FFF;
+  background-color: #fcba03;
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -912,7 +914,8 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: #007FFF;
+/*  border-color: #007FFF; */
+  border-color #CB4E06;
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5);
 }
 

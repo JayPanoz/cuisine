@@ -3,7 +3,7 @@
 layout: recipe
 title: "Tartelettes Crunch’ Em"
 image: crunchem/crunchem-1.jpg
-tags: tartelette, myrtille, fruit, Dinosaurus, seigle, beurre de cacahuète, chocolat blanc
+tags: [tartelette, myrtille, fruit, Dinosaurus, seigle, beurre de cacahuète, chocolat blanc]
 
 preptime: 1 h
 cooktime: 20 min

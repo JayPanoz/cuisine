@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Tiramisu en verrine"
 image: tiramisu-verrine/tiramisu-verrine-1.jpg
-tags: dessert, froid, sans cuisson, framboise, mascarpone, spéculoos, crémeux, express, rapide
+tags: [dessert, froid, sans cuisson, framboise, mascarpone, spéculoos, crémeux, express, rapide]
 
 preptime: 10 min
 yield: 2 portions

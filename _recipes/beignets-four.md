@@ -3,7 +3,7 @@
 layout: recipe
 title: "Beignets au four"
 image: beignets-four/beignets-four-1.jpg
-tags: snack, beignet, four, confiture, donut, sucre glace, levure boulangère, lait, repos, levée, pousse, boulangerie
+tags: [snack, beignet, four, confiture, donut, sucre glace, levure boulangère, lait, repos, levée, pousse, boulangerie]
 
 preptime: 40 min
 cooktime: 30 min
