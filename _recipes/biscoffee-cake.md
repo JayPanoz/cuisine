@@ -5,6 +5,7 @@ title: "Biscoffee Cakes"
 image: biscoffee/biscoffee-1.jpg
 cuisines: [américaine]
 courses: [goûter]
+tags: [cake]
 
 preptime: 20 min
 cooktime: 45 min

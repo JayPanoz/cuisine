@@ -5,6 +5,7 @@ title: "Berry Crumble"
 image: berry-crumble/berry-crumble-1.jpg
 cuisines: [américaine]
 courses: [goûter]
+tags: [cake]
 
 preptime: 20 min
 cooktime: 45 min

@@ -5,7 +5,7 @@ title: "Plumcake dinosaure allo Yogurt"
 image: dino-plumcake/dino-plumcake-1.jpg
 cuisines: [italienne]
 courses: [petit-déjeuner, goûter]
-tags: [sans beurre]
+tags: [cake, sans beurre]
 
 preptime: 20 min
 cooktime: 45 min

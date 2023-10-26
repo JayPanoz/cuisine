@@ -5,7 +5,7 @@ title:  "Ginger beer"
 image: ginger-beer/ginger-beer.jpg
 cuisines: [américaine]
 courses: [soda]
-tags: [fermentation, cocktail]
+tags: [fermentation, cocktail, liquide]
 
 preptime: 20 min
 totaltime: 24 h
