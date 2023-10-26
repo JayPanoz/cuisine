@@ -12,7 +12,7 @@ layout: default
 
   {% for post in site.posts %}
   <div class="post mb4">
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
     <p>{{ post.content | strip_html | truncatewords:20 }} <a href="{{ site.baseurl }}{{ post.url }}">{{ site.translation[site.language].read_more }}</a></p>
   </div>
   {% endfor %}

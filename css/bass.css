@@ -394,7 +394,7 @@ h6, .h6 { font-size: .75rem }
   .md-mx-auto { margin-left: auto; margin-right: auto; }
 
 }
-@media (min-width: 64em) {
+@media (min-width: 80em) {
 
   .lg-m0  { margin:        0 }
   .lg-mt0 { margin-top:    0 }
@@ -493,7 +493,7 @@ h6, .h6 { font-size: .75rem }
   .md-px4 { padding-left: 4rem; padding-right: 4rem }
 
 }
-@media (min-width: 64em) {
+@media (min-width: 80em) {
 
   .lg-p1  { padding: .5rem }
   .lg-py1 { padding-top: .5rem; padding-bottom: .5rem }
@@ -525,7 +525,7 @@ h6, .h6 { font-size: .75rem }
   .md-show { display: block !important }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 80em) {
   .lg-show { display: block !important }
 }
 
@@ -538,7 +538,7 @@ h6, .h6 { font-size: .75rem }
   .md-hide { display: none !important }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 80em) {
   .lg-hide { display: none !important }
 }
 
@@ -751,7 +751,7 @@ h6, .h6 { font-size: .75rem }
   }
 
 }
-@media (min-width: 64em) {
+@media (min-width: 80em) {
 
   .lg-col {
     float: left;
@@ -843,7 +843,7 @@ h6, .h6 { font-size: .75rem }
   .md-flex { display: flex }
   .md-flex > div { box-sizing: border-box }
 }
-@media (min-width: 64em) {
+@media (min-width: 80em) {
   .lg-flex { display: flex }
   .lg-flex > div { box-sizing: border-box }
 }
