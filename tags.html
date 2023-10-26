@@ -24,7 +24,7 @@ layout: default
 
       {% for tag in allTags %}
       <div data-tagged="{{ tag }}">
-        <h2><a name="{{ tag | downcase }}"></a>{{ tag }}</h2>
+        <h2><a name="{{ tag | capitalize }}"></a>{{ tag }}</h2>
         {% for recipe in site.recipes %}
         {% if recipe.tags contains tag %}
         <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
