@@ -3,7 +3,9 @@
 layout: recipe
 title: "Biscuits Dinosaure"
 image: dino/dino-1.jpg
-tags: [snack, biscuit, cannelle, chocolat, nappage, Dinosaurus]
+cuisines: [française]
+courses: [snack]
+tags: [biscuit]
 
 preptime: 1 h 20 m
 cooktime: 20 min

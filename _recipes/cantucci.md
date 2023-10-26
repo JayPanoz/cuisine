@@ -3,7 +3,9 @@
 layout: recipe
 title: "Cantucci aux amandes"
 image: cantucci/cantucci-1.jpg
-tags: [biscuit, Italie, amande, snack, craquant, sucre, canistrelli corse, fleur d’oranger]
+cuisines: [italienne, corse]
+courses: [petit-déjeuner, goûter]
+tags: [biscuit, craquant]
 
 preptime: 25 minutes
 cooktime: 45 minutes

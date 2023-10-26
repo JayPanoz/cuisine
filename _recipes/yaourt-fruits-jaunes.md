@@ -3,7 +3,9 @@
 layout: recipe
 title: "Yaourt aux fruits jaunes"
 image: yaourt-fruits-jaunes/yaourt-fruits-jaunes-1.jpg
-tags: [yaourt, grec, fruits jaunes, abricot, pêche, miel, nectarine, graines, sans cuisson]
+cuisines: [française]
+courses: [dessert, snack]
+tags: [sans cuisson]
 
 preptime: 5 min
 yield: 2 portions

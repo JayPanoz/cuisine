@@ -3,7 +3,9 @@
 layout: recipe
 title: "Tartelettes au melon curd"
 image: tartelette-melon/tartelette-melon-1.jpg
-tags: [tartelette, fruit, curd, beurre de cacahuète, melon, sirop d’érable, menthe, avoine, vanille]
+cuisines: [française]
+courses: [dessert, goûter]
+tags: [tarte, petit format]
 
 preptime: 40 min
 cooktime: 25 min

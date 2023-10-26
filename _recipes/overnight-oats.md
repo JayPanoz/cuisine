@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Overnight oats"
 image: overnight-oats/overnight-oats-1.jpg
-tags: [petit déjeuner, avoine, froid, sans cuisson, lendemain, fruits rouges, yaourt, healthy]
+cuisines: [américaine]
+courses: [petit-déjeuner]
+tags: [sans cuisson, healthy]
 
 preptime: 5 min
 totaltime: 6 h 

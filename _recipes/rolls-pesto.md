@@ -3,7 +3,8 @@
 layout: recipe
 title: "Roulés au pesto"
 image: rolls/rolls.jpg
-tags: [apéro, salé, pesto, pâte feuilletée, parmigiano, tapenade, rillette]
+cuisines: [américaine, française]
+courses: [apéritif]
 
 preptime: 45 min
 cooktime: 15 min

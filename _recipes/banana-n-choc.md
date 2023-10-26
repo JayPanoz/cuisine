@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Banana’n’Choc Cookies"
 image: banana-n-choc/banana-n-choc-1.jpg
-tags: [snack, cookie, banane, chocolat, sans œuf, cakeux, graines de chia, boisson végétale, vegan]
+cuisines: [américaine]
+courses: [snack]
+tags: [cookie, sans œuf]
 
 preptime: 25 min
 cooktime: 20 min

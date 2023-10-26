@@ -3,7 +3,9 @@
 layout: recipe
 title: "Cottage Dough"
 image: cottage-dough/cottage-dough-1.jpg
-tags: [snack, cru, cookie, sans cuisson, chocolat, bouchée, bites, cottage cheese, protéines, récupération, whey, avoine, amandes]
+cuisines: [américaine]
+courses: [snack, dessert]
+tags: [cookie, sans cuisson, protéiné, récupération]
 
 preptime: 10 min
 yield: 4 ramequins

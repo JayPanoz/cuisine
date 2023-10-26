@@ -3,7 +3,9 @@
 layout: recipe
 title: "Tarte aux pêches"
 image: tarte-peche/tarte-peche-1.jpg
-tags: [tarte, miel, fruit, miel, pêche, nappage neutre]
+cuisines: [française]
+courses: [dessert, goûter]
+tags: [tarte]
 
 preptime: 35 min
 cooktime: 20 min

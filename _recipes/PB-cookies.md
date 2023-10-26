@@ -3,7 +3,9 @@
 layout: recipe
 title:  "PB Cookies"
 image: PB-cookies/PB-cookies-1.jpg
-tags: [snack, cookie, beurre de cacahuète, chocolat, chunks, mâcher]
+cuisines: [américaine]
+courses: [snack]
+tags: [cookie]
 
 preptime: 15 min
 cooktime: 10 min

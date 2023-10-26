@@ -1,9 +1,11 @@
 ---
 
 layout: recipe
-title: "Peanut Butter Special"
+title: "Peanut Butter Special (PBS)"
 image: PB-Special/pbs-1.jpg
-tags: [special, sans cuisson, speculoos, beurre de cacahuète, chocolat, sans four]
+cuisines: [américaine]
+courses: [special]
+tags: [sans cuisson]
 
 preptime: 30 min
 totaltime: 2 h 30 min

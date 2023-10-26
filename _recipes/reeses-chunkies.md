@@ -3,7 +3,9 @@
 layout: recipe
 title: "Reese’s Chunkies"
 image: reeses-chunkies/reeses-chunkies-1.jpg
-tags: [cookie, beurre de cacahuète, chocolat, snack, croquant, beurre noisette, caramel]
+cuisines: [américaine]
+courses: [snack]
+tags: [cookie, Reese’s]
 
 preptime: 15 min
 cooktime: 15 min

@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Peanut Butter & Jelly Cups"
 image: pbj-cups/pbj-cups-1.jpg
-tags: [snack, tartelettes, beurre de cacahuète, confiture, gelée, myrtilles, cups]
+cuisines: [américaine]
+courses: [snack]
+tags: [bouchée]
 
 preptime: 25 min
 cooktime: 20 min

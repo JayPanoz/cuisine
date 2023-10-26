@@ -3,7 +3,9 @@
 layout: recipe
 title: "Salade de fruits d’été"
 image: salade-fruits-ete/salade-fruits-ete-1.jpg
-tags: [salade, dessert, sucré, melon, fruits rouges, myrtilles, mûres, framboises, citron]
+cuisines: [française]
+courses: [dessert, snack]
+tags: [salade sucrée]
 
 preptime: 10 min
 yield: 2 portions

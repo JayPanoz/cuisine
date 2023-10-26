@@ -3,7 +3,9 @@
 layout: recipe
 title: "Galettes de pomme de terre"
 image: galette-patate/galette-patate.jpg
-tags: [accompagnement, salé, poêle, pomme de terre, fromage râpé]
+cuisines: [américaine, française]
+courses: [petit-déjeuner, déjeuner, dîner]
+tags: [accompagnement]
 
 preptime: 15 min
 cooktime: 15 min

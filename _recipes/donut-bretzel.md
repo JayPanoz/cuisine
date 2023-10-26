@@ -3,7 +3,9 @@
 layout: recipe
 title: "Donut bretzel"
 image: donut-bretzel/donut-bretzel-1.jpg
-tags: [snack, cannelle, cacao, bretzel, gros sel, levure boulangère, lait, bicarbonate, repos, levée, boulangerie, sans œuf]
+cuisines: [américaine]
+courses: [petit-déjeuner, snack, goûter]
+tags: [donut, beignet, boulangerie, sans œuf]
 
 preptime: 40 min
 cooktime: 20 min

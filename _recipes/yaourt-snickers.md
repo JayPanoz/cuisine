@@ -3,7 +3,9 @@
 layout: recipe
 title: "Yaourt glacé façon Snickers"
 image: yaourt-snickers/yaourt-snickers-1.jpg
-tags: [yaourt, grec, Skyr, Snickers, chocolat, beurre de cacahuète, congélateur, cacahuète, vanille, fleur de sel]
+cuisines: [américaine]
+courses: [dessert, snack]
+tags: [3 ingrédients, glacé]
 
 preptime: 5 min
 totaltime: 25 min

@@ -3,7 +3,9 @@
 layout: recipe
 title: "Fluffernutter Cookie Sandwich"
 image: fluffernutter-cookie/fluffernutter-cookie-1.jpg
-tags: [snack, biscuit, avoine, vegan, sablé, beurre de cacahuète, sirop d’érable, chamallow, marshmallow, guimauve, crème de guimauve, fluff, cookie, sans œuf, sans beurre, sans huile]
+cuisines: [américaine]
+courses: [snack]
+tags: [cookie, sans œuf, sans beurre, sans huile]
 
 preptime: 35 min
 cooktime: 15 min

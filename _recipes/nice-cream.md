@@ -3,7 +3,9 @@
 layout: recipe
 title: "Nice cream"
 image: nice-cream/nice-cream-1.jpg
-tags: [dessert, ice cream, banane, glace, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière]
+cuisines: [américaine]
+courses: [snack, dessert]
+tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière]
 
 preptime: 5 min
 yield: 2 portions

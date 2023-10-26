@@ -3,7 +3,9 @@
 layout: recipe
 title: "Salade de fruits magique"
 image: salade-magique/salade-magique-1.jpg
-tags: [salade, dessert, sucré, melon, fruits rouges, myrtilles, mûres, framboises, citron]
+cuisines: [française]
+courses: [dessert, snack]
+tags: [salade sucrée]
 
 preptime: 10 min
 totaltime: 2 h 10 min

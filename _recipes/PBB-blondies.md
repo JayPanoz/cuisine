@@ -3,7 +3,9 @@
 layout: recipe
 title: "PB&B Blondies"
 image: PBB-blondies/PBB-blondies-1.jpg
-tags: [snack, blondie, brownie, chocolat, beurre de cacahuète, fleur de sel, banane, dégoulinant, gooey]
+cuisines: [américaine]
+courses: [snack]
+tags: [gooey]
 
 preptime: 20 min
 cooktime: 20 min

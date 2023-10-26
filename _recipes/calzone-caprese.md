@@ -3,7 +3,9 @@
 layout: recipe
 title: "Calzone caprese"
 image: calzone-caprese/calzone-caprese-1.jpg
-tags: [calzone, salé, pâte brisée, pâte à pizza, tomate, mozza, sans viande, basilic]
+cuisines: [italienne]
+courses: [plat, déjeuner, dîner]
+tags: [sans viande]
 
 preptime: 10 min
 cooktime: 25 min

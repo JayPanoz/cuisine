@@ -3,7 +3,9 @@
 layout: recipe
 title: "Quiche aux courgettes"
 image: quiche-courgette/quiche-courgette-1.jpg
-tags: [quiche, salé, pâte brisée, poulet, courgette, oignon]
+cuisines: [française]
+courses: [entrée, plat, déjeuner, dîner]
+tags: [quiche]
 
 preptime: 15 min
 cooktime: 45 min

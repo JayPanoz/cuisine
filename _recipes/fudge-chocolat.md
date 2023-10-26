@@ -3,7 +3,9 @@
 layout: recipe
 title: "Fudge au chocolat noir"
 image: fudge/fudge-1.jpg
-tags: [snack, chocolat, bouchée, fêtes, noël, sans cuisson, sans four]
+cuisines: [américaine]
+courses: [snack]
+tags: [bouchée, fêtes, Noël, sans cuisson]
 
 preptime: 10 min
 totaltime: 6 h 10 min

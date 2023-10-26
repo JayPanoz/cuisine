@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Cookies moelleux aux noisettes"
 image: banana-nut-cookie/banana-nut-cookie-1.jpg
-tags: [snack, cookie, banane, chocolat, noisette, avoine, moelleux, Belvita]
+cuisines: [américaine]
+courses: [petit-déjeuner, snack]
+tags: [cookie]
 
 preptime: 15 min
 cooktime: 20 min

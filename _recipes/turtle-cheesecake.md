@@ -3,7 +3,9 @@
 layout: recipe
 title: "Cheesecake Turtle"
 image: turtle-cheesecake/turtle-cheesecake-1.jpg
-tags: [cheesecake, sans cuisson, crust, ricotta, mascarpone, sucre glace, sans four, turtle, caramel, pécan, cacao, chocolat]
+cuisines: [américaine]
+courses: [dessert, goûter]
+tags: [cheesecake, sans cuisson, Turtle]
 
 preptime: 45 min
 totaltime: 3 h 15 min

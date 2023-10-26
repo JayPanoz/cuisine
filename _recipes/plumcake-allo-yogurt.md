@@ -3,7 +3,9 @@
 layout: recipe
 title: "Plumcake allo Yogurt"
 image: plumcake/plumcake-1.jpg
-tags: [snack, moelleux, cake, yaourt grec, sans beurre]
+cuisines: [italienne]
+courses: [petit-déjeuner, goûter]
+tags: [sans beurre]
 
 preptime: 20 min
 cooktime: 45 min

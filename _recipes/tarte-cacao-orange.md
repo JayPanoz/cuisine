@@ -3,7 +3,9 @@
 layout: recipe
 title: "Tarte cacao et orange"
 image: tarte-cacao-orange/tarte-cacao-orange-1.jpg
-tags: [tarte, cacao, fruit, orange, crème pâtissière, huile d’olive, chocolat]
+cuisines: [française]
+courses: [dessert, goûter]
+tags: [tarte]
 
 preptime: 25 min
 cooktime: 25 min

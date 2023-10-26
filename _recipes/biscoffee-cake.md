@@ -3,7 +3,8 @@
 layout: recipe
 title: "Biscoffee Cakes"
 image: biscoffee/biscoffee-1.jpg
-tags: [snack, cakes, crumble, Speculoos, Biscoff, myrtille, cannelle]
+cuisines: [américaine]
+courses: [goûter]
 
 preptime: 20 min
 cooktime: 45 min

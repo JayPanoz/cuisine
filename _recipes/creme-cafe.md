@@ -3,7 +3,9 @@
 layout: recipe
 title: "Crème de café"
 image: creme-cafe/creme-cafe-1.jpg
-tags: [snack, crème, mousse, café, 3 ingrédients, sans cuisson, ramequin, chocolat, peu calorique]
+cuisines: [française]
+courses: [dessert]
+tags: [3 ingrédients, sans cuisson, allégé]
 
 preptime: 30 min
 totaltime: 1 jour

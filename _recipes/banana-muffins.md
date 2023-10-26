@@ -3,7 +3,8 @@
 layout: recipe
 title: "Banana Muffins"
 image: banana-muffins/banana-muffins-1.jpg
-tags: [banane, muffin, cake, chocolat, moelleux, snack]
+cuisines: [américaine]
+courses: [snack]
 
 preptime: 15 min
 cooktime: 35 min

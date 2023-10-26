@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Glace au yaourt"
 image: glace-yaourt.jpg
-tags: [snack, glace, sans sorbetière, recette de base, yaourt]
+cuisines: [américaine, française]
+courses: [snack, dessert]
+tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière]
 
 preptime: 10 min
 totaltime: 4 h 10 min

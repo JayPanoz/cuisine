@@ -3,7 +3,9 @@
 layout: recipe
 title: "Smoothie banane menthe melon"
 image: smoothie-melon/smoothie-melon-1.jpg
-tags: [snack, petit-dej, smoothie, banane, froid, blender, mixer, sans cuisson, melon, lait, sucre complet, menthe]
+cuisines: [américaine]
+courses: [snack]
+tags: [blender, mixer, sans cuisson, liquide]
 
 preptime: 5 min
 yield: 2 portions

@@ -3,7 +3,9 @@
 layout: recipe
 title: "Cottage Dough Apéro"
 image: cottage-apero/cottage-apero-1.jpg
-tags: [snack, cru, sans cuisson, bouchée, bites, cottage cheese, apéro, apéritif, cracker, bretzel, craquelin, chips, olives, tomate séchée, poivron grillé, cornichon, légumes]
+cuisines: [américaine]
+courses: [apéritif]
+tags: [sans cuisson]
 
 preptime: 10 min
 yield: 4 ramequins

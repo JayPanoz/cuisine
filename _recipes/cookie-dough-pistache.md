@@ -3,7 +3,9 @@
 layout: recipe
 title: "Cookie Dough pistaches chocolat blanc"
 image: cookie-dough-pistache/cookie-dough-pistache-1.jpg
-tags: [snack, cru, cookie, sans cuisson, chocolat, chocolat blanc, pistache, bouchée, bites]
+cuisines: [américaine]
+courses: [snack, dessert]
+tags: [cookie, sans cuisson]
 
 preptime: 25 min
 totaltime: 1 h

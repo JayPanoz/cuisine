@@ -3,7 +3,9 @@
 layout: recipe
 title: "Muffins salés au jambon et fromage"
 image: muffin-jambon/muffin-jambon-1.jpg
-tags: [apéro, muffin, salé, jambon, fromage, bouchée]
+cuisines: [américaine]
+courses: [apéritif]
+tags: [petit format]
 
 preptime: 15 min
 cooktime: 30 min

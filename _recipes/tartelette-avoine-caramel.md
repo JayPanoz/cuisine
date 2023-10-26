@@ -3,7 +3,9 @@
 layout: recipe
 title: "Tartelettes avoine et caramel"
 image: tartelette-avoine-caramel/tartelette-avoine-caramel-1.jpg
-tags: [tartelette, avoine, caramel, beurre salé, fourrage, garniture]
+cuisines: [française]
+courses: [snack]
+tags: [tarte, bouchée]
 
 preptime: 1 h
 cooktime: 15 min

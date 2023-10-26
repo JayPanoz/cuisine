@@ -3,7 +3,9 @@
 layout: recipe
 title: "Salade de pois chiches"
 image: salade-pois/salade-pois-1.jpg
-tags: [salade, entrée, plat, accompagnement, pois chiches, vinaigrette, tomates, concombre, été, cottage cheese, protéines, récupération, hydratation]
+cuisines: [française]
+courses: [entrée, déjeuner, dîner]
+tags: [accompagnement, été, protéiné, récupération, hydratation, salade]
 
 preptime: 20 min
 yield: 4 portions

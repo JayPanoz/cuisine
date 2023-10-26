@@ -3,7 +3,9 @@
 layout: recipe
 title: "Plumcake dinosaure allo Yogurt"
 image: dino-plumcake/dino-plumcake-1.jpg
-tags: [snack, moelleux, cake, seigle, nappage, Dinosaurus, yaourt grec, sans beurre]
+cuisines: [italienne]
+courses: [petit-déjeuner, goûter]
+tags: [sans beurre]
 
 preptime: 20 min
 cooktime: 45 min

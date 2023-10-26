@@ -3,7 +3,9 @@
 layout: recipe
 title: "Cookie Dough"
 image: cookie-dough/cookie-dough-1.jpg
-tags: [snack, cru, cookie, sans cuisson, chocolat, bouchée, bites]
+cuisines: [américaine]
+courses: [snack, dessert]
+tags: [cookie, sans cuisson]
 
 preptime: 25 min
 totaltime: 1 h

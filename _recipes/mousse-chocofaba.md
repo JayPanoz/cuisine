@@ -3,7 +3,9 @@
 layout: recipe
 title: "Mousse au chocolat et aquafaba"
 image: mousse-chocofaba/mousse-chocofaba-1.jpg
-tags: [dessert, mousse, chocolat, sans œuf, aquafaba, 4 ingrédients, monter en neige]
+cuisines: [française]
+courses: [dessert]
+tags: [sans œuf, 4 ingrédients]
 
 preptime: 10 min
 totaltime: 2 h 10 min

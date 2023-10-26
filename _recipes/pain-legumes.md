@@ -3,7 +3,9 @@
 layout: recipe
 title: "Pain aux légumes"
 image: pain-legumes/pain-legumes-1.jpg
-tags: [cake, salé, pain, apéro, plat, carottes, courgettes, poivron]
+cuisines: [française]
+courses: [apéritif, entrée, déjeuner, dîner]
+tags: [cake salé]
 
 preptime: 30 min
 cooktime: 55 min 

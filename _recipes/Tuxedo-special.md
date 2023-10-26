@@ -3,7 +3,9 @@
 layout: recipe
 title: "Tuxedo Special"
 image: tuxedo-special/tuxedo-1.jpg
-tags: [special, sans cuisson, cacao, chocolat blanc, chocolat noir, chocolat, mousse, ganache, sans four]
+cuisines: [américaine]
+courses: [special]
+tags: [sans cuisson]
 
 preptime: 30 min
 totaltime: 5 h 

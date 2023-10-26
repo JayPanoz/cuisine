@@ -3,7 +3,9 @@
 layout: recipe
 title: "Speculoos"
 image: speculoos/speculoos-1.jpg
-tags: [snack, biscuit, speculoos, 4 épices, cannelle, muscade, croquant]
+cuisines: [française, belge]
+courses: [snack]
+tags: [biscuit]
 
 preptime: 30 min
 cooktime: 15 min

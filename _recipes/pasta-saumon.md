@@ -3,7 +3,8 @@
 layout: recipe
 title: "Pâtes au saumon"
 image: pates-saumon/pates-saumon-1.jpg
-tags: [entrée, plat, saumon, pâtes, semoule, farine complète, sucrine, oignon, champignon]
+cuisines: [italienne, française]
+courses: [entrée, plat, déjeuner, dîner]
 
 preptime: 15 min
 cooktime: 12 min

@@ -3,7 +3,9 @@
 layout: recipe
 title: "Tarte aux myrtilles et crème ricotta"
 image: tarte-myrtille/tarte-myrtille-1.jpg
-tags: [tarte, miel, fruit, ricotta, myrtilles, nappage neutre]
+cuisines: [française]
+courses: [dessert, goûter]
+tags: [tarte]
 
 preptime: 35 min
 cooktime: 20 min

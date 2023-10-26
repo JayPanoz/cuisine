@@ -3,7 +3,8 @@
 layout: recipe
 title:  "PB&B Brookie"
 image: pbb-brookie/pbb1.jpg
-tags: [snack, brookie, goûter, beurre de cacahuète]
+cuisines: [américaine]
+courses: [snack]
 
 preptime: 45 min
 cooktime: 20 min

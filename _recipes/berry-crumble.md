@@ -3,7 +3,8 @@
 layout: recipe
 title: "Berry Crumble"
 image: berry-crumble/berry-crumble-1.jpg
-tags: [snack, cake, crumble, framboise, myrtille, cannelle, yaourt grec, crème épaisse]
+cuisines: [américaine]
+courses: [goûter]
 
 preptime: 20 min
 cooktime: 45 min

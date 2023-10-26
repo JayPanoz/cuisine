@@ -3,7 +3,9 @@
 layout: recipe
 title: "Quiche raclette"
 image: quiche-misc/quiche-raclette.jpg
-tags: [quiche, salé, fromage, raclette, jambon, rapide]
+cuisines: [française]
+courses: [entrée, plat, déjeuner, dîner]
+tags: [quiche]
 
 preptime: 15 min
 cooktime: 45 min

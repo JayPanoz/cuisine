@@ -3,7 +3,9 @@
 layout: recipe
 title: "Tarte aux pommes"
 image: tarte-pomme/tarte-pomme-1.jpg
-tags: [tarte, pomme, fruit, Dinosaurus, seigle, crème fraîche]
+cuisines: [française]
+courses: [dessert, goûter]
+tags: [tarte]
 
 preptime: 35 min
 cooktime: 35 min

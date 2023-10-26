@@ -3,7 +3,9 @@
 layout: recipe
 title: "Cake citron pavot truite"
 image: cake-truite/cake-truite-1.jpg
-tags: [cake, salé, apéro, plat, citron, pavot, saumon, truite, lait fermenté]
+cuisines: [française]
+courses: [apéritif, entrée, déjeuner, dîner]
+tags: [cake salé]
 
 preptime: 15 min
 cooktime: 55 min

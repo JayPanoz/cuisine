@@ -3,7 +3,9 @@
 layout: recipe
 title: "Beignets façon Sachertorte"
 image: beignets-sacher/beignets-sacher-1.jpg
-tags: [snack, beignet, four, donut, sachertorte, cacao, chocolat, abricot, confiture, glaçage levure boulangère, lait, repos, levée, pousse, boulangerie]
+cuisines: [américaine, autrichienne]
+courses: [petit-déjeuner, snack, goûter]
+tags: [donut, beignet, boulangerie]
 
 preptime: 25 min
 cooktime: 20 min

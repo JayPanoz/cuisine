@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Banana Cocoats Cookies"
 image: banana-cocoats/banana-cocoats-1.jpg
-tags: [snack, cookie, banane, cacao, graines, avoine, moelleux, healthy]
+cuisines: [américaine]
+courses: [snack]
+tags: [cookie, healthy]
 
 preptime: 10 min
 cooktime: 20 min

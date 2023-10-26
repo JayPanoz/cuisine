@@ -3,7 +3,9 @@
 layout: recipe
 title: "Smoothie protéiné"
 image: smoothie-proteine/smoothie-proteine-1.jpg
-tags: [dessert, snack, smoothie, banane, froid, blender, mixer, sans cuisson, skyr, yaourt grec, fromage blanc, petit suisse, abricot, lait, cannelle, miel]
+cuisines: [américaine]
+courses: [snack]
+tags: [blender, mixer, sans cuisson, protéiné, liquide]
 
 preptime: 5 min
 yield: 1 portion

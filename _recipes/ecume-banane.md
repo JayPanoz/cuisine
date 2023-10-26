@@ -3,7 +3,9 @@
 layout: recipe
 title: "Écume de banane et de mangue"
 image: ecume-banane/ecume-banane-1.jpg
-tags: [dessert, mousse, banane, manque, kiwi, blanc d’œuf, léger, sans cuisson]
+cuisines: [française]
+courses: [dessert]
+tags: [allégé, sans cuisson]
 
 preptime: 20 min
 totaltime: 50 min

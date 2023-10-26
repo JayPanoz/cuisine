@@ -3,7 +3,9 @@
 layout: recipe
 title: "Quiche tomate mozza"
 image: Quiche-tomate-mozza/quiche-tomate-mozza-1.jpg
-tags: [quiche, salé, pâte brisée, poulet, tomate, mozza, sans viande]
+cuisines: [française]
+courses: [entrée, plat, déjeuner, dîner]
+tags: [quiche, sans viande]
 
 preptime: 15 min
 cooktime: 45 min

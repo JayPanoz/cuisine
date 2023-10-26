@@ -3,7 +3,9 @@
 layout: recipe
 title:  "Tiramisu aux abricots"
 image: tiramisu-abricot/tiramisu-abricot-1.jpg
-tags: [dessert, froid, sans cuisson, abricot, mascarpone, biscuit, amaretti, morbidi, pistache, amande, crémeux]
+cuisines: [italienne]
+courses: [dessert, goûter]
+tags: [sans cuisson, tiramisu]
 
 preptime: 20 min
 totaltime: 1 h 20 min

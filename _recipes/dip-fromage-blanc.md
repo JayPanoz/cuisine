@@ -3,7 +3,9 @@
 layout: recipe
 title: "Dip au fromage blanc"
 image: dip-fromage-blanc/dip-fromage-blanc-1.jpg
-tags: [salade, apéro, dip, accompagnement, fromage blanc, herbes, citron, persil, ciboulette, ail, échalotte, hot sauce, paprika]
+cuisines: [française]
+courses: [apéritif]
+tags: [accompagnement]
 
 preptime: 10 min
 

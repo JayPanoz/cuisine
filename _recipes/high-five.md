@@ -3,7 +3,9 @@
 layout: recipe
 title: "High Five"
 image: high-five/high-five-1.jpg
-tags: [snack, sans cuisson, bretzel, beurre de cacahuète, chocolat, bretzel apéritif, sucré salé, dattes, caramel, cacahuètes, sans four]
+cuisines: [américaine]
+courses: [snack]
+tags: [sans cuisson, sucré-salé]
 
 preptime: 30 min
 totaltime: 3 h 30 min 

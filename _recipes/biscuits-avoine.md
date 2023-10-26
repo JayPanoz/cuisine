@@ -3,7 +3,8 @@
 layout: recipe
 title: "Biscuits à l’avoine"
 image: biscuit-avoine/biscuit-avoine-1.jpg
-tags: [snack, biscuit, raisins secs, graines de chia, riz soufflé, corn flakes, healthy, santé]
+courses: [petit-déjeuner, snack]
+tags: [biscuit, bouchée, healthy]
 
 preptime: 10 min
 cooktime: 20 min

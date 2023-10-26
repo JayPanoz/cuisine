@@ -3,7 +3,9 @@
 layout: recipe
 title: "Spanakopita"
 image: spanakopita/spanakopita-1.jpg
-tags: [phyllo, filo, pâte, tourte, friand, tarte, épinards, feta, fromage]
+cuisines: [grecque]
+courses: [entrée, plat, déjeuner, dîner]
+tags: [tourte, friand]
 
 preptime: 15 min
 cooktime: 30 min

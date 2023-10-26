@@ -3,7 +3,8 @@
 layout: recipe
 title: "Gratin de courgettes"
 image: gratin-courgette/gratin-courgette-1.jpg
-tags: [plat, salé, gratin, légume, courgette, poulet, fromage]
+cuisines: [française]
+courses: [plat, déjeuner, dîner]
 
 preptime: 30 min
 cooktime: 20 min

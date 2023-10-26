@@ -3,7 +3,9 @@
 layout: recipe
 title: "Cake chèvre-épinards"
 image: cake-epinards/cake-epinards.jpg
-tags: [cake, salé, apéro, plat, épinards, fromage, fromage de chèvre]
+cuisines: [française]
+courses: [apéritif, entrée, déjeuner, dîner]
+tags: [cake salé]
 
 preptime: 15 min
 cooktime: 55 min

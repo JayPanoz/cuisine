@@ -3,7 +3,9 @@
 layout: recipe
 title: "Salade au chèvre, figues, poires et miel"
 image: salade-figue-poire/salade-figue-poire-1.jpg
-tags: [salade, entrée, sucré-salé, figue, poire, miel, chèvre, fromage frais, roquette, vinaigrette, sucrine, graines]
+cuisines: [française]
+courses: [entrée, déjeuner, dîner]
+tags: [salade, sucré-salé]
 
 preptime: 10 min
 cooktime: 20 min

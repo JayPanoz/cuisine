@@ -3,7 +3,9 @@
 layout: recipe
 title: "Shortbread au cacao et son"
 image: cacao-son/cacao-son-1.jpg
-tags: [snack, biscuit, avoine, cacao, beurre, shortbread]
+cuisines: [britannique]
+courses: [snack]
+tags: [biscuit]
 
 preptime: 30 min
 cooktime: 30 min

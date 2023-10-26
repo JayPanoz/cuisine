@@ -3,7 +3,9 @@
 layout: recipe
 title: "Duo de tartes au cacao"
 image: tarte-cacao/tarte-cacao-1.jpg
-tags: [tarte, cacao, fruit, kiwi, citron, pavot, crème pâtissière, curd, huile d’olive]
+cuisines: [française]
+courses: [dessert, goûter]
+tags: [tarte]
 
 preptime: 35 min
 cooktime: 25 min

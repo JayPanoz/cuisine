@@ -3,7 +3,8 @@
 layout: recipe
 title: "Crumble aux pêches et aux abricots"
 image: crumble-fruits/crumble-fruits-1.jpg
-tags: [snack, crumble, de saison, pêche, abricot, sucre de canne, seigle]
+cuisines: [britannique]
+courses: [dessert, goûter]
 
 preptime: 20 min
 cooktime: 25 min

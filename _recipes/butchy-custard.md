@@ -3,7 +3,9 @@
 layout: recipe
 title: "Butchy’s Custard Rolls"
 image: butchy-custard/butchy-custard-1.jpg
-tags: [snack, brioche, crème pâtissière, pépites de chocolat, roll, roulé, glaçage citron]
+cuisines: [allemande]
+courses: [petit-déjeuner, goûter]
+tags: [brioche, roll, boulangerie]
 
 preptime: 45 min
 cooktime: 30 min

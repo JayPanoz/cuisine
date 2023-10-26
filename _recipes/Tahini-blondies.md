@@ -3,7 +3,9 @@
 layout: recipe
 title: "Blondies au tahini"
 image: tahini-blondies/tahini-blondies-1.jpg
-tags: [snack, blondie, brownie, chocolat noir, purée de sésame, banane, miel, fleur de sel, tahini, gooey, épeautre]
+cuisines: [américaine]
+courses: [snack]
+tags: [gooey]
 
 preptime: 20 min
 cooktime: 20 min

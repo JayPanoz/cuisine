@@ -3,7 +3,9 @@
 layout: recipe
 title: "Praliné Special"
 image: praline-special/praline-special-1.jpg
-tags: [special, sans cuisson, praline, chocolat, pralinoise, sans four, ganache]
+cuisines: [américaine]
+courses: [special]
+tags: [sans cuisson]
 
 preptime: 30 min
 totaltime: 2 h

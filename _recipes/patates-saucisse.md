@@ -3,7 +3,8 @@
 layout: recipe
 title: "Poêlée de pomme de terres"
 image: sausage-potato/sausage-potato.jpg
-tags: [saucisse, plat, patates, choufleur, champignon, herbes, carottes, navet nouveau, persil]
+cuisines: [française]
+courses: [plat, déjeuner, dîner]
 
 preptime: 25 min
 cooktime: 20 min

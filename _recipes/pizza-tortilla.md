@@ -3,7 +3,8 @@
 layout: recipe
 title: "Pizza tortilla"
 image: pizza-tortilla/pizza-tortilla.jpg
-tags: [salé, apéro, pizza, tortilla, thon, tomates, roquette, chèvre]
+cuisines: [italienne, mexicaine]
+courses: [apéritif, entrée]
 
 preptime: 10 min
 cooktime: 15 min

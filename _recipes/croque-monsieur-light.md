@@ -3,7 +3,9 @@
 layout: recipe
 title: "Croque-monsieur allégé"
 image: croque-allege/croque-allege-1.jpg
-tags: [plat, salé, four, sandwich, béchamel, jambon, fromage, protéines]
+cuisines: [française]
+courses: [plat, déjeuner, dîner]
+tags: [sandwich, allégé, protéiné]
 
 preptime: 25 min
 cooktime: 20 min

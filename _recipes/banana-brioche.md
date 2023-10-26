@@ -3,7 +3,9 @@
 layout: recipe
 title: "Banana brioche"
 image: banana-brioche/banana-brioche-1.jpg
-tags: [snack, brioche, pralin, praliné, amandes, noisettes, caramélisé, beurre, roll, roulé, banane]
+cuisines: [américaine, française]
+courses: [petit-déjeuner, goûter]
+tags: [brioche, roll, boulangerie]
 
 preptime: 30 min
 cooktime: 30 min
