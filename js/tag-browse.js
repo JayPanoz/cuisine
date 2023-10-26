@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", () => {
       let parentEl = el.parentNode;
       if (parentEl.hasAttribute("data-tag-label")) {
         if (parentEl.classList.contains("bg-accent")) {
-          console.log("accent");
           parentEl.classList.add("bg-gray");
           parentEl.classList.remove("bg-accent");
           let taggedSelector = "[data-tagged='" + parentEl.dataset.tagLabel + "']";
