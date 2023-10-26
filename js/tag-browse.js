@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
   tagList.addEventListener("click", (event) => {
     handleTagEvent(event);
   });
-  tagList.addEventListener("touchstart", (event) => {
+  tagList.addEventListener("touchend", (event) => {
     handleTagEvent(event);
   });
 
