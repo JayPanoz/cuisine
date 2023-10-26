@@ -23,7 +23,7 @@ layout: default
       {% endunless %}
 
       {% for tag in allTags %}
-      <div data-tagged="{{ tag }}">
+      <div data-tagged="{{ tag }}" class="tag-result-container hide">
         <h2 class="capitalize"><a name="{{ tag | capitalize }}"></a>{{ tag }}</h2>
         {% for recipe in site.recipes %}
         {% if recipe.tags contains tag %}

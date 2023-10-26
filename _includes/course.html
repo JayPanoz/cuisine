@@ -1,6 +1,7 @@
+<div id="tag-list">
 {% for course in include.courses %}
 {% unless course == empty %}
-<span title="Course" class="button button-outline h5 bg-gray white border-1 mb1 capitalize nowrap" itemprop="recipeCategory" data-tag-type="course" data-tag-name="{{ course }}">
+<span title="Course" class="button button-outline h5 bg-gray white border-1 mb1 capitalize nowrap" itemprop="recipeCategory" data-tag-type="course" data-tag-label="{{ course }}">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="14" height="14" fill="currentColor">
     <path d="M471 257a214 214 0 00-429 0h429z"/>
     <circle cx="256.4" cy="30.2" r="28"/>
@@ -10,3 +11,4 @@
 </span>
 {% endunless %}
 {% endfor %}
+</div>
