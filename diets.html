@@ -25,7 +25,7 @@ layout: default
       {% for diet in allTags %}
       <div data-tagged="{{ diet }}">
         {% assign dietKey = diet | append:"Diet" %}
-        <h2><a name="{{ diet | capitalize }}"></a>{{ site.data.diets[dietKey].name }}
+        <h2 class="capitalize"><a name="{{ diet | capitalize }}"></a>{{ site.data.diets[dietKey].name }}
         <sup class="h5" style="cursor: help; text-transform: none;" title="{{ site.data.diets[dietKey].description }}">&#9432;</sup></h2>
         {% for recipe in site.recipes %}
         {% if recipe.diets contains diet %}

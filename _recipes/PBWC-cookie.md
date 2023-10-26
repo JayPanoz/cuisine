@@ -4,7 +4,8 @@ layout: recipe
 title: "PB Cookies chocolat blanc noisettes"
 image: pbwc-cookie/pbwc1.jpg
 cuisines: [américaine]
-courses: [cookie, snack]
+courses: [snack]
+tags: [cookie]
 
 preptime: 30 min
 cooktime: 10 min
