@@ -1,16 +1,11 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const tagList = document.querySelector("#tag-list");
-  tagList.addEventListener("click", (event) => {
+  const handleTagEvent = (event) => {
     event.preventDefault();
     event.stopPropagation();
-    console.log(event.target);
     if (event.target.tagName.toLowerCase() === "a") {
-      console.log("ok check tag");
       let el = event.target;
       let parentEl = el.parentNode;
-      console.log(parentEl);
       if (parentEl.hasAttribute("data-tag-label")) {
-        console.log("ok dataset");
         if (parentEl.classList.contains("bg-accent")) {
           console.log("accent");
           parentEl.classList.add("bg-gray");
@@ -19,7 +14,6 @@ document.addEventListener("DOMContentLoaded", () => {
           let sec = document.querySelector(taggedSelector);
           sec.classList.add("hide");
         } else {
-          console.log("not accent")
           parentEl.classList.add("bg-accent");
           parentEl.classList.remove("bg-gray");
           let taggedSelector = "[data-tagged='" + parentEl.dataset.tagLabel + "']";
@@ -28,6 +22,14 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       }
     }
+  }
+
+  const tagList = document.querySelector("#tag-list");
+  tagList.addEventListener("click", (event) => {
+    handleTagEvent(event);
+  });
+  tagList.addEventListener("touchStart", (event) => {
+    handleTagEvent(event);
   });
 
   if (window.location.hash.length > 1) {
