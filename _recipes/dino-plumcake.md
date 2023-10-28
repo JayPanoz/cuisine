@@ -30,7 +30,7 @@ ingredients:
 
 directions:
 - Préchauffez le four à 160°C.
-- Blanchissez les oeufs avec le sucre et le sel. 
+- Blanchissez les oeufs avec le sucre jusqu’à doublement du volume du mélange. 
 - Versez l'extrait de vanille et mélangez.
 - Ajoutez l'huile petit à petit en continuant à battre. 
 - Ajoutez 2 cuillères à soupe des ingrédients secs tamisés et mélangés (farines, levure, bicarbonate, sel) en continuant à battre. 
