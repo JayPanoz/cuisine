@@ -71,7 +71,7 @@ translation:
     storage: "Conservation"
     tip: "Astuce"
     browse_by: "Naviguer par:"
-    courses: "Type de plat"
+    courses: "Types de plat"
     course_browse: "Aucune recette n’a encore été taggée pour un type de plat."
     cuisines: "Types de cuisine"
     cuisine_browse: "Aucune recette n’a encore été taggée pour un type de cuisine."
