@@ -13,6 +13,7 @@ totaltime: 4 h
 yield: 12 tranches
 
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante. 2–3 mois au congélateur.
+tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ingredients:
 - 250g de farine d’épeautre
@@ -56,7 +57,5 @@ Inspirée de la brioche Saint-Genix, ou brioche Labully du nom de son créateur,
 Le résultat sera moelleux, filandreux et aéré, fondant (le sucre rose d’enrobage) et croquant (les amandes) si vous réussissez votre coup, et le tout sans trop de matière grasse par rapport à la recette d’origine – notamment du côté des acides gras saturés, qui sont à limiter. 
 
 Il ne devrait même pas y avoir besoin d’en ajouter puisque le résultat ne devrait pas être sec. Le secret, c’est de pétrir consciencieusement pendant 10 bonnes minutes – et à basse vitesse au robot. La pâte doit rester légèrement collante et montrer une belle elasticité quand on tire dessus. Ensuite, une levure de qualité devrait s’occuper du reste.
-
-Astuce&nbsp;: si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ![En fondant lors de la cuisson, les flaques de sucre fondu des pralines roses apporte une belle humidité. Si la mie s’est bien développée après un pétrissage rigoureux, on a l’impression de manger un nuage.](../images/butchy-genix/butchy-genix-2.jpg)

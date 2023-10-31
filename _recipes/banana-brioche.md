@@ -13,6 +13,7 @@ totaltime: 4 h
 yield: 8 roulés
 
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
+tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ingredients:
 - Pour la brioche:
@@ -63,7 +64,5 @@ Et voilà la résultat. Une brioche dans laquelle la banane en purée remplace l
 Le pralin étant des morceaux d’amandes et de noisettes caramélisés, inutile de souligner qu’on ne prend pas trop de risque ici, puisque ce sont des accords qui fonctionnent particulièrement bien avec la banane. 
 
 <i lang="en">Enjoy!</i>
-
-Astuce&nbsp;: si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ![La banane apporte un moelleux et un fondant absolument irrésistible. À la mâche cela peut même rappeler l’effet du brownie bien dégoulinant au centre.](../images/banana-brioche/banana-brioche-2.jpg)

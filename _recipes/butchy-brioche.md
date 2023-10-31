@@ -13,6 +13,7 @@ totaltime: 4 h
 yield: 8 brioches
 
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
+tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ingredients:
 - 250g de farine T45–T55
@@ -54,7 +55,5 @@ directions:
 ---
 
 Une brioche pour l’hiver, avec des saveurs qui rappellent le pain d’épice. La particularité nous vient d’Allemagne puisque cette brioche utilise de la crème fraîche épaisse.
-
-Astuce&nbsp;: si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ![Avec le glaçage à l’orange qui imbibe la brioche, on obtient un résultat bien moelleux. Avec la cannelle par-dessus on obtient une belle croûte hyper gourmande.](../images/butchy-brioche/butchy-brioche-2.jpg)

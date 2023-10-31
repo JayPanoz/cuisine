@@ -1,0 +1,6 @@
+{% assign thisRecipe = include.recipe %}
+{% if thisRecipe.tip %}
+<h4 class="accent mt0 mb2 xs-center">{{ site.translation[site.language].tip }}</h4>
+<p>{{ thisRecipe.tip }}</p>
+{% endif %}
+{% assign thisRecipe = nil %}
