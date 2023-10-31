@@ -6,7 +6,7 @@ layout: default
 <!-- call up the image and image credit link -->
   {% for image in page.image %}
   <div class="xs-p2">
-    <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" />
+    <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" alt="{% if page.imagealt and page.imagealt != "" %}{{ page.imagealt }}{% endif %}" />
     {% if page.imagecredit %}
       {% for imagecredit in page.imagecredit %}
         <a href="{{ imagecredit }}" class="right">
