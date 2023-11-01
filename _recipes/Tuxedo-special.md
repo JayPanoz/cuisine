@@ -4,8 +4,9 @@ layout: recipe
 title: "Tuxedo Special"
 image: tuxedo-special/tuxedo-1.jpg
 cuisines: [américaine]
-courses: [special]
+courses: [treat]
 tags: [sans cuisson]
+collections: [special]
 
 preptime: 30 min
 totaltime: 5 h 

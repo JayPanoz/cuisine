@@ -4,8 +4,9 @@ layout: recipe
 title: "Em’s Blueberry Special"
 image: EmBB-Special/embbs-1.jpg
 cuisines: [américaine]
-courses: [special]
+courses: [treat]
 tags: [sans cuisson]
+collections: [Peanut Butter, special]
 
 preptime: 30 min
 totaltime: 2 h 30 min

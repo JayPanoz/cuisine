@@ -13,6 +13,7 @@ totaltime: 2 h
 yield: 4–6 portions (moule de 14cm)
 
 storage: 2–3 jours dans un conteneur hermétique au frigo.
+tip: Pour un effet fantôme encore plus marqué, osez le glaçage au citron ou le glaçage au chocolat blanc. Sinon, saupoudrez simplement de sucre glace juste avant de servir.
 
 components:
 - Pâte brisée au yaourt
@@ -45,7 +46,5 @@ La recette n’est pas forcément la plus compliquée du site avec ses 2 composa
 Pour les plus motivées, ça vaut néanmoins la peine de tout réaliser maison, a fortiori parce qu’on peut personnaliser pâte et garniture avec des notes et accents supplémentaires (amande, cannelle, etc.).
 
 Alors oui, c’est davantage de la décoration qu’une recette à part entière pour Halloween, mais c’est un peu le point commun de la majorité des recettes déclinées pour l’occasion. Rares sont celles conçues uniquement pour cet événement. D’ailleurs, laissez parler votre créativité ici. J’ai créé un “fantôme” avec 2 emporte-pièces et 3 trous mais rien ne vous empêche d’y aller à fond en décorant en relief avec un éventuel reste de pâte brisée, voire d’aller carrément sculpter le visage de ce bon vieux Jack O’Lantern.
-
-L’astuce&nbsp;: pour un effet fantôme encore plus marqué, osez le glaçage au citron ou le glaçage au chocolat blanc. Sinon, saupoudrez simplement de sucre glace juste avant de servir.
 
 ![La garniture aux myrtilles, avec le fruit entier enrobé dans sa gelée. Mieux vaut éviter la confiture, trop liquide pour que la tarte fermée se tienne bien.](../images/booberry-pie/booberry-pie-2.jpg)

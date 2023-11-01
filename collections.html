@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% assign allTags = "" %}
+{% for recipe in site.recipes %}
+{% if recipe.collections and recipe.collections != empty %}
+{% assign thisTags = recipe.collections | join:'|' | append:'|' %}
+{% assign allTags = allTags | append:thisTags %}
+{% endif %}
+{% endfor %}
+{% assign allTags = allTags | split:'|' | sort | uniq %}
+
+<div class="container">
+  <article class="post-content px2">
+    {% include tag-navigation.html %}
+    <h1>{{ site.translation[site.language].collections }}</h1>
+    {% include collection.html collections=allTags %}
+
+    <div class="clearfix">
+      {% unless allTags[0] %}
+      <p>{{ site.translation[site.language].collections_browse }}</p>
+      {% endunless %}
+
+      {% for collection in allTags %}
+      <div data-tagged="{{ collection }}" class="tag-result-container hide">
+        <h2 class="capitalize"><a name="{{ collection | capitalize }}"></a>{{ collection | capitalize }}</h2>
+        {% for recipe in site.recipes %}
+        {% if recipe.collections contains collection %}
+        <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
+            <a class="block relative bg-accent" href="{{ recipe.url | prepend: site.baseurl }}">
+              <div class="image ratio bg-cover"{% for image in recipe.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
+              <h4 class="title p2 m0 absolute bold white bottom-0 left-0">{{ recipe.title }}</h4>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </article>
+</div>
+
+<script src="{{site.baseurl}}/js/tag-browse.js" charset="utf-8" defer></script>

@@ -11,6 +11,7 @@ cooktime: 55 minutes
 yield: 2 portions
 
 storage: 2–3 jours au réfrigérateur.
+tip: Passez quelques secondes au micro-ondes pour déguster tiède le lendemain, s’il vous en reste.
 
 ingredients:
 - 80g de flocons d’avoine – si possible, pas des flocons à porridge instantané type Quaker Oats
@@ -42,7 +43,5 @@ directions:
 Version plus ou moins cuite des <i lang="en">[overnight oats](overnight-oats.html)</i>, les <i lang="en">baked oats</i> se rapprochent de la recette du <i lang="en">[bread pudding](pudding-poire-prune.html)</i> mais avec des flocons d’avoine. On en obtient un résultat pas moins délicieux, avec une texture vraiment différente qui ne ressemble pas à celle d’un porride – je préfère le mentionner pour ceux qui n’aiment pas ça.
 
 Bien sûr, cette recette peut être adapté au gré des saisons, avec les fruits et leurs accompagnements en épices et notes sucrées. Ici, la prune rouge s’associe à la compote de pomme, la canelle et le miel, mais on aurait aussi pu imaginer des raisins secs ou de la poire. 
-
-L’astuce&nbsp;: passez quelques secondes au micro-ondes pour déguster tiède le lendemain, s’il vous en reste.
 
 ![Plusieurs couches à chaque bouchée. L’avoine au lait, dans lequel des morceaux de prunes fondants vinnent se lover, et un nuage de mascarpone qui rappelle la texture du cheesecake, surplombé de la croûte qui s’est formée à la cuisson.](../images/baked-oats-prune/baked-oats-prune-2.jpg)

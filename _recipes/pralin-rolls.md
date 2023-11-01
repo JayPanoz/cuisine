@@ -13,6 +13,7 @@ totaltime: 4 h
 yield: 8 roulés
 
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
+tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 components: 
 - Brioche au lait pour Rolls
@@ -45,7 +46,5 @@ directions:
 Encore des roulés, mais en version brioche au lait plutôt que Butchy ce coup-ci. Et pour changer de la sempiternelle cannelle, on parie sur le pralin&nbsp;: les amandes et noisettes caramélisées apportent du croquant et un goût un peu différent de ce qu’on peut attendre de roulés classiques à la garniture plus sucrée.
 
 Pour la finition, on déverse des filets de glaçage au cacao une fois la brioche refroidie, mais rien ne vous empêche de plus simplement dorer le dessus avec le restant d’œuf pour la garniture, voire d’y ajouter cassonnage et/ou pralin pour encore plus de goût noisette.
-
-Astuce&nbsp;: si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ![Une crème pâtissière pour ajouter du crémeux au moelleux et véhiculer les pépites de chocolat qui croquent puis fondent en bouche](../images/pralin-rolls/pralin-rolls-2.jpg)

@@ -6,12 +6,14 @@ image: tahini-blondies/tahini-blondies-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
+collections: [brownie & blondie]
 
 preptime: 20 min
 cooktime: 20 min
 yield: 6 mini cakes
 
 storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
+tip: Le tahini est également l’ingrédient secret de certaines recettes de cookies
 
 ingredients:
 - 1 banane mûre
@@ -48,7 +50,5 @@ Eh oui, il n’y a pas que le houmous ou le baba ganoush dans la vie du tahini&n
 Aussi appellée purée ou crème de sésame, le tahini ressemble au beurre de cacahuète naturel, mais il n'est pas naturellement sucré, et ajoute une note de noisette à vos préparations. Son association de farine est donc toute trouvée avec l’épeautre.
 
 Pour les becs sucrés, je conseille d’ajouter un peu de miel, le tahini apporte une pointe d’amertume que tout le monde n’aimera pas forcément, malgré le sucre de canne complet et la banane mûre présents dans la liste d’ingrédients.
-
-L’astuce&nbsp;: le tahini est également l’ingrédient secret de certaines recettes de cookies.
 
 ![Selon la durée de cuisson, le centre de vos blondies sera plus ou moins coulant. Ici, il ne l’est pas du tout, les blondies ayant passé quelques minutes de plus dans le four. Le résultat est par conséquent plus compact, plus proche de ce qu’on peut trouver dans la grande distribution, ce qui peut aussi être un objectif si, par exemple, vous voulez rendre ces blondies plus facilement transportables.](../images/tahini-blondies/tahini-blondies-2.jpg)

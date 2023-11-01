@@ -6,6 +6,7 @@ image: pbwc-cookie/pbwc1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie]
+collections: [Peanut Butter]
 
 preptime: 30 min
 cooktime: 10 min

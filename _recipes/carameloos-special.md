@@ -4,8 +4,9 @@ layout: recipe
 title: "Carameloos Special"
 image: carameloos-special/carameloos-special-1.jpg
 cuisines: [américaine]
-courses: [special]
+courses: [treat]
 tags: [sans cuisson]
+collections: [special]
 
 preptime: 30 min
 totaltime: 2 h 30 min

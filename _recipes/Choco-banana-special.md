@@ -4,8 +4,9 @@ layout: recipe
 title: "Choco Banana Special (CBS)"
 image: choco-banana-special/choco-banana-1.jpg
 cuisines: [américaine]
-courses: [special]
+courses: [treat]
 tags: [sans cuisson]
+collections: [special]
 
 preptime: 30 min
 totaltime: 2 h

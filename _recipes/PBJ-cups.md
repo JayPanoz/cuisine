@@ -6,6 +6,7 @@ image: pbj-cups/pbj-cups-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée]
+collections: [Peanut Butter]
 
 preptime: 25 min
 cooktime: 20 min

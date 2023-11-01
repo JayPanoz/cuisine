@@ -6,6 +6,7 @@ image: dino/dino-1.jpg
 cuisines: [française]
 courses: [snack]
 tags: [biscuit]
+collections: [dino]
 
 preptime: 1 h 20 m
 cooktime: 20 min

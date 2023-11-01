@@ -6,6 +6,7 @@ image: PB-cookies/PB-cookies-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie]
+collections: [Peanut Butter]
 
 preptime: 15 min
 cooktime: 10 min

@@ -6,6 +6,7 @@ image: butchy-strawberry/butchy-strawberry-1.jpg
 cuisines: [allemande]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, roll, boulangerie]
+collections: [butchy]
 
 preptime: 45 min
 cooktime: 30 min
@@ -13,6 +14,7 @@ totaltime: 4 h 15 min
 yield: 8 roulés
 
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
+tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 components: 
 - Brioche Butchy pour Rolls
@@ -37,7 +39,5 @@ directions:
 ---
 
 Des petits roulés briochés à la fraise et glacés au citron. Moelleux et rafraichissants pour l’été.
-
-Astuce&nbsp;: si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
 ![Des roulés avec une garniture de vraies fraises, pas celle chimique que l’on trouve dans les produits industriels.](../images/butchy-strawberry/butchy-strawberry-2.jpg)

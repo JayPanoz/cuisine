@@ -6,6 +6,7 @@ image: em-blondies/em-blondies-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
+collections: [brownie & blondie]
 
 preptime: 25 min
 cooktime: 25 min

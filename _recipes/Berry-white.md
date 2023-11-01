@@ -4,14 +4,16 @@ layout: recipe
 title: "Berry White Special"
 image: berry-white/berry-white-1.jpg
 cuisines: [américaine]
-courses: [special]
+courses: [treat]
 tags: [sans cuisson]
+collections: [special]
 
 preptime: 30 min
 totaltime: 6 h
 yield: 4 portions
 
 storage: 2–3 jours dans une boîte hermétique au frigo.
+tip: La touche finale qui ne figure pas dans les ingrédients ou instructions, c’est la mousse de lait. Les plus motivés pourront la verser sur les fruits rouges à la toute fin du montage histoire de peaufiner l’aspect <i lang="en">flat white</i>.
 
 components:
 - Speculoos Crust
@@ -41,7 +43,5 @@ Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans 
 Le Berry White est inspiré du <i lang="en">flat white</i>, et en emprunte les proportions espresso–lait. Et quoi de mieux pour accompagner le café qu’un biscuit Speculoos&nbsp;? Ça va naturellement de soi&nbsp;! Enfin, n’importe quel fruit rouge fera l’affaire pour ajouter de l’intérêt à la mâche. Ici, les myrtilles apportent un petit pep’s et une note acidulée, mais fraises, framboises, mûres, groseilles ou cassis sauront tout aussi bien accompagner café et cannelle. 
 
 La magie de la crème café, c’est qu’elle peut également être une crème glacée. Si vous désirez donc une version glacée de ce <i lang="en">Special</i>, placez votre tarte au congélateur plutôt qu’au réfrigérateur.
-
-L’astuce&nbsp;: La touche finale qui ne figure pas dans les ingrédients ou instructions, c’est la mousse de lait. Les plus motivés pourront la verser sur les fruits rouges à la toute fin du montage histoire de peaufiner l’aspect <i lang="en">flat white</i>.
 
 ![La crème est hyper crémeuse en version normale, mais elle saura particulièrement bien se tenir en version glacée. En tout cas, elle enrobe les myrtilles sans être trop liquide, donc pas besoin de gélifiant.](../images/berry-white/berry-white-2.jpg)

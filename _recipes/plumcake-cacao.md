@@ -6,12 +6,14 @@ image: plumcake-cacao/plumcake-cacao-1.jpg
 cuisines: [italienne]
 courses: [petit-déjeuner, goûter]
 tags: [cake, sans beurre, sans huile]
+collections: [plumcake italien, dino]
 
 preptime: 20 min
 cooktime: 45 min
 yield: 6 mini cakes
 
 storage: 3–5 jours dans une boîte hermétique à l'abri de la chaleur et de la lumière, 2–3 mois au congélateur.
+tip: Pour retrouver la texture originale, remplacez simplement la compote de pomme par 8cl d’huile neutre. Pour quelque chose de plus <i lang="en">fancy</i>, mélangez 6cl d’huile neutre avec 2cl d’huile d’olive, qui apportera une petite note subtile à la dégustation, cf. <a href="dino-plumcake.html">le <i lang="en">plumcake</i> en version dinosaure</a>.
 
 ingredients:
 - 110g de farine italienne 00/française T45
@@ -49,7 +51,5 @@ Le [<i lang="en">plumcake</i> allo yogurt italien](plumcake-allo-yogurt.html) ma
 Je vous arrête là si vous souhaitez un résultat parfaitement identique à la version originale, c’est-à-dire aussi moelleux et aérien. Oubliez tout de suite, ce n’est pas ce que vous obtiendrez. C’est l’huile qui fait du <i lang="en">plumcake</i> italien ce qu’il est, et qui lui donne cette texture. D’ailleurs, si vous remplacez le beurre par de l’huile dans la brioche, vous obtiendrez quelque chose d’hyper moelleux, encore plus qu’avec du beurre, et c’est ce qui fait le secret de certaines recettes.
 
 Donc, on est sur une texture différente, entre cake et [brownie](banana-brownies.html), avec des morceaux de figue dedans. La figue ça fonctionne bien avec le chocolat donc on ajoute du cacao à la pâte, et on oublie pas la vanille. Des accords simples, et qui fonctionnent aussi bien avec des fruits de saison ou séchés.
-
-L’astuce&nbsp;: pour retrouver la texture originale, remplacez simplement la compote de pomme par 8cl d’huile neutre. Pour quelque chose de plus <i lang="en">fancy</i>, mélangez 6cl d’huile neutre avec 2cl d’huile d’olive, qui apportera une petite note subtile à la dégustation, cf. [le <i lang="en">plumcake</i> en version dinosaure](dino-plumcake.html).
 
 ![Le résultat est différent du plumcake à l’huile, avec une mie beaucoup moins aérienne. En contrepartie, les cakes se tiennent mieux avec les morceaux de figue.](../images/plumcake-cacao/plumcake-cacao-2.jpg)

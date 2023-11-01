@@ -6,12 +6,14 @@ image: fluffernutter-cookie/fluffernutter-cookie-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf, sans beurre, sans huile]
+collections: [Peanut Butter]
 
 preptime: 35 min
 cooktime: 15 min
 yield: 16–20 cookie sandwiches
 
-storage: Pour le cookie sans crème, 2 semaines à température ambiante dans un bocal à cookie, et 3 mois au congélateur. Pour le cookie assemblé, 5–7 jours dans une boîte hermétique.  
+storage: Pour le cookie sans crème, 2 semaines à température ambiante dans un bocal à cookie, et 3 mois au congélateur. Pour le cookie assemblé, 5–7 jours dans une boîte hermétique.
+tip: Pas fan ou impossible de trouver du fluff&nbsp;? Utilisez une gelée/confiture de fruits pour une version PB&J.
 
 ingredients:
 - 260g de beurre de cacahuète creamy
@@ -39,8 +41,6 @@ Le [fluffernutter](https://en.wikipedia.org/wiki/Fluffernutter), c'est un classi
 
 Associé à Somerville, là où le marshmallow fluff a été inventé, ce sandwich fait souvent l'objet d'une fierté régionale, dispose de sa propre fête nationale le 8&nbsp;Octobre, et a même été proposé comme sandwich officiel de l'État du Massachusetts. Mais ne vous mettez pas pour autant la pression&nbsp;!
 
-Dans cette version, on utilise un biscuit vegan à 3 ingrédients, sans œuf ni beurre, et qui peut donc être conservé 2&nbsp;semaines sans aucun souci. Il est bien friable pour ne pas venir écraser la crème lorsqu’on croque dans le sandwich, et se révèle tout aussi délicieux sans fluff.
-
-L’astuce&nbsp;: Pas fan ou impossible de trouver du fluff&nbsp;? Utilisez une gelée/confiture de fruits pour une version PB&J. 
+Dans cette version, on utilise un biscuit vegan à 3 ingrédients, sans œuf ni beurre, et qui peut donc être conservé 2&nbsp;semaines sans aucun souci. Il est bien friable pour ne pas venir écraser la crème lorsqu’on croque dans le sandwich, et se révèle tout aussi délicieux sans fluff. 
 
 ![Une belle quenelle bien généreuse de crème de guimauve déposée sur un biscuit, avant que le sandwich soit refermé avec un deuxième biscuit. Ceux-ci restent friables pour ne pas que la crème déborde lorsqu’on croque dedans.](../images/fluffernutter-cookie/fluffernutter-cookie-2.jpg)

@@ -6,6 +6,7 @@ image: PBB-blondies/PBB-blondies-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
+collections: [brownie & blondie, Peanut Butter]
 
 preptime: 20 min
 cooktime: 20 min

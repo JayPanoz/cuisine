@@ -11,6 +11,7 @@ preptime: 10 min
 yield: 4 ramequins
 
 storage: 2–3 jours au frigo dans un contenant hermétique.
+tip: Pour la farine, tu peux également tenter le mélange. Par exemple 60g de <i lang="en">crackers</i> Ritz et 40g de bretzels apéritif.
 
 ingredients:
 - 200g de fromage cottage
@@ -39,5 +40,3 @@ Soyons bien clair, cette pâte cottage apéro est beaucoup plus grasse que sa gr
 Après, c’est spécial, on ne va pas se mentir. Certains vont adorer, d’autres vont détester, une grosse partie ne voit pas l’intérêt. Et c’est tant mieux comme ça.
 
 **Attention&nbsp;:** si tu souhaites ajouter des biscuits et snacks salés type bretzel, craquelin, chips, etc. dans la pâte, il faut le faire au tout dernier moment. Conservés au frigo, il vont devenir tout mou et n’apporteront absolument pas l’effet que tu cherches.
-
-L’astuce&nbsp;: Pour la farine, tu peux également tenter le mélange. Par exemple 60g de <i lang="en">crackers</i> Ritz et 40g de bretzels apéritif.

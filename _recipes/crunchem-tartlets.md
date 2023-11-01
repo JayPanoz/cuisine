@@ -6,6 +6,7 @@ image: crunchem/crunchem-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée]
+collections: [dino, Peanut Butter]
 
 preptime: 1 h
 cooktime: 20 min

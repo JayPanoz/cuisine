@@ -4,8 +4,9 @@ layout: recipe
 title: "Peanut Butter Special (PBS)"
 image: PB-Special/pbs-1.jpg
 cuisines: [américaine]
-courses: [special]
+courses: [treat]
 tags: [sans cuisson]
+collections: [Peanut Butter, special]
 
 preptime: 30 min
 totaltime: 2 h 30 min
