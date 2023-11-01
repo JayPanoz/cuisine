@@ -4,8 +4,9 @@ layout: recipe
 title: "Banoffee Special"
 image: Banoffee-Special/banoffee-1.jpg
 cuisines: [américaine]
-courses: [special]
+courses: [treat]
 tags: [sans cuisson]
+collections: [special]
 
 preptime: 30 min
 totaltime: 10 h 
