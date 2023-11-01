@@ -6,6 +6,7 @@ image: yaourt-snickers/yaourt-snickers-1.jpg
 cuisines: [américaine]
 courses: [dessert, snack]
 tags: [3 ingrédients, glacé]
+collections: [Peanut Butter]
 
 preptime: 5 min
 totaltime: 25 min

@@ -6,6 +6,7 @@ image: banana-brownie/banana-brownie-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [3 ingrédients]
+collections: [brownie & blondie]
 
 preptime: 10 min
 cooktime: 20 min

@@ -6,6 +6,7 @@ image: PB-brownie/PB-brownie-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey, 3 ingrédients]
+collections: [brownie & blondie, Peanut Butter]
 
 preptime: 10 min
 cooktime: 25 min

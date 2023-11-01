@@ -6,6 +6,7 @@ image: high-five/high-five-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [sans cuisson, sucré-salé]
+collections: [Peanut Butter]
 
 preptime: 30 min
 totaltime: 3 h 30 min 

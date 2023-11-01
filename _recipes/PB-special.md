@@ -6,6 +6,7 @@ image: PB-Special/pbs-1.jpg
 cuisines: [américaine]
 courses: [special]
 tags: [sans cuisson]
+collections: [Peanut Butter]
 
 preptime: 30 min
 totaltime: 2 h 30 min

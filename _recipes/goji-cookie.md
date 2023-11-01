@@ -6,6 +6,7 @@ image: pb-goji-cookies/pb-goji-cookies-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf, sans beurre, sans huile]
+collections: [Peanut Butter]
 
 preptime: 15 min
 cooktime: 15 min

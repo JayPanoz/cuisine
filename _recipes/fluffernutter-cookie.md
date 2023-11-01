@@ -6,6 +6,7 @@ image: fluffernutter-cookie/fluffernutter-cookie-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf, sans beurre, sans huile]
+collections: [Peanut Butter]
 
 preptime: 35 min
 cooktime: 15 min

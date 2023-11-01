@@ -6,6 +6,7 @@ image: reeses-chunkies/reeses-chunkies-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, Reese’s]
+collections: [Peanut Butter]
 
 preptime: 15 min
 cooktime: 15 min

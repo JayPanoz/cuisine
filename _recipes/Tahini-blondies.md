@@ -6,6 +6,7 @@ image: tahini-blondies/tahini-blondies-1.jpg
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
+collections: [brownie & blondie]
 
 preptime: 20 min
 cooktime: 20 min
