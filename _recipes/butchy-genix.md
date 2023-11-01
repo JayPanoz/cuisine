@@ -6,6 +6,7 @@ image: butchy-genix/butchy-genix-1.jpg
 cuisines: [allemande, française]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, boulangerie]
+collections: [butchy]
 
 preptime: 30 min
 cooktime: 35 min

@@ -6,6 +6,7 @@ image: plumcake-cacao/plumcake-cacao-1.jpg
 cuisines: [italienne]
 courses: [petit-déjeuner, goûter]
 tags: [cake, sans beurre, sans huile]
+collections: [plumcake italien, dino]
 
 preptime: 20 min
 cooktime: 45 min

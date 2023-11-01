@@ -6,6 +6,7 @@ image: butchy-brioche/butchy-brioche-1.jpg
 cuisines: [allemande]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, boulangerie]
+collections: [butchy]
 
 preptime: 30 min
 cooktime: 30 min

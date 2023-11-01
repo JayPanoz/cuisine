@@ -6,6 +6,7 @@ image: tarte-fruits-jaunes/tarte-fruits-jaunes-1.jpg
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte]
+collections: [dino]
 
 preptime: 35 min
 cooktime: 35 min

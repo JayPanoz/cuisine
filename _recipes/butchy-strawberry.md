@@ -6,6 +6,7 @@ image: butchy-strawberry/butchy-strawberry-1.jpg
 cuisines: [allemande]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, roll, boulangerie]
+collections: [butchy]
 
 preptime: 45 min
 cooktime: 30 min
