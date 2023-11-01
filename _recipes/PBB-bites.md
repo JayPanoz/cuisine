@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "PBB Frozen Sandwich Bites"
+title: "PB&B Frozen Sandwich Bites"
 image: pbb-bites/pbb-bites-1.jpg
 cuisines: [américaine]
 courses: [snack]

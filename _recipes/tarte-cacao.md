@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Duo de tartes au cacao"
+title: "Tartelettes au cacao"
 image: tarte-cacao/tarte-cacao-1.jpg
 cuisines: [française]
 courses: [dessert, goûter]

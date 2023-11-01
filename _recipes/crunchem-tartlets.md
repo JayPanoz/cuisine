@@ -1,11 +1,11 @@
 ---
 
 layout: recipe
-title: "Tartelettes Crunch’ Em"
+title: "Mini tartelettes Crunch’ Em"
 image: crunchem/crunchem-1.jpg
 cuisines: [américaine]
 courses: [snack]
-tags: [bouchée]
+tags: [bouchée, tarte]
 collections: [dino, Peanut Butter]
 
 preptime: 1 h

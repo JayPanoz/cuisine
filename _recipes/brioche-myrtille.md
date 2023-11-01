@@ -5,7 +5,7 @@ title: "Brioche aux myrtilles"
 image: bb-brioche/bb-brioche-1.jpg
 cuisines: [française]
 courses: [petit-déjeuner, goûter]
-tags: [brioche, roll, boulangerie]
+tags: [brioche, boulangerie]
 
 preptime: 30 min
 cooktime: 35 min

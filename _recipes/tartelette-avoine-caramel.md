@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Tartelettes avoine et caramel"
+title: "Mini tartelettes avoine et caramel"
 image: tartelette-avoine-caramel/tartelette-avoine-caramel-1.jpg
 cuisines: [française]
 courses: [snack]
