@@ -177,12 +177,6 @@ nav.main-nav .nav-item.active .nav-label{
 .paginator-trail {
 	text-align: center;
 }
-.paginator-prev::after {
-	content: "…";
-}
-.paginator-next::before {
-	content: "…";
-}
 .paginator-trail.selected {
 	border: 1px solid #CB4E06;
 	background-color: #eeeeee;
