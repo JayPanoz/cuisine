@@ -5,7 +5,7 @@ title:  "Glace au yaourt"
 image: glace-yaourt.jpg
 cuisines: [américaine, française]
 courses: [snack, dessert]
-tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière]
+tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière, 3 ingrédients]
 
 preptime: 10 min
 totaltime: 4 h 10 min

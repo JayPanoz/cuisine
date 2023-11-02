@@ -5,7 +5,7 @@ title: "Nice cream"
 image: nice-cream/nice-cream-1.jpg
 cuisines: [américaine]
 courses: [snack, dessert]
-tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière]
+tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière, 2 ingrédients]
 
 preptime: 5 min
 yield: 2 portions

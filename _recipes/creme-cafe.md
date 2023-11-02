@@ -5,7 +5,7 @@ title: "Crème de café"
 image: creme-cafe/creme-cafe-1.jpg
 cuisines: [française]
 courses: [dessert]
-tags: [3 ingrédients, sans cuisson, allégé]
+tags: [4 ingrédients, sans cuisson, allégé]
 
 preptime: 30 min
 totaltime: 1 jour

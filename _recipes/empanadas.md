@@ -5,6 +5,7 @@ title: "Empanadas"
 image: empanadas/empanadas-1.jpg
 cuisines: [argentine]
 courses: [apéritif]
+tags: [3 ingrédients]
 
 preptime: 20 min
 cooktime: 20 min
