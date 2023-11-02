@@ -172,12 +172,17 @@ nav.main-nav .nav-item.active .nav-label{
 .paginator-trail {
 	margin: 0 0.5rem;
 	padding: 0 0.5rem;
-	box-sizing:border-box;
+	box-sizing: border-box;
 }
 .paginator-trail {
 	text-align: center;
 }
-
+.paginator-prev::after {
+	content: "…";
+}
+.paginator-next::before {
+	content: "…";
+}
 .paginator-trail.selected {
 	border: 1px solid #CB4E06;
 	background-color: #eeeeee;
