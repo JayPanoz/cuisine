@@ -2,7 +2,7 @@
   {% assign current = page.name | downcase | split: '.' %}
   {% assign currentUrl = page.url | downcase %}
 
-	<a href="{{ site.baseurl }}/" class="nav-item nav-recipes {% if current[0] == 'index' or currentUrl contains 'recipes' %}active{% endif %}">
+	<a href="{{ site.baseurl }}/" class="nav-item nav-recipes {% if page.id == 'homepage' or currentUrl contains 'recipes' %}active{% endif %}">
 		<svg width="32" height="32" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
 		  <g class="gingerbread">
 		    <path d="M73.231 60.003a3.186 3.186 0 1 0 0 6.375 3.186 3.186 0 0 0 0-6.375z"/>
