@@ -40,7 +40,7 @@ directions:
 
 ---
 
-Le secret de ces mini cakes, c'est que l'on va prendre un gros raccourci avec la pâte à tartiner Biscoff/Spéculoos qu'on peut aisément trouver dans le commerce. En plus de donner le goût typique du Spéculoos à la base de notre coffee cake, Elle va remplacer le beurre et le sucre et nous économiser la préparation de la “crème pommade”, un peu comme le beurre de cacahuète dans mes PB cookies et PB&B Blondies.
+Le secret de ces mini cakes, c'est que l'on va prendre un gros raccourci avec la pâte à tartiner Biscoff/Spéculoos qu'on peut aisément trouver dans le commerce. En plus de donner le goût typique du Spéculoos à la base de notre coffee cake, Elle va remplacer le beurre et le sucre et nous économiser la préparation de la “crème pommade”, un peu comme le beurre de cacahuète dans mes [PB cookies](PB-cookies.html) et [PB&B Blondies](PBB-blondies.html).
 
 Plus besoin de choisir entre le biscuit Spéculoos et le coffee cake à l'heure du thé, vous pouvez avoir les 2&nbsp;!
 

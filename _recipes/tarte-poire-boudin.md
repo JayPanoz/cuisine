@@ -48,7 +48,7 @@ directions:
 
 ---
 
-Une tarte en trompe l’œil qui joue sur le contraste sucré salé. De loin, on pourrait croire à une tarte aux poires et chocolat, mais c’est bel et bien du boudin noir qui vient accompagner la poire ici. Il n’y a pas que la pomme à qui la poire réussit&nbsp;!
+Une tarte en trompe l’œil qui joue sur le contraste sucré salé. De loin, on pourrait croire à une tarte aux poires et chocolat, mais c’est bel et bien du boudin noir qui vient accompagner la poire ici. Il n’y a pas que la pomme à qui le boudin réussit&nbsp;!
 
 Pour encore plus de gourmandise, on ajoute des allumettes de bleu d’Auvergne, bien que vous pouvez utiliser un autre fromage à pâte persillée – voire tenter autre chose. Pour parfaire l’illusion de la tarte au chocolat, vous pourriez même plutôt en faire des copeaux. À vous de jouer.
 

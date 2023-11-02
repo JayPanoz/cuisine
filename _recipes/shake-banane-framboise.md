@@ -5,7 +5,7 @@ title: "Shake banane framboise"
 image: shake-banane-framboise/shake-banane-framboise-1.jpg
 cuisines: [américaine]
 courses: [snack]
-tags: [blender, mixer, sans cuisson, liquide]
+tags: [blender, mixer, sans cuisson, liquide, 3 ingrédients]
 
 preptime: 5 min
 yield: 1 portion

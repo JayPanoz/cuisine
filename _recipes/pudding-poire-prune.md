@@ -37,7 +37,7 @@ directions:
 
 ---
 
-Un pudding avec du pain rassis, rapide à préparer et qui associe les saveurs d’automne&nbsp;: prune et poire d’un côté, mélange 4 épices de l’autre. C’est très très gourmand tout en restant bien équilibré, moelleux et fondant en bouche, et c’est très difficile de s’arrêter si vous commencez à taper directement dans le plat.
+Un pudding avec du pain rassis, rapide à préparer et qui associe les saveurs d’automne&nbsp;: prune et poire d’un côté, mélange 4 épices de l’autre. C’est très très gourmand tout en restant bien équilibré, moelleux et fondant en bouche, et c’est très difficile de s’arrêter si on commence à taper directement dans le plat.
 
 Pour aider un peu le pudding à se tenir étant donné qu’on utilise des fruits frais qui rendent pas mal de jus lors de la cuisson, on utilise une toute petite portion de fécule de maïs. Mais vous pouvez également faire sans si vous n’en avez pas. Quant au sucre muscovado, vous pouvez le remplacer par du sucre vanillé ou du sucre roux.
 

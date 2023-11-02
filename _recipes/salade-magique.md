@@ -32,6 +32,6 @@ directions:
 
 Une salade magique qui se fait quasiment toute seule en la secouant dans un tupperware. Par contre attention si vous décidez de prendre des fruits plus fragiles, il vaudra mieux les intégrer et mélanger après avoir secoué.
 
-L”important c'est d’avoir quelques fruits qui rendent du jus et 1 bonne association de goûts/saison. 
+L’important c'est d’avoir quelques fruits qui rendent du jus et 1 bonne association de goûts/saison. 
 
 ![Évidemment on a ici des fruits qui se tiennent, donc on peut bien secouer le tupperware. Si vous avez des fruits plus fragiles comme des framboises par exemple, mieux vaut les ajouter à la fin.](../images/salade-magique/salade-magique-2.jpg) 

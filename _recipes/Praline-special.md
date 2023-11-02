@@ -5,7 +5,7 @@ title: "Praliné Special"
 image: praline-special/praline-special-1.jpg
 cuisines: [américaine]
 courses: [dessert]
-tags: [sans cuisson]
+tags: [sans cuisson, 4 ingrédients]
 collections: [special]
 
 preptime: 30 min

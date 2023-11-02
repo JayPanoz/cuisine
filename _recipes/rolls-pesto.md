@@ -5,6 +5,7 @@ title: "Roulés au pesto"
 image: rolls/rolls.jpg
 cuisines: [américaine, française]
 courses: [apéritif]
+tags: [3 ingrédients]
 
 preptime: 45 min
 cooktime: 15 min
