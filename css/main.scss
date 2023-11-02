@@ -160,3 +160,31 @@ nav.main-nav .nav-item.active .nav-label{
 	display: block;
 	clear: both;
 }
+
+.paginator-list {
+	display: flex;
+	margin: 0 auto;
+	max-width: 100%;
+	justify-content: center;
+}
+.paginator-prev,
+.paginator-next,
+.paginator-trail {
+	margin: 0 0.5rem;
+	padding: 0 0.5rem;
+	box-sizing:border-box;
+}
+.paginator-trail {
+	text-align: center;
+}
+
+.paginator-trail.selected {
+	border: 1px solid #CB4E06;
+	background-color: #eeeeee;
+}
+
+@media all and (max-width:40em){
+	.paginator-list {
+		font-size: 0.875rem;
+	}
+}

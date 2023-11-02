@@ -1,12 +1,15 @@
 ---
 layout: default
+id: "homepage"
+pagination:
+  enabled: true
 ---
 
 <div class="home"> 
   <div class="recipes xs-px1 xs-mt2">
     <div class="clearfix">
-    {% assign sorted = site.recipes | sort:"title" %}
-    {% for post in sorted %}
+    
+    {% for post in paginator.posts %}
 
       <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
           <a class="block relative bg-accent" href="{{ post.url | prepend: site.baseurl }}">
@@ -14,7 +17,35 @@ layout: default
             <h1 class="title p2 m0 absolute bold white bottom-0 left-0">{{ post.title }}</h1>
           </a>
       </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
   </div>
+
+  <div class="paginator-nav xs-px1 xs-mt2">
+    <div class="clearfix">
+    {% if paginator.total_pages > 1 %}
+      <ul class="paginator-list">
+        {% if paginator.previous_page %}
+        <li class="paginator-prev">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">{{ site.translation[site.language].paginator_previous }}</a>
+        </li>
+        {% endif %}
+
+        {% if paginator.page_trail %}
+          {% for trail in paginator.page_trail %}
+          <li class="paginator-trail{% if page.url == trail.path %} selected{% endif %}">
+            <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+          </li>
+          {% endfor %}
+        {% endif %}
+
+        {% if paginator.next_page %}
+        <li class="paginator-next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.translation[site.language].paginator_next }}</a>
+        </li>
+        {% endif %}
+      </ul>
+      {% endif %}
+    </div>
   </div>
 </div>
