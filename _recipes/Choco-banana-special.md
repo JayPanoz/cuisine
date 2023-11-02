@@ -4,7 +4,7 @@ layout: recipe
 title: "Choco Banana Special (CBS)"
 image: choco-banana-special/choco-banana-1.jpg
 cuisines: [américaine]
-courses: [treat]
+courses: [dessert]
 tags: [sans cuisson]
 collections: [special]
 

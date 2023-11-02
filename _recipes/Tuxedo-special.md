@@ -4,7 +4,7 @@ layout: recipe
 title: "Tuxedo Special"
 image: tuxedo-special/tuxedo-1.jpg
 cuisines: [américaine]
-courses: [treat]
+courses: [dessert]
 tags: [sans cuisson]
 collections: [special]
 

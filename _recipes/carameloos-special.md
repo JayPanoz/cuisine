@@ -4,7 +4,7 @@ layout: recipe
 title: "Carameloos Special"
 image: carameloos-special/carameloos-special-1.jpg
 cuisines: [américaine]
-courses: [treat]
+courses: [dessert]
 tags: [sans cuisson]
 collections: [special]
 

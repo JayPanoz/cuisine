@@ -4,7 +4,7 @@ layout: recipe
 title: "Peanut Butter Special (PBS)"
 image: PB-Special/pbs-1.jpg
 cuisines: [américaine]
-courses: [treat]
+courses: [dessert]
 tags: [sans cuisson]
 collections: [Peanut Butter, special]
 

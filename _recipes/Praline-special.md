@@ -4,7 +4,7 @@ layout: recipe
 title: "Praliné Special"
 image: praline-special/praline-special-1.jpg
 cuisines: [américaine]
-courses: [treat]
+courses: [dessert]
 tags: [sans cuisson]
 collections: [special]
 

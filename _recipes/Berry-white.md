@@ -4,7 +4,7 @@ layout: recipe
 title: "Berry White Special"
 image: berry-white/berry-white-1.jpg
 cuisines: [américaine]
-courses: [treat]
+courses: [dessert]
 tags: [sans cuisson]
 collections: [special]
 

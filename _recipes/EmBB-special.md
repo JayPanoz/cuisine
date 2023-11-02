@@ -4,7 +4,7 @@ layout: recipe
 title: "Em’s Blueberry Special"
 image: EmBB-Special/embbs-1.jpg
 cuisines: [américaine]
-courses: [treat]
+courses: [dessert]
 tags: [sans cuisson]
 collections: [Peanut Butter, special]
 
