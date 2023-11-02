@@ -5,7 +5,7 @@ title: "Pudding au kaki"
 image: pudding-kaki/pudding-kaki-1.jpg
 cuisines: [britannique]
 courses: [dessert, goûter]
-tags: [antigaspi]
+tags: [antigaspi, comfort food]
 
 preptime: 25 min
 cooktime: 55 minutes

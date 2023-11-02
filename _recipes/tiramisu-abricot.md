@@ -5,7 +5,7 @@ title:  "Tiramisu aux abricots"
 image: tiramisu-abricot/tiramisu-abricot-1.jpg
 cuisines: [italienne]
 courses: [dessert, goûter]
-tags: [sans cuisson, tiramisu]
+tags: [sans cuisson, tiramisu, comfort food]
 
 preptime: 20 min
 totaltime: 1 h 20 min

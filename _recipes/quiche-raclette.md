@@ -5,7 +5,7 @@ title: "Quiche raclette"
 image: quiche-misc/quiche-raclette.jpg
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
-tags: [quiche]
+tags: [quiche, comfort food]
 
 preptime: 15 min
 cooktime: 45 min

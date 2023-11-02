@@ -5,7 +5,7 @@ title: "Tarte aux kakis"
 image: tarte-kaki/tarte-kaki-1.jpg
 cuisines: [française]
 courses: [dessert, goûter]
-tags: [tarte, 4 ingrédients, hiver]
+tags: [tarte, 4 ingrédients, hiver, comfort food]
 
 preptime: 15 min
 cooktime: 40 min

@@ -5,7 +5,7 @@ title: "Croque-monsieur allégé"
 image: croque-allege/croque-allege-1.jpg
 cuisines: [française]
 courses: [plat, déjeuner, dîner]
-tags: [sandwich, allégé, protéiné]
+tags: [sandwich, allégé, protéiné, comfort food]
 
 preptime: 25 min
 cooktime: 20 min

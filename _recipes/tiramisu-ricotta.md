@@ -5,7 +5,7 @@ title:  "Tiramisu aux fraises et à la ricotta"
 image: tiramisu-ricotta/tiramisu-ricotta-1.jpg
 cuisines: [italienne]
 courses: [dessert, goûter]
-tags: [sans cuisson, tiramisu]
+tags: [sans cuisson, tiramisu, comfort food]
 
 preptime: 20 min
 yield: 4 portions

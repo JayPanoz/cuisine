@@ -5,6 +5,7 @@ title: "Gratin de courgettes"
 image: gratin-courgette/gratin-courgette-1.jpg
 cuisines: [française]
 courses: [plat, déjeuner, dîner]
+tags: [comfort food]
 
 preptime: 30 min
 cooktime: 20 min

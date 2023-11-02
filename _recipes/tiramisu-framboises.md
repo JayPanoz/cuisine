@@ -5,7 +5,7 @@ title:  "Tiramisu aux framboises"
 image: tiramisu-framboises/tiramisu-framboises-1.jpg
 cuisines: [italienne]
 courses: [dessert, goûter]
-tags: [sans cuisson, tiramisu]
+tags: [sans cuisson, tiramisu, comfort food]
 
 preptime: 20 min
 totaltime: 4 h 20 min

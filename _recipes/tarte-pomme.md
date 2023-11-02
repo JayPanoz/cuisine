@@ -5,7 +5,7 @@ title: "Tarte aux pommes"
 image: tarte-pomme/tarte-pomme-1.jpg
 cuisines: [française]
 courses: [dessert, goûter]
-tags: [tarte]
+tags: [tarte, comfort food]
 collections: [dino]
 
 preptime: 35 min
