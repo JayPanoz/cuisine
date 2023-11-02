@@ -35,7 +35,7 @@ pagination:
     before: 1
     after: 1
 
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+exclude: ['Rakefile', 'README.md']
 
 translation:
   en:
