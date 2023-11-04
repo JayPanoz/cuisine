@@ -44,10 +44,10 @@ directions:
 
 ---
 
-De l’avoine au programme du petit-déjeuner – ou du goûter, voire même en collation. Ingrédient pilier des recettes <i lang="en">healthy</i>, les flocons ou le son se déclinent ici en version <i lang="en">banana bread</i> après avoir été cuits en “pudding”. De fait, on pourrait même conceptualiser cette recette comme une version portable des <i lang="en">[baked oats](baked-oats.html)</i> à emmener partout avec soi.
+De l’avoine au programme du petit-déjeuner – ou du goûter, voire même en collation. Ingrédient pilier des recettes <i lang="en">healthy</i>, les flocons ou le son se déclinent ici en version <i lang="en">banana bread</i>. De fait, on pourrait même conceptualiser cette recette comme une version portable des <i lang="en">[baked oats](baked-oats.html)</i> à emmener partout avec soi.
 
 Si le résultat n’est pas tout à fait identique et se révèle un peu plus ferme en tenue, ces petits cakes conservent néanmoins beaucoup de moelleux – d’autant plus en utilisant du son plutôt que des flocons – et n’ont absolument pas à rougir de la comparaison avec ceux conçus en laboratoire pour offrir cette caractéristique aux consommateurs. Et le tout en procurant un réel sentiment de satiété bien sûr – ici on ne bourre pas les cakes de [calories vides](https://fr.wikipedia.org/wiki/Calorie_vide)&nbsp;!
 
-Si on se limite aux figues dans cette recette, rien n’empêche d’ajouter des noix ou amandes concasées, d’utiliser n’importe quel autre fruit de saison, ou de remplacer moitié des figues par des raisins secs pour créer un <i lang="en">oatmeal bread</i> mi-figue mi-raisin qui n’en aura que le nom et conviendra parfaitement aux matins de printemps pluvieux mais heureux.
+Si on se limite aux figues dans cette recette, rien n’empêche d’ajouter des noix ou amandes concassées, d’utiliser n’importe quel autre fruit de saison, ou de remplacer la moitié des figues par des raisins secs pour créer un <i lang="en">oatmeal bread</i> mi-figue mi-raisin qui conviendra parfaitement aux matins de printemps pluvieux mais heureux.
 
 ![Une mie câline et bien aérée qui n’a rien à envier à celles que l’on obtient avec de la farine plus conventionnelle. Et puis des inserts de morceaux de figue pour la gourmandise.](../images/oatmeal-bread/oatmeal-bread-2.jpg)
