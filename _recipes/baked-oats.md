@@ -5,6 +5,7 @@ title: "Baked oats"
 image: baked-oats-prune/baked-oats-prune-1.jpg
 cuisines: [américaine]
 courses: [petit-déjeuner]
+tags: [healthy]
 
 preptime: 10 min
 cooktime: 55 minutes
