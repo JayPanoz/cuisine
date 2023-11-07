@@ -51,7 +51,7 @@ directions:
 - Ajoutez la maïzena diluée dans un peu d’eau et fouettez une dernière fois pour bien la distribuer. 
 - Versez l’appareil dans le fond de tarte puis égalisez au maximum. 
 - Déposez les noix de pécan sur le dessus. 
-- Enfournez pour 40–45 min 180 ou jusqu’à ce que l'appareil soit pris mais gigote encore légèrement au centre. 
+- Enfournez pour 40–45 min ou jusqu’à ce que l'appareil soit pris mais gigote encore légèrement au centre. 
 - Laissez la tarte dans le four éteint porte ouverte et laissez refroidir environ 2 heures pour éviter que le dessus de tarte se craquelle. 
 
 ---
