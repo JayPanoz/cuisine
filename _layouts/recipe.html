@@ -4,18 +4,20 @@ layout: default
 <div class="container" itemscope itemtype="http://schema.org/Recipe">
 
 <!-- call up the image and image credit link -->
-  {% for image in page.image %}
+  {% if page.images and page.images.size != 0 %}
   <div class="xs-p2">
-    <img itemprop="image" src="{{site.baseurl}}/images/{{ image }}" alt="{% if page.imagealt and page.imagealt != "" %}{{ page.imagealt }}{% endif %}" />
-    {% if page.imagecredit %}
-      {% for imagecredit in page.imagecredit %}
+    {% for image in page.images %}
+    <img itemprop="image" src="{{site.baseurl}}/images/{{ image.path }}" alt="{% if image.alt and image.alt != "" %}{{ image.alt }}{% endif %}" />
+    {% if image.credit %}
+      {% for imagecredit in image.credit %}
         <a href="{{ imagecredit }}" class="right">
           <svg class="js-geomicon geomicon" width="14" height="14" data-icon="camera" viewBox="0 0 32 32" style="fill:currentcolor"><title>camera icon</title><path d="M0 6 L8 6 L10 2 L22 2 L24 6 L32 6 L32 28 L0 28 z M9 17 A7 7 0 0 0 23 17 A7 7 0 0 0 9 17"></path></svg>
         </a>
       {% endfor %}
     {% endif %}
+    {% endfor %}
   </div>
-  {% endfor %}
+  {% endif %}
 
 <article class="post-content px2">
 

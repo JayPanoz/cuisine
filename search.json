@@ -10,7 +10,7 @@
       {% if post.cuisines %}"cuisines"    : "{% for cuisines in post.cuisines %}{{ cuisine | escape }} {% endfor %}",{% endif %}
       {% if post.diets %}"diets"       : "{% for diet in post.diets %}{{ diet | escape }} {% endfor %}",{% endif %}
       {% if post.courses %}"courses"  : "{% for course in post.courses %}{{ course | escape }} {% endfor %}",{% endif %}
-      "image"	   : "{{ site.baseurl }}/images/{{ post.image }}",
+      "image"	   : "{{ site.baseurl }}/images/{{ post.images[0].path }}",
 	    "url"      : "{{ site.baseurl }}{{ post.url }}"
 
     } {% unless forloop.last %},{% endunless %}

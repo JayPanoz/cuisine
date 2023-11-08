@@ -47,6 +47,6 @@
   {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="Chowdown">{% endif %}
   {% if page.url %}<meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}">{% endif %}
   {% if page.directions %}<meta name="twitter:description" content="{{ page.content | strip_html }}">{% else %}<meta name="twitter:description" content="La cuisine de Jiminy">{% endif %}
-  {% if page.image %}<meta name="twitter:image:src" content="{{site.baseurl}}/images/{{ page.image }}">{% else %}<meta name="twitter:image:src" content="{{site.baseurl}}/images/fluffernutter-cookie/fluffernutter-cookie-1.jpg">{% endif %}
+  {% if page.images and page.images.size != 0 %}<meta name="twitter:image:src" content="{{site.baseurl}}/images/{{ page.images[0].path }}">{% else %}<meta name="twitter:image:src" content="{{site.baseurl}}/images/fluffernutter-cookie/fluffernutter-cookie-1.jpg">{% endif %}
 
 </head>
