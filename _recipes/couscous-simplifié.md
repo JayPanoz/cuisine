@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Couscous de légumes"
-image: couscous-mini/couscous-mini.jpg
+images:
+  - image:
+    path: couscous-mini/couscous-mini.jpg
 cuisines: [maghrébine]
 courses: [plat, déjeuner, dîner]
 

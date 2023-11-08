@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Banana Cocoats Cookies"
-image: banana-cocoats/banana-cocoats-1.jpg
+images:
+  - image: 
+    path: banana-cocoats/banana-cocoats-1.jpg
+  - image:
+    path: banana-cocoats/banana-cocoats-2.jpg
+    alt: "C‘est vraiment très très moelleux, il ne faut pas en attendre du croquant."
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, healthy]
@@ -41,5 +46,3 @@ directions:
 Banana, cacao, et avoine pour un petit snack “assaini” qui peut se personnaliser. Ici, on ajoute un mélange de graînes mais on peut évidemment parier sur des pépites de chocolat, des fruits secs, etc.
 
 En bouche, on obtient une belle mâche un peu élastique qui donne l’impression de bien se rassasier, d’autant plus qu’on a pas mal de fibres grâce aux flocons d’avoine et graines.
-
-![C‘est vraiment très très moelleux, il ne faut pas en attendre du croquant.](../images/banana-cocoats/banana-cocoats-2.jpg)

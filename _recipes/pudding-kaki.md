@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Pudding au kaki"
-image: pudding-kaki/pudding-kaki-1.jpg
+images:
+  - image:
+    path: pudding-kaki/pudding-kaki-1.jpg
+  - image:
+    path: pudding-kaki/pudding-kaki-2.jpg
+    alt: "Moelleux et sucré se marient à merveille dans cette recette."
 cuisines: [britannique]
 courses: [dessert, goûter]
 tags: [antigaspi, comfort food]
@@ -32,5 +37,3 @@ directions:
 ---
 
 Une recette pour sauver du pain rassis, parce qu’il n’y a pas que le <i alt="en">french toast</i>/pain perdu dans la vie. Ici on associe notre pain au kaki, fruit d’hiver, en pudding. Dégusté tiède, c’est hyper réconfortant avec la touche de miel qui se sent bien à la dégustation.
-
-![Moelleux et sucré se marient à merveille dans cette recette.](../images/pudding-kaki/pudding-kaki-2.jpg)

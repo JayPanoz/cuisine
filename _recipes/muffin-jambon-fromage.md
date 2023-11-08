@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Muffins salés au jambon et fromage"
-image: muffin-jambon/muffin-jambon-1.jpg
+images:
+  - image:
+    path: muffin-jambon/muffin-jambon-1.jpg
+  - image:
+    path: muffin-jambon/muffin-jambon-2.jpg
+    alt: "L’idéal c’est d’avoir un mini muffin qui déborde de garniture, avec des beaux dés de jambon et herbes aux bords pour amener une esthétique intéressante."
 cuisines: [américaine]
 courses: [apéritif]
 tags: [petit format]
@@ -38,5 +43,3 @@ directions:
 Petite préparation salée pour l’apéro, entrée sur le pouce pour amuser la bouche, ou compagnon de pique-nique improvisé la veille, le muffin au jambon et fromage peut s’inviter à de multiples occasions.
 
 Ici, on choisit consciencieusement les ingrédients pour rééquilibrer les macro-nutriments. Le fromage rapé apporte pas mal de gras saturés donc on évite le beurre et on le remplace par de l’huile et du lait, on choisit si possible une farine moins raffinée pour conserver les fibres en plus des protéines, et on évite de saler parce qu’il y a déjà suffisament de sel dans les ingrédients de la recette. Attention également à la moutarde car certaines font exploser le compteur des glucides avec du sucre ajouté.
-
-![L’idéal c’est d’avoir un mini muffin qui déborde de garniture, avec des beaux dés de jambon et herbes aux bords pour amener une esthétique intéressante.](../images/muffin-jambon/muffin-jambon-2.jpg)

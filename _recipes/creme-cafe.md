@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Crème de café"
-image: creme-cafe/creme-cafe-1.jpg
+images:
+  - image:
+    path: creme-cafe/creme-cafe-1.jpg
+  - image:
+    path: creme-cafe/creme-cafe-2.jpg
+    alt: "Selon ta préférence, en mixant plus ou moins le mélange, tu peux obtenir soit une crème avec quelques morceaux encore apparents, comme ici, soit une belle mousse."
 cuisines: [française]
 courses: [dessert]
 tags: [4 ingrédients, sans cuisson, allégé]
@@ -36,5 +41,3 @@ directions:
 La crème de café c'est une recette en trompe l’œil dans un ramequin. D’ailleurs ici on en fait qu’un donc il faudra multiplier les quantités si tu veux en faire plusieurs.
 
 Recette à 4 ingrédients, c’est le batteur/mixeur qui va faire le plus gros du travail. Il faudra juste prévoir un passage de 24 heures au frigo pour que le mélange prenne.
-
-![Selon ta préférence, en mixant plus ou moins le mélange, tu peux obtenir soit une crème avec quelques morceaux encore apparents, comme ici, soit une belle mousse.](../images/creme-cafe/creme-cafe-2.jpg)

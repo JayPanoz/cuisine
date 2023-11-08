@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Tiramisu en verrine"
-image: tiramisu-verrine/tiramisu-verrine-1.jpg
+images:
+  - image:
+    path: tiramisu-verrine/tiramisu-verrine-1.jpg
+  - image:
+    path: tiramisu-verrine/tiramisu-verrine-2.jpg
+    alt: "On voit bien toutes les couches, et le biscuit Speculoos apporte un croquant que le biscuit à la cuillère n’apportera pas."
 cuisines: [italienne]
 courses: [dessert, goûter]
 tags: [sans cuisson, tiramisu]
@@ -33,5 +38,3 @@ Une recette de <i lang="en">tiramisu</i> express en verrine, et qui peut donc se
 Le tout se compose avec peu d’ingrédients et peut se décliner avec ce que vous avez sous la main. On utilise des framboises ici, mais on pourrait également utiliser des myrtilles, abricots, pêches, etc. sans rien changer par ailleurs.
 
 À vous de jouer&nbsp;!
-
-![On voit bien toutes les couches, et le biscuit Speculoos apporte un croquant que le biscuit à la cuillère n’apportera pas.](../images/tiramisu-verrine/tiramisu-verrine-2.jpg)

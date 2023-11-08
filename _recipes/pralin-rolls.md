@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Pralin Rolls"
-image: pralin-rolls/pralin-rolls-1.jpg
+images:
+  - image:
+    path: pralin-rolls/pralin-rolls-1.jpg
+  - image:
+    path: pralin-rolls/pralin-rolls-2.jpg
+    alt: "Une crème pâtissière pour ajouter du crémeux au moelleux et véhiculer les pépites de chocolat qui croquent puis fondent en bouche."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, roll, boulangerie]
@@ -46,5 +51,3 @@ directions:
 Encore des roulés, mais en version brioche au lait plutôt que Butchy ce coup-ci. Et pour changer de la sempiternelle cannelle, on parie sur le pralin&nbsp;: les amandes et noisettes caramélisées apportent du croquant et un goût un peu différent de ce qu’on peut attendre de roulés classiques à la garniture plus sucrée.
 
 Pour la finition, on déverse des filets de glaçage au cacao une fois la brioche refroidie, mais rien ne vous empêche de plus simplement dorer le dessus avec le restant d’œuf pour la garniture, voire d’y ajouter cassonnage et/ou pralin pour encore plus de goût noisette.
-
-![Une crème pâtissière pour ajouter du crémeux au moelleux et véhiculer les pépites de chocolat qui croquent puis fondent en bouche](../images/pralin-rolls/pralin-rolls-2.jpg)

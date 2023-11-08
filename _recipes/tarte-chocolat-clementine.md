@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte au chocolat et clémentine"
-image: tarte-clementine/tarte-clementine-1.jpg
+images:
+  - image:
+    path: tarte-clementine/tarte-clementine-1.jpg
+  - image:
+    path: tarte-clementine/tarte-clementine-2.jpg
+    alt: "Une crème pâtissière au chocolat ultra crémeuse sur un biscuit bien gonflé, le tout toppé d’un quartier de clémentine."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte]
@@ -42,5 +47,3 @@ directions:
 Une crème pâtissière ultra gourmande au chocolat et notes d’orange (écorces, extrait de fleur d’oranger), et une pâte sucrée toute simple pour la mettre bien en évidence.
 
 Pour ajouter une note acidulée, on utilise des quartiers de clémentine entiers mais vous pouvez tout aussi bien faire l’impasse et déguster tel quel.
-
-![Une crème pâtissière au chocolat ultra crémeuse sur un biscuit bien gonflé, le tout toppé d’un quartier de clémentine](../images/tarte-clementine/tarte-clementine-2.jpg)

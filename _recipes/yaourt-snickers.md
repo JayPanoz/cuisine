@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Yaourt glacé façon Snickers"
-image: yaourt-snickers/yaourt-snickers-1.jpg
+images:  
+  - image:
+    path: yaourt-snickers/yaourt-snickers-1.jpg
+  - image:
+    path: yaourt-snickers/yaourt-snickers-2.jpg
+    alt: "Là j’ai pris un Siggi’s Skyr vanille parce que c’est quelque chose que j’ai toujours dans le frigo, mais on peut aussi utiliser du yaourt grec."
 cuisines: [américaine]
 courses: [dessert, snack]
 tags: [4 ingrédients, glacé]
@@ -32,5 +37,3 @@ Une fois n’est pas coutume, une recette “à la mode” [postée un jour sur 
 On utilise un raccourci dans cette recette en utilisant l’ingrédient 2–en-1 qu’est le beurre de cacahuète crunchy – beurre de cacahuète + éclats de cacahuète. Mais vous pouvez remixer le concept avec d’autres ingrédients pour recréer les goûts que vous préférez, bien évidemment&nbsp;!
 
 Attention, on parle de la barre glacée Snickers, qui a un goût particulier, et pas de la barre chocolatée de base.
-
-![Là j’ai pris un Siggi’s Skyr vanille parce que c’est quelque chose que j’ai toujours dans le frigo, mais on peut aussi utiliser du yaourt grec.](../images/yaourt-snickers/yaourt-snickers-2.jpg)

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Beignets caramel beurre de myrtilles"
-image: beignets-bluebutter/beignets-bluebutter-1.jpg
+images:
+  - image:
+    path: beignets-bluebutter/beignets-bluebutter-1.jpg
+  - image:
+    path: beignets-bluebutter/beignets-bluebutter-2.jpg
+    alt: "Une mie bien douce, un fourrage au beurre de myrtilles ultra gourmand, un glaçage au caramel réhaussé par des cristaux de sel, le tout en fond un beignent super équilibré au terme de goût."
 cuisines: [américaine]
 courses: [petit-déjeuner, snack, goûter]
 tags: [donut, beignet, boulangerie]
@@ -56,5 +61,3 @@ Des beignets à cuire au four donc sans le gras de l’huile de cuisson, garnis 
 Le résultat est tout doux, bien équilibré au niveau des goûts et, surtout, original par rapport aux beignets à la confiture ou au nutella et leur sempiternel sucre glace, ou au <i lang="en">donut Boston Cream</i> et sa garniture de crème patissière.
 
 Comme d’habitude avec les recettes incluant une levure boulangère, vous pouvez préparer la veille pour laisser pousser toute la nuit au frigo et pouvoir vous lancer directement dans la confection le lendemain matin.
-
-![Une mie bien douce, un fourrage au beurre de myrtilles ultra gourmand, un glaçage au caramel réhaussé par des cristaux de sel, le tout en fond un beignent super équilibré au terme de goût.](../images/beignets-bluebutter/beignets-bluebutter-2.jpg)

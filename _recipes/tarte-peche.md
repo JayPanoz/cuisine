@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte aux pêches"
-image: tarte-peche/tarte-peche-1.jpg
+images:
+  - image:
+    path: tarte-peche/tarte-peche-1.jpg
+  - image:
+    path: tarte-peche/tarte-peche-2.jpg
+    alt: "Ça c’est ce qui arrive quand on oublie le gélifiant dans le fromage blanc, plus liquide que la ricotta et le yaourt grec."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte]
@@ -47,5 +52,3 @@ Construite sur le même modèle de la [tarte aux myrtilles](tarte-myrtille.html)
 La magie de cette pâte épeautre caramel c’est qu’elle demande à être imbibée pour la rendre plus humide. Donc même pas besoin de napper le fond de blanc d’œuf pour créer une barrière.
 
 Le fromage blanc se tenant moins bien que la ricotta ou le yaourt grec, il nous faut ajouter un gélifiant dans l’appareil, au risque d’obtenir un appareil trop liquide, comme dans l’image ci-dessous – j’ai oublié. Ça reste très bon mais forcément, c’est plus salissant.
-
-![Ça c’est ce qui arrive quand on oublie le gélifiant dans le fromage blanc, plus liquide que la ricotta et le yaourt grec.](../images/tarte-peche/tarte-peche-2.jpg)

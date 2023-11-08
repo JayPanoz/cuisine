@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte Turtle"
-image: tarte-turtle/tarte-turtle-1.jpg
+images:
+  - image:
+    path: tarte-turtle/tarte-turtle-1.jpg
+  - image:
+    path: tarte-turtle/tarte-turtle-2.jpg
+    alt: "C'est incroyablement riche, bien plus que le cheesecake, et plus amer aussi, surtout en ajoutant du café à la ganache. Du coup ça pourra plaire à d’autres gens."
 cuisines: [américaine]
 courses: [dessert, goûter]
 tags: [Turtle, tarte]
@@ -48,5 +53,3 @@ Une autre recette “Turtle”, mais on inverse les composants par rapport au <a
 Pour encore plus de gourmandise, vous pouvez ajouter des morceaux de noix de pécan dans la ganache voire même dans la pâte. En tout cas cette ganache saura mettre en valeur sa belle couleur ambrée après cuisson à blanc.
 
 La magie de cette pâte épeautre caramel c’est qu’elle demande à être imbibée pour la rendre plus humide. Donc même pas besoin de napper le fond de blanc d’œuf pour créer une barrière.
-
-![C'est incroyablement riche, bien plus que le cheesecake, et plus amer aussi, surtout en ajoutant du café à la ganache. Du coup ça pourra plaire à d’autres gens.](../images/tarte-turtle/tarte-turtle-2.jpg)

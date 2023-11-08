@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cookies au beurre noisette"
-image: browned-cookies/browned-cookies-1.jpg
+images:
+  - image:
+    path: browned-cookies/browned-cookies-1.jpg
+  - image:
+    path: browned-cookies/browned-cookies-2.jpg
+    alt: "Croquant à l’extérieur mais tout moelleux à l’intérieur."
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie]
@@ -45,5 +50,3 @@ Le cookie maison n’est pas le cookie industriel qui est soit moelleux soit cro
 Notez qu’en jouant sur la quantité de sucre et de chocolat, vous pouvez contrôler comment le cookie va s'étaler. Plus il y aura de sucre, plus il sera fin, croquant, et large. Plus il y aura de chocolat, plus il sera haut, moelleux et, bien évidemment chocolaté.
 
 Pour le cookie 100% américain, vous pouvez aussi remplacer la cuillère à café de levure par une 1/2 cuillère à café de levure et 1/2 cuillère à café de bicarbonate alimentaire.
-
-![Croquant à l’extérieur mais tout moelleux à l’intérieur.](../images/browned-cookies/browned-cookies-2.jpg)

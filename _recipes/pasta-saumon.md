@@ -2,9 +2,15 @@
 
 layout: recipe
 title: "Pâtes au saumon"
-image: pates-saumon/pates-saumon-1.jpg
+images:
+  - image:
+    path: pates-saumon/pates-saumon-1.jpg
+  - image:
+    path: pates-saumon/pates-saumon-2.jpg
+    alt: "On peut imaginer remplacer la sucrine par du brocolis pour rendre le plat encore plus healthy." 
 cuisines: [italienne, française]
 courses: [entrée, plat, déjeuner, dîner]
+tags: [healthy]
 
 preptime: 15 min
 cooktime: 12 min
@@ -36,5 +42,3 @@ directions:
 ---
 
 Un plat de pâtes rapide à préparer et qui n’a même pas besoin de sauce, qui se mélange tranquillement dans une seule et même poêle. Fondant, croquant, moelleux et <i lang="it">al dente</i> à la fois.
-
-![On peut imaginer remplacer la sucrine par du brocolis pour rendre le plat encore plus healthy.](../images/pates-saumon/pates-saumon-2.jpg) 

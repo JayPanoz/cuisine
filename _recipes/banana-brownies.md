@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Banana brownies"
-image: banana-brownie/banana-brownie-1.jpg
+images: 
+  - image: 
+    path: banana-brownie/banana-brownie-1.jpg
+  - image:
+    path: banana-brownie/banana-brownie-2.jpg
+    alt: "On sent bien le chocolat, et la banane assure un résultat ultra fondant pour ceux qui aiment leur brownie comme ça."
 cuisines: [américaine]
 courses: [snack]
 tags: [3 ingrédients]
@@ -36,5 +41,3 @@ Un brownie ultra fondant en 3 ingrédients, c’est une recette utile à avoir s
 Encore une fois, c’est la banane mûre écrasée en purée qui va venir faire le plus gros du travail. Même si on utilise quelques astuces comme l’utilisation de morceaux de chocolat dans la pâte pour en relever l’intensité et amener une texture en plus pour rendre la mâche intéressante.
 
 Dans la même optique, on peut aller sélectionner un chocolat avec des inserts (noisettes, amandes, raisins secs, etc.), qui ajoutera une dimension en plus. Il faudra simplement en mettre un peu plus pour obtenir les 80&nbsp;grammes de chocolat. N’hésitez pas à vous faire plaisir.
-
-![On sent bien le chocolat, et la banane assure un résultat ultra fondant pour ceux qui aiment leur brownie comme ça.](../images/banana-brownie/banana-brownie-2.jpg) 

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Peanut Butter Special (PBS)"
-image: PB-Special/pbs-1.jpg
+images:
+  - image:
+    path: PB-Special/pbs-1.jpg
+  - image:
+    path: PB-Special/pbs-2.jpg
+    alt: "Le fourrage au beurre de cacahuète granuleux qui rappelle celui des cups Reese’s."
 cuisines: [américaine]
 courses: [dessert]
 tags: [sans cuisson]
@@ -36,5 +41,3 @@ directions:
 Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Le Peanut Butter Special peut se concevoir comme la rencontre entre un fond de cheesecake et une <i lang="en">cup</i> au beurre de cacahuète Reese’s géante.
-
-![Le fourrage au beurre de cacahuète](../images/PB-Special/pbs-2.jpg)

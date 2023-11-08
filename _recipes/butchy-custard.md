@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Butchy’s Custard Rolls"
-image: butchy-custard/butchy-custard-1.jpg
+images:
+  - image:
+    path: butchy-custard/butchy-custard-1.jpg
+  - image:
+    path: butchy-custard/butchy-custard-2.jpg
+    alt: "Une crème pâtissière pour ajouter du crémeux au moelleux et véhiculer les pépites de chocolat qui croquent puis fondent en bouche"
 cuisines: [allemande]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, roll, boulangerie]
@@ -42,5 +47,3 @@ directions:
 ---
 
 Des petits roulés briochés à la crème pâtissière et pépites de chocolat. En France, on appelle cela un chinois. Ici, on utilise simplement une pâte à brioche Butchy.
-
-![Une crème pâtissière pour ajouter du crémeux au moelleux et véhiculer les pépites de chocolat qui croquent puis fondent en bouche](../images/butchy-custard/butchy-custard-2.jpg)

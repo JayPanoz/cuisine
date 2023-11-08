@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Peanut Butter & Jelly Cups"
-image: pbj-cups/pbj-cups-1.jpg
+images:
+  - image:
+    path: pbj-cups/pbj-cups-1.jpg
+  - image:
+    path: pbj-cups/pbj-cups-2.jpg
+    alt: "La cups est très moelleuse et pas trop sucrée. Elle ne se désagrège pas du tout lorsqu’on croque dedans. Et avec la chaleur, la confiture se transforme en gelée."
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée]
@@ -40,5 +45,3 @@ La combinaison mythique venue de Nord-Amérique&nbsp;: PB&J (Peanut Butter & Jel
 Une petite astuce à noter. On utilise 2 types de sucre car ils apportent la texture typique du cookie à l'américaine&nbsp;: le sucre blanc apporte le croquant de l'enveloppe, le sucre complet/brun, plus humide car il est moins raffiné et contient par conséquent encore de la mélasse, le moelleux à l’intérieur.
 
 Vous pouvez également faire l’impasse sur la confiture et la remplacer par… De la banane en purée ou en morceaux, du caramel, de la pâte à tartiner chocolat noisette ou du fluff – pâte de marshmallow. Ces associations fonctionnent également très bien. 
-
-![La cups est très moelleuse et pas trop sucrée. Elle ne se désagrège pas du tout lorsqu’on croque dedans. Et avec la chaleur, la confiture se transforme en gelée.](../images/pbj-cups/pbj-cups-2.jpg)

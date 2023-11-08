@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Tiramisu aux fraises et à la ricotta"
-image: tiramisu-ricotta/tiramisu-ricotta-1.jpg
+images:
+  - image:
+    path: tiramisu-ricotta/tiramisu-ricotta-1.jpg
+  - image:
+    path: tiramisu-ricotta/tiramisu-ricotta-2.jpg
+    alt: "Vanille fraise pistache, crémeux et moelleux, le tout aux couleurs du drapeau italien. La dolce vita."
 cuisines: [italienne]
 courses: [dessert, goûter]
 tags: [sans cuisson, tiramisu, comfort food]
@@ -38,7 +43,5 @@ Il n’y a pas que le mascarpone pour venir confectionner un tiramisu, il y a la
 Dans cette version aux <i lang="en">amaretti morbidi</i>, qui sont donc la variante molle du biscuit italien, il peut même être préparé à la dernière minute, sans passage au réfrigérateur, puisqu’il n’y a pas besoin de les faire tremper. 
 
 On peut évidemment le conserver au frais si préparé à l’avance mais il faudra veiller à le sortir 30–45 minutes avant dégustation si vous souhaitez retrouver du crémeux – le ricotta va durcir au réfrigérateur, mais vous préférerez peut-être comme ça.
-
-![Vanille fraise pistache, crémeux et moelleux, le tout aux couleurs du drapeau italien. La dolce vita.](../images/tiramisu-ricotta/tiramisu-ricotta-2.jpg)
 
 En alternative à la pistache, vous pouvez utiliser des <i lang="en">amaretti</i> à l’amande – et éventuellement de l’extrait d’amande à la place de la cuillère à soupe de jus de citron dans la crème sucrée de ricotta. Notez que la recette fonctionne également avec des framboises.

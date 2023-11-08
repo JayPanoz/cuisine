@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cheesecake à la ricotta et au mascarpone"
-image: ricotta-masc-cheesecake/ricotta-masc-cheesecake-1.jpg
+images:
+  - image:
+    path: ricotta-masc-cheesecake/ricotta-masc-cheesecake-1.jpg
+  - image:
+    path: ricotta-masc-cheesecake/ricotta-masc-cheesecake-2.jpg
+    alt: "Ici la version simplement habillée de quelques myrtilles, qui apportent une pointe acidulée et du peps à la mâche."
 cuisines: [américaine, italienne]
 courses: [dessert, goûter]
 tags: [cheesecake, sans cuisson]
@@ -36,5 +41,3 @@ directions:
 Par fortes chaleurs, il est utile d’avoir des recettes sans cuisson sous la main. Ça évite d’avoir à allumer le four et, en général, ça demande aussi pas mal moins de travail de préparation – en plus d’éviter le risque de rater la cuisson.
 
 C‘est justement l’idée de cette recette de cheesecake à 5 ingrédients. La base ne change pas, c’est toi qui vient ensuite la personnaliser pour en faire <em>ton</em> cheesecake, avec les ingrédients que tu adores – et il est aussi plus léger que le cheesecake au Philadelphia, qui est une bombe calorique, donc ça offre plus de marge pour pas faire exploser les macros.
-
-![Ici la version simplement habillée de quelques myrtilles, qui apportent une pointe acidulée et du peps à la mâche.](../images/ricotta-masc-cheesecake/ricotta-masc-cheesecake-2.jpg)

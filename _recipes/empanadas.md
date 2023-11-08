@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Empanadas"
-image: empanadas/empanadas-1.jpg
+images:
+  - image:
+    path: empanadas/empanadas-1.jpg
+  - image:
+    path: empanadas/empanadas-2.jpg
+    alt: "À l’intérieur, c‘est simplement le contenu d’une boîte de thon aux tomates."
 cuisines: [argentine]
 courses: [apéritif]
 tags: [3 ingrédients]
@@ -35,5 +40,3 @@ directions:
 ---
 
 Encore une recette d’assemblage pour l’apéro, avec des empanadas au thon, soit des petits chaussons contenant du thon en boîte.
-
-![À l’intérieur, c‘est simplement le contenu d’une boîte de thon aux tomates.](../images/empanadas/empanadas-2.jpg)

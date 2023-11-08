@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Mousse au chocolat et aquafaba"
-image: mousse-chocofaba/mousse-chocofaba-1.jpg
+images:
+  - image:
+    path: mousse-chocofaba/mousse-chocofaba-1.jpg
+  - image:
+    path: mousse-chocofaba/mousse-chocofaba-2.jpg
+    alt: "Une vraie mousse maison en 2 ingrédients. Évidemment celle-ci sera plus ou moins dense en fonction de votre préparation."
 cuisines: [française]
 courses: [dessert]
 tags: [sans œuf, 4 ingrédients]
@@ -32,5 +37,3 @@ directions:
 Une belle mousse au chocolat riche et savoureuse que l’on peut faire en dessert d’une [salade de pois chiche](salade-pois.html) puisqu’on en récupère le jus de cuisson pour remplacer les blancs d’œufs. Même principe&nbsp;: on le monte en neige puis on l’incorpore au chocolat fondu.
 
 Pour les aider un peu, on ajoute un peu de citron et, pour stabiliser, on utilise du sucre glace. Notez que vous pouvez en ajouter par-dessus si vous avez le bec sucré.
-
-![Une vraie mousse maison en 2 ingrédients. Évidemment celle-ci sera plus ou moins dense en fonction de votre préparation.](../images/mousse-chocofaba/mousse-chocofaba-2.jpg)

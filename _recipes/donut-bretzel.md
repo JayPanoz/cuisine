@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Donut bretzel"
-image: donut-bretzel/donut-bretzel-1.jpg
+images:
+  - image:
+    path: donut-bretzel/donut-bretzel-1.jpg
+  - image:
+    path: donut-bretzel/donut-bretzel-2.jpg
+    alt: "Si vous savez la flemme, même pas besoin de faire la forme de bretzel. La forme de donut avec ou sans trou, petit pain ou barre fonctionne très bien aussi, et permet de s’amuser sur la décoration."
 cuisines: [américaine]
 courses: [petit-déjeuner, snack, goûter]
 tags: [donut, beignet, boulangerie, sans œuf]
@@ -13,6 +18,7 @@ totaltime: 4 h 30 min
 yield: 8 donuts
 
 storage: 3–5 jours dans une boîte à l’abri de la lumière et de la chaleur ou emballé dans un torchon comme le pain. 2–3 mois au congélateur.
+tip: "Si tu préfères une pâte à donut un peu plus aérée pour réaliser ces bretzels, il suffit d’ajouter un œuf à la pâte. Le reste fonctionne de la même façon."
 
 ingredients:
 - 250g de farine T55
@@ -54,7 +60,3 @@ directions:
 Le bretzel c’est très bon nature, c’est également délicieux en sandwich, mais c’est un peu moins connu en version sucrée – en l’occurence en donut ici. L’idée c’est d’amener du contraste pour mettre en avant le goût salé du bretzel, et le sucré de son glaçage.
 
 Pour la glaçage on joue la valeur sûre&nbsp;: chocolat noir/cacao et gros sel. Ça existe sous forme de tablette de chocolat, c’est simple, basique, et on sait que ça fonctionne. Mais il y en a plein d’autres qui peuvent se tenter&nbsp;: caramel, beurre de cacahuète, et sirop d’érable devraient tout aussi bien fonctionner que le chocolat noir. Et les plus aventureux pourront tenter des choses beaucoup plus originales ou contrastées.
-
-Note&nbsp;: Si tu préfères une pâte à donut un peu plus aérée pour réaliser ces bretzels, il suffit d’ajouter un œuf à la pâte. Le reste fonctionne de la même façon.
-
-![Si vous savez la flemme, même pas besoin de faire la forme de bretzel. La forme de donut avec ou sans trou, petit pain ou barre fonctionne très bien aussi, et permet de s’amuser sur la décoration.](../images/donut-bretzel/donut-bretzel-2.jpg)

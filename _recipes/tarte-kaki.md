@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte aux kakis"
-image: tarte-kaki/tarte-kaki-1.jpg
+images:
+  - image:
+    path: tarte-kaki/tarte-kaki-1.jpg
+  - image:
+    path: tarte-kaki/tarte-kaki-2.jpg
+    alt: "Les morceaux de kaki doivent être tendres sous la dent, avec un belle caramélisation bien aidée par la compote de pomme. Si le kaki n'est pas assez mûr, la tarte pourrait être décevante à la mâche."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte, 4 ingrédients, hiver, comfort food]
@@ -43,5 +48,3 @@ Une pâte toute prête, un appareil très simple à la compote de pomme, quelque
 On choisira par contre des kakis bien mûrs pour que ceux-ci soient plus agréables à la dégustation, la mâche de fruits qui ne le sont pas assez pourra en effet se révéler quelque peu décevante – pour assurer le coup, vous pouvez donc ajouter un peu de fécule de maïs à l’appareil histoire de ne pas trop imbiber la pâte.
 
 Ensuite, à vous de jouer. Si cette recette s’en tient à la cannelle, le mélange 4 épices, l’extrait de vanille ou d’amande, la fleur d’oranger ou le miel fonctionnent également plutôt bien avec le kaki. Tout dépend de vos goûts et vos envies. Les plus aventureux pourraient même remplacer la sucre complet par du sucre de coco, et saupoudrer de noix de coco rapée – qui est une autre association pas mal connue du kaki.
-
-![Les morceaux de kaki doivent être tendres sous la dent, avec un belle caramélisation bien aidée par la compote de pomme. Si le kaki n'est pas assez mûr, la tarte pourrait être décevante à la mâche.](../images/tarte-kaki/tarte-kaki-2.jpg)

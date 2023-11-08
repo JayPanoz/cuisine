@@ -2,8 +2,13 @@
 
 layout: recipe
 title: "Oatmeal bread"
-image: oatmeal-bread/oatmeal-bread-1.jpg
-imagealt: "Les 2 cakes vu du dessus, on remarque bien la texture du son d’avoine bien doré, et quelques morceaux de figues laissent deviner la présence du fruit."
+images:
+  - image:
+    path: oatmeal-bread/oatmeal-bread-1.jpg
+    alt: "Les 2 cakes vu du dessus, on remarque bien la texture du son d’avoine bien doré, et quelques morceaux de figues laissent deviner la présence du fruit."
+  - image:
+    path: oatmeal-bread/oatmeal-bread-2.jpg
+    alt: "Une mie câline et bien aérée qui n’a rien à envier à celles que l’on obtient avec de la farine plus conventionnelle. Et puis des inserts de morceaux de figue pour la gourmandise."
 cuisines: [américaine]
 courses: [petit-déjeuner, snack, goûter]
 tags: [healthy]
@@ -49,5 +54,3 @@ De l’avoine au programme du petit-déjeuner – ou du goûter, voire même en 
 Si le résultat n’est pas tout à fait identique et se révèle un peu plus ferme en tenue, ces petits cakes conservent néanmoins beaucoup de moelleux – d’autant plus en utilisant du son plutôt que des flocons – et n’ont absolument pas à rougir de la comparaison avec ceux conçus en laboratoire pour offrir cette caractéristique aux consommateurs. Et le tout en procurant un réel sentiment de satiété bien sûr – ici on ne bourre pas les cakes de [calories vides](https://fr.wikipedia.org/wiki/Calorie_vide)&nbsp;!
 
 Si on se limite aux figues dans cette recette, rien n’empêche d’ajouter des noix ou amandes concassées, d’utiliser n’importe quel autre fruit de saison, ou de remplacer la moitié des figues par des raisins secs pour créer un <i lang="en">oatmeal bread</i> mi-figue mi-raisin qui conviendra parfaitement aux matins de printemps pluvieux mais heureux.
-
-![Une mie câline et bien aérée qui n’a rien à envier à celles que l’on obtient avec de la farine plus conventionnelle. Et puis des inserts de morceaux de figue pour la gourmandise.](../images/oatmeal-bread/oatmeal-bread-2.jpg)

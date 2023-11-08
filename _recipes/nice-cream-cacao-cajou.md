@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Nice cream cacao & noix de cajou"
-image: nice-cream/nice-cream-cacao-cajou.jpg
+images:
+  - image:
+    path: nice-cream/nice-cream-cacao-cajou.jpg
 cuisines: [américaine]
 courses: [snack, dessert]
 tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière]

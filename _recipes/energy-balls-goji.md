@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Energy balls au tahini & goji"
-image: goji-balls/goji-balls-1.jpg
+images:
+  - image:
+    path: goji-balls/goji-balls-1.jpg
+  - image:
+    path: goji-balls/goji-balls-2.jpg
+    alt: "Le résultat à la main est certes un peu moins rond, moins propre, mais en contrepartie les aliments sont à peine transformés et vous en garderez toutes les propriétés nutritionnelles."
 cuisines: [américaine]
 courses: [snack]
 tags: [healthy, sans cuisson, bouchée]
@@ -48,5 +53,3 @@ Pour simplifier leur “mode de fonctionnement”&nbsp;:
 5. pépites, extraits, copeaux, etc. ajoutent une touche finale de plaisir.
 
 Généralement, la recette des energy balls comporte des dattes, ce qui implique l’utilisation d’un mixer – à moins que vous utilisiez de la pâte de dattes. Le défi que je me suis donc lancé pour cette recette, c’est de pouvoir la réaliser sans. Ça aidera d’en avoir un, mais il est tout à fait possible de confectionner ces petites balles avec une simple cuillère à soupe ou maryse. 
-
-![Le résultat à la main est certes un peu moins rond, moins propre, mais en contrepartie les aliments sont à peine transformés et vous en garderez toutes les propriétés nutritionnelles.](../images/goji-balls/goji-balls-2.jpg)

@@ -2,7 +2,9 @@
 
 layout: recipe
 title:  "Ginger beer"
-image: ginger-beer/ginger-beer.jpg
+images:
+  - image:
+    path: ginger-beer/ginger-beer.jpg
 cuisines: [américaine]
 courses: [soda]
 tags: [fermentation, cocktail, liquide]

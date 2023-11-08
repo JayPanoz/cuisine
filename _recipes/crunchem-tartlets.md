@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Mini tartelettes Crunch’ Em"
-image: crunchem/crunchem-1.jpg
+images:
+  - image:
+    path: crunchem/crunchem-1.jpg
+  - image:
+    path: crunchem/crunchem-2.jpg
+    alt: "La surprise de la tartelette, c’est le fourrage au beurre de myrtille."
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée, tarte]
@@ -45,5 +50,3 @@ directions:
 Les tartelettes Crunch’ Em sont des bouchées snack qui marient le beurre de cacahuète et la myrtille dans un format original.
 
 Si vous comptez transporter les tartelettes ou qu'il fait chaud, ajouter de l'huile de coco fondue pourra aider à solidifier le nappage au chocolat même s'il ne faut pas non plus espérer de trop gros miracle – elle se fige en dessous de 25°C.
-
-![La surprise de la tartelette, c’est le fourrage au beurre de myrtille](../images/crunchem/crunchem-2.jpg)

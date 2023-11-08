@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Brioche Butchy’s Genix"
-image: butchy-genix/butchy-genix-1.jpg
+images:
+  - image:
+    path: butchy-genix/butchy-genix-1.jpg
+  - image:
+    path: butchy-genix/butchy-genix-2.jpg
+    alt: "En fondant lors de la cuisson, les flaques de sucre fondu des pralines roses apporte une belle humidité. Si la mie s’est bien développée après un pétrissage rigoureux, on a l’impression de manger un nuage."
 cuisines: [allemande, française]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, boulangerie]
@@ -58,5 +63,3 @@ Inspirée de la brioche Saint-Genix, ou brioche Labully du nom de son créateur,
 Le résultat sera moelleux, filandreux et aéré, fondant (le sucre rose d’enrobage) et croquant (les amandes) si vous réussissez votre coup, et le tout sans trop de matière grasse par rapport à la recette d’origine – notamment du côté des acides gras saturés, qui sont à limiter. 
 
 Il ne devrait même pas y avoir besoin d’en ajouter puisque le résultat ne devrait pas être sec. Le secret, c’est de pétrir consciencieusement pendant 10 bonnes minutes – et à basse vitesse au robot. La pâte doit rester légèrement collante et montrer une belle elasticité quand on tire dessus. Ensuite, une levure de qualité devrait s’occuper du reste.
-
-![En fondant lors de la cuisson, les flaques de sucre fondu des pralines roses apporte une belle humidité. Si la mie s’est bien développée après un pétrissage rigoureux, on a l’impression de manger un nuage.](../images/butchy-genix/butchy-genix-2.jpg)

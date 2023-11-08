@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Brioche aux myrtilles"
-image: bb-brioche/bb-brioche-1.jpg
+images:
+  - image:
+    path: bb-brioche/bb-brioche-1.jpg
+  - image:
+    path: bb-brioche/bb-brioche-2.jpg
+    alt: "Il faut être délicat avec les myrtilles lors de la confection de la brioche, mais ça en vaut réellement la peine tant leur petit côté bulle qui explose sous la dent apporte de l’excitation à la mâche en contrastant avec la mie bien aérienne de la pâte."
 cuisines: [française]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, boulangerie]
@@ -52,5 +57,3 @@ On sait que la combinaison de yaourt grec, de myrtilles et de sirop d’érable/
 Cette brioche toute simple est excellente nature, mais son intérêt est également de pouvoir être personnalisée ou tartinée. Glaçage à la cannelle, à la vanille ou au cacao, pâte à tartiner au chocolat ou beurre de cacahuète, <i lang="en">lemon curd</i> ou confiture de fruits rouges, les options sont en effet nombreuses&nbsp;! Vous pouvez même la tremper dans un chocolat bien chaud pour un goûter ultra réconfortant.
 
 Et ne vous inquiétez pas, on retrouve bien le côté brioche sans huile ni beurre. Le yaourt grec excelle quand il remplace un ingrédient moins <i lang="en">healthy</i> en comparaison, booste la teneur en protéines et apporte une petite note aigre mais onctueuse bien appréciable dans des recettes simples. Il n’y a donc aucune raison de s’en priver.
-
-![Il faut être délicat avec les myrtilles lors de la confection de la brioche, mais ça en vaut réellement la peine tant leur petit côté bulle qui explose sous la dent apporte de l’excitation à la mâche en contrastant avec la mie bien aérienne de la pâte.](../images/bb-brioche/bb-brioche-2.jpg)

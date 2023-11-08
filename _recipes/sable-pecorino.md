@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Sablés au Pecorino"
-image: sables-pecorino/sables-pecorino.jpg
+images:
+  - image:
+    path: sables-pecorino/sables-pecorino.jpg
 cuisines: [française]
 courses: [apéritif]
 tags: [biscuit salé]

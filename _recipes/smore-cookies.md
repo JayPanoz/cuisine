@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "S’more cookies"
-image: smore-cookies/smore-cookies-1b.jpg
+images:
+  - image:
+    path: smore-cookies/smore-cookies-1b.jpg
+  - image:
+    path: smore-cookies/smore-cookies-2.jpg
+    alt: "Croquant à l’extérieur mais tout moelleux à l’intérieur, avec des flaques de chocolat fondu et du marshmallow bien gluant." 
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, gooey]
@@ -53,5 +58,3 @@ C’est une réinterprétation en cookie qui vous est présentée ici, avec une 
 Le défi avec le Graham cracker, c’est que 2 ingrédients sont ultra relous à trouver (voire introuvables) dans nos contrées sans un minimum d'organisation&nbsp;: la farine Graham et la mélasse. Qu’à cela ne tienne, nous allons un peu tricher avec de la farine complète T150 d'un côté&nbsp;; et du sucre de canne complet, qui contient cette fameuse mélasse car il est moins raffiné que le sucre blanc, de l'autre. Dans l’esprit on est pas mal en tout cas – au Royaume-Uni le [biscuit digestive](https://fr.wikipedia.org/wiki/Digestive_biscuit) remplace d’ailleurs le cracker par commodité.
 
 À noter qu’il existe une variante cannelle du cracker. Si vous préférez un léger parfum réminiscent du Spéculoos, ajoutez ½&nbsp;cuillère à café de cannelle en poudre.
-
-![Croquant à l’extérieur mais tout moelleux à l’intérieur, avec des flaques de chocolat fondu et du marshmallow bien gluant.](../images/smore-cookies/smore-cookies-2.jpg) 

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Choco Banana Special (CBS)"
-image: choco-banana-special/choco-banana-1.jpg
+images:
+  - image:
+    path: choco-banana-special/choco-banana-1.jpg
+  - image:
+    path: choco-banana-special/choco-banana-2.jpg
+    alt: "Une coque bien craquante, une crème banane onctueuse, un biscuit cacao bien friable, des saveurs et textures simples mais qui se révèlent délicieuses et équilibrées à la dégustation."
 cuisines: [américaine]
 courses: [dessert]
 tags: [sans cuisson]
@@ -43,5 +48,3 @@ Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans 
 Banane et chocolat, un duo iconique qui se revisite en tartelette sans cuisson pour une grande occasion&nbsp;: un biscuit cheesecake au cacao vient accueillir une crème à la banane bien onctueuse, et une coque en chocolat noir vient refermer le tout. Pour une déclinaison encore plus rapide, on peut remplacer la crème banane par une simple purée de bananes mûres écrasées et la coque par une ganache au chocolat. À vous de voir ce que vous préférez.
 
 Pour la crème banane, j’ai utilisé de la farine d’épeautre et du sucre muscovado, mais n’importe quelle autre farine et sucre feront bien évidemment l’affaire. L’idée est de les sélectionner pour ajouter un léger accent à la crème selon vos préférences personnelles e.g. le sucre muscovado apporte une légère note de caramel, qui se marie bien avec l’épeautre.
-
-![Une coque bien craquante, une crème banane onctueuse, un biscuit cacao bien friable, des saveurs et textures simples mais qui se révèlent délicieuses et équilibrées à la dégustation.](../images/choco-banana-special/choco-banana-2.jpg)

@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Cake chèvre-épinards"
-image: cake-epinards/cake-epinards.jpg
+images:
+  - image:
+    path: cake-epinards/cake-epinards.jpg
 cuisines: [française]
 courses: [apéritif, entrée, déjeuner, dîner]
 tags: [cake salé]

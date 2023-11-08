@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Quiche sans pâte"
-image: quiche-misc/quiche-sans-pate.jpg
+images:
+  - image:
+    path: quiche-misc/quiche-sans-pate.jpg
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [quiche]

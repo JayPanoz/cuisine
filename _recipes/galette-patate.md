@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Galettes de pomme de terre"
-image: galette-patate/galette-patate.jpg
+images:
+  - image:
+    path: galette-patate/galette-patate.jpg
 cuisines: [américaine, française]
 courses: [petit-déjeuner, déjeuner, dîner]
 tags: [accompagnement]

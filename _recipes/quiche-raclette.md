@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Quiche raclette"
-image: quiche-misc/quiche-raclette.jpg
+images:
+  - image:
+    path: quiche-misc/quiche-raclette.jpg
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [quiche, comfort food]

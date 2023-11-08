@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Gratin de courgettes"
-image: gratin-courgette/gratin-courgette-1.jpg
+images:
+  - image:
+    path: gratin-courgette/gratin-courgette-1.jpg
+  - image:
+    path: gratin-courgette/gratin-courgette-2.jpg
+    alt: "Avec ses mouillettes en pain soda irlandais, c’est une petite entrée qui ouvre l’appétit."
 cuisines: [française]
 courses: [plat, déjeuner, dîner]
 tags: [comfort food]
@@ -37,5 +42,3 @@ directions:
 ---
 
 Un gratin pas trop compliqué avec peu d’ingrédients et qui peut se préparer la veille pour mise au four le lendemain. Il faudra juste à minima prévoir une cuisson rapide des courgettes à la poêle pour qu’elles rendent le maximum d’eau et évitent de transformer votre gratin en piscine.
-
-![Avec ses mouillettes en pain soda irlandais, c’est une petite entrée qui ouvre l’appétit.](../images/gratin-courgette/gratin-courgette-2.jpg)

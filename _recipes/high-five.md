@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "High Five"
-image: high-five/high-five-1.jpg
+images:
+  - image:
+    path: high-five/high-five-1.jpg
+  - image:
+    path: high-five/high-five-2.jpg
+    alt: "Bretzel apéritif, garniture au beurre de cacahuète, caramel de dattes, cacahuètes, et chocolat noir. On peut bien voir les ingrédients quand on découpe/croque dans cette confiserie, comme dans l’originale."
 cuisines: [américaine]
 courses: [snack]
 tags: [sans cuisson, sucré-salé]
@@ -49,5 +54,3 @@ Si nous avons plus ou moins facilement accès à ses <i lang="en">Peanut Butter 
 Ici le <i lang="en">High Five</i> est une réinterprétation du [Reese’s <i lang="en">Take 5</i>](https://en.wikipedia.org/wiki/Reese%27s_Take_5), une barre chocolatée composée de 5 ingrédients&nbsp;: du chocolat au lait ou blanc, des éclats de cacahuète, du caramel, du beurre de cacahuète et… des bretzels apéritifs. Le <i lang="en">twist</i>, c’est qu’on remplace le caramel par du “caramel de dattes” et qu’on utilise un bon beurre de cacahuète sans sucre ni huile ajoutée pour la garniture, et un bon chocolat de couverture. Et ça, ça change tout.
 
 Pour les bretzels, le top est de trouver des bretzels carrés. Mais pas d’inquiétude si vous n’en trouvez pas, ça fonctionne également avec les bretzels Ancel bien connus et trouvables dans les rayons de la grande distribution. Et si vous n’aimez pas les bretzels eh bien n’en mettez pas du tout, ou remplacez-le par un sablé, un Graham cracker, ou un biscuit digestive&nbsp;!
-
-![Bretzel apéritif, garniture au beurre de cacahuète, caramel de dattes, cacahuètes, et chocolat noir. On peut bien voir les ingrédients quand on découpe/croque dans cette confiserie, comme dans l’originale.](../images/high-five/high-five-2.jpg)

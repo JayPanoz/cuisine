@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Gnocchi aux tomates"
-image: gnocchi-tomate/gnocchi-tomate.jpg
+images:
+  - image:
+    path: gnocchi-tomate/gnocchi-tomate.jpg
 cuisines: [italienne]
 courses: [entrée, plat, déjeuner, dîner]
 

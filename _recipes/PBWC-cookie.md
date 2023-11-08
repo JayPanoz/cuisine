@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "PB Cookies chocolat blanc noisettes"
-image: pbwc-cookie/pbwc1.jpg
+images:
+  - image:
+    path: pbwc-cookie/pbwc1.jpg
+  - image:
+    path: pbwc-cookie/pbwc2.jpg
+    alt: "Chunks de chocolat blanc et noisettes pour le croc, beurre de cacahuète pour la mâche."
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie]
@@ -36,6 +41,6 @@ directions:
 
 ---
 
-Des cookies à mâcher, et pas à croquer.
+Des cookies à mâcher, et pas à croquer, et qui ont la particularité d’utiliser des restes de placard qui traînent quand il n’y en a plus suffisamment pour d’autres recettes.
 
-![Chunks de chocolat blanc et noisettes pour le croc, beurre de cacahuète pour la mâche](../images/pbwc-cookie/pbwc2.jpg)
+Par exemple, le chocolat blanc remplace une partie du beurre de cacahuète des [PB cookies](PB-cookies.html). 

@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Tiramisu aux abricots"
-image: tiramisu-abricot/tiramisu-abricot-1.jpg
+images:
+  - image:
+    path: tiramisu-abricot/tiramisu-abricot-1.jpg
+  - image:
+    path: tiramisu-abricot/tiramisu-abricot-2.jpg
+    alt: "Ultra crémeux, avec un biscuit amaretti morbidi à la pistache, bien mou de base sans avoir besoin de l’imbimber, des abricots à peine découpés en quartiers, et des amandes effilées pour amener un peu d’intérêt en plus à la mâche."
 cuisines: [italienne]
 courses: [dessert, goûter]
 tags: [sans cuisson, tiramisu, comfort food]
@@ -41,5 +46,3 @@ Aux abricots entiers à peine travaillés on ajoute des <i lang="it">amaretti</i
 Pour une version <i lang="en">deluxe</i>, on pourra réserver la moitié des abricots pour en faire un coulis (voir [<i lang="it">tiramisu</i> aux framboises](tiramisu-framboises.html)), imbiber le biscuit de lait à l’amande intense (ou d’extrait d’amande), et torréfier les amandes effilées (10 minutes au four à 180°C préchauffé) pour bien en faire ressortir le goût.
 
 En alternative, vous pouvez également doubler la mise sur le pistache avec une pâte/purée en guise de coulis, et des pistaches grillés à la place des amandes effilées pour apporter du croquant. À vous de voir si vous voulez quelque chose avec un gros accent sur la pistache ou quelque chose de plus équilibré en saveurs.
-
-![Ultra crémeux, avec un biscuit amaretti morbidi à la pistache, bien mou de base sans avoir besoin de l’imbimber, des abricots à peine découpés en quartiers, et des amandes effilées pour amener un peu d’intérêt en plus à la mâche.](../images/tiramisu-abricot/tiramisu-abricot-2.jpg)

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte aux fruits jaunes"
-image: tarte-fruits-jaunes/tarte-fruits-jaunes-1.jpg
+images:
+  - image:
+    path: tarte-fruits-jaunes/tarte-fruits-jaunes-1.jpg
+  - image:
+    path: tarte-fruits-jaunes/tarte-fruits-jaunes-2.jpg
+    alt: "Un biscuit friable, un appareil hyper moelleux et tout doux à la dégustation, des beaux fruits juteux et sucrés pour harmoniser le tout. Une belle tarte pour l’été."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte]
@@ -53,5 +58,3 @@ La purée d'amande dans l'appareil, c'est très subtil quand on le goûte comme 
 Quant à la nectarine et la pêche, elles viennent trancher l’acidité de abricot et du fromage blanc, tout en apportant une note sucrée qui se suffit à elle-même, pas besoin d’en ajouter dans l’appareil.
 
 Pas de purée d’amandes sous la main&nbsp;? Essayez la compote de pomme.
-
-![Un biscuit friable, un appareil hyper moelleux et tout doux à la dégustation, des beaux fruits juteux et sucrés pour harmoniser le tout. Une belle tarte pour l’été.](../images/tarte-fruits-jaunes/tarte-fruits-jaunes-2.jpg)

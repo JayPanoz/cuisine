@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Berry Crumble"
-image: berry-crumble/berry-crumble-1.jpg
+images:
+  - image:
+    path: berry-crumble/berry-crumble-1.jpg
+  - image:
+    path: berry-crumble/berry-crumble-2.jpg
+    alt: "C’est moelleux et sucré-acidulé, c’est difficile de s’arrêter de croquer dedans."
 cuisines: [américaine]
 courses: [goûter]
 tags: [cake]
@@ -47,5 +52,3 @@ directions:
 Le <i lang="en">Berry crumble</i> est un <i lang="en">coffee cake</i> typique de celui que tu te tapes avec ton café Starbucks, mais en version fruits rouge. C‘est moelleux, on sent bien la cannelle, ça se laisserait presque tremper dans ta pinte de sucre caféinée mais il n’y en a pas du tout besoin tellement c’est humide de base.
 
 Le risque avec cette recette finalement, c’est de voir disparaître le cake en un seul goûter.
-
-![C’est moelleux et sucré-acidulé, c’est difficile de s’arrêter de croquer dedans.](../images/berry-crumble/berry-crumble-2.jpg)

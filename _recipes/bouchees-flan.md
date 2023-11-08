@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Bouchées de flan patissier"
-image: Bouchees-flan/bouchees-flan-1.jpg
+images:
+  - image:
+    path: Bouchees-flan/bouchees-flan-1.jpg
+  - image:
+    path: Bouchees-flan/bouchees-flan-2.jpg
+    alt: "Bon en gros c’est la crème patissière sous forme de bouchée solide, rien de plus, rien de moins. Mais si tu aimes le flan patissier, tu vas adorer."
 cuisines: [française]
 courses: [snack]
 tags: [bouchée, sans cuisson]
@@ -40,5 +45,3 @@ directions:
 Version snack/bouchée du flan patissier sans pâte – une crème patissière donc.
 
 L’un de ces principaux intérêts, c’est que la recette se réalise sans four et qu’il suffit d’un fouet et d’une casserole. Par contre il faudra prévoir un temps de prise au frigo.
-
-![Bon en gros c’est la crème patissière sous forme de bouchée solide, rien de plus, rien de moins. Mais si tu aimes le flan patissier, tu vas adorer.](../images/Bouchees-flan/bouchees-flan-2.jpg)

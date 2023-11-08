@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Fluffernutter Cookie Sandwich"
-image: fluffernutter-cookie/fluffernutter-cookie-1.jpg
+images:
+  - image:
+    path: fluffernutter-cookie/fluffernutter-cookie-1.jpg
+  - image:
+    path: fluffernutter-cookie/fluffernutter-cookie-2.jpg
+    alt: "Une belle quenelle bien généreuse de crème de guimauve déposée sur un biscuit, avant que le sandwich soit refermé avec un deuxième biscuit. Ceux-ci restent friables pour ne pas que la crème déborde lorsqu’on croque dedans."
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf, sans beurre, sans huile]
@@ -42,5 +47,3 @@ Le [fluffernutter](https://en.wikipedia.org/wiki/Fluffernutter), c'est un classi
 Associé à Somerville, là où le marshmallow fluff a été inventé, ce sandwich fait souvent l'objet d'une fierté régionale, dispose de sa propre fête nationale le 8&nbsp;Octobre, et a même été proposé comme sandwich officiel de l'État du Massachusetts. Mais ne vous mettez pas pour autant la pression&nbsp;!
 
 Dans cette version, on utilise un biscuit vegan à 3 ingrédients, sans œuf ni beurre, et qui peut donc être conservé 2&nbsp;semaines sans aucun souci. Il est bien friable pour ne pas venir écraser la crème lorsqu’on croque dans le sandwich, et se révèle tout aussi délicieux sans fluff. 
-
-![Une belle quenelle bien généreuse de crème de guimauve déposée sur un biscuit, avant que le sandwich soit refermé avec un deuxième biscuit. Ceux-ci restent friables pour ne pas que la crème déborde lorsqu’on croque dedans.](../images/fluffernutter-cookie/fluffernutter-cookie-2.jpg)

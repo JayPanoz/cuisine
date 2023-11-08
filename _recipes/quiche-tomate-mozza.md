@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Quiche tomate mozza"
-image: Quiche-tomate-mozza/quiche-tomate-mozza-1.jpg
+images:
+  - image:
+    path: Quiche-tomate-mozza/quiche-tomate-mozza-1.jpg
+  - image:
+    path: Quiche-tomate-mozza/quiche-tomate-mozza-2.jpg
+    alt: "On dirait presque un tableau de Van Gogh dans l’assiette." 
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [quiche, sans viande]
@@ -41,5 +46,3 @@ directions:
 ---
 
 Une quiche simple, basique, tomate, mozza. Privilégiez des ingrédients de qualité, notamment du basilic bien frais car c’est lui qui va véritablement sublimer votre quiche.
-
-![On dirait presque un tableau de Van Gogh dans l’assiette.](../images/Quiche-tomate-mozza/quiche-tomate-mozza-2.jpg) 

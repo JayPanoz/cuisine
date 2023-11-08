@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Brioche Butchy"
-image: butchy-brioche/butchy-brioche-1.jpg
+images:
+  - image:
+    path: butchy-brioche/butchy-brioche-1.jpg
+  - image:
+    path: butchy-brioche/butchy-brioche-2.jpg
+    alt: "Avec le glaçage à l’orange qui imbibe la brioche, on obtient un résultat bien moelleux. Avec la cannelle par-dessus on obtient une belle croûte hyper gourmande."
 cuisines: [allemande]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, boulangerie]
@@ -56,5 +61,3 @@ directions:
 ---
 
 Une brioche pour l’hiver, avec des saveurs qui rappellent le pain d’épice. La particularité nous vient d’Allemagne puisque cette brioche utilise de la crème fraîche épaisse.
-
-![Avec le glaçage à l’orange qui imbibe la brioche, on obtient un résultat bien moelleux. Avec la cannelle par-dessus on obtient une belle croûte hyper gourmande.](../images/butchy-brioche/butchy-brioche-2.jpg)

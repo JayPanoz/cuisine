@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Croque-monsieur allégé"
-image: croque-allege/croque-allege-1.jpg
+images:
+  - image:
+    path: croque-allege/croque-allege-1.jpg
 cuisines: [française]
 courses: [plat, déjeuner, dîner]
 tags: [sandwich, allégé, protéiné, comfort food]

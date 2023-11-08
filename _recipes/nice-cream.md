@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Nice cream"
-image: nice-cream/nice-cream-1.jpg
+images:
+  - image:
+    path: nice-cream/nice-cream-1.jpg
+  - image:
+    path: nice-cream/nice-cream-2.jpg
+    alt: "Vous pouvez aussi simplement accompagner votre nice cream nature d’une poignée de fruits rouges, noix, etc."
 cuisines: [américaine]
 courses: [snack, dessert]
 tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière, 2 ingrédients]
@@ -29,5 +34,3 @@ Gros classique de la flemme de grandes chaleurs qui sait toutefois rester <i lan
 La texture est celle d’une crème glacée ni trop solide ni trop liquide, juste un peu fondue. C’est que que les anglophones décrivent par <i lang="en">soft serve</i> et ce que nous connaissons comme la texture du McFlurry. Ça se déguste idéalement en sortie de blender par conséquent. Mais si tu préfères un peu plus dur, tu peux remettre au congélateur pour une petite heure.
 
 Le résultat doit être bien crémeux et onctueux. Ça ne devrait pas donner l’impression d’être une ersatz de crème glacée vendue 7&nbsp;€ en supermarché. Et puis l’intérêt c’est aussi de faire ses propres parfums et mélanges, avec de la <i lang="en">cookie dough</i>, ou des rubans de caramel, du cacao, des pépites de chocolat, du beurre de cacahuète, etc.
-
-![Vous pouvez aussi simplement accompagner votre nice cream nature d’une poignée de fruits rouges, noix, etc.](../images/nice-cream/nice-cream-2.jpg)

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cake citron pavot truite"
-image: cake-truite/cake-truite-1.jpg
+images:
+  - image:
+    path: cake-truite/cake-truite-1.jpg
+  - image:
+    path: cake-truite/cake-truite-2.jpg
+    alt: "La texture est à mi-chemin entre cake et flanc, presque mousseuse plutôt que moelleuse." 
 cuisines: [française]
 courses: [apéritif, entrée, déjeuner, dîner]
 tags: [cake salé]
@@ -44,5 +49,3 @@ directions:
 ---
 
 Un cake citron pavot avec un <i lang="en">twist</i> puisque ce n‘est pas un cake sucré que nous avons ici, mais bel et bien un cake salé. L’association naturelle, c’est le saumon ou la truite fumée. Mais rien ne vous empêche d’essayer une autre combinaison.
-
-![La texture est à mi-chemin entre cake et flanc, presque mousseuse plutôt que moelleuse.](../images/cake-truite/cake-truite-2.jpg) 

@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Tiramisu aux figues et myrtilles"
-image: purple-tiramisu/purple-tiramisu-1.jpg
+images:
+  - image:
+    path: purple-tiramisu/purple-tiramisu-1.jpg
+  - image:
+    path: tiramisu-framboises/tiramisu-framboises-2.jpg
+    alt: "Ultra crémeux, avec un biscuit tout doux bien mou, et des framboises juteuses juste comme il faut. Ça change du tiramisu au café, et les framboises apportent une texture supplémentaire à la mâche."
 cuisines: [italienne]
 courses: [dessert, goûter]
 tags: [sans cuisson, tiramisu, comfort food]
@@ -48,5 +53,3 @@ Variante du [tiramisu aux framboises](tiramisu-framboises.html), ce tiramisu au 
 Fruit emblématique de fin d’été, on profite de la figue dans un <i lang="en">pairing</i> qui ne va pas forcément de soi quand on réfléchit à comment l’associer. 
 
 On pense naturellement à la framboise… mais c’est la myrtille, un autre fruit à la peau violette, qui vient apporter un peu d’acidité dans cette recette. Et on la laisse entière plutôt que de la mixer pour apporter du peps à la mâche et contraster avec le crémeux du mascarpone et le moelleux des biscuits cuillère.
-
-![Crème mascarpone au cacao, biscuits cuillère à l’extrait d’amande, myrtilles entière qui apportent du peps à la mâche et une légère acidité, figues pour l’aspect sucré, il n’y a pas besoin de plus pour remonter le moral.](../images/purple-tiramisu/purple-tiramisu-2.jpg)

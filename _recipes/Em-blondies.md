@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Em’s Blondies"
-image: em-blondies/em-blondies-1.jpg
+images:
+  - image:
+    path: em-blondies/em-blondies-1.jpg
+  - image:
+    path: em-blondies/em-blondies-2.jpg
+    alt: "De bons gros morceaux de cerises bien juteuse, des éclats de chocolat blanc, une belle croûte et un cœur bien fondant dégoulinant pour se faire plaisir en été."
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
@@ -13,6 +18,7 @@ cooktime: 25 min
 yield: 6 mini cakes
 
 storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
+tip: "Pan fan du sarrasin&nbsp;? Utilisez de la poudre d’amande pour doubler la mise de départ."
 
 ingredients:
 - 1 banane mûre
@@ -47,7 +53,3 @@ Dans cette recette variante des [blondies au beurre de cacahuète](PBB-blondies.
 Amande, sarrasin, cerise et chocolat blanc viennent donc se compléter dans une snack nickel pour l’été&nbsp;: des cerises bien juteuses, un chocolat blanc croquant–fondant, une pâte amande–sarrasin qui vient rééquilibrer le tout pour éviter un résultat trop sucré et de la banane pour venir ajouter un max de moelleux.
 
 Et pour ceux qui pourraient craindre un écho au confiseries “Mon Chéri”, aucune inquiétude à avoir, on en est très très loin.
-
-Pan fan du sarrasin&nbsp;? Utilisez de la poudre d’amande pour doubler la mise de départ.
-
-![De bons gros morceaux de cerises bien juteuse, des éclats de chocolat blanc, une belle croûte et un cœur bien fondant dégoulinant pour se faire plaisir en été.](../images/em-blondies/em-blondies-2.jpg)

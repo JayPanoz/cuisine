@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Biscuits à l’avoine"
-image: biscuit-avoine/biscuit-avoine-1.jpg
+images:
+  - image:
+    path: biscuit-avoine/biscuit-avoine-1.jpg
+  - image:
+    path: biscuit-avoine/biscuit-avoine-2.jpg
+    alt: "On peut aussi les former dans un moule, comme ici en format financier"
 courses: [petit-déjeuner, snack]
 tags: [biscuit, bouchée, healthy]
 
@@ -35,5 +40,3 @@ directions:
 Ça ressemble un peu aux biscuits santé/<i lang="en">healthy</i> que tu peux croiser dans les rayons et magasins bio, ce n’est pas forcément faux mais au moins c’est toi qui les aura fait, et tu pourras les personnaliser.
 
 Pour plus de croquant je conseille le riz soufflé, même si c’est plus compliqué à trouver sans une quantité ahurissante de sucre, au contraire des <i lang="en">corn flakes</i> qui eux, seront trouvables quasi pour sûr en vrac sans sucre ajouté par dessus.
-
-![On peut aussi les former dans un moule, comme ici en format financier](../images/biscuit-avoine/biscuit-avoine-2.jpg)

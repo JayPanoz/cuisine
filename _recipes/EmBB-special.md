@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Em’s Blueberry Special"
-image: EmBB-Special/embbs-1.jpg
+images:
+  - image:
+    path: EmBB-Special/embbs-1.jpg
+  - image:
+    path: EmBB-Special/embbs-2.jpg
+    alt: "Le fourrage au beurre de myrtille."
 cuisines: [américaine]
 courses: [dessert]
 tags: [sans cuisson]
@@ -39,5 +44,3 @@ directions:
 Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Le Special à la myrtille c’est une crust à cheesecake qui accueille un beurre de myrtille et une énorme couche de chocolat blanc décorée de beurre de cacahuète. On l’accompagne d’une belle boule de glace, par exemple celle au <a href="glace-yaourt.html">yaourt sans sorbetière</a>.
-
-![Le fourrage au beurre de myrtille](../images/EmBB-Special/embbs-2.jpg)

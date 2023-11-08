@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Dipped Pretzels"
-image: dipped-pretzel/dipped-pretzel-1.jpg
+images:
+  - image:
+    path: dipped-pretzel/dipped-pretzel-1.jpg
+  - image:
+    path: dipped-pretzel/dipped-pretzel-2.jpg
+    alt: "C’est basique voire même simpliste, mais le mélange sucré salé reste une valeur sûre. Là, en plus, on a la douceur sucrée de l’enrobage chocolat et le croquant salé du bretzel qu’il enferme."
 cuisines: [américaine]
 courses: [snack]
 tags: [2 ingrédients, sans cuisson]
@@ -37,5 +42,3 @@ Si le b.a.-ba reste le bretzel enrobé de chocolat au lait, on peut trouver moul
 Vous l’aurez compris, la seule limite est votre imagination. Personnellement, j’ai tenté le chocolat au lait macchiato avec de l’huile d'olive – plutôt qu’une huile neutre – pour amener une légère nuance supplémentaire, mais je ne doute pas que vous saurez expérimenter et trouver des combinaisons ultra savoureuses.
 
 Chocolat blanc, chocolat blond, chocolat au lait, chocolat noir. Caramel, praliné, etc. En enrobage ou en filet, tout ou presque fonctionne avec le bretzel apéritif donc faites-vous plaisir&nbsp;!
-
-![C’est basique voire même simpliste, mais le mélange sucré salé reste une valeur sûre. Là, en plus, on a la douceur sucrée de l’enrobage chocolat et le croquant salé du bretzel qu’il enferme.](../images/dipped-pretzel/dipped-pretzel-2.jpg)

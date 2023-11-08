@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Millionaire Cookie Sandwich"
-image: millionnaire-sandwich/millionnaire-sandwich-1.jpg
+images:
+  - image:
+    path: millionnaire-sandwich/millionnaire-sandwich-1.jpg
+  - image:
+    path: millionnaire-sandwich/millionnaire-sandwich-2.jpg
+    alt: "Le biscuit est d’une richesse assez exceptionnelle quand on prend le temps de le déguster, car on découvre différents niveaux de saveurs en bouche."
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie]
@@ -51,5 +56,3 @@ Le <i lang="en">millionaire sandwich</i>, c’est une ganache au chocolat entre 
 Le plus important dans cette recette, c’est le sucre car c’est lui qui va amener la note de caramel dans le biscuit. Et là, le top du top c’est le sucre Muscovado. Sans celui-ci, il manquera un peu de <i lang="en">flair</i> à ton sandwich. Tu peux essayer avec du sucre de canne complet ou du Rapadura, mais le goût sera beaucoup moins prononcé.
 
 Quant au chocolat de la ganache, n’hésite pas à prendre le plus riche en cacao possible. Ça aménera un contraste hyper intéressant avec le sucré caramel.
-
-![Le biscuit est d’une richesse assez exceptionnelle quand on prend le temps de le déguster, car on découvre différents niveaux de saveurs en bouche.](../images/millionnaire-sandwich/millionnaire-sandwich-2.jpg)

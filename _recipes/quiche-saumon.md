@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Quiche au saumon"
-image: quiche-misc/quiche-saumon.jpg
+images:
+  - image:
+    path: quiche-misc/quiche-saumon.jpg
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [quiche]
