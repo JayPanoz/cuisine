@@ -35,11 +35,17 @@ SimpleJekyllSearch({
 
 <script>
 	$( document ).ready(function() {
-		$('#search-input').focus();
-    $('#search-input').on('input', function() {
+		var searchInput = $('#search-input');
+		searchInput.focus();
+    searchInput.on('input', function() {
     	currentHeight = $('#search-container').outerHeight();
       $('.search').addClass('used').css('height', currentHeight);
-	});
+		});
+		$(document).keyup(function(event) {
+    	if (searchInput.is(":focus") && (event.key == "Enter" || event.key == "Escape")) {
+				searchInput.blur();
+    	}
+		});
 	});
 	
 </script>
