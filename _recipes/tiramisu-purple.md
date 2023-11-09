@@ -5,9 +5,10 @@ title:  "Tiramisu aux figues et myrtilles"
 images:
   - image:
     path: purple-tiramisu/purple-tiramisu-1.jpg
+    alt: "Les figues déposées sur la crème cacao. Ce dessert sait se faire mystérieux."
   - image:
-    path: tiramisu-framboises/tiramisu-framboises-2.jpg
-    alt: "Ultra crémeux, avec un biscuit tout doux bien mou, et des framboises juteuses juste comme il faut. Ça change du tiramisu au café, et les framboises apportent une texture supplémentaire à la mâche."
+    path: purple-tiramisu/purple-tiramisu-2.jpg
+    alt: "Les myrtilles se cachent mais procurent une belle surprise à la dégustation, avec leur côté bille de pep’s."
 cuisines: [italienne]
 courses: [dessert, goûter]
 tags: [sans cuisson, tiramisu, comfort food]
