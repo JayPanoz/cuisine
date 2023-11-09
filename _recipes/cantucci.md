@@ -6,8 +6,8 @@ images:
   - image:
     path: cantucci/cantucci-1.jpg
   - image:
-    path: calzone-caprese/calzone-caprese-2.jpg
-    alt: "Tomate, mozza, basilic. Les couleurs de l’Italie. Une salade caprese emballée dans un chausson bien gourmand." 
+    path: cantucci/cantucci-2.jpg
+    alt: "Croquant et craquant. Le cantucci est un vrai biscuit sec avec une croûte bien épaisse." 
 cuisines: [italienne, corse]
 courses: [petit-déjeuner, goûter]
 tags: [biscuit, craquant]
