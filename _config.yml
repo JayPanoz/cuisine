@@ -47,6 +47,8 @@ translation:
     nutritional_information: "Nutritional Information"
     component_based: 'This is a <strong class="accent">component-based recipe</strong>.'
     search: "Search"
+    searchPlaceholder: "for title or ingredients…"
+    noResult: "No results found"
     blog: "Blog"
     subscribe: "Subscribe"
     read_more: "Read More"
@@ -81,6 +83,8 @@ translation:
     nutritional_information: "Informations nutritionnelles (théoriques)"
     component_based: 'Cette recette est composée <strong class="accent">d’une ou plusieurs préparations</strong>.'
     search: "Recherche"
+    searchPlaceholder: "Par titre ou ingrédients…"
+    noResult: "Aucun résultat"
     blog: "Blog"
     subscribe: "S’abonner"
     read_more: "Lire le billet"

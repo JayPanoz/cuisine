@@ -4,8 +4,8 @@ layout: default
 
 <div class="search container max-width-2">
 		<div id="search-container">
-			<h3 class="center mb3 accent">Recherche</h3>
-		<input type="text" id="search-input" placeholder="Par titre ou ingrédients…">
+			<h3 class="center mb3 accent">{{ site.translation[site.language].search }}</h3>
+		<input type="text" id="search-input" placeholder="{{ site.translation[site.language].searchPlaceholder }}">
 		</div>
 </div>
 
@@ -28,16 +28,24 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '{{site.baseurl}}/search.json',
-  searchResultTemplate: '<div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2 left-align"><a class="block relative bg-accent" href="{url}"><div class="image ratio bg-cover" style="background-image:url({image});"></div><h1 class="title p2 m0 absolute bold white bottom-0 left-0">{title}</h1></a></div>'
+  searchResultTemplate: '<div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2 left-align"><a class="block relative bg-accent" href="{url}"><div class="image ratio bg-cover" style="background-image:url({image});"></div><h1 class="title p2 m0 absolute bold white bottom-0 left-0">{title}</h1></a></div>',
+	noResultsText: '{{ site.translation[site.language].noResult }}'
 })
 </script>
 
 <script>
 	$( document ).ready(function() {
-    $('#search-input').on('input', function() {
+		var searchInput = $('#search-input');
+		searchInput.focus();
+    searchInput.on('input', function() {
     	currentHeight = $('#search-container').outerHeight();
       $('.search').addClass('used').css('height', currentHeight);
-	});
+		});
+		$(document).keyup(function(event) {
+    	if (searchInput.is(":focus") && (event.key == "Enter" || event.key == "Escape")) {
+				searchInput.blur();
+    	}
+		});
 	});
 	
 </script>
