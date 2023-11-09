@@ -8,7 +8,16 @@ images:
     alt: "Vu du dessus, un cookie légèrement rose et craquelé duquel on devine les inserts. Au programme, morceaux de myrtilles, de chocolat blanc et de cacahuètes."
   - image:
     path: em-cookies/em-cookies-2.jpg
-    alt: "Le cookie est hyper moelleux, avec un peu de pulpe de myrtilles ici et là, et surtout des chunks de chocolat et de cacahuètes pour amener du fondant et du croquant." 
+    alt: "La pâte est beaucoup plus rose avant la cuisson, comme on peut le voir avec cette boule sur la plaque."
+  - image:
+    path: em-cookies/em-cookies-3.jpg
+    alt: "Le cookie craquelle bien sur le dessus, et on peut voir les morceaux de chocolat et de cacahuète en ressortir plus franchement qu’avec d’autres recettes."
+  - image:
+    path: em-cookies/em-cookies-4.jpg
+    alt: "Quand on coupe le cookie en 2, on découvre la pulpe de myrtilles."
+  - image:
+    path: em-cookies/em-cookies-5.jpg
+    alt: "Le cookie est hyper moelleux, et les chunks de chocolat et de cacahuètes amènent du fondant et du croquant." 
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf]

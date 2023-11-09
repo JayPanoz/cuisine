@@ -5,9 +5,16 @@ title: "Booberry Pie"
 images:
   - image:
     path: booberry-pie/booberry-pie-1.jpg
+    alt: "La tarte refermée sans glaçage ni décoration. On pourrait imaginer une version Jack O’Lantern puisque la couleur brune avec le son de blé de la pâte lui conviendrait très bien."
   - image:
     path: booberry-pie/booberry-pie-2.jpg
+    alt: "La même version fantôme avec un simple saupoudrage de sucre glace."
+  - image:
+    path: booberry-pie/booberry-pie-3.jpg
     alt: "La garniture aux myrtilles, avec le fruit entier enrobé dans sa gelée. Mieux vaut éviter la confiture, trop liquide pour que la tarte fermée se tienne bien."
+  - image:
+    path: booberry-pie/booberry-pie-4.jpg
+    alt: "La garniture va quand même rendre du jus lors de la conservation au frigo, ce qui crée un effet particulièrement sanglant autour de la bouche et des yeux."
 cuisines: [américaine]
 courses: [dessert, goûter]
 tags: [Halloween, tarte]
