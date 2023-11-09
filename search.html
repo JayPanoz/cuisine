@@ -35,6 +35,7 @@ SimpleJekyllSearch({
 
 <script>
 	$( document ).ready(function() {
+		$('#search-input').focus();
     $('#search-input').on('input', function() {
     	currentHeight = $('#search-container').outerHeight();
       $('.search').addClass('used').css('height', currentHeight);
