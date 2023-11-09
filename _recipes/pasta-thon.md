@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Salade de pâtes au thon, tomate cerise et maïs"
-image: pasta-thon/pasta-thon-1.jpg
+images:
+  - image:
+    path: pasta-thon/pasta-thon-1.jpg
+  - image:
+    path: pasta-thon/pasta-thon-2.jpg
+    alt: "C’est assez rapide, ça peut se préparer à l’avance, ça peut faire office d’accompagnement, d’entrée ou de plat principal. Que demande le peuple ?" 
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [salade]
@@ -35,5 +40,3 @@ directions:
 Une petite salade de pâtes pour accompagner l’été. Bien sûr, on pourra remplacer le thon par de la mozzarella, de la fêta, du poulet, etc. Tout est possible avec ce type de recette simple et rapide qui tient plus de l’assemblage que de la cuisine.
 
 Le top c’est qu’on peut également la préparer en avance et la conserver dans des boîtes hermétiques au frais. Et ça mine de rien, ça sauve bien la mise quand on a la grosse flemme de se faire à manger. Les quantités peuvent d’ailleurs être multipliés aisèment pour ça.
-
-![C’est assez rapide, ça peut se préparer à l’avance, ça peut faire office d’accompagnement, d’entrée ou de plat principal. Que demande le peuple ?](../images/pasta-thon/pasta-thon-2.jpg) 

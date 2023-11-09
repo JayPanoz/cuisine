@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Pizza tortilla"
-image: pizza-tortilla/pizza-tortilla.jpg
+images:
+  - image:
+    path: pizza-tortilla/pizza-tortilla.jpg
 cuisines: [italienne, mexicaine]
 courses: [apéritif, entrée]
 

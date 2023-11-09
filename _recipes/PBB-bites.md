@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "PB&B Frozen Sandwich Bites"
-image: pbb-bites/pbb-bites-1.jpg
+images:
+  - image:
+    path: pbb-bites/pbb-bites-1.jpg
+  - image:
+    path: pbb-bites/pbb-bites-2.jpg
+    alt: "Une coque craquante en chocolat, 2 tranches de banane, une garniture au beurre de cacahuète. C’est simple mais c’est excellent, et ça change du fruit enrobé glacé que l’on peut voir partout, pour un tout petite effort en plus."
 cuisines: [américaine]
 courses: [snack]
 tags: [glacé, 3 ingrédients, bouchée, sans cuisson]
@@ -43,5 +48,3 @@ Ce sandwich glacé garni de beurre de cacahuète, on peut le considérer comme u
 Par contre, il faut faire attention à bien choisir ses ingrédients.
 
 La banane ne doit pas être trop mûre. On ne cherche pas à faire une purée, la chair doit être suffisamment solide pour ne pas se désintégrer quand on va appuyer dessus afin de distribuer le beurre de cacahuète. Quant à celui-ci, il doit être crémeux, pas huileux. Pour assurer, préférez un beurre type Skippy au beurre de cacahuète naturel, à moins que vous sachiez que ce dernier ne sera pas trop liquide.
-
-![Une coque craquante en chocolat, 2 tranches de banane, une garniture au beurre de cacahuète. C’est simple mais c’est excellent, et ça change du fruit enrobé glacé que l’on peut voir partout, pour un tout petite effort en plus.](../images/pbb-bites/pbb-bites-2.jpg)

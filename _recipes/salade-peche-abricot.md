@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Salade magique pêche abricot"
-image: salade-peche-abricot/salade-peche-abricot-1.jpg
+images:
+  - image:
+    path: salade-peche-abricot/salade-peche-abricot-1.jpg
+  - image:
+    path: salade-peche-abricot/salade-peche-abricot-2.jpg
+    alt: "Ce qu’on veut c’est que le fruit soit bien frais après passage au frigo, et qu’il dégouline de son propre jus." 
 cuisines: [française]
 courses: [dessert, snack]
 tags: [salade sucrée]
@@ -31,5 +36,3 @@ directions:
 ---
 
 Une autre salade magique qui se fait quasiment toute seule en la secouant dans un tupperware. Ce coup-ci on prend le couple pêche abricot et on le saupoudre d’une belle cuillérée de cannelle.
-
-![Ce qu’on veut c’est que le fruit soit bien frais après passage au frigo, et qu’il dégouline de son propre jus.](../images/salade-peche-abricot/salade-peche-abricot-2.jpg) 

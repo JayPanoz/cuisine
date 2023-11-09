@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte aux pommes"
-image: tarte-pomme/tarte-pomme-1.jpg
+images:
+  - image:
+    path: tarte-pomme/tarte-pomme-1.jpg
+  - image:
+    path: tarte-pomme/tarte-pomme-2.jpg
+    alt: "Il faut des belles couches de pomme lovées dans un appareil bien crémeux."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte, comfort food]
@@ -42,5 +47,3 @@ directions:
 Une tarte classique qui utilise une pâte sablée au seigle pour complimenter la pomme. 
 
 Pour le choix des pommes, il vous faut une variété qui reste ferme après cuisson et suffisamment sucrée pour venir balancer l'acidité de la crème fraîche. Nous éviterons donc la Granny Smith trop acide pour cette recette, et privilégierons la Golden, la Fuji, la Gala ou le grand classique, la Royal Gala. 
-
-![Il faut des belles couches de pomme lovées dans un appareil bien crémeux.](../images/tarte-pomme/tarte-pomme-2.jpg)

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Pain aux légumes"
-image: pain-legumes/pain-legumes-1.jpg
+images:
+  - image:
+    path: pain-legumes/pain-legumes-1.jpg
+  - image:
+    path: pain-legumes/pain-legumes-2.jpg
+    alt: "Un pain bien moelleux avec des beaux morceaux de légumes." 
 cuisines: [française]
 courses: [apéritif, entrée, déjeuner, dîner]
 tags: [cake salé]
@@ -46,5 +51,3 @@ directions:
 ---
 
 Un cake/pain irlandais (<i lang="en">soda bread</i>) à l’épeautre et légumes frais. Délicieux pour le brunch, l’apéro, l’entrée voire même le plat si accompagné d’une belle salade.
-
-![Un pain bien moelleux avec des beaux morceaux de légumes.](../images/pain-legumes/pain-legumes-2.jpg) 

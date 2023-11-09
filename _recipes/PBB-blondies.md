@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "PB&B Blondies"
-image: PBB-blondies/PBB-blondies-1.jpg
+images:
+  - image:
+    path: PBB-blondies/PBB-blondies-1.jpg
+  - image:
+    path: PBB-blondies/PBB-blondies-2.jpg
+    alt: "C’est dégoulinant au milieu, moelleux aux bords et craquant à l’extérieur, c’est tout ce qu’on attend d’un brownie, mais en différent."
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
@@ -41,5 +46,3 @@ L’ingrédient le plus important car il diffère entre les 2 recettes, c'est le
 C'est un sucre qui n'est pas totalement raffiné, qui est par conséquent plus humide que le sucre blanc/roux car il contient encore de la mélasse, et qui apporte selon sa provenance un arôme de caramel, de réglisse, de vanille, de rhum, etc. dans vos recettes. Dans la version traditionnelle, on n'hésitera pas non plus à utiliser un beurre noisette pour un blondie encore plus généreux en goût.
 
 Vous pouvez d'ailleurs remplacer une partie du beurre de cacahuète et de la banane/compote par du beurre noisette – mais je n'ai pas testé donc je ne pourrais pas dire dans quelles proportions. 
-
-![C’est dégoulinant au milieu, moelleux aux bords et craquant à l’extérieur, c’est tout ce qu’on attend d’un brownie, mais en différent.](../images/PBB-blondies/PBB-blondies-2.jpg)

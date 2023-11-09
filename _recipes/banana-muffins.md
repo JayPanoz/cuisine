@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Banana Muffins"
-image: banana-muffins/banana-muffins-1.jpg
+images: 
+  - image: 
+    path: banana-muffins/banana-muffins-1.jpg
+  - image:
+    path: banana-muffins/banana-muffins-2.jpg
+    alt: "Une mie câline et des chunks de chocolat fondu ultra gourmands."
 cuisines: [américaine]
 courses: [snack]
 
@@ -48,5 +53,3 @@ La banane est un ingrédient magique en cuisine puisqu’elle permet de remplace
 Dans cette recette, on utilise en plus du lait d’amande fermenté et du bicarbonate pour apporter un maximum de volume et de moelleux sans avoir à doubler voire tripler le mélange du sucre et de l’œuf. Vous pouvez néanmoins utiliser du fromage blanc ou yaourt grec à la place si vous ne souhaitez pas en préparer ou en acheter.
 
 Vous pouvez utiliser des pépites de chocolat plutôt que de découper des morceaux – elles tiendront mieux à la cuisson – voire mélanger les 2 – on obtiendra alors une double texture avec des flaques liquides et pépites solides.
-
-![Une mie câline et des chunks de chocolat fondu ultra gourmands.](../images/banana-muffins/banana-muffins-2.jpg)

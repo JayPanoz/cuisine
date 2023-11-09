@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Biscoffee Cakes"
-image: biscoffee/biscoffee-1.jpg
+images:
+  - image:
+    path: biscoffee/biscoffee-1.jpg
+  - image:
+    path: biscoffee/biscoffee-2.jpg
+    alt: "Le biscoffee cake, c’est un petit nuage moelleux avec des myrtilles entières qui peuvent éclater à la cuisson"
 cuisines: [américaine]
 courses: [goûter]
 tags: [cake]
@@ -43,8 +48,6 @@ directions:
 Le secret de ces mini cakes, c'est que l'on va prendre un gros raccourci avec la pâte à tartiner Biscoff/Spéculoos qu'on peut aisément trouver dans le commerce. En plus de donner le goût typique du Spéculoos à la base de notre coffee cake, Elle va remplacer le beurre et le sucre et nous économiser la préparation de la “crème pommade”, un peu comme le beurre de cacahuète dans mes [PB cookies](PB-cookies.html) et [PB&B Blondies](PBB-blondies.html).
 
 Plus besoin de choisir entre le biscuit Spéculoos et le coffee cake à l'heure du thé, vous pouvez avoir les 2&nbsp;!
-
-![Le biscoffee cake, c’est un petit nuage moelleux avec des myrtilles entières qui peuvent éclater à la cuisson](../images/biscoffee/biscoffee-2.jpg)
 
 Si vous voulez vraiment vraiment enfoncer le clou, vous pouvez faire votre crumble avec une farine de biscuits Spéculoos mixés/émiettés.
 

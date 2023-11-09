@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Plumcake dinosaure allo Yogurt"
-image: dino-plumcake/dino-plumcake-1.jpg
+images:
+  - image:
+    path: dino-plumcake/dino-plumcake-1.jpg
+  - image:
+    path: dino-plumcake/dino-plumcake-2.jpg
+    alt: "La mie est un peu plus costaud que celle du plumcake classique. C‘est dû à la farine de seigle."
 cuisines: [italienne]
 courses: [petit-déjeuner, goûter]
 tags: [cake, sans beurre]
@@ -51,5 +56,3 @@ L’intérêt de faire ses propres cakes, c'est aussi de pouvoir créer un produ
 On peut entrevoir ces <i lang="en">plumcakes</i> dinosaure comme le croisement entre le quatre-quarts allégé de la cuisine méditérannéenne, et le goût marqué du biscuit au seigle. C’est moelleux, mais fort en goût, mais moelleux, et craquant-fondant avec les pépites de chocolat.
 
 Pour encore plus le marquer, vous pouvez utiliser uniquement de l’huile d’olive au lieu d’un mélange neutre+olive. Et pour rappeler le biscuit, vous pouvez même napper le dessous du <i lang="en">plumcake</i> de chocolat.
-
-![La mie est un peu plus costaud que celle du plumcake classique. C‘est dû à la farine de seigle.](../images/dino-plumcake/dino-plumcake-2.jpg)

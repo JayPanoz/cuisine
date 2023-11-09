@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cookie Dough"
-image: cookie-dough/cookie-dough-1.jpg
+images:
+  - image:
+    path: cookie-dough/cookie-dough-1.jpg
+  - image:
+    path: cookie-dough/cookie-dough-2.jpg
+    alt: "Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre aucun craquant."
 cuisines: [américaine]
 courses: [snack, dessert]
 tags: [cookie, sans cuisson]
@@ -41,5 +46,3 @@ On a tous mangé de la pâte à gâteau ou cookies crue, celle qui restait dans 
 La solution c’est cette pâte à cookie crue, qui ne contient pas d’œuf pour éviter les salmonelloses, et nécessite soit de cuire la farine – pour éliminer la bactérie E. Coli –, soit d’utiliser une farine qui peut être consommée crue e.g. farine d’avoine, poudre d’amande, farine de coco, farine de souchet, etc.
 
 Je déconseille vivement d’utiliser cette pâte pour réaliser des cookies cuits, il manque en effet quelques ingrédients qui font du cookie un cookie (œuf, levure, bicarbonate). Par contre vous pouvez l’utiliser pour faire votre glace <i lang="en">Cookie Dough</i> maison.
-
-![Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre aucun craquant.](../images/cookie-dough/cookie-dough-2.jpg)

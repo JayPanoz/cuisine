@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Plumcake allo Yogurt"
-image: plumcake/plumcake-1.jpg
+images:
+  - image:
+    path: plumcake/plumcake-1.jpg
+  - image:
+    path: plumcake/plumcake-2.jpg
+    alt: "Ici en version muffin, on voit bien la croûte qui s’est formée tout autour de notre plumcake, sous sa belle bosse bien gonflée."
 cuisines: [italienne]
 courses: [petit-déjeuner, goûter]
 tags: [cake, sans beurre]
@@ -46,5 +51,3 @@ Le <i lang="en">plumcake</i> italien est un mystère quasiment inexplicable – 
 Non, c’est plutôt une sorte de quatre-quarts allégé – sans beurre et donc à l’huile –, et qui se déguste au petit déjeuner accompagné de confiture ou pâte à tartiner, ou au goûter. 
 
 Ici, c’est une version au yaourt grec, pour amener cette petite pointe d’acidité qui vient trancher avec la douceur de ce plumcake tout léger.
-
-![Ici en version muffin, on voit bien la croûte qui s’est formée tout autour de notre plumcake, sous sa belle bosse bien gonflée.](../images/plumcake/plumcake-2.jpg)

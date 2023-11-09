@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Sablés à l’orange et au chocolat"
-image: sable-orange/sable-orange-1.jpg
+images:
+  - image:
+    path: sable-orange/sable-orange-1.jpg
+  - image:
+    path: sable-orange/sable-orange-2.jpg
+    alt: "À l’intérieur c’est un sablé, et ça rappelle pas mal le snack shortcake de chez Cadbury pour ceux qui connaissent."
 cuisines: [française]
 courses: [snack]
 tags: [biscuit]
@@ -41,5 +46,3 @@ directions:
 Un sablé enrobé de chocolat avec une double dose d’orange&nbsp;: la fleur d’oranger dans la pâte, les écorces séchées dans le nappage chocolat. Pour ceux qui aiment le mariage entre le chocolat et l’orange, on ne va pas faire les choses à moitié. Si tu connais le <i lang="en">snack shortcake</i> anglais de Cadbury, ça ressemble un peu beaucoup à ça.
 
 La spécificité de cette recette, c'est qu’on obtient un sablé bien croquant avec une pâte qui se manipule comme celle des cookies&nbsp;! Ça fait un peu bizarre au début mais le résultat est canon.
-
-![À l’intérieur c’est un sablé, et ça rappelle pas mal le snack shortcake de chez Cadbury pour ceux qui connaissent.](../images/sable-orange/sable-orange-2.jpg)

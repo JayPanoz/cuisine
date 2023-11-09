@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Riz aux épinards et à la feta"
-image: riz-feta/riz-feta.jpg
+images:
+  - image:
+    path: riz-feta/riz-feta.jpg
 cuisines: [française]
 courses: [plat, déjeuner, dîner]
 

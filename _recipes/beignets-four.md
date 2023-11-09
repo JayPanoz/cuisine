@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Beignets au four"
-image: beignets-four/beignets-four-1.jpg
+images:
+  - image:
+    path: beignets-four/beignets-four-1.jpg
+  - image:
+    path: beignets-four/beignets-four-2.jpg
+    alt: "Une mie bien douce, un fourrage au beurre de myrtilles ultra gourmand, un glaçage au caramel réhaussé par des cristaux de sel, le tout en fond un beignent super équilibré au terme de goût."
 cuisines: [américaine, française]
 courses: [petit-déjeuner, snack, goûter]
 tags: [donut, beignet, boulangerie]
@@ -52,5 +57,3 @@ Des beignets à cuire au four donc sans le gras de l’huile de cuisson. Ici on 
 Comme d’habitude avec les recettes incluant une levure boulangère, vous pouvez préparer la veille pour laisser pousser toute la nuit au frigo et pouvoir vous lancer directement dans la confection le lendemain matin.
 
 À noter que si vous ne vous sentez pas de garnir à la poche à douille il est tout à fait possible de confectionner des beignets avec 2 ronds de pâte – à ce moment-là, abaissez avec une épaisseur de 5mm plutôt qu’1cm. Il faudra faire un petit puit au centre de la moitié des ronds de pâte, disposer la confiture à cet endroit puis refermer avec les ronds de pâte restants en prenant soin de bien souder les bords avec de l’eau.
-
-![Une mie bien douce, un fourrage au beurre de myrtilles ultra gourmand, un glaçage au caramel réhaussé par des cristaux de sel, le tout en fond un beignent super équilibré au terme de goût.](../images/beignets-four/beignets-four-2.jpg)

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Clafoutis aux épinards"
-image: clafoutis-epinards/clafoutis-epinards-1.jpg
+images:
+  - image:
+    path: clafoutis-epinards/clafoutis-epinards-1.jpg
+  - image:
+    path: clafoutis-epinards/clafoutis-epinards-2.jpg
+    alt: "Les tranches de carottes apportent un peu de croquant à cette recette comme un clafoutis"
 cuisines: [française]
 courses: [déjeuner, dîner]
 
@@ -40,5 +45,3 @@ directions:
 ---
 
 Un clafoutis salé&nbsp;? Un flan&nbsp;? L’important finalement c’est le mélange ricotta épinards qui fonctionne à coup sûr.
-
-![Les tranches de carottes apportent un peu de croquant à cette recette comme un clafoutis](../images/clafoutis-epinards/clafoutis-epinards-2.jpg)

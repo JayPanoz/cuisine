@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "PB&B Brookie"
-image: pbb-brookie/pbb1.jpg
+images:
+  - image:
+    path: pbb-brookie/pbb1.jpg
+  - image:
+    path: pbb-brookie/pbb6.jpg
+    alt: "L’intérieur est tellement gooey que le brookie se délie entre les lèvres."
 cuisines: [américaine]
 courses: [snack]
 
@@ -26,5 +31,3 @@ components:
 ---
 
 Un mélange absolument décadent entre brownie fondant et cookie à mâcher.
-
-![L’intérieur est tellement gooey que le brookie se délie entre les lèvres.](../images/pbb-brookie/pbb6.jpg)

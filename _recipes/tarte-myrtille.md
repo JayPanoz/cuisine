@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte aux myrtilles et crème ricotta"
-image: tarte-myrtille/tarte-myrtille-1.jpg
+images:
+  - image:
+    path: tarte-myrtille/tarte-myrtille-1.jpg
+  - image:
+    path: tarte-myrtille/tarte-myrtille-2.jpg
+    alt: "Pour la brillance et pour protéger les myrtilles, n’oubliez pas le nappage neutre."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte]
@@ -40,5 +45,3 @@ directions:
 ---
 
 On pourrait se dire que c’est une tarte aux myrtilles toute simple et pourtant, la surprise réside dans la crème. Ce n‘est pas une crème pâtissière que l’on utilise ici, mais une crème de ricotta au miel ultra facile et rapide à préparer.
-
-![Pour la brillance et pour protéger les myrtilles, n’oubliez pas le nappage neutre.](../images/tarte-myrtille/tarte-myrtille-2.jpg)

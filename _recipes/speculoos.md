@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Speculoos"
-image: speculoos/speculoos-1.jpg
+images:
+  - image:
+    path: speculoos/speculoos-1.jpg
+  - image:
+    path: speculoos/speculoos-2.jpg
+    alt: "Quand on retourne le biscuit, on peut voir les trous typiques qu’on retrouve sur le biscuit industriel."
 cuisines: [française, belge]
 courses: [snack]
 tags: [biscuit]
@@ -42,5 +47,3 @@ directions:
 Le biscuit iconique à la cannelle, référence bien connue des rayons de la grande alimentation, spécialité d’artisans du Nord et de Belgique, ingrédient bien utile pour réaliser un fond de <i lang="en">cheesecake</i> ou un crumble en 2–2 avant de servir ses verrines.
 
 Chacun à sa recette, son propre mélange d’épices, ses ingrédients secrets (e.g. la vergeoise brune) et pourtant… c'est peut-être ce qu’on y met pas qui est le plus important. En l’ocurrence ici, ni œuf ni levure, pour obtenir un résultat craquant et friable.
-
-![Quand on retourne le biscuit, on peut voir les trous typiques qu’on retrouve sur le biscuit industriel.](../images/speculoos/speculoos-2.jpg)

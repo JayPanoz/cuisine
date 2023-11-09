@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cookie Dough M&M’s"
-image: cookie-dough-mm/cookie-dough-mm-1.jpg
+images:
+  - image:
+    path: cookie-dough-mm/cookie-dough-mm-1.jpg
+  - image:
+    path: cookie-dough-mm/cookie-dough-mm-2.jpg
+    alt: "Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre du craquant que grâce aux M&M’s, qu’il faudra bien faire attention de ne pas trop abîmer en les incorporant."
 cuisines: [américaine]
 courses: [snack, dessert]
 tags: [cookie, sans cuisson, M&M’s]
@@ -38,5 +43,3 @@ directions:
 Une alternative à la recette classique de [<i lang="en">cookie dough</i> aux pépites de chocolat](cookie-dough.html), avec du chocolat blanc et des éclats de pistaches pour amener davantage de croquant.
 
 Encore une fois, veillez à bien cuire votre farine 10 minutes à 180°C pour éliminer tout risque d’intoxication alimentaire, ou à utiliser une farine qui peut être consommée crue. Ici, j’ai choisi une farine d’avoine mixée à partir de son, d’autant que l’avoine dispose d’un index glycémique particulièrement bas qui rééquilibre un peu l’effet des M&M’s.
-
-![Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre du craquant que grâce aux M&M’s, qu’il faudra bien faire attention de ne pas trop abîmer en les incorporant.](../images/cookie-dough-mm/cookie-dough-mm-2.jpg)

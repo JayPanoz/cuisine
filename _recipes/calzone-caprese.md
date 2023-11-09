@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Calzone caprese"
-image: calzone-caprese/calzone-caprese-1.jpg
+images:
+  - image:
+    path: calzone-caprese/calzone-caprese-1.jpg
+  - image:
+    path: calzone-caprese/calzone-caprese-2.jpg
+    alt: "Tomate, mozza, basilic. Les couleurs de l’Italie. Une salade caprese emballée dans un chausson bien gourmand." 
 cuisines: [italienne]
 courses: [plat, déjeuner, dîner]
 tags: [sans viande]
@@ -44,5 +49,3 @@ directions:
 La calzone, c’est un chausson généralement réalisé avec une pâte à pizza. Mais ça fonctionne aussi avec une pâte brisée. Dedans, on joue le classique tomate, mozzarella et basilic, la valeur sûre de l’Italie.
 
 Encore une fois, choisissez les meilleurs ingrédients que vous pouvez vous permettre d’acheter. La composition est simple mais du basilic bien frais, ça change absolument tout.
-
-![Tomate, mozza, basilic. Les couleurs de l’Italie. Une salade caprese emballée dans un chausson bien gourmand.](../images/calzone-caprese/calzone-caprese-2.jpg) 

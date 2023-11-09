@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Poêlée de pomme de terres"
-image: sausage-potato/sausage-potato.jpg
+images:
+  - image:
+    path: sausage-potato/sausage-potato.jpg
 cuisines: [française]
 courses: [plat, déjeuner, dîner]
 

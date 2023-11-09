@@ -2,8 +2,13 @@
 
 layout: recipe
 title: "Tarte de patate douce aux pacanes"
-image: sweet-pecan-pie/sweet-pecan-pie-1.jpg
-imagealt: "Vue de dessus, la tarte présente pour principale caractéristique son topping de noix de pécan. Le plaisir de la découverte réside pourtant dans son appareil aux bonnes épices de saison."
+images:
+  - image:
+    path: sweet-pecan-pie/sweet-pecan-pie-1.jpg
+    alt: "Vue de dessus, la tarte présente pour principale caractéristique son topping de noix de pécan. Le plaisir de la découverte réside pourtant dans son appareil aux bonnes épices de saison."
+  - image:
+    path: sweet-pecan-pie/sweet-pecan-pie-2.jpg
+    alt: "L’appareil rappelle très franchement la frangipane, notamment de par sa texture, ce qui peut être surprenant à la toute première bouchée. Mais avec le croquant des pacanes, le mélange est nickel."
 cuisines: [américaine]
 courses: [dessert, goûter]
 tags: [tarte, automne, hiver, comfort food]
@@ -61,5 +66,3 @@ La patate douce est la cousine sucrée de la pomme de terre de nos régions, et 
 Le résultat&nbsp;? Une tarte hyper réconfortante aux notes de pain d’épice, avec un appareil pas trop sucré dont la texture hyper moelleuse rappelle la frangipane, et qui sert de lit à des noix de pécan (ou pacanes comme d’usage plus répandu au Québec) croquantes et légèrément toastées.
 
 Et le tout à partir d’une simple purée de patate douce. Elle est pas belle la vie&nbsp;?
-
-![L’appareil rappelle très franchement la frangipane, notamment de par sa texture, ce qui peut être surprenant à la toute première bouchée. Mais avec le croquant des pacanes, le mélange est nickel.](../images/sweet-pecan-pie/sweet-pecan-pie-2.jpg)

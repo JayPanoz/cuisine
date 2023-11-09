@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Barquettes apéro"
-image: barquettes-apero/barquettes-apero.jpg
+images:
+  - image:
+    path: barquettes-apero/barquettes-apero.jpg
 cuisines: [française]
 courses: [apéritif, amuse-bouche]
 

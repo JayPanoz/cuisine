@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Shortbread au cacao et son"
-image: cacao-son/cacao-son-1.jpg
+images:
+  - image:
+    path: cacao-son/cacao-son-1.jpg
+  - image:
+    path: cacao-son/cacao-son-2.jpg
+    alt: "Le biscuit reste ultra craquant tout en amenant des fibres et protéines par rapport au shortbread classique."
 cuisines: [britannique]
 courses: [snack]
 tags: [biscuit]
@@ -42,5 +47,3 @@ Le fameux <i lang="en">shortbread</i> anglais, mais en version enrichie en prot�
 Les proportions du <i lang="en">shortbread</i> sont plutôt simples à retenir&nbsp;: pour 1 quantité de sucre, il faut 2 fois le beurre et 3 fois la farine. Pas besoin d’œuf ni de levure&nbsp;! Ici on baisse simplement la proportion de farine puisqu’on ajoute du son d’avoine et cacao.
 
 Le sucre glace est un détail important dans le sens où il va apporter un croquant majestueux par rapport à du sucre en poudre classique. La recette reste faisable sans, mais le résultat sera un peu différent. L’autre secret, c’est une cuisson plus longue à plus basse température.
-
-![Le biscuit reste ultra craquant tout en amenant des fibres et protéines par rapport au shortbread classique.](../images/cacao-son/cacao-son-2.jpg)

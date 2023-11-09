@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Yaourt aux fruits jaunes"
-image: yaourt-fruits-jaunes/yaourt-fruits-jaunes-1.jpg
+images:
+  - image:
+    path: yaourt-fruits-jaunes/yaourt-fruits-jaunes-1.jpg
+  - image:
+    path: yaourt-fruits-jaunes/yaourt-fruits-jaunes-2.jpg
+    alt: "Des fruits bien juteux et sucrés, un yaourt grec velouté qui apporte une pointe acidulée, du miel pour l’onctuosité, et des graines pour le craquant."
 cuisines: [française]
 courses: [dessert, snack]
 tags: [sans cuisson]
@@ -26,5 +31,3 @@ directions:
 ---
 
 Un snack super rapide pour le goûter, avec du yaourt grec et des fruits de saison. On prend simplement soin d’amener un peu de croquant avec un mélange de graines (tournesol, courge, etc.) histoire de le rendre plus gourmand et intéressant – et ça amène du bon gras et des protéines en plus.
-
-![Des fruits bien juteux et sucrés, un yaourt grec velouté qui apporte une pointe acidulée, du miel pour l’onctuosité, et des graines pour le craquant.](../images/yaourt-fruits-jaunes/yaourt-fruits-jaunes-2.jpg)

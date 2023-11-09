@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Œuf cocotte à la truite"
-image: oeuf-cocotte-truite/oeuf-cocotte-truite-1.jpg
+images:
+  - image:
+    path: oeuf-cocotte-truite/oeuf-cocotte-truite-1.jpg
+  - image:
+    path: oeuf-cocotte-truite/oeuf-cocotte-truite-2.jpg
+    alt: "Avec ses mouillettes en pain soda irlandais, c’est une petite entrée qui ouvre l’appétit."
 cuisines: [française]
 courses: [entrée]
 
@@ -29,5 +34,3 @@ directions:
 ---
 
 Une entrée sans chichi qui ne demande que très peu de préparation. Logiquement il faudrait une cuisson au bain-marie au four à plus basse température pour réaliser un œuf cocotte parfait, mais on arrive pas trop mal à se débrouiller sans en surveillant bien la cuisson.
-
-![Avec ses mouillettes en pain soda irlandais, c’est une petite entrée qui ouvre l’appétit.](../images/oeuf-cocotte-truite/oeuf-cocotte-truite-2.jpg)

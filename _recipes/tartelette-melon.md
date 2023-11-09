@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tartelettes au melon curd"
-image: tartelette-melon/tartelette-melon-1.jpg
+images:
+  - image:
+    path: tartelette-melon/tartelette-melon-1.jpg
+  - image:
+    path: tartelette-melon/tartelette-melon-2.jpg
+    alt: "La pâte friable vient complimenter l’appareil à l’orange bien crémeux tandis que le chocolat vient enrober le tout en bouche."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte, petit format]
@@ -42,5 +47,3 @@ Des tartelettes au biscuit bien friable sur lesquelles on dépose une curd de me
 La note originale, c’est ce mariage entre le biscuit au beurre de cacahuète et la crème de melon (<i lang="en">melon curd</i>), mariage qui peut paraitre improbable de prime abord mais qui fonctionne plutôt pas mal sur le modèle du bon vieux concept de PB&J (Peanut Butter & Jelly). 
 
 À noter que cette <i lang="en">melon curd</i> peut également venir garnir vos beignets, éclairs, etc.
-
-![La pâte friable vient complimenter l’appareil à l’orange bien crémeux tandis que le chocolat vient enrober le tout en bouche.](../images/tartelette-melon/tartelette-melon-2.jpg)

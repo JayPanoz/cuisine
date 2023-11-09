@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Beignets façon Sachertorte"
-image: beignets-sacher/beignets-sacher-1.jpg
+images:
+  - image:
+    path: beignets-sacher/beignets-sacher-1.jpg
+  - image:
+    path: beignets-sacher/beignets-sacher-2.jpg
+    alt: "La confiture au centre est bien coulante, et vient bien humidifier le cœur du beignet. C‘est ce qui en fait une partie de l’intérêt."
 cuisines: [américaine, autrichienne]
 courses: [petit-déjeuner, snack, goûter]
 tags: [donut, beignet, boulangerie]
@@ -54,5 +59,3 @@ Si notre version beignet utilise une levure boulangère qui devrait logiquement 
 Bien sûr, les beignets à la confiture d’abricot n’ont rien de spécial, on peut même les trouver en pâtisserie industrielle. Mais l’intérêt de cette recette, c’est de jouer à fond la carte de l’association avec le chocolat. Cacao dans la pâte, chocolat noir pour le glaçage. Ça n’a l’air de rien dit comme ça, mais ça change tout.
 
 Comme d’habitude avec les recettes incluant une levure boulangère, vous pouvez préparer la veille pour laisser pousser toute la nuit au frigo et pouvoir vous lancer directement dans la confection le lendemain matin.
-
-![La confiture au centre est bien coulante, et vient bien humidifier le cœur du beignet. C‘est ce qui en fait une partie de l’intérêt.](../images/beignets-sacher/beignets-sacher-2.jpg)

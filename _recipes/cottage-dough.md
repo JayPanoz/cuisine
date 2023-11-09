@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cottage Dough"
-image: cottage-dough/cottage-dough-1.jpg
+images:
+  - image:
+    path: cottage-dough/cottage-dough-1.jpg
+  - image:
+    path: cottage-dough/cottage-dough-2.jpg
+    alt: "Pour une vraie expérience cookie dough, la consistance doit ressembler à la pâte à cookie après passage au frigo. Il faut donc pouvoir passer une cuillère à glace dedans sans forcer et former des boules. Pour une expérience plus onctueuse on peut néanmoins ajouter du lait."
 cuisines: [américaine]
 courses: [snack, dessert]
 tags: [cookie, sans cuisson, protéiné, récupération]
@@ -38,5 +43,3 @@ On sélectionne donc soigneusement les ingrédients en plus d’utiliser la prot
 Évidemment, vous n’avez pas besoin de vous limiter aux seules pépites de chocolat. Les amandes, noix de cajou, noisettes, etc. apporteront encore un peu plus de protéines et du bon gras. Donc n’hésitez pas à personnaliser cette recette. 
 
 Attention si vous prévoyez d’utiliser de la farine d’avoine maison, mixée à partir de flocons/son d’avoine. Ne tentez pas de la mixer avec le reste pour gagner du temps, vous risqueriez en effet de flinguer votre blender/mixer. 
-
-![Pour une vraie expérience cookie dough, la consistance doit ressembler à la pâte à cookie après passage au frigo. Il faut donc pouvoir passer une cuillère à glace dedans sans forcer et former des boules. Pour une expérience plus onctueuse on peut néanmoins ajouter du lait.](../images/cottage-dough/cottage-dough-2.jpg)

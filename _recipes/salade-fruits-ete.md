@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Salade de fruits d’été"
-image: salade-fruits-ete/salade-fruits-ete-1.jpg
+images:
+  - image:
+    path: salade-fruits-ete/salade-fruits-ete-1.jpg
+  - image:
+    path: salade-fruits-ete/salade-fruits-ete-2.jpg
+    alt: "L’été on privilégie les recettes d’assemblage sans prise de tête, sans cuisson et surtout, bien fraiche." 
 cuisines: [française]
 courses: [dessert, snack]
 tags: [salade sucrée]
@@ -30,5 +35,3 @@ directions:
 ---
 
 Une salade de fruits d’été sucrée-acidulée à base de melon et fruits rouges. Simple, basique, rafraichissant.
-
-![L’été on privilégie les recettes d’assemblage sans prise de tête, sans cuisson et surtout, bien fraiche.](../images/salade-fruits-ete/salade-fruits-ete-2.jpg) 

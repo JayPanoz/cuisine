@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Roulés au pesto"
-image: rolls/rolls.jpg
+images:
+  - image:
+    path: rolls/rolls.jpg
 cuisines: [américaine, française]
 courses: [apéritif]
 tags: [3 ingrédients]

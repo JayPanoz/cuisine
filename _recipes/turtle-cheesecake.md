@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cheesecake Turtle"
-image: turtle-cheesecake/turtle-cheesecake-1.jpg
+images:
+  - image:
+    path: turtle-cheesecake/turtle-cheesecake-1.jpg
+  - image:
+    path: turtle-cheesecake/turtle-cheesecake-2.jpg
+    alt: "C'est totalement décadent, ça dégouline de caramel, les noix de pécan sont recouvertes de glaçage au cacao, c’est riche, croquant, intense et tout doux à la fois, ça explose en bouche et ça n’en finit jamais."
 cuisines: [américaine]
 courses: [dessert, goûter]
 tags: [cheesecake, sans cuisson, Turtle]
@@ -47,5 +52,3 @@ directions:
 Une autre recette de cheesecake, mais avec un mélange “Turtle”, c’est à dire un trio caramel, chocolat, et noix de pécan. Les [Turtles sont une confiserie chicagoane inventée en 1918](https://en.wikipedia.org/wiki/Turtles_(chocolate)) et qui prennent la forme d’une tortue avec une base en noix de pécan, une garniture caramel bien coulant, et un enrobage au chocolat noir ou au lait.
 
 C’est tellement délicieux que ce mélange est décliné de moult façons, et qu’on peut donc trouver des brownies Turtle, des cookies Turtle, des tartes Turtle ou encore, comme ici, des cheesecakes Turtle.
-
-![C'est totalement décadent, ça dégouline de caramel, les noix de pécan sont recouvertes de glaçage au cacao, c’est riche, croquant, intense et tout doux à la fois, ça explose en bouche et ça n’en finit jamais.](../images/turtle-cheesecake/turtle-cheesecake-2.jpg)

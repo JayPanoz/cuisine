@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Smoothie banane menthe melon"
-image: smoothie-melon/smoothie-melon-1.jpg
+images:
+  - image:
+    path: smoothie-melon/smoothie-melon-1.jpg
+  - image:
+    path: smoothie-melon/smoothie-melon-2.jpg
+    alt: "Simple, rapide, naturellement sucré et désaltérant. On peut ajouter un peu de peps avec du sucre complet ou muscovado ainsi que des feuilles de menthe, mais rien ne vous empêche aussi d’y ajouter des graines de chia pour les protéines et omega 3."
 cuisines: [américaine]
 courses: [snack]
 tags: [blender, mixer, sans cuisson, liquide]
@@ -33,5 +38,3 @@ directions:
 Une recette de smoothie bien désaltérante et naturellement sucrée, qui demande peu de préparation et peut-être réalisée à la minute. Plus vos bananes seront mûres, plus elles seront sucrées.
 
 Pour une version plus riche en protéines et omega 3, n’hésitez pas à ajouter des graines de chia voire à remplacer une partie du lait par un petit suisse/skyr/yaourt grec, comme dans la recette du [smoothie protéiné](smoothie-proteine.html). 
-
-![Simple, rapide, naturellement sucré et désaltérant. On peut ajouter un peu de peps avec du sucre complet ou muscovado ainsi que des feuilles de menthe, mais rien ne vous empêche aussi d’y ajouter des graines de chia pour les protéines et omega 3.](../images/smoothie-melon/smoothie-melon-2.jpg)

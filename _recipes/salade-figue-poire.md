@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Salade au chèvre, figues, poires et miel"
-image: salade-figue-poire/salade-figue-poire-1.jpg
+images:
+  - image:
+    path: salade-figue-poire/salade-figue-poire-1.jpg
+  - image:
+    path: salade-figue-poire/salade-figue-poire-2.jpg
+    alt: "Fondant et croquant s’entremêlent dans chaque bouchée, tout autant que le sucré et le salé. Des contrastes qui se dégustent dans une jolie entrée." 
 cuisines: [française]
 courses: [entrée, déjeuner, dîner]
 tags: [salade, sucré-salé]
@@ -37,5 +42,3 @@ directions:
 ---
 
 Une salade sucrée-salée hyper réconfortante et pas trop compliquée à préparer. La petite astuce, c’est que les feuilles de sucrine peuvent servir de barquette pour composer des bouchées, comme des tortillas ou du pain plat.
-
-![Fondant et croquant s’entremêlent dans chaque bouchée, tout autant que le sucré et le salé. Des contrastes qui se dégustent dans une jolie entrée.](../images/salade-figue-poire/salade-figue-poire-2.jpg) 

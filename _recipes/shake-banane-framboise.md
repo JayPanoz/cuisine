@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Shake banane framboise"
-image: shake-banane-framboise/shake-banane-framboise-1.jpg
+images:
+  - image:
+    path: shake-banane-framboise/shake-banane-framboise-1.jpg
+  - image:
+    path: shake-banane-framboise/shake-banane-framboise-2.jpg
+    alt: "Ça a la consistance d’une nice cream qui aurait bien fondu, ça reste onctueux et riche en bouche, et ça peut même se manger à la cuillère"
 cuisines: [américaine]
 courses: [snack]
 tags: [blender, mixer, sans cuisson, liquide, 3 ingrédients]
@@ -28,5 +33,3 @@ Soupe&nbsp;? Velouté&nbsp;? Crème glacée fondue/ratée&nbsp;? Smoothie glacé
 La magie de cette recette, c’est qu’en mettant les framboises au congélateur et en réduisant la part de crème, on peut créer une <i lang="en">nice cream</i> à la framboise. Et, au contraire, en utilisant des bananes fraîches non congelées, se faire un petit smoothie ultra crémeux. 
 
 N’hésitez pas à expérimenter, il n’y a pas de ratage en cuisine, simplement des créations de nouvelles recettes par accident.
-
-![Ça a la consistance d’une nice cream qui aurait bien fondu, ça reste onctueux et riche en bouche, et ça peut même se manger à la cuillère](../images/shake-banane-framboise/shake-banane-framboise-2.jpg)

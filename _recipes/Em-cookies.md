@@ -2,8 +2,13 @@
 
 layout: recipe
 title: "Em’s Cookies"
-image: em-cookies/em-cookies-1.jpg
-imagealt: "Vu du dessus, un cookie légèrement rose et craquelé duquel on devine les inserts. Au programme, morceaux de myrtilles, de chocolat blanc et de cacahuètes."
+images:
+  - image:
+    path: em-cookies/em-cookies-1.jpg
+    alt: "Vu du dessus, un cookie légèrement rose et craquelé duquel on devine les inserts. Au programme, morceaux de myrtilles, de chocolat blanc et de cacahuètes."
+  - image:
+    path: em-cookies/em-cookies-2.jpg
+    alt: "Le cookie est hyper moelleux, avec un peu de pulpe de myrtilles ici et là, et surtout des chunks de chocolat et de cacahuètes pour amener du fondant et du croquant." 
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf]
@@ -51,5 +56,3 @@ En effet, en battant les myrtilles décongelées pour en faire une pulpe, celle-
 Une fois sorti du four, le cookie se révèle incroyablement tendre et mâchu. C’est même probablement le meilleur cookie <i lang="en">chewy</i> de mon livre de recettes, et de très très loin. Et franchement je ne peux que vous conseiller de tenter la recette, y compris avec d’autres fruits rouges (framboises, fraises, mûres…) si vous n’appréciez pas les myrtilles.
 
 Par contre je ne peux pas assurer que ça fonctionnera aussi bien avec des myrtilles déjà surgelées. Dans mon expérience leur goût n'est pas aussi intense que ce que l’on pourrait en espérer, et certaines ont tendance à rendre plus d’eau que de jus… Mais si vous savez que vos myrtilles surgelées pourront convenir, n’hésitez pas&nbsp;!
-
-![Le cookie est hyper moelleux, avec un peu de pulpe de myrtilles ici et là, et surtout des chunks de chocolat et de cacahuètes pour amener du fondant et du croquant.](../images/em-cookies/em-cookies-2.jpg) 

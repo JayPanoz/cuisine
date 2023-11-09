@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cookie baies de goji beurre de cacahuète"
-image: pb-goji-cookies/pb-goji-cookies-1.jpg
+images:
+  - image:
+    path: pb-goji-cookies/pb-goji-cookies-1.jpg
+  - image:
+    path: pb-goji-cookies/pb-goji-cookies-2.jpg
+    alt: "Le cookie est friable tout en proposant une belle mâche, les baies de goji toastées lors de la cuisson offrent du croquant, les pépites de chocolat complètent le tableau avec du fondant."
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf, sans beurre, sans huile]
@@ -42,5 +47,3 @@ Un cookie gourmand composé de bonnes choses que l’on ne retrouve pas forcéme
 On utilise en fait la même base que celle des [cookie sandwiches <i lang="en">fluffernutter</i>](fluffernutter-cookie.html), mais on oublie la crème de marshmallow pour des baies de goji et des pépites de chocolat pour une version légèrement plus saine en terme de macro- et micro-nutriments. On remplace en effet le sucre par les fibres, le calcium, la vitamine C antioxydante, la vitamine A et la bêta-carotène de la baie de goji, et les flavonoïdes du chocolat noir. Et même si les quantités sont mesurées, c‘est toujours mieux.
 
 Ça veut aussi dire qu’on se débrouille avec peu d’ingrédients et que le cookie devient personnalisable à l’envi. Vous n’avez ou n’aimez pas les baies de goji&nbsp;? Eh bien remplacez-les simplement par vos fruits secs ou à coque préférés. On rappelle également qu’on peut même utiliser la pâte comme fond de [tartelette à la crème de melon](tartelette-melon.html)&nbsp;!
-
-![Le cookie est friable tout en proposant une belle mâche, les baies de goji toastées lors de la cuisson offrent du croquant, les pépites de chocolat complètent le tableau avec du fondant.](../images/pb-goji-cookies/pb-goji-cookies-2.jpg)

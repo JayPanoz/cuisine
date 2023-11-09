@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Carameloos Special"
-image: carameloos-special/carameloos-special-1.jpg
+images:
+  - image:
+    path: carameloos-special/carameloos-special-1.jpg
+  - image:
+    path: carameloos-special/carameloos-special-2.jpg
+    alt: "Friable, bien ambré, caramélisé et un cœur en chocolat très riche. C'est une véritable explosion de saveurs et textures en bouche"
 cuisines: [américaine]
 courses: [dessert]
 tags: [sans cuisson]
@@ -38,5 +43,3 @@ directions:
 Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Le Carameloos Special peut se concevoir comme une tarte Speculoos-chocolat nappée de caramel.
-
-![Friable, bien ambré, caramélisé et un cœur en chocolat très riche. C'est une véritable explosion de saveurs et textures en bouche](../images/carameloos-special/carameloos-special-2.jpg)

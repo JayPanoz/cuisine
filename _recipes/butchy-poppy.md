@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Butchy’s Poppy Rolls"
-image: poppy-rolls/poppy-rolls-1.jpg
+images:
+  - image:
+    path: poppy-rolls/poppy-rolls-1.jpg
+  - image:
+    path: poppy-rolls/poppy-rolls-2.jpg
+    alt: "Des roulés avec une crème de pavot, par contre il ne faudra pas faire de test toxicologique après en avoir mangé."
 cuisines: [allemande]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, roll, boulangerie]
@@ -39,5 +44,3 @@ directions:
 ---
 
 Des petits roulés briochés à la crème de pavot. Moelleux, riches et bien humides.
-
-![Des roulés avec une crème de pavot, par contre il ne faudra pas faire de test toxicologique après en avoir mangé.](../images/poppy-rolls/poppy-rolls-2.jpg)

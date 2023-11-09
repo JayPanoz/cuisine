@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Dip au fromage blanc"
-image: dip-fromage-blanc/dip-fromage-blanc-1.jpg
+images:
+  - image:
+    path: dip-fromage-blanc/dip-fromage-blanc-1.jpg
+  - image:
+    path: dip-fromage-blanc/dip-fromage-blanc-2.jpg
+    alt: "C'est frais, ça se marie particulièrement bien avec des légumes à l’heure de l’apéro, mais ça peut aussi venir enrober des chips salées, tortilla, nachos, etc. et salades si vous préférez." 
 cuisines: [française]
 courses: [apéritif]
 tags: [accompagnement]
@@ -32,5 +37,3 @@ directions:
 ---
 
 Une sauce dans laquelle tremper les chips et légumes de l’apéro, mais qui peut également venir napper une belle salade. Rapide à faire avec les aliments du placards à épices, vous pouvez y ajouter à peu près ce que vous préférez comme herbes et même venir la relever un peu.
-
-![C'est frais, ça se marie particulièrement bien avec des légumes à l’heure de l’apéro, mais ça peut aussi venir enrober des chips salées, tortilla, nachos, etc. et salades si vous préférez.](../images/dip-fromage-blanc/dip-fromage-blanc-2.jpg) 

@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "PB Cookies"
-image: PB-cookies/PB-cookies-1.jpg
+images:
+  - image:
+    path: PB-cookies/PB-cookies-1.jpg
+  - image:
+    path: PB-cookies/PB-cookies-2.jpg
+    alt: "Le cookie est très différent de ce que tu peux attendre car il force à mâcher longuement en bouche, pas à croquer sous la dent."
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie]
@@ -42,5 +47,3 @@ Ici on utilise du beurre de cacahuète chunky (avec des cacahuètes concassées)
 Évidemment la base, c’est d’amener un fort contraste avec du chocolat – si possible ton préféré –, comme pour les produits Reese’s. 
 
 Attention, la pâte est particulièrement collante, n'hésite pas à mouiller/huiler tes mains pour la manipuler plus facilement.
-
-![Le cookie est très différent de ce que tu peux attendre car il force à mâcher longuement en bouche, pas à croquer sous la dent](../images/PB-cookies/PB-cookies-2.jpg)

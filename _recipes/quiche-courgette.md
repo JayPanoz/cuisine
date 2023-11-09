@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Quiche aux courgettes"
-image: quiche-courgette/quiche-courgette-1.jpg
+images:
+  - image:
+    path: quiche-courgette/quiche-courgette-1.jpg
+  - image:
+    path: quiche-courgette/quiche-courgette-2.jpg
+    alt: "Plus flan que gratin, mais pas moins délicieux." 
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [quiche]
@@ -41,5 +46,3 @@ directions:
 ---
 
 Une quiche pour changer du gratin de courgettes. 
-
-![Plus flan que gratin, mais pas moins délicieux.](../images/quiche-courgette/quiche-courgette-2.jpg) 

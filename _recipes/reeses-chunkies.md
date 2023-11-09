@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Reese’s Chunkies"
-image: reeses-chunkies/reeses-chunkies-1.jpg
+images:
+  - image:
+    path: reeses-chunkies/reeses-chunkies-1.jpg
+  - image:
+    path: reeses-chunkies/reeses-chunkies-2.jpg
+    alt: "Croquant à l’extérieur mais tout moelleux à l’intérieur, avec des flaques de chocolat fondu." 
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, Reese’s]
@@ -48,5 +53,3 @@ Le <i lang="en">Reese’s Chunkie</i> est un cookie au beurre noisette avec un i
 Pour ré-équilibrer la mâche et ramener du croquant, on utilise du coup de la cassonade plutôt que du sucre complet, plus humide et qui résulterait dans un cookie plus moelleux.
 
 À noter que si vous ne trouvez pas de <i lang="en">Peanut Butter Chips</i> Reese’s, vous pouvez aussi les remplacer par des morceaux de fudge caramel, ça fonctionne de la même façon.
-
-![Croquant à l’extérieur mais tout moelleux à l’intérieur, avec des flaques de chocolat fondu.](../images/reeses-chunkies/reeses-chunkies-2.jpg) 

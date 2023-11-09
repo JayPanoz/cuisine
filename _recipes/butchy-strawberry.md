@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Butchy’s Strawberry Rolls"
-image: butchy-strawberry/butchy-strawberry-1.jpg
+images:
+  - image:
+    path: butchy-strawberry/butchy-strawberry-1.jpg
+  - image:
+    path: butchy-strawberry/butchy-strawberry-2.jpg
+    alt: "Des roulés avec une garniture de vraies fraises, pas celle chimique que l’on trouve dans les produits industriels."
 cuisines: [allemande]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, roll, boulangerie]
@@ -39,5 +44,3 @@ directions:
 ---
 
 Des petits roulés briochés à la fraise et glacés au citron. Moelleux et rafraichissants pour l’été.
-
-![Des roulés avec une garniture de vraies fraises, pas celle chimique que l’on trouve dans les produits industriels.](../images/butchy-strawberry/butchy-strawberry-2.jpg)

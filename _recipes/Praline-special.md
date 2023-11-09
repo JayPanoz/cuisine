@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Praliné Special"
-image: praline-special/praline-special-1.jpg
+images:
+  - image:
+    path: praline-special/praline-special-1.jpg
+  - image:
+    path: praline-special/praline-special-2.jpg
+    alt: "Un biscuit bien friable accompagné d’une ganache pralinoise bien riche et crémeuse. Il n’y a pas besoin de plus."
 cuisines: [américaine]
 courses: [dessert]
 tags: [sans cuisson, 4 ingrédients]
@@ -35,5 +40,3 @@ directions:
 Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Le Praliné Special est une recette en 4 ingrédients qui met en valeur le chocolat pralinoise, tout simplement. Pas de chichi&nbsp;: une crust de cheesecake neutre vient accueillir une généreuse ganache pralinée.
-
-![Un biscuit bien friable accompagné d’une ganache pralinoise bien riche et crémeuse. Il n’y a pas besoin de plus.](../images/praline-special/praline-special-2.jpg)

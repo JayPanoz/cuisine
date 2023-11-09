@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Banana brioche"
-image: banana-brioche/banana-brioche-1.jpg
+images:
+  - image:
+    path: banana-brioche/banana-brioche-1.jpg
+  - image:
+    path: banana-brioche/banana-brioche-2.jpg
+    alt: "La banane apporte un moelleux et un fondant absolument irrésistible. À la mâche cela peut même rappeler l’effet du brownie bien dégoulinant au centre."
 cuisines: [américaine, française]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, roll, boulangerie]
@@ -64,5 +69,3 @@ Et voilà la résultat. Une brioche dans laquelle la banane en purée remplace l
 Le pralin étant des morceaux d’amandes et de noisettes caramélisés, inutile de souligner qu’on ne prend pas trop de risque ici, puisque ce sont des accords qui fonctionnent particulièrement bien avec la banane. 
 
 <i lang="en">Enjoy!</i>
-
-![La banane apporte un moelleux et un fondant absolument irrésistible. À la mâche cela peut même rappeler l’effet du brownie bien dégoulinant au centre.](../images/banana-brioche/banana-brioche-2.jpg)

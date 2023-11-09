@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Spanakopita"
-image: spanakopita/spanakopita-1.jpg
+images:
+  - image:
+    path: spanakopita/spanakopita-1.jpg
+  - image:
+    path: spanakopita/spanakopita-2.jpg
+    alt: "Ultra craquant à l’extérieur à la sortie du four, et bien moelleux à l’intérieur, ce friand permet de jouer sur les textures et saura mettre en avant sa farce aux épinards et à la feta." 
 cuisines: [grecque]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [tourte, friand]
@@ -46,5 +51,3 @@ La <i lang="gr">Spanakopita</i> peut se traduire par “tarte aux épinards”, 
 Pour la pâte, c’est de la pâte phyllo qu’on utilise traditionnellement, une pâte sur laquelle il faut venir ajouter du gras, et qui permet donc de doser les lipides (et acides gras saturés) comme vous le souhaitez, au contraire des pâtes brisées et feuilletées industrielles. On utilise généralement du beurre fondu ou de l’huile d’olive, mais un mélange de fromage blanc et d’œuf fonctionne parfaitement, nous allons donc en profiter.
 
 Note&nbsp;: on n’ajoute pas de sel dans cette recette car la feta en contient déjà suffisamment.
-
-![Ultra craquant à l’extérieur à la sortie du four, et bien moelleux à l’intérieur, ce friand permet de jouer sur les textures et saura mettre en avant sa farce aux épinards et à la feta.](../images/spanakopita/spanakopita-2.jpg) 

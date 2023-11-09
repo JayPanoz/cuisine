@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Cantucci aux amandes"
-image: cantucci/cantucci-1.jpg
+images:
+  - image:
+    path: cantucci/cantucci-1.jpg
+  - image:
+    path: calzone-caprese/calzone-caprese-2.jpg
+    alt: "Tomate, mozza, basilic. Les couleurs de l’Italie. Une salade caprese emballée dans un chausson bien gourmand." 
 cuisines: [italienne, corse]
 courses: [petit-déjeuner, goûter]
 tags: [biscuit, craquant]
@@ -41,5 +46,3 @@ directions:
 Le <i lang="it">cantucci</i>, c’est le vrai biscuit à l’ancienne, le biscuit qui est cuit 2 fois. Il doit être bien sec et ultra croquant, et est donc parfait pour accompagner le thé ou le café.
 
 Si vous savez faire un <i lang="it">cantucci</i>, vous saurez quasiment faire un canistrelli corse. D’une pierre deux coups&nbsp;!
-
-![On voit bien la croûte autour du biscuit, et c’est ultra croquant sous la dent.](../images/cantucci/cantucci-2.jpg)

@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Cookies moelleux aux noisettes"
-image: banana-nut-cookie/banana-nut-cookie-1.jpg
+images:
+  - image: 
+    path: banana-nut-cookie/banana-nut-cookie-1.jpg
+  - image:
+    path: banana-nut-cookie/banana-nut-cookie-2.jpg
+    alt: "C‘est vraiment très très moelleux, il ne faut pas en attendre du croquant."
 cuisines: [américaine]
 courses: [petit-déjeuner, snack]
 tags: [cookie]
@@ -45,5 +50,3 @@ Encore de la banane mûre écrasée en purée, mais dans des cookies cette fois&
 Le résultat&nbsp;: des cookies super moelleux, un peu comme les Belvita petit déjeuner moelleux aux céréales/fruits rouges. Et on fait le plein de fibres avec un apport intéressant en antioxydants et vitamines B (noisettes), et protéines – un peu plus qu'un yaourt classique – tout en limitant le sucre et le gras par rapport à des biscuits classiques.
 
 Cette recette est sensée être rapide pour se faire plaisir au petit dej ou au goûter, on va donc faire au plus vite.
-
-![C‘est vraiment très très moelleux, il ne faut pas en attendre du croquant.](../images/banana-nut-cookie/banana-nut-cookie-2.jpg)

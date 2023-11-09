@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Smoothie protéiné"
-image: smoothie-proteine/smoothie-proteine-1.jpg
+images:
+  - image:
+    path: smoothie-proteine/smoothie-proteine-1.jpg
+  - image:
+    path: smoothie-proteine/smoothie-proteine-2.jpg
+    alt: "On peut jouer sur l’épaisseur en ajoutant plus ou moins de lait."
 cuisines: [américaine]
 courses: [snack]
 tags: [blender, mixer, sans cuisson, protéiné, liquide]
@@ -33,5 +38,3 @@ directions:
 Quand on souhaite consommer des protéines sans trop se prendre la tête après une séance de sport, il n’est pas forcément évident d’imaginer faire sans barre ou boisson de récupération ou poudre pour shaker. C’est rapide et pratique, mais ça représente un certain budget et il y a bien sûr les précautions recommandées par les fabricants e.g. conseil médical si la consommation se prolonge sur une durée de plus de 6 semaines, contre-indication en cas d’insuffisance rénale, hépatique et pour les femmes enceintes, etc.
 
 Cette recette de smoothie pourra donc être utile, ne serait-ce que pour changer de temps en temps – on ne va pas se cacher que le goût des aliments protéinés, ça passe ou ça casse.
-
-![On peut jouer sur l’épaisseur en ajoutant plus ou moins de lait.](../images/smoothie-proteine/smoothie-proteine-2.jpg)

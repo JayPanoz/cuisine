@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Booberry Pie"
-image: booberry-pie/booberry-pie-1.jpg
+images:
+  - image:
+    path: booberry-pie/booberry-pie-1.jpg
+  - image:
+    path: booberry-pie/booberry-pie-2.jpg
+    alt: "La garniture aux myrtilles, avec le fruit entier enrobé dans sa gelée. Mieux vaut éviter la confiture, trop liquide pour que la tarte fermée se tienne bien."
 cuisines: [américaine]
 courses: [dessert, goûter]
 tags: [Halloween, tarte]
@@ -46,5 +51,3 @@ La recette n’est pas forcément la plus compliquée du site avec ses 2 composa
 Pour les plus motivées, ça vaut néanmoins la peine de tout réaliser maison, a fortiori parce qu’on peut personnaliser pâte et garniture avec des notes et accents supplémentaires (amande, cannelle, etc.).
 
 Alors oui, c’est davantage de la décoration qu’une recette à part entière pour Halloween, mais c’est un peu le point commun de la majorité des recettes déclinées pour l’occasion. Rares sont celles conçues uniquement pour cet événement. D’ailleurs, laissez parler votre créativité ici. J’ai créé un “fantôme” avec 2 emporte-pièces et 3 trous mais rien ne vous empêche d’y aller à fond en décorant en relief avec un éventuel reste de pâte brisée, voire d’aller carrément sculpter le visage de ce bon vieux Jack O’Lantern.
-
-![La garniture aux myrtilles, avec le fruit entier enrobé dans sa gelée. Mieux vaut éviter la confiture, trop liquide pour que la tarte fermée se tienne bien.](../images/booberry-pie/booberry-pie-2.jpg)

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Fudge en 2–2 (express)"
-image: fudge-2/fudge-2-1.jpg
+images:
+  - image:
+    path: fudge-2/fudge-2-1.jpg
+  - image:
+    path: fudge-2/fudge-2-2.jpg
+    alt: "Un petit carré de fudge, tout aussi décadent et savoureux que le classique, mais sans se prendre la tête."
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée, fêtes, Noël, sans cuisson, 2 ingrédients]
@@ -32,5 +37,3 @@ Le <i lang="en">fudge</i> en version classique, [on en a déjà parlé par là](
 Le secret, c’est le lait concentré sucré, une sorte de raccourci par rapport à la recette classique. Donc tant qu’à faire, autant aller taper dans les chocolats aux fruits secs pour utiliser un autre raccourci et obtenir un <i lang="en">fudge</i> fourré, en l’occurrence des pistaches entières et caramélisées. Ça apporte un peu de croquant au fondant, et ça évite d’avoir à s’embêter à les toaster, à trouver les bonnes proportions pour quelque chose d’équilibré à la mâche, etc.
 
 Le plus compliqué dans cette recette, ce sera d’attendre 6 heures le temps que ça prenne. Promis.
-
-![Un petit carré de fudge, tout aussi décadent et savoureux que le classique, mais sans se prendre la tête.](../images/fudge-2/fudge-2-2.jpg)

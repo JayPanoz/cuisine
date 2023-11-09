@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Banana’n’Choc Cookies"
-image: banana-n-choc/banana-n-choc-1.jpg
+images:
+  - image: 
+    path: banana-n-choc/banana-n-choc-1.jpg
+  - image:
+    path: banana-n-choc/banana-n-choc-2.jpg
+    alt: "Ici on est plus sur du cake que du cookie, il y a de quoi être décontenancé si on ne s’y attend pas."
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf]
@@ -42,5 +47,3 @@ Les cookies du 3<sup>e</sup> type, des cookies un peu méconnus qu’on adore ou
 Le petit bonus, c’est qu’ils se fabriquent sans œuf ni beurre.
 
 Par contre attention, il va falloir doser la farine au jugé. Le poids d’une banane peut énormément varier donc le mélange sera plus ou moins humide avec ces proportions – et également en fonction du sucre que vous utilisez. N’hésitez pas à ajouter de la farine pour obtenir une consistance qui se rapproche de la pâte à cookie avec laquelle vous êtes familier. 
-
-![Ici on est plus sur du cake que du cookie, il y a de quoi être décontenancé si on ne s’y attend pas.](../images/banana-n-choc/banana-n-choc-2.jpg)

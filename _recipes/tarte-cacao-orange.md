@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte cacao et orange"
-image: tarte-cacao-orange/tarte-cacao-orange-1.jpg
+images:
+  - image:
+    path: tarte-cacao-orange/tarte-cacao-orange-1.jpg
+  - image:
+    path: tarte-cacao-orange/tarte-cacao-orange-2.jpg
+    alt: "La pâte friable vient complimenter l’appareil à l’orange bien crémeux tandis que le chocolat vient enrober le tout en bouche."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte]
@@ -42,5 +47,3 @@ directions:
 Une tarte qui joue à fond le mariage entre chocolat, huile d’olive, et orange. 
 
 Pour ce faire, on prépare une crème d’orange comme une crème pâtissière, et pour la rendre encore plus gourmande, on vient y déposer du chocolat noir et quelques zestes d’orange.
-
-![La pâte friable vient complimenter l’appareil à l’orange bien crémeux tandis que le chocolat vient enrober le tout en bouche.](../images/tarte-cacao-orange/tarte-cacao-orange-2.jpg)

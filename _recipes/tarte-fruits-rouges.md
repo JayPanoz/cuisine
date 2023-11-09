@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tarte aux fruits rouges"
-image: tarte-fruits-rouges/tarte-fruits-rouges-1.jpg
+images:
+  - image:
+    path: tarte-fruits-rouges/tarte-fruits-rouges-1.jpg
+  - image:
+    path: tarte-fruits-rouges/tarte-fruits-rouges-2.jpg
+    alt: "Pour la brillance et pour protéger les fruits, n’oubliez pas le nappage neutre."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte]
@@ -43,5 +48,3 @@ directions:
 ---
 
 Le grand classique&nbsp;: pâte sucrée, crème pâtissière à la vanille, fruits rouges. Impossible de se tromper.
-
-![Pour la brillance et pour protéger les fruits, n’oubliez pas le nappage neutre.](../images/tarte-fruits-rouges/tarte-fruits-rouges-2.jpg)

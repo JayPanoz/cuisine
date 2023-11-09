@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Tartelettes au cacao"
-image: tarte-cacao/tarte-cacao-1.jpg
+images:
+  - image:
+    path: tarte-cacao/tarte-cacao-1.jpg
+  - image:
+    path: tarte-cacao/tarte-cacao-2.jpg
+    alt: "La surprise, c’est que ce qui semble être une tarte au kiwi est en réalité une tarte au citron, et vice-versa."
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte]
@@ -43,5 +48,3 @@ directions:
 Un duo de tartes au cacao et à l’huile d’olive. La particularité, c’est qu’on utilise 2 <i lang="en">curds</i>&nbsp;: une au kiwi, et une autre au citron. Mais rien ne vous empêche de choisir l’une et de zapper l’autre.
 
 À la dégustation il y aura une petite surprise puisque le visuel ne correspond pas au parfum&nbsp;!
-
-![La surprise, c’est que ce qui semble être une tarte au kiwi est en réalité une tarte au citron, et vice-versa.](../images/tarte-cacao/tarte-cacao-2.jpg)

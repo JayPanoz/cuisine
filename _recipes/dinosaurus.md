@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Biscuits Dinosaure"
-image: dino/dino-1.jpg
+images:
+  - image:
+    path: dino/dino-1.jpg
+  - image:
+    path: dino/dino-2.jpg
+    alt: "Le nappage chocolat bien épais au pinceau, pour amener un peu de texture en plus."
 cuisines: [française]
 courses: [snack]
 tags: [biscuit]
@@ -36,5 +41,3 @@ directions:
 L’inspiration de ces biscuits est je pense assez claire. Le point le plus important, c’est de choisir un bon chocolat parce qu’on va bien le sentir en bouche.
 
 Ma technique quasiment infaillible pour le nappage, c'est de faire fondre ⅔ du chocolat au micro ondes en 3 fois 30 secondes en mélangeant bien les morceaux entre chaque section, puis d'incorporer le ⅓ restant dans le chocolat fondu pour le faire revenir à la bonne température.
-
-![Le nappage chocolat bien épais au pinceau, pour amener un peu de texture en plus](../images/dino/dino-2.jpg)

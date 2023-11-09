@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Banoffee Special"
-image: Banoffee-Special/banoffee-1.jpg
+images:
+  - image:
+    path: Banoffee-Special/banoffee-1.jpg
+  - image:
+    path: Banoffee-Special/banoffee-2.jpg
+    alt: "Le banoffee peut être hyper coulant."
 cuisines: [américaine]
 courses: [dessert]
 tags: [sans cuisson]
@@ -39,7 +44,5 @@ directions:
 Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
 
 Le Banoffee Special est la rencontre entre la banane et le goût caramel sous toutes ses formes. Pour une garniture hyper coulante, on utilise ici de la confiture de lait (<i lang="es">dulce de leche</i>).
-
-![Le banoffee peut être hyper coulant.](../images/Banoffee-Special/banoffee-2.jpg)
 
 Le double glaçage est une idée de décoration, vous pouvez également zapper cette étape et faire un rappel avec quelques tranches de bananes et une cuillerée/traînée de confiture de lait juste avant de servir, ou ajouter du croquant avec quelques miettes des mêmes biscuits que ceux utilisées pour la pâte, partir sur un caramel, etc. À vous de jouer.

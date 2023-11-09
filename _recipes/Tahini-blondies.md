@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Blondies au tahini"
-image: tahini-blondies/tahini-blondies-1.jpg
+images:
+  - image:
+    path: tahini-blondies/tahini-blondies-1.jpg
+  - image:
+    path: tahini-blondies/tahini-blondies-2.jpg
+    alt: "Selon la durée de cuisson, le centre de vos blondies sera plus ou moins coulant. Ici, il ne l’est pas du tout, les blondies ayant passé quelques minutes de plus dans le four. Le résultat est par conséquent plus compact, plus proche de ce qu’on peut trouver dans la grande distribution, ce qui peut aussi être un objectif si, par exemple, vous voulez rendre ces blondies plus facilement transportables."
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
@@ -50,5 +55,3 @@ Eh oui, il n’y a pas que le houmous ou le baba ganoush dans la vie du tahini&n
 Aussi appellée purée ou crème de sésame, le tahini ressemble au beurre de cacahuète naturel, mais il n'est pas naturellement sucré, et ajoute une note de noisette à vos préparations. Son association de farine est donc toute trouvée avec l’épeautre.
 
 Pour les becs sucrés, je conseille d’ajouter un peu de miel, le tahini apporte une pointe d’amertume que tout le monde n’aimera pas forcément, malgré le sucre de canne complet et la banane mûre présents dans la liste d’ingrédients.
-
-![Selon la durée de cuisson, le centre de vos blondies sera plus ou moins coulant. Ici, il ne l’est pas du tout, les blondies ayant passé quelques minutes de plus dans le four. Le résultat est par conséquent plus compact, plus proche de ce qu’on peut trouver dans la grande distribution, ce qui peut aussi être un objectif si, par exemple, vous voulez rendre ces blondies plus facilement transportables.](../images/tahini-blondies/tahini-blondies-2.jpg)

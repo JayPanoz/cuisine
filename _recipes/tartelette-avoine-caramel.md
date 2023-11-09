@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Mini tartelettes avoine et caramel"
-image: tartelette-avoine-caramel/tartelette-avoine-caramel-1.jpg
+images:
+  - image:
+    path: tartelette-avoine-caramel/tartelette-avoine-caramel-1.jpg
+  - image:
+    path: tartelette-avoine-caramel/tartelette-avoine-caramel-2.jpg
+    alt: "La surprise de la tartelette, c’est le fourrage au caramel beurre salé bien dégoulinant et intense en goût"
 cuisines: [française]
 courses: [snack]
 tags: [tarte, bouchée]
@@ -31,5 +36,3 @@ directions:
 Des mini tartelettes toutes simples avec une pâte sablée à l’avoine et une garniture au caramel beurre salé. Évidemment, c’est une recette passe-partout qui peut se personnaliser à l’envi, en ajoutant un nappage chocolat, en remplaçant le caramel par de la pâte à tartiner ou de la confiture, etc.
 
 L’intérêt c‘est de bien combiner la garniture et la farine. Avec le caramel, l’épeautre fonctionne aussi très bien par exemple.
-
-![La surprise de la tartelette, c’est le fourrage au caramel beurre salé bien dégoulinant et intense en goût](../images/tartelette-avoine-caramel/tartelette-avoine-caramel-2.jpg)

@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Salade de pois chiches"
-image: salade-pois/salade-pois-1.jpg
+images:
+  - image: 
+    path: salade-pois/salade-pois-1.jpg
+  - image:
+    path: salade-pois/salade-pois-2.jpg
+    alt: "Une belle bouchée pleine de protéines, avec le piquant de l’oignon et de la vinaigrette pour venir réhausser le tout."
 cuisines: [française]
 courses: [entrée, déjeuner, dîner]
 tags: [accompagnement, été, protéiné, récupération, hydratation, salade]
@@ -48,5 +53,3 @@ directions:
 Une petite salade de pois chiches pour accompagner la récupération après l’effort, avec des protéines végétales (pois chiches) mais également animales (<i lang="en">cottage cheese</i> ou feta, voire même du thon si vous préférez), et des aliments riches en eau histoire de bien se réhydrater.
 
 Évidemment, cette salade peut se préparer à l’avance et se composer d’autres ingrédients, par exemple des légumes de saison ou des alternatives <i lang="en">vegan</i>. On l’accompagne ici d’une vinaigrette, mais rien ne vous empêche de faire une sauce aux herbes et fromage blanc pour apporter l’effet velouté si vous n’avez pas de <i lang="en">cottage cheese</i> sous la main par exemple.
-
-![Une belle bouchée pleine de protéines, avec le piquant de l’oignon et de la vinaigrette pour venir réhausser le tout.](../images/salade-pois/salade-pois-2.jpg) 

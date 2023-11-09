@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "PB brownies"
-image: PB-brownie/PB-brownie-1.jpg
+images:
+  - image:
+    path: PB-brownie/PB-brownie-1.jpg
+  - image:
+    path: PB-brownie/PB-brownie-2.jpg
+    alt: "La texture et coulante voire gluante, et c'est quasiment impossible de ne pas obtenir le résultat escompté. Pour ajouter du croquant, on a utilisé des M&M’s Peanut dans cette version." 
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey, 3 ingrédients]
@@ -41,5 +46,3 @@ Si cette description vous rappelle quelque chose, c’est normal, c’est une va
 J’avais un paquet de Peanut M&M’s qui trainait donc c’était l’occasion mais tout est envisageable&nbsp;: des classiques pépites de chocolat ou gros sel, aux amandes ou cacahuètes concassés, en passant par les morceaux de bretzel apéritif ou chips, quasiment tout peut fonctionner avec cette base – bon, oui, après ça dépend de vos goûts culinaires, on ne va pas se mentir.
 
 Par contre, avec cette texture, attention au démoulage. Faites bien attention et prenez votre temps. 
-
-![La texture et coulante voire gluante, et c'est quasiment impossible de ne pas obtenir le résultat escompté. Pour ajouter du croquant, on a utilisé des M&M’s Peanut dans cette version.](../images/PB-brownie/PB-brownie-2.jpg) 

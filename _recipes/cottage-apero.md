@@ -2,7 +2,9 @@
 
 layout: recipe
 title: "Cottage Dough Apéro"
-image: cottage-apero/cottage-apero-1.jpg
+images:
+  - image:
+    path: cottage-apero/cottage-apero-1.jpg
 cuisines: [américaine]
 courses: [apéritif]
 tags: [sans cuisson]

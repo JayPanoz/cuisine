@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Écume de banane et de mangue"
-image: ecume-banane/ecume-banane-1.jpg
+images:
+  - image:
+    path: ecume-banane/ecume-banane-1.jpg
+  - image:
+    path: ecume-banane/ecume-banane-2.jpg
+    alt: "Là clairement on peut voir que c’est une mousse très fragile et aérée, pas comme la mousse comme tu la vois en cuisine généralement. D’où le terme d’écume."
 cuisines: [française]
 courses: [dessert]
 tags: [allégé, sans cuisson]
@@ -34,5 +39,3 @@ L’écume de banane et de mangue, c’est un petit dessert ultra léger qui vie
 L’un de ces principaux intérêts, c’est que la recette permet également d’écouler les blancs d’œuf qui trainent.
 
 Si vous voulez quelque chose de plus mousseux il faudra utiliser du gélifiant. Sans, ça rappelle la consistance de l’île flottante, ça gigote un peu quand on remue, ça fait danser les dés de kiwi au lieu de les supporter complètement.
-
-![Là clairement on peut voir que c’est une mousse très fragile et aérée, pas comme la mousse comme tu la vois en cuisine généralement. D’où le terme d’écume.](../images/ecume-banane/ecume-banane-2.jpg)

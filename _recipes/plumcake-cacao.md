@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Plumcake allo Yogurt figues cacao"
-image: plumcake-cacao/plumcake-cacao-1.jpg
+images:
+  - image:
+    path: plumcake-cacao/plumcake-cacao-1.jpg
+  - image:
+    path: plumcake-cacao/plumcake-cacao-2.jpg
+    alt: "Le résultat est différent du plumcake à l’huile, avec une mie beaucoup moins aérienne. En contrepartie, les cakes se tiennent mieux avec les morceaux de figue."
 cuisines: [italienne]
 courses: [petit-déjeuner, goûter]
 tags: [cake, sans beurre, sans huile]
@@ -51,5 +56,3 @@ Le [<i lang="en">plumcake</i> allo yogurt italien](plumcake-allo-yogurt.html) ma
 Je vous arrête là si vous souhaitez un résultat parfaitement identique à la version originale, c’est-à-dire aussi moelleux et aérien. Oubliez tout de suite, ce n’est pas ce que vous obtiendrez. C’est l’huile qui fait du <i lang="en">plumcake</i> italien ce qu’il est, et qui lui donne cette texture. D’ailleurs, si vous remplacez le beurre par de l’huile dans la brioche, vous obtiendrez quelque chose d’hyper moelleux, encore plus qu’avec du beurre, et c’est ce qui fait le secret de certaines recettes.
 
 Donc, on est sur une texture différente, entre cake et [brownie](banana-brownies.html), avec des morceaux de figue dedans. La figue ça fonctionne bien avec le chocolat donc on ajoute du cacao à la pâte, et on oublie pas la vanille. Des accords simples, et qui fonctionnent aussi bien avec des fruits de saison ou séchés.
-
-![Le résultat est différent du plumcake à l’huile, avec une mie beaucoup moins aérienne. En contrepartie, les cakes se tiennent mieux avec les morceaux de figue.](../images/plumcake-cacao/plumcake-cacao-2.jpg)

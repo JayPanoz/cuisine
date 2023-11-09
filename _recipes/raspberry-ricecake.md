@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Raspberry Ricecake"
-image: raspberry-ricecake/raspberry-ricecake-1.jpg
+images:
+  - image:
+    path: raspberry-ricecake/raspberry-ricecake-1.jpg
+  - image:
+    path: raspberry-ricecake/raspberry-ricecake-2.jpg
+    alt: "3 couches toutes prêtes à assembler, les framboises nappées de miel viennent se lover dans une couche de crème déposée sur une galette de maïs ici."
 cuisines: [américaine]
 courses: [snack]
 tags: [3 ingrédients]
@@ -31,5 +36,3 @@ Recette sans prise de tête pour le goûter ou pour snacker. Le <i lang="en">Ras
 Évidemment, rien ne vous empêche d’utiliser des fraises ou d’autres fruits rouges, voire des fruits de saison. L’avantage des framboises, c’est qu’elles sont riches en fibres, ce qui favorise le transit intestinal, augmente la sensation de satiété et, surtout, permet une meilleure régulation de la glycémie – ce qui en font quelque chose de pas mal pour un snack. 
 
 Les fibres, c’est un peu la ligne des valeurs nutritionnelles qu’on oublie beaucoup trop souvent, qui joue les seconds rôles derrières les lipides, glucides, et protéines, mais qui a un impact énorme sur celles-ci. Pensez-y la prochaine fois que vous jetez un œil sur les 3 autres.
-
-![3 couches toutes prêtes à assembler, les framboises nappées de miel viennent se lover dans une couche de crème déposée sur une galette de maïs ici.](../images/raspberry-ricecake/raspberry-ricecake-2.jpg)

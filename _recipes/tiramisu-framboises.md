@@ -2,7 +2,12 @@
 
 layout: recipe
 title:  "Tiramisu aux framboises"
-image: tiramisu-framboises/tiramisu-framboises-1.jpg
+images:
+  - image:
+    path: tiramisu-framboises/tiramisu-framboises-1.jpg
+  - image:
+    path: tiramisu-framboises/tiramisu-framboises-2.jpg
+    alt: "Ultra crémeux, avec un biscuit tout doux bien mou, et des framboises juteuses juste comme il faut. Ça change du tiramisu au café, et les framboises apportent une texture supplémentaire à la mâche."
 cuisines: [italienne]
 courses: [dessert, goûter]
 tags: [sans cuisson, tiramisu, comfort food]
@@ -42,5 +47,3 @@ Cette recette peut se décliner avec d’autres ingrédients pour obtenir des ma
 En remplaçant le biscuit par une génoise, on peut même confectionner un <i lang="en">layer cake</i> avec les mêmes ingrédients. 
 
 Idéalement ne multipliez pas trop les saveurs au risque de les perdre à la dégustation, en général il est conseillé d’en marier 3&nbsp;principales grand maximum. 
-
-![Ultra crémeux, avec un biscuit tout doux bien mou, et des framboises juteuses juste comme il faut. Ça change du tiramisu au café, et les framboises apportent une texture supplémentaire à la mâche.](../images/tiramisu-framboises/tiramisu-framboises-2.jpg)

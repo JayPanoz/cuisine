@@ -2,7 +2,12 @@
 
 layout: recipe
 title: "Quichettes de l’Est"
-image: quichette-lorraine/quichette-lorraine-1.jpg
+images:
+  - image:
+    path: quichette-lorraine/quichette-lorraine-1.jpg
+  - image:
+    path: quichette-lorraine/quichette-lorraine-2.jpg
+    alt: "Un bel appareil parfumé dans lequel sont venus se figer les allumettes de poulet." 
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [quiche, petit format]
@@ -36,5 +41,3 @@ directions:
 ---
 
 Une quiche du Nord-Est, un peu lorraine sur les bords mais sans le gras des lardons.
-
-![Un bel appareil parfumé dans lequel sont venus se figer les allumettes de poulet.](../images/quichette-lorraine/quichette-lorraine-2.jpg) 
