@@ -1,0 +1,29 @@
+{% if include.images %}
+<div class="swiffy-slider slider-item-ratio slider-item-ratio-4x3 slider-item-ratio-contain slider-indicators-round slider-indicators-outside slider-indicators-dark slider-indicators-highlight slider-indicators-sm slider-nav-chevron">
+  <ul class="slider-container">
+    {% for image in include.images %}
+    <li class="slider-img">
+      <img itemprop="image" src="{{site.baseurl}}/images/{{ image.path }}" alt="{% if image.alt and image.alt != "" %}{{ image.alt }}{% endif %}" />
+    {% if image.credit %}
+      {% for imagecredit in image.credit %}
+      <a href="{{ imagecredit }}" class="right">
+        <svg class="js-geomicon geomicon" width="14" height="14" data-icon="camera" viewBox="0 0 32 32" style="fill:currentcolor"><title>camera icon</title><path d="M0 6 L8 6 L10 2 L22 2 L24 6 L32 6 L32 28 L0 28 z M9 17 A7 7 0 0 0 23 17 A7 7 0 0 0 9 17"></path></svg>
+      </a>
+      {% endfor %}
+    {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+
+  {% if include.images.size != 1 %}
+  <button type="button" class="slider-nav"></button>
+  <button type="button" class="slider-nav slider-nav-next"></button>
+
+  <div class="slider-indicators">
+  {% for image in include.images %}
+    <button{% if forloop.index == 1 %} class="active"{% endif %}></button>
+  {% endfor %}
+  </div>
+</div>
+{% endif %}
+{% endif %}

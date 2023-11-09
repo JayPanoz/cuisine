@@ -6,16 +6,7 @@ layout: default
 <!-- call up the image and image credit link -->
   {% if page.images and page.images.size != 0 %}
   <div class="xs-p2">
-    {% for image in page.images %}
-    <img itemprop="image" src="{{site.baseurl}}/images/{{ image.path }}" alt="{% if image.alt and image.alt != "" %}{{ image.alt }}{% endif %}" />
-    {% if image.credit %}
-      {% for imagecredit in image.credit %}
-        <a href="{{ imagecredit }}" class="right">
-          <svg class="js-geomicon geomicon" width="14" height="14" data-icon="camera" viewBox="0 0 32 32" style="fill:currentcolor"><title>camera icon</title><path d="M0 6 L8 6 L10 2 L22 2 L24 6 L32 6 L32 28 L0 28 z M9 17 A7 7 0 0 0 23 17 A7 7 0 0 0 9 17"></path></svg>
-        </a>
-      {% endfor %}
-    {% endif %}
-    {% endfor %}
+    {% include hero-slider.html images=page.images %}
   </div>
   {% endif %}
 
@@ -192,8 +183,8 @@ layout: default
   return this.on("click", cb);
   };
 
-  $("ul li").append('<input type="checkbox">');
-  $("ul li").clickToggle(function(){
+  $("ul li").not(".slider-img").append('<input type="checkbox">');
+  $("ul li").not(".slider-img").clickToggle(function(){
     $(this).children("input").prop('checked', true);
     var height = $(this).height();
     var y = $(window).scrollTop();
@@ -208,3 +199,4 @@ layout: default
   });
 
 </script>
+<script src="{{site.baseurl}}/js/swiffy-slider.min.js" charset="utf-8" defer></script>
