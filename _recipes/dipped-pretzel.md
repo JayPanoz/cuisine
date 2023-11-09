@@ -5,16 +5,20 @@ title: "Dipped Pretzels"
 images:
   - image:
     path: dipped-pretzel/dipped-pretzel-1.jpg
+    alt: "C’est basique voire même simpliste, mais le mélange sucré salé reste une valeur sûre."
   - image:
     path: dipped-pretzel/dipped-pretzel-2.jpg
-    alt: "C’est basique voire même simpliste, mais le mélange sucré salé reste une valeur sûre. Là, en plus, on a la douceur sucrée de l’enrobage chocolat et le croquant salé du bretzel qu’il enferme."
+    alt: "Là, en plus, on a la douceur sucrée de l’enrobage chocolat et le croquant salé du bretzel qu’il enferme."
+  - image:
+    path: dipped-pretzel/dipped-pretzel-3.jpg
+    alt: "Ici en version mini épautre chocolat caramel."
 cuisines: [américaine]
 courses: [snack]
 tags: [2 ingrédients, sans cuisson]
 
 preptime: 15 min
 totaltime: 35 min
-yield: 20 bretzels maxi/50 bretzels mini
+yield: 20 bretzels maxi/36 bretzels mini
 
 storage: 3–5 jours dans une boîte à l’abri de la lumière et de la chaleur – au réfrigérateur s’il fait trop chaud. 2–3 mois au congélateur.
 tip: Pour faire fondre le chocolat sans prise de tête au micro-ondes, découpez-le en petits morceaux puis réservez-en le tiers, faites fondre les 2/3 restants à puissance moyenne par sessions de 30 secondes, en prenant soin de bien mélanger entre chaque itération. Une fois que le chocolat est liquide, ajoutez le tiers mis de côté et mélangez vigoureusement jusqu’à ce qu’il soit complètement fondu – cela va ramener le chocolat à une température plus basse et le rendre directement utilisable. Ce n’est évidemment pas du tempérage mais en tout cas, d’expérience, ça donne un plutôt pas mal résultat final.

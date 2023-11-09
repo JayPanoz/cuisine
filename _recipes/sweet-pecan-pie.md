@@ -8,7 +8,16 @@ images:
     alt: "Vue de dessus, la tarte présente pour principale caractéristique son topping de noix de pécan. Le plaisir de la découverte réside pourtant dans son appareil aux bonnes épices de saison."
   - image:
     path: sweet-pecan-pie/sweet-pecan-pie-2.jpg
+    alt: "Les moitiés de pécanes entières, légèrement toastées, viennent se lover dans l’appareil à la patate douce"
+  - image:
+    path: sweet-pecan-pie/sweet-pecan-pie-3.jpg
+    alt: "Les parts restent bien fermes à la découpe. L’appareil se tient de manière bien ferme tout en restant moelleux à la mâche."
+  - image:
+    path: sweet-pecan-pie/sweet-pecan-pie-4.jpg
     alt: "L’appareil rappelle très franchement la frangipane, notamment de par sa texture, ce qui peut être surprenant à la toute première bouchée. Mais avec le croquant des pacanes, le mélange est nickel."
+  - image:
+    path: sweet-pecan-pie/sweet-pecan-pie-5.jpg
+    alt: "L’appareil peut être amené à légèrement craqueler en le manipulant, mais on est bien loin des cheesecakes ratés et de leurs craquelures géantes."
 cuisines: [américaine]
 courses: [dessert, goûter]
 tags: [tarte, automne, hiver, comfort food]
