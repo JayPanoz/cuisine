@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [healthy, sans cuisson, bouchée]
-diets: [Vegetarian, Vegan]
+diets: [Vegetarian]
 
 preptime: 10 min
 totaltime: 40 min
