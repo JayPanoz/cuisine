@@ -23,9 +23,9 @@ layout: default
       {% endunless %}
 
       {% for diet in allTags %}
-      <div data-tagged="{{ diet }}" class="tag-result-container hide">
+      <div data-tagged="{{ diet | downcase }}" class="tag-result-container hide">
         {% assign dietKey = diet | append:"Diet" %}
-        <h2 class="capitalize"><a name="{{ diet | capitalize }}"></a>{{ site.data[site.language].diets[dietKey].name }}
+        <h2 class="capitalize"><a name="{{ diet | downcase }}"></a>{{ site.data[site.language].diets[dietKey].name }}
         <sup class="h5" style="cursor: help; text-transform: none;" title="{{ site.data[site.language].diets[dietKey].description }}">&#9432;</sup></h2>
         {% assign sorted = site.recipes | sort:"title" %}
         {% for recipe in sorted %}
