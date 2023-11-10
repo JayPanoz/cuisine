@@ -26,6 +26,11 @@ components:
 - Garniture à la fraise
 - Glaçage au citron
 
+ingredients:
+- 1 pâte à brioche
+- 1 portion de garniture à la fraise
+- 1 portion de glaçage au citron
+
 directions:
 - Préchauffez le four à 160°C.
 - Sur un plan de travail fariné, dégazez puis abaissez la pâte en un rectangle de 35 cm sur 25 environ.

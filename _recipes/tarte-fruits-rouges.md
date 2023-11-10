@@ -21,7 +21,7 @@ storage: 2 jours au réfrigérateur.
 
 ingredients:
 - 1 pâte sucrée
-- 1 crème pâtissière
+- 1 portion de crème pâtissière
 - 125g de framboises
 - 125g de fraises
 - 125g de myrtilles

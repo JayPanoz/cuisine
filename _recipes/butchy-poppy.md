@@ -26,6 +26,11 @@ components:
 - Crème de pavot
 - Glaçage au yaourt grec
 
+ingredients:
+- 1 pâte à brioche
+- 1 portion de crème de pavot
+- 1 portion de glaçage au yaourt grec
+
 directions:
 - Préchauffez le four à 160°C.
 - Sur un plan de travail fariné, dégazez puis abaissez la pâte en un rectangle de 35 cm sur 25 environ.

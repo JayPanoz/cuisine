@@ -20,6 +20,9 @@ yield: 4 portions
 storage: 5–7 jours dans une boîte hermétique au frigo.
 
 ingredients:
+- 1 crust Speculoos
+- 1 portion de beurre de myrtilles
+- 1 portion de glaçage au beurre de cacahuète
 - 40–50g de chocolat blanc
 
 components:

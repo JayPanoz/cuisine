@@ -21,7 +21,7 @@ yield: 6–8 portions
 storage: 2 jours au réfrigérateur.
 
 ingredients:
-- 1 pâte sablée Dinosaure
+- 1 pâte sablée
 - 2 œufs
 - 2 abricots 
 - 1 pêche jaune

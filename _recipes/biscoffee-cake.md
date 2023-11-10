@@ -24,6 +24,7 @@ ingredients:
 - 100g de pâte à tartiner Spéculoos
 - 150g de fromage blanc/yaourt grec
 - 2 œufs
+- 1 portion de crumble
 - extrait vanille
 - 1 cuillère à café de levure chimique
 - 1 pincée de sel

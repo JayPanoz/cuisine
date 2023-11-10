@@ -19,6 +19,7 @@ yield: 16–24 biscuits
 storage: 1 semaine dans une boîte à biscuits à l'abri de la chaleur et de la lumière. 
 
 ingredients:
+- 1 pâte sablée à l’avoine
 - 1 cuillère à soupe de graines de chia
 - 40–50g de raisins secs
 - 40g de corn flakes en morceaux ou de riz soufflé

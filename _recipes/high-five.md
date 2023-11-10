@@ -28,8 +28,8 @@ ingredients:
 - 15 bretzels apéritif maxi/36 bretzels apéritif mini/40 bretzels carrés
 - 35–50g de cacahuètes
 - 150–200g de chocolat (de couverture)
-- 1 unité de caramel de dattes
-- 1 unité de garniture au beurre de cacahuète
+- 1 portion de caramel de dattes
+- 1 portion de garniture au beurre de cacahuète
 
 directions:
 - Préparez un plat/plaque de cuisson pouvant aller au réfrigérateur avec du papier cuisson.

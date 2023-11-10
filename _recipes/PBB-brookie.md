@@ -28,6 +28,10 @@ components:
 - Pâte à brownie banane
 - Pâte à cookie PB
 
+ingredients:
+- 1 pâte à brownie
+- 1 pâte à cookie
+
 ---
 
 Un mélange absolument décadent entre brownie fondant et cookie à mâcher.

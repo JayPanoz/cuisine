@@ -22,6 +22,7 @@ components:
 - Cheesecake Crust
 
 ingredients:
+- 1 crust pour cheesecake
 - 250g de mascarpone
 - 250g de ricotta
 - 125g de sucre glace

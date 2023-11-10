@@ -22,6 +22,7 @@ ingredients:
 - 6 abricots
 - 20g de sucre de canne complet
 - 10cl de jus de citron
+- 1 portion de crumble
 
 components:
 - Crumble de canne
