@@ -21,6 +21,7 @@ yield: 6–8 portions
 storage: 2 jours au réfrigérateur.
 
 ingredients:
+- 1 pâte sablée
 - 2 à 3 pommes
 - 200g de crème fraîche épaisse
 - 1 œuf

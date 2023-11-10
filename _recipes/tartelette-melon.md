@@ -11,7 +11,7 @@ images:
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte, petit format]
-collections: [Peanut Butter]
+collections: [pb]
 
 preptime: 40 min
 cooktime: 25 min

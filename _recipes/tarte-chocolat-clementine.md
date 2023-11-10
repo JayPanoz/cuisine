@@ -21,6 +21,7 @@ storage: 2 jours au réfrigérateur.
 
 ingredients:
 - 1 pâte sucrée
+- 1 portion de crème pâtissière
 - quartiers d’une clémentine ou mandarine
 - 1 blanc d’œuf
 - 25g de chocolat noir aux écorces d’orange pour la crème pâtissière au chocolat

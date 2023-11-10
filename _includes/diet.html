@@ -2,7 +2,7 @@
 {% for diet in include.diets %}
 {% unless diet == empty %}
 {% assign itemprop = diet | append:"Diet" %}
-{% assign name = site.data.diets[itemprop].name %}
+{% assign name = site.data[site.language].diets[itemprop].name %}
 <span title="Diet" class="button button-outline h5 bg-gray white border-1 mb1 capitalize nowrap" data-tag-type="diet" data-tag-label="{{ diet }}"><link itemprop="suitableForDiet" href="http://schema.org/{{ itemprop }}"/>
   <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 512 512" fill="currentColor">
     <path d="M502 108c-12-58-32-98-32-99-4-7-12-11-19-8a471 471 0 00-175 116 326 326 0 0142 72c10 23 16 47 20 72l67-162a15 15 0 0128 11l-91 221a462 462 0 01-34 161 525 525 0 00122-89c27-28 47-58 61-91 13-32 20-68 21-107 1-31-3-64-10-97zm0 0"/>

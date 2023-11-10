@@ -20,6 +20,7 @@ yield: 18–24 biscuits
 storage: 1 semaine dans boîte hermétique à l'abri de la chaleur et de la lumière. Ça peut se congeler aussi mais il faudra évidemment les décongeler dans le frigo puis à température ambiante, et éviter le micro-ondes, étant donné qu'ils sont nappés de chocolat.
 
 ingredients:
+- 1 pâte sablée
 - 100–120g de chocolat noir
 - lait pour dorure
 

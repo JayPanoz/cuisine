@@ -26,6 +26,7 @@ ingredients:
 - 60g de beurre mou
 - 150g de yaourt grec ou de crème epaisse
 - 1 œuf
+- 1 portion de crumble
 - extrait de vanille
 - 1/2 cuillère à café de cannelle
 - 1 cuillère à café de levure chimique

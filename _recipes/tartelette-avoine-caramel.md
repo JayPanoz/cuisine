@@ -22,6 +22,10 @@ components:
 - Pâte sablée à l’avoine
 - Caramel au beurre salé
 
+ingredients:
+- 1 pâte sablée
+- 1 portion de caramel au beurre salé
+
 directions:
 - Préchauffez le four à 180°C.
 - Abaissez la pâte pour obtenir une épaisseur de 3–4 mm. 

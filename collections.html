@@ -23,11 +23,15 @@ layout: default
       {% endunless %}
 
       {% for collection in allTags %}
-      <div data-tagged="{{ collection }}" class="tag-result-container hide">
-        <h2 class="capitalize"><a name="{{ collection | capitalize }}"></a>{{ collection | capitalize }}</h2>
+      {% assign col = collection | downcase %}
+      {% assign name = site.data[site.language].collections[col].name %}
+      {% assign desc = site.data[site.language].collections[col].description %}
+      <div data-tagged="{{ col }}" class="tag-result-container hide">
+        <h2 class="capitalize"><a name="{{ name | capitalize }}"></a>{{ name | capitalize }}</h2>
+        {{ desc | markdownify }}
         {% assign sorted = site.recipes | sort:"title" %}
         {% for recipe in sorted %}
-        {% if recipe.collections contains collection %}
+        {% if recipe.collections contains col %}
         <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
             <a class="block relative bg-accent" href="{{ recipe.url | prepend: site.baseurl }}">
               <div class="image ratio bg-cover"{% if recipe.images and recipe.images.size != 0 %} style="background-image:url({{site.baseurl}}/images/{{ recipe.images[0].path }});"{% endif %}></div>

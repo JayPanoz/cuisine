@@ -11,7 +11,7 @@ images:
 cuisines: [italienne]
 courses: [petit-déjeuner, goûter]
 tags: [cake, sans beurre, sans huile]
-collections: [plumcake italien, dino]
+collections: [plumcake, dino]
 
 preptime: 20 min
 cooktime: 45 min

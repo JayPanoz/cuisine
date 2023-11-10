@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée, tarte]
-collections: [dino, Peanut Butter]
+collections: [dino, pb]
 
 preptime: 1 h
 cooktime: 20 min
@@ -20,6 +20,9 @@ yield: 12 mini tartelettes
 storage: 4–5 jours dans une boîte (pas besoin qu'elle soit hermétique) à l'abri de la lumière et de la chaleur.
 
 ingredients:
+- 1 pâte sablée
+- 1 portion de beurre de myrtilles
+- 1 portion de glaçage au beurre de cacahuète
 - 80–100g de chocolat blanc
 - 1 cuillère à soupe d’huile de coco (facultatif)
 

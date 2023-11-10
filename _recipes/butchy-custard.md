@@ -27,6 +27,9 @@ components:
 - Glaçage au citron
 
 ingredients:
+- 1 pâte à brioche
+- 1 portion de crème pâtissière
+- 1 portion de glaçage au citron
 - 100g de pépites de chocolat
 
 directions:

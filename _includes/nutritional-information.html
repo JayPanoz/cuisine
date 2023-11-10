@@ -1,20 +1,31 @@
 {% if page.nutrition %}
 <!-- nutritional information -->
-<h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }}
-{% if page.nutrition['servingSize'] != nil %}
-({{ page.nutrition['servingSize'] }})
-{% endif %}</h4>
+
+{% if page.nutrition['servingSize'] %}
+  {% assign sizeVal = page.nutrition['servingSize'] %}
+{% elsif page.yield %}
+  {% assign sizeVal = page.yield %}
+{% endif %}
+
+{% assign size = sizeVal | replace: "–", " " | split: " " %}
+{% assign divider = size[0] | default: 6 %}
+
+<h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }} ({{ divider }})</h4>
 <div class="flex flex-wrap" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation">
 {% assign nutrients = page.nutrition %}
 {% for nutrient in nutrients  %}
   {% if nutrient.first == 'servingSize' %}{% continue %}{% endif %}
   {% assign itemprop = nutrient.first %}
-  {% assign name = site.data.nutrients[itemprop].name %}
-  {% assign value = nutrient.last %}
-  {% assign unit = site.data.nutrients[itemprop].unit %}
+  {% assign name = site.data[site.language].nutrients[itemprop].name %}
+  {% assign value = nutrient.last | divided_by: divider %}
+  {% if value < 10 %}
+    {% assign floatDivider = divider | times: 1.0 %}
+    {% assign value = nutrient.last | divided_by: floatDivider | round: 2 %}
+  {% endif %}
+  {% assign unit = site.data[site.language].nutrients[itemprop].unit %}
   <div  class="rounded center border border-1 border-gray sm-col sm-col-2 lg-col-2 mr1 mb1">
     <h5 class="bg-gray white m0 p1 capitalize">{{ name  }}</h5>
-    <p itemprop="{{ itemprop }}">{{ value }}{{ unit }}</p>
+    <p itemprop="{{ itemprop }}">{{ value }} {{ unit }}</p>
   </div>
   {% endfor %}
 </div>

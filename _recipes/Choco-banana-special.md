@@ -20,6 +20,7 @@ yield: 4 portions
 storage: 2–3 jours dans une boîte hermétique au frigo.
 
 ingredients:
+- 1 crust cacao
 - 2 bananes mûres écrasées en purée pour la crème de fruit
 - extrait de vanille pour la crème de fruit
 - 40–50g de chocolat noir pour la coque

@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [dessert, snack]
 tags: [4 ingrédients, glacé]
-collections: [Peanut Butter]
+collections: [pb]
 
 preptime: 5 min
 totaltime: 25 min

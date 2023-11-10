@@ -1,0 +1,18 @@
+pb:
+  name: "Peanut Butter"
+  description: "Pour les amoureux de beurre de cacahuète…"
+brownie:
+  name: "Blondie & Brownie"
+  description: "Au cas où vous voudriez du fondant dégoulinant…"
+butchy:
+  name: "Butchy"
+  description: "Les brioches allemandes “Butchy” sont réalisées avec de la crème plutôt qu’avec du beurre, et ça les rend légères et moelleuses… moelleuses…"
+dino:
+  name: "Dino"
+  description: "La farine spéciale du biscuit, un mélange de farines de blé et de farine de seigle, le tout déclinés de multiples façons."
+plumcake:
+  name: "Plumcake Italien"
+  description: "Le plumcake est un mensonge. Le plumcake italien en tout cas, puisqu’il ne contient pas de prunes. Mais imaginez un quatre-quarts dont on aurait revu la liste d’ingrédients…"
+special:
+  name: "Special"
+  description: "Les *Specials* sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux *treat days* et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL."

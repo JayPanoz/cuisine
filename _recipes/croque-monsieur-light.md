@@ -20,7 +20,7 @@ ingredients:
 - 4 tranches de pain d'épeautre
 - 2 tranches de jambon
 - 40g gruyère
-- Béchamel
+- 1 portion de Béchamel
 - 1 tomate
 - poivre
 - ciboulette

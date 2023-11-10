@@ -20,6 +20,9 @@ yield: 4 portions
 storage: 5–7 jours dans une boîte hermétique au frigo.
 
 ingredients:
+- 1 crust cacao
+- 1 portion de glaçage au yaourt grec
+- 1 portion de glaçage cacao
 - 150g confiture de lait/dulce de leche
 - 2 bananes mûres coupées en tranches
 
