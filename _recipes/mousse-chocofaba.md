@@ -12,6 +12,7 @@ cuisines: [française]
 courses: [dessert]
 tags: [sans œuf, 4 ingrédients]
 collections: [cupboard]
+diets: [Vegetarian, Vegan]
 
 preptime: 10 min
 totaltime: 2 h 10 min

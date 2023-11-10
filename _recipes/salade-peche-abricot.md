@@ -11,6 +11,7 @@ images:
 cuisines: [française]
 courses: [dessert, snack]
 tags: [salade sucrée]
+diets: [LowFat, Vegetarian, Vegan]
 
 preptime: 10 min
 totaltime: 2 h 10 min

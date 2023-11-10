@@ -12,6 +12,7 @@ cuisines: [américaine]
 courses: [snack, dessert]
 tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière, 2 ingrédients]
 collections: [cupboard]
+diets: [LowCalorie, LowFat, Vegetarian, Vegan]
 
 preptime: 5 min
 yield: 2 portions

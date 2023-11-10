@@ -11,6 +11,7 @@ images:
 cuisines: [italienne]
 courses: [dessert]
 tags: [sans cuisson]
+diets: [LowCalorie, LowFat, Vegetarian, Vegan]
 
 preptime: 20 min
 totaltime: 3 h 20 min

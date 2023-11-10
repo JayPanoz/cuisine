@@ -12,6 +12,7 @@ cuisines: [américaine]
 courses: [snack]
 tags: [glacé, 3 ingrédients, bouchée, sans cuisson]
 collections: [pb, cupboard]
+diets: [LowCalorie, Vegetarian, Vegan]
 
 preptime: 15 min
 totaltime: 1 h 15 min

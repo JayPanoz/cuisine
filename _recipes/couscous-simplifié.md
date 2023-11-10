@@ -8,6 +8,7 @@ images:
 cuisines: [maghrébine]
 courses: [plat, déjeuner, dîner]
 collections: [cupboard]
+diets: [LowFat, Vegetarian, Vegan]
 
 preptime: 10 min
 cooktime: 20 min

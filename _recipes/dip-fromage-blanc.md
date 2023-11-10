@@ -11,6 +11,7 @@ images:
 cuisines: [française]
 courses: [apéritif]
 tags: [accompagnement]
+diets: [LowCalorie]
 
 preptime: 10 min
 

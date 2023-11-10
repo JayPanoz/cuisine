@@ -12,6 +12,7 @@ cuisines: [américaine]
 courses: [snack]
 tags: [gooey, 3 ingrédients]
 collections: [brownie, pb, cupboard]
+diets: [Vegetarian, Vegan]
 
 preptime: 10 min
 cooktime: 25 min

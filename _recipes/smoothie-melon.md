@@ -11,6 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [blender, mixer, sans cuisson, liquide]
+diets: [Vegetarian, Vegan]
 
 preptime: 5 min
 yield: 2 portions

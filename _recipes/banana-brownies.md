@@ -12,6 +12,7 @@ cuisines: [américaine]
 courses: [snack]
 tags: [3 ingrédients]
 collections: [brownie, cupboard]
+diets: [Vegetarian, Vegan]
 
 preptime: 10 min
 cooktime: 20 min

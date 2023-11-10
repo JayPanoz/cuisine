@@ -11,6 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf]
+diets: [Vegetarian, Vegan]
 
 preptime: 25 min
 cooktime: 20 min

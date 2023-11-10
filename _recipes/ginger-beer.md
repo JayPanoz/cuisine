@@ -17,7 +17,7 @@ storage: 48 h au réfrigérateur
 ingredients:
 - 90g de gingembre 
 - 80g de sucre
-- 900 ml d'eau filtrée 
+- 900 ml d’eau filtrée 
 - 5cl de jus de citron 
 - 4g de levure boulangère sèche
 
