@@ -43,8 +43,6 @@ directions:
 
 ---
 
-Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
-
 Le Berry White est inspiré du <i lang="en">flat white</i>, et en emprunte les proportions espresso–lait. Et quoi de mieux pour accompagner le café qu’un biscuit Speculoos&nbsp;? Ça va naturellement de soi&nbsp;! Enfin, n’importe quel fruit rouge fera l’affaire pour ajouter de l’intérêt à la mâche. Ici, les myrtilles apportent un petit pep’s et une note acidulée, mais fraises, framboises, mûres, groseilles ou cassis sauront tout aussi bien accompagner café et cannelle. 
 
 La magie de la crème café, c’est qu’elle peut également être une crème glacée. Si vous désirez donc une version glacée de ce <i lang="en">Special</i>, placez votre tarte au congélateur plutôt qu’au réfrigérateur.

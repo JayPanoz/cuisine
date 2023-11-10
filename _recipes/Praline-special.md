@@ -37,6 +37,4 @@ directions:
 
 ---
 
-Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
-
-Le Praliné Special est une recette en 4 ingrédients qui met en valeur le chocolat pralinoise, tout simplement. Pas de chichi&nbsp;: une crust de cheesecake neutre vient accueillir une généreuse ganache pralinée.
+Le Praliné Special est une recette en 4 ingrédients qui met en valeur le chocolat pralinoise, tout simplement. Pas de chichi&nbsp;: une <i lang="en">crust</i> de cheesecake neutre vient accueillir une généreuse ganache pralinée.

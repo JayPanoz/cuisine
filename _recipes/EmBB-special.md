@@ -44,6 +44,4 @@ directions:
 
 ---
 
-Les <i lang="en">Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang="en">treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL.
-
-Le Special à la myrtille c’est une crust à cheesecake qui accueille un beurre de myrtille et une énorme couche de chocolat blanc décorée de beurre de cacahuète. On l’accompagne d’une belle boule de glace, par exemple celle au <a href="glace-yaourt.html">yaourt sans sorbetière</a>.
+Le Special à la myrtille c’est une <i lang="en">crust</i> à cheesecake qui accueille un beurre de myrtille et une énorme couche de chocolat blanc décorée de beurre de cacahuète. On l’accompagne d’une belle boule de glace, par exemple celle au <a href="glace-yaourt.html">yaourt sans sorbetière</a>.
