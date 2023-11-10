@@ -11,6 +11,7 @@ images:
 cuisines: [française]
 courses: [dessert]
 tags: [4 ingrédients, sans cuisson, allégé]
+collections: [cupboard]
 
 preptime: 30 min
 totaltime: 1 jour

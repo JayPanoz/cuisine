@@ -16,3 +16,6 @@ plumcake:
 special:
   name: "Special"
   description: "Les <i lang='en'>Specials</i> sont des épiques avec peu d’ingrédients, sans cuisson, et réservés aux <i lang='en'>treat days</i> et célébrations. Ils viennent volontier couronner un objectif, progrès, ou plus généralement, tout accomplissement digne d’une tartelette XXL."
+cupboard:
+  name: "Le placard"
+  description: "Des recettes rapides avec peu d’ingrédients que vous trouverez dans le placard de la cuisine."

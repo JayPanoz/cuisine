@@ -7,6 +7,7 @@ images:
     path: pizza-tortilla/pizza-tortilla.jpg
 cuisines: [italienne, mexicaine]
 courses: [apéritif, entrée]
+collections: [cupboard]
 
 preptime: 10 min
 cooktime: 15 min

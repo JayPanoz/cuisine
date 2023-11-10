@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [dessert]
 tags: [sans cuisson, 4 ingrédients]
-collections: [special]
+collections: [special, cupboard]
 
 preptime: 30 min
 totaltime: 2 h

@@ -8,6 +8,7 @@ images:
 cuisines: [américaine, française]
 courses: [apéritif]
 tags: [3 ingrédients]
+collections: [cupboard]
 
 preptime: 45 min
 cooktime: 15 min

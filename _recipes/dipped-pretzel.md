@@ -15,6 +15,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [2 ingrédients, sans cuisson]
+collections: [cupboard]
 
 preptime: 15 min
 totaltime: 35 min

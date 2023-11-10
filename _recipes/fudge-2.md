@@ -11,6 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée, fêtes, Noël, sans cuisson, 2 ingrédients]
+collections: [cupboard]
 
 preptime: 5 min
 totaltime: 6 h 10 min

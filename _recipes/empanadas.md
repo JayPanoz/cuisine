@@ -11,6 +11,7 @@ images:
 cuisines: [argentine]
 courses: [apéritif]
 tags: [3 ingrédients]
+collections: [cupboard]
 
 preptime: 20 min
 cooktime: 20 min

@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [3 ingrédients]
-collections: [brownie]
+collections: [brownie, cupboard]
 
 preptime: 10 min
 cooktime: 20 min

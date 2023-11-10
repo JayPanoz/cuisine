@@ -11,6 +11,7 @@ images:
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [tarte, 4 ingrédients, hiver, comfort food]
+collections: [cupboard]
 
 preptime: 15 min
 cooktime: 40 min

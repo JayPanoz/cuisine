@@ -16,3 +16,6 @@ plumcake:
 special:
   name: "Special"
   description: "Specials are no-bake epics that are easy to prepare, and designed for treat days and celebrations. It’s the perfect snack for meaningful achievements!"
+cupboard:
+  name: "Store Cupboard"
+  description: "Quick recipes with very few ingredients you can find in the cupboard."

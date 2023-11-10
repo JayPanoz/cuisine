@@ -11,6 +11,7 @@ images:
 cuisines: [française]
 courses: [entrée, plat, déjeuner, dîner]
 tags: [salade]
+collections: [cupboard]
 
 preptime: 20 min
 cooktime: 12 min

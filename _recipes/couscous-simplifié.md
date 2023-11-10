@@ -7,6 +7,7 @@ images:
     path: couscous-mini/couscous-mini.jpg
 cuisines: [maghrébine]
 courses: [plat, déjeuner, dîner]
+collections: [cupboard]
 
 preptime: 10 min
 cooktime: 20 min

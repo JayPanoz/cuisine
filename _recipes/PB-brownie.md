@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey, 3 ingrédients]
-collections: [brownie, pb]
+collections: [brownie, pb, cupboard]
 
 preptime: 10 min
 cooktime: 25 min
