@@ -34,17 +34,17 @@ layout: default
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
       <h4 class="accent mt0 mb2 xs-center">{{ site.translation[site.language].components }}</h4>
-      <ul>
+      <ul class="components">
         <!-- list components that make up recipe -->
         {% for component in page.components %}
-        <li>{{ component | markdownify }}</li>
+        <li><p><a href="#{{ component | slugify }}">{{ component }}</a> &darr;</p></li>
         {% endfor %}
       </ul>
       {% endif %}
 
       {% if page.ingredients %}
       <h4 class="accent mt0 mb2 xs-center">{{ site.translation[site.language].ingredients }}</h4>
-      <ul itemprop="ingredients">
+      <ul class="ingredients" itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
           {% if ingredient.first %}
@@ -64,7 +64,7 @@ layout: default
 
     <div class="sm-col sm-col-6 lg-col-6">
       <h4 class="accent mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
-      <ul itemprop="recipeInstructions">
+      <ul class="instructions" itemprop="recipeInstructions">
         {% for direction in page.directions %}
           {% if direction.first %}
           <h4>{{ direction.first[0] }}</h4>
@@ -95,7 +95,7 @@ layout: default
     <div class="sm-col sm-col-4 px2">
     {% for recipe in site.components %}
     {% if recipe.title == component %}
-      <h4 class="accent center">{{recipe.title}}</h4>
+      <h4 class="accent center" id="{{recipe.title | slugify }}">{{recipe.title}}</h4>
 
       {% for image in recipe.image %}
       <div class="image ratio bg-cover" style="background-image:url('{{site.baseurl}}/images/{{ image }}');">
@@ -183,8 +183,8 @@ layout: default
   return this.on("click", cb);
   };
 
-  $("ul li").not(".slider-img").append('<input type="checkbox">');
-  $("ul li").not(".slider-img").clickToggle(function(){
+  $("ul.ingredients li, ul.instructions li").append('<input type="checkbox">');
+  $("ul.ingredients li, ul.instructions li").clickToggle(function(){
     $(this).children("input").prop('checked', true);
     var height = $(this).height();
     var y = $(window).scrollTop();
