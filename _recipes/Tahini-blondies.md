@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
-collections: [brownie & blondie]
+collections: [brownie]
 
 preptime: 20 min
 cooktime: 20 min

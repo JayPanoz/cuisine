@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée, tarte]
-collections: [dino, Peanut Butter]
+collections: [dino, pb]
 
 preptime: 1 h
 cooktime: 20 min

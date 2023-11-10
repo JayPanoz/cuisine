@@ -1,0 +1,18 @@
+pb:
+  name: "Peanut Butter"
+  description: "For the Peanut Butter lovers…"
+brownie:
+  name: "Blondie & Brownie"
+  description: "In case you need some gooey…"
+butchy:
+  name: "Butchy"
+  description: "German “Butchy” brioches are made with heavy cream instead of butter, which makes them super soft and pillowy."
+dino:
+  name: "Dino"
+  description: "The dry ingredients from the dinosaur cookie from Lotus/Biscoff, in varying applications."
+plumcake:
+  name: "Italian Plumcake"
+  description: "The plumcake is a lie. The italian one at least as there is no plums. Imagine a pound cake but with different ingredients."
+special:
+  name: "Special"
+  description: "Specials are no-bake epics that are easy to prepare, and designed for treat days and celebrations. It’s the perfect snack for meaningful achievements!"

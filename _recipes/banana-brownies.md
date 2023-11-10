@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [3 ingrédients]
-collections: [brownie & blondie]
+collections: [brownie]
 
 preptime: 10 min
 cooktime: 20 min

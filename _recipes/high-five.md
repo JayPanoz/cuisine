@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [sans cuisson, sucré-salé]
-collections: [Peanut Butter]
+collections: [pb]
 
 preptime: 30 min
 totaltime: 3 h 30 min 

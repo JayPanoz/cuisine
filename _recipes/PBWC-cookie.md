@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie]
-collections: [Peanut Butter]
+collections: [pb]
 
 preptime: 30 min
 cooktime: 10 min

@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [bouchée]
-collections: [Peanut Butter]
+collections: [pb]
 
 preptime: 25 min
 cooktime: 20 min

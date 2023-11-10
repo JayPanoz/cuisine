@@ -11,7 +11,7 @@ images:
 cuisines: [italienne]
 courses: [petit-déjeuner, goûter]
 tags: [cake, sans beurre]
-collections: [plumcake italien]
+collections: [plumcake]
 
 preptime: 20 min
 cooktime: 45 min

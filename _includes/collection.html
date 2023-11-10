@@ -1,11 +1,13 @@
 <div id="tag-list">
   {% if include.collections %}
   {% for collection in include.collections %}
-  <span title="Collection" class="button button-outline h5 bg-gray white border-1 mb1 capitalize nowrap" itemprop="recipeCollection" data-tag-type="collection" data-tag-label="{{ collection }}">
+  {% assign col = collection | downcase %}
+  {% assign name = site.data[site.language].collections[col].name %}
+  <span title="Collection" class="button button-outline h5 bg-gray white border-1 mb1 capitalize nowrap" itemprop="recipeCollection" data-tag-type="collection" data-tag-label="{{ col }}">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 512 512" fill="currentColor">
       <path d="M12 195h454.596c20.852 0 34.404 8.33 34.404 30.224v248.128c0 16.68-10.426 27.648-26.064 27.648H48.533c-31.277 0-36.511-13.819-36.511-34.148M11 170h258.553l-27.627-38H11"/>
     </svg>
-    <a href="{{ site.baseurl }}/collections.html#{{ collection }}" class="white" rel="tag">{{ collection }}</a>
+    <a href="{{ site.baseurl }}/collections.html#{{ col }}" class="white" rel="tag">{{ name }}</a>
   </span>
   {% endfor %}
   {% endif %}
