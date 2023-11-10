@@ -1,0 +1,34 @@
+# See https://schema.org/RestrictedDiet#enumbers
+DiabeticDiet:
+  name: diabétique
+  description: Régime adapté aux personnes diabétiques.
+GlutenFreeDiet:
+  name: sans gluten
+  description: Régime obligatoire en cas de maladie cœliaque, plus connue sous le nom d’intolérance au gluten.
+HalalDiet:
+  name: halal
+  description: Régime qui se conforme aux lois diététiques islamiques.
+HinduDiet:
+  name: hindou
+  description: Régime qui se conforme aux pratiques de l’hindouisme, notamment l’absence de viande.
+KosherDiet:
+  name: casher
+  description: Régime qui se conforme aux principes véhiculés par le judaïsme.
+LowCalorieDiet:
+  name: hypocalorique
+  description: Régime qui s’articule autour des aliments pauvres en calories.
+LowFatDiet:
+  name: anticholestérol
+  description: Régime dont l’objectif de prévenir ou de lutter contre le taux élevé de mauvais cholestérol.
+LowLactoseDiet:
+  name: sans lactore
+  description: Régime visant à supprimer les denrées riches en lactose.
+LowSaltDiet:
+  name: sans sel
+  description: Régime indiqué aux personnes atteintes d’une pathologie du cœur ou des reins comme une insuffisance cardiaque ou rénale.
+VeganDiet:
+  name: vegan
+  description: Régime qui rejette non seulement les denrées d’origine animale, mais aussi tout type d’exploitation animale.
+VegetarianDiet:
+  name: végétarien
+  description: Régime qui exclut les protéines d’origines animales.
