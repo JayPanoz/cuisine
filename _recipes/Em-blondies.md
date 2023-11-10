@@ -12,6 +12,7 @@ cuisines: [américaine]
 courses: [snack]
 tags: [gooey]
 collections: [brownie]
+diets: [GlutenFree]
 
 preptime: 25 min
 cooktime: 25 min
