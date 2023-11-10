@@ -30,6 +30,14 @@ yield: 10–12 portions
 storage: 2 jours au frigo.
 tip: Pour renforcer le goût de noix, une cuillère à soupe de tahini accompagnera à merveille le sirop d’érable.
 
+nutrition:
+  servingSize: 12
+  calories: 2069
+  fatContent: 64
+  carbohydrateContent: 293.6
+  proteinContent: 63.5
+  fiberContent: 27.6
+
 components:
 - Pâte brisée au yaourt
 

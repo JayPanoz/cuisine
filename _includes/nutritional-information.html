@@ -17,7 +17,7 @@
   {% if nutrient.first == 'servingSize' %}{% continue %}{% endif %}
   {% assign itemprop = nutrient.first %}
   {% assign name = site.data[site.language].nutrients[itemprop].name %}
-  {% assign value = nutrient.last | divided_by: divider %}
+  {% assign value = nutrient.last | divided_by: divider | round: 2 %}
   {% if value < 10 %}
     {% assign floatDivider = divider | times: 1.0 %}
     {% assign value = nutrient.last | divided_by: floatDivider | round: 2 %}
