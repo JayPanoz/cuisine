@@ -35,7 +35,7 @@ proteinContent:
   description: Nombre de protéines en grammes.
   unit: g
 saturatedFatContent:
-  name: acides gras saturés
+  name: saturés
   type: Mass
   description: Nombre d’acides gras saturés en grammes.
   unit: g
@@ -45,17 +45,17 @@ sodiumContent:
   description: Nombre de sodium en milligrammes.
   unit: mg
 sugarContent:
-  name: sucre
+  name: sucres
   type: Mass
   description: Nombre de sucre en grammes.
   unit: g
 transFatContent:
-  name: acides trans
+  name: trans
   type: Mass
   description: Nombre d’acides trans en grammes.
   unit: g
 unsaturatedFatContent:
-  name: acides gras insaturés
+  name: insaturés
   type: Mass
   description: Nombre d’acides gras insaturés en grammes.
   unit: g

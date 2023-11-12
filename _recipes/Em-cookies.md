@@ -29,6 +29,17 @@ yield: 12 cookies
 
 storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur sous forme crue ou cuite.
 
+nutrition:
+  servingSize: 12
+  calories: 1802.96
+  fatContent: 91.32
+  saturatedFatContent: 53.57
+  carbohydrateContent: 210.84
+  sugarContent: 113.06
+  fiberContent: 8.80
+  proteinContent: 27.30
+  sodiumContent: 0.61
+
 ingredients:
 - 135g de farine
 - 75g de beurre mou ou équivalent vegan

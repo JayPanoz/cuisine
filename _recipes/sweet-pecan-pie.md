@@ -32,11 +32,14 @@ tip: Pour renforcer le goût de noix, une cuillère à soupe de tahini accompagn
 
 nutrition:
   servingSize: 12
-  calories: 2069
-  fatContent: 64
-  carbohydrateContent: 293.6
-  proteinContent: 63.5
-  fiberContent: 27.6
+  calories: 2022.04
+  fatContent: 66.03
+  saturatedFatContent: 9.09
+  carbohydrateContent: 279.11
+  sugarContent: 83.60
+  fiberContent: 28.04
+  proteinContent: 59.48
+  sodiumContent: 1.44
 
 components:
 - Pâte brisée au yaourt

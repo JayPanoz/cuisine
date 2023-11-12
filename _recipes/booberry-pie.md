@@ -27,6 +27,17 @@ yield: 4–6 portions (moule de 14cm)
 storage: 2–3 jours dans un conteneur hermétique au frigo.
 tip: Pour un effet fantôme encore plus marqué, osez le glaçage au citron ou le glaçage au chocolat blanc. Sinon, saupoudrez simplement de sucre glace juste avant de servir.
 
+nutrition:
+  servingSize: 6
+  calories: 1519.80
+  fatContent: 11.02
+  saturatedFatContent: 1.88
+  carbohydrateContent: 303.02
+  sugarContent: 131.61
+  fiberContent: 19.80
+  proteinContent: 36.83
+  sodiumContent: 0.91
+
 components:
 - Pâte brisée au yaourt
 - Garniture aux myrtilles
