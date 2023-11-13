@@ -42,8 +42,8 @@ saturatedFatContent:
 sodiumContent:
   name: sel
   type: Mass
-  description: Quantité de sel en milligrammes.
-  unit: mg
+  description: Quantité de sel en grammes.
+  unit: g
 sugarContent:
   name: sucres
   type: Mass

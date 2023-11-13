@@ -17,6 +17,17 @@ yield: 12 mini muffins
 
 storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
 
+nutrition:
+  servingSize: 12
+  calories: 1016.61
+  fatContent: 23.41
+  saturatedFatContent: 11.00
+  carbohydrateContent: 168.74
+  sugarContent: 74.95
+  fiberContent: 16.75
+  proteinContent: 24.28
+  sodiumContent: 2.62
+
 ingredients:
 - 85g de farine d’épeautre 
 - 40g de farine complète T150 

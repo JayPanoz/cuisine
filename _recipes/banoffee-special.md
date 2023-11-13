@@ -19,6 +19,17 @@ yield: 4 portions
 
 storage: 5–7 jours dans une boîte hermétique au frigo.
 
+nutrition:
+  servingSize: 4
+  calories: 2287.63
+  fatContent: 103.94
+  saturatedFatContent: 52.48
+  carbohydrateContent: 292.18
+  sugarContent: 191.73
+  fiberContent: 20.64
+  proteinContent: 35.37
+  sodiumContent: 0.86
+
 ingredients:
 - 1 crust cacao
 - 1 portion de glaçage au yaourt grec

@@ -20,6 +20,17 @@ yield: 6 mini brownies ou 12 mini muffins
 
 storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
 
+nutrition:
+  servingSize: 6
+  calories: 729.62
+  fatContent: 24.90
+  saturatedFatContent: 14.67
+  carbohydrateContent: 109.81
+  sugarContent: 67.85
+  fiberContent: 13.83
+  proteinContent: 10.07
+  sodiumContent: 0.05
+
 ingredients:
 - 2 bananes mûres (ou 200g de compote de pomme)
 - 80g de chocolat

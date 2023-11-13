@@ -19,6 +19,17 @@ yield: 12 cookies
 
 storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.
 
+nutrition:
+  servingSize: 12
+  calories: 1532.63
+  fatContent: 29.69
+  saturatedFatContent: 16.22
+  carbohydrateContent: 270.96
+  sugarContent: 111.61
+  fiberContent: 24.07
+  proteinContent: 32.28
+  sodiumContent: 1.85
+
 ingredients:
 - 150–200g de farine
 - 2 bananes bien mûres

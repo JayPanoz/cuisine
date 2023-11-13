@@ -18,6 +18,17 @@ yield: 12 cookies
 
 storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.
 
+nutrition:
+  servingSize: 12
+  calories: 1494.06
+  fatContent: 24.92
+  saturatedFatContent: 8.28
+  carbohydrateContent: 254.94
+  sugarContent: 91.68
+  fiberContent: 31.72
+  proteinContent: 43.63
+  sodiumContent: 2.91
+
 ingredients:
 - 120g de farine
 - 100g de flocons d’avoine
