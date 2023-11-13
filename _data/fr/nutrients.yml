@@ -12,50 +12,50 @@ calories:
 carbohydrateContent:
   name: glucides
   type: Mass
-  description: Nombre de glucides en grammes.
+  description: Quantité de glucides en grammes.
   unit: g
 cholesterolContent:
   name: cholestérol
   type: Mass
-  description: Nombre de cholestérol en milligrammes.
+  description: Quantité de cholestérol en milligrammes.
   unit: mg
 fatContent:
   name: lipides
   type: Mass
-  description: Nombre de lipides en grammes.
+  description: Quantité de lipides en grammes.
   unit: g
 fiberContent:
   name: fibres
   type: Mass
-  description: Nombre de fibres en grammes.
+  description: Quantité de fibres en grammes.
   unit: g
 proteinContent:
   name: protéines
   type: Mass
-  description: Nombre de protéines en grammes.
+  description: Quantité de protéines en grammes.
   unit: g
 saturatedFatContent:
   name: saturés
   type: Mass
-  description: Nombre d’acides gras saturés en grammes.
+  description: Quantité d’acides gras saturés en grammes.
   unit: g
 sodiumContent:
-  name: sodium
+  name: sel
   type: Mass
-  description: Nombre de sodium en milligrammes.
+  description: Quantité de sel en milligrammes.
   unit: mg
 sugarContent:
   name: sucres
   type: Mass
-  description: Nombre de sucre en grammes.
+  description: Quantité de sucre en grammes.
   unit: g
 transFatContent:
   name: trans
   type: Mass
-  description: Nombre d’acides trans en grammes.
+  description: Quantité d’acides trans en grammes.
   unit: g
 unsaturatedFatContent:
   name: insaturés
   type: Mass
-  description: Nombre d’acides gras insaturés en grammes.
+  description: Quantité d’acides gras insaturés en grammes.
   unit: g
