@@ -20,6 +20,17 @@ yield: 6 mini cakes
 storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
 tip: Le tahini est également l’ingrédient secret de certaines recettes de cookies
 
+nutrition:
+  servingSize: 6
+  calories: 1629.22
+  fatContent: 88.57
+  saturatedFatContent: 27.91
+  carbohydrateContent: 162.02
+  sugarContent: 99.22
+  fiberContent: 19.17
+  proteinContent: 39.61
+  sodiumContent: 0.91
+
 ingredients:
 - 1 banane mûre
 - 100g de chocolat noir

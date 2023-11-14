@@ -16,7 +16,18 @@ cooktime: 20 min
 totaltime: 1 h
 yield: 16–24 biscuits
 
-storage: 1 semaine dans une boîte à biscuits à l'abri de la chaleur et de la lumière. 
+storage: 1 semaine dans une boîte à biscuits à l'abri de la chaleur et de la lumière.
+
+nutrition:
+  servingSize: 16
+  calories: 1637.68
+  fatContent: 68.00
+  saturatedFatContent: 9.93
+  carbohydrateContent: 206.80
+  sugarContent: 82.80
+  fiberContent: 24.29
+  proteinContent: 34.90
+  sodiumContent: 2.94
 
 ingredients:
 - 1 pâte sablée à l’avoine

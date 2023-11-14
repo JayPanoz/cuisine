@@ -15,9 +15,20 @@ tags: [donut, beignet, boulangerie]
 preptime: 25 min
 cooktime: 20 min
 totaltime: 3 h 30 min
-yield: 6–8 beignets (selon l’emporte-pièce)
+yield: 8 beignets
 
 storage: 2 jours dans une boîte à l’abri de la lumière et de la chaleur. 2–3 mois au congélateur. Pas de frigo car cela va assécher le beignet.
+
+nutrition:
+  servingSize: 8
+  calories: 2201.98
+  fatContent: 60.76
+  saturatedFatContent: 26.28
+  carbohydrateContent: 350.04
+  sugarContent: 189.48
+  fiberContent: 26.94
+  proteinContent: 44.55
+  sodiumContent: 0.94
 
 ingredients:
 - 200–230g de farine T45–65

@@ -18,6 +18,17 @@ yield: 24 bouchées
 
 storage: 48 heures au frigo. Pas de congélation.
 
+nutrition:
+  servingSize: 24
+  calories: 1052.00
+  fatContent: 24.18
+  saturatedFatContent: 9.07
+  carbohydrateContent: 176.69
+  sugarContent: 132.22
+  fiberContent: 0.23
+  proteinContent: 32.16
+  sodiumContent: 0.96
+
 ingredients:
 - 2 œufs 
 - 1 jaune d’œuf

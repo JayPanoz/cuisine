@@ -20,6 +20,17 @@ yield: 8 roulés
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
 tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
+nutrition:
+  servingSize: 8
+  calories: 2051.55
+  fatContent: 39.25
+  saturatedFatContent: 16.49
+  carbohydrateContent: 367.21
+  sugarContent: 172.89
+  fiberContent: 19.04
+  proteinContent: 46.43
+  sodiumContent: 1.26
+
 ingredients:
 - Pour la brioche:
     - 275g de farine T45–65

@@ -18,6 +18,17 @@ yield: 6 mini cakes
 
 storage: 2–3 jours à température ambiante à l'abri de la lumière et de la chaleur dans une boîte hermétique.
 
+nutrition:
+  servingSize: 6
+  calories: 2008.27
+  fatContent: 86.02
+  saturatedFatContent: 33.10
+  carbohydrateContent: 249.54
+  sugarContent: 89.70
+  fiberContent: 20.20
+  proteinContent: 45.05
+  sodiumContent: 3.40
+
 ingredients:
 - 150g de farine semi-complète T110
 - 125g de myrtilles

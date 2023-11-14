@@ -15,10 +15,21 @@ collections: [special]
 
 preptime: 30 min
 totaltime: 6 h
-yield: 4 portions
+yield: 6 portions
 
 storage: 2–3 jours dans une boîte hermétique au frigo.
 tip: La touche finale qui ne figure pas dans les ingrédients ou instructions, c’est la mousse de lait. Les plus motivés pourront la verser sur les fruits rouges à la toute fin du montage histoire de peaufiner l’aspect <i lang="en">flat white</i>.
+
+nutrition:
+  servingSize: 6
+  calories: 2987.95
+  fatContent: 198.37
+  saturatedFatContent: 124.01
+  carbohydrateContent: 260.60
+  sugarContent: 207.41
+  fiberContent: 4.91
+  proteinContent: 37.15
+  sodiumContent: 2.04
 
 components:
 - Speculoos Crust

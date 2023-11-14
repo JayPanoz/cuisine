@@ -18,6 +18,17 @@ yield: 12 cookies
 
 storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.
 
+nutrition:
+  servingSize: 12
+  calories: 1553.02
+  fatContent: 43.90
+  saturatedFatContent: 12.11
+  carbohydrateContent: 228.92
+  sugarContent: 106.99
+  fiberContent: 33.03
+  proteinContent: 43.28
+  sodiumContent: 2.52
+
 ingredients:
 - 160–220g de flocons/son d’avoine
 - 2 bananes mûres

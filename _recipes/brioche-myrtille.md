@@ -20,6 +20,17 @@ yield: 12 tranches
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante. 2–3 mois au congélateur.
 tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
+nutrition:
+  servingSize: 12
+  calories: 1193.73
+  fatContent: 12.48
+  saturatedFatContent: 4.35
+  carbohydrateContent: 214.45
+  sugarContent: 38.62
+  fiberContent: 14.00
+  proteinContent: 44.13
+  sodiumContent: 2.38
+
 ingredients:
 - 250g de farine 00 ou T45–65
 - 1 sachet de levure boulangère sèche

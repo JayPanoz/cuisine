@@ -15,7 +15,7 @@ collections: [pb, special]
 
 preptime: 30 min
 totaltime: 2 h 30 min
-yield: 4 portions
+yield: 6 portions
 
 storage: 5–7 jours dans une boîte hermétique au frigo.
 

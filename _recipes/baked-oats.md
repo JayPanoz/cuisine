@@ -14,10 +14,21 @@ tags: [healthy]
 
 preptime: 10 min
 cooktime: 55 minutes
-yield: 2 portions
+yield: 4 portions
 
 storage: 2–3 jours au réfrigérateur.
 tip: Passez quelques secondes au micro-ondes pour déguster tiède le lendemain, s’il vous en reste.
+
+nutrition:
+  servingSize: 4
+  calories: 1286.45
+  fatContent: 63.57
+  saturatedFatContent: 36.62
+  carbohydrateContent: 137.70
+  sugarContent: 86.53
+  fiberContent: 16.68
+  proteinContent: 32.81
+  sodiumContent: 1.25
 
 ingredients:
 - 80g de flocons d’avoine – si possible, pas des flocons à porridge instantané type Quaker Oats

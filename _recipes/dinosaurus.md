@@ -15,9 +15,20 @@ collections: [dino]
 
 preptime: 1 h 20 m
 cooktime: 20 min
-yield: 18–24 biscuits
+yield: 24 biscuits
 
 storage: 1 semaine dans boîte hermétique à l'abri de la chaleur et de la lumière. Ça peut se congeler aussi mais il faudra évidemment les décongeler dans le frigo puis à température ambiante, et éviter le micro-ondes, étant donné qu'ils sont nappés de chocolat.
+
+nutrition:
+  servingSize: 24
+  calories: 2710.05
+  fatContent: 147.05
+  saturatedFatContent: 92.30
+  carbohydrateContent: 289.44
+  sugarContent: 112.24
+  fiberContent: 29.59
+  proteinContent: 40.59
+  sodiumContent: 0.87
 
 ingredients:
 - 1 pâte sablée

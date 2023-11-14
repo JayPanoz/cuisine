@@ -18,6 +18,17 @@ yield: 16 tranches
 
 storage: 2–3 jours à température ambiante à l'abri de la lumière et de la chaleur dans une boîte hermétique. 5 jours au frigo.
 
+nutrition:
+  servingSize: 16
+  calories: 2125.16
+  fatContent: 92.61
+  saturatedFatContent: 57.11
+  carbohydrateContent: 263.57
+  sugarContent: 108.32
+  fiberContent: 29.50
+  proteinContent: 39.13
+  sodiumContent: 23.09
+
 ingredients:
 - 150g de farine semi-complète T110
 - 125g de myrtilles
