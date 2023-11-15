@@ -17,11 +17,13 @@
   {% if nutrient.first == 'servingSize' %}{% continue %}{% endif %}
   {% assign itemprop = nutrient.first %}
   {% assign name = site.data[site.language].nutrients[itemprop].name %}
-  {% assign value = nutrient.last | divided_by: divider | round: 2 %}
-  {% if value < 10 %}
-    {% assign floatDivider = divider | times: 1.0 %}
-    {% assign value = nutrient.last | divided_by: floatDivider | round: 2 %}
+  {% assign rounder = 2 %}
+  
+  {% if nutrient.first == 'calories' %}
+  {% assign rounder = 0 %}
   {% endif %}
+  
+  {% assign value = nutrient.last | divided_by: divider | round: rounder %}
   {% assign unit = site.data[site.language].nutrients[itemprop].unit %}
   <div  class="rounded center border border-1 border-gray sm-col sm-col-2 lg-col-2 mr1 mb1">
     <h5 class="bg-gray white m0 p1 capitalize">{{ name  }}</h5>
