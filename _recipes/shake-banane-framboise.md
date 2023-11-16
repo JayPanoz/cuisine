@@ -13,7 +13,18 @@ courses: [snack]
 tags: [blender, mixer, sans cuisson, liquide, 3 ingrédients]
 
 preptime: 5 min
-yield: 1 portion
+yield: 2 portions
+
+nutrition:
+  servingSize: 2
+  calories: 425.01
+  fatContent: 14.42
+  saturatedFatContent: 9.78
+  carbohydrateContent: 57.70
+  sugarContent: 46.66
+  fiberContent: 15.82
+  proteinContent: 6.80
+  sodiumContent: 0.10
 
 ingredients:
 - 2 bananes mûres coupées en tranches et congelées

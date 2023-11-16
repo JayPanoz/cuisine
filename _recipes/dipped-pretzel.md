@@ -24,6 +24,17 @@ yield: 20 bretzels maxi/36 bretzels mini
 storage: 3–5 jours dans une boîte à l’abri de la lumière et de la chaleur – au réfrigérateur s’il fait trop chaud. 2–3 mois au congélateur.
 tip: Pour faire fondre le chocolat sans prise de tête au micro-ondes, découpez-le en petits morceaux puis réservez-en le tiers, faites fondre les 2/3 restants à puissance moyenne par sessions de 30 secondes, en prenant soin de bien mélanger entre chaque itération. Une fois que le chocolat est liquide, ajoutez le tiers mis de côté et mélangez vigoureusement jusqu’à ce qu’il soit complètement fondu – cela va ramener le chocolat à une température plus basse et le rendre directement utilisable. Ce n’est évidemment pas du tempérage mais en tout cas, d’expérience, ça donne un plutôt pas mal résultat final.
 
+nutrition:
+  servingSize: 36
+  calories: 1025.00
+  fatContent: 36.60
+  saturatedFatContent: 21.30
+  carbohydrateContent: 127.90
+  sugarContent: 42.20
+  fiberContent: 11.90
+  proteinContent: 14.90
+  sodiumContent: 2.55
+
 ingredients:
 - 100g de bretzels apéritifs
 - 100g de chocolat

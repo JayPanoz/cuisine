@@ -17,6 +17,17 @@ preptime: 5 min
 totaltime: 25 min
 yield: 1 portion
 
+nutrition:
+  servingSize: 1
+  calories: 370.90
+  fatContent: 24.48
+  saturatedFatContent: 13.34
+  carbohydrateContent: 20.29
+  sugarContent: 14.60
+  fiberContent: 1.14
+  proteinContent: 15.51
+  sodiumContent: 0.33
+
 ingredients:
 - 1 pot/140–150g de yaourt grec ou skyr vanille
 - 1,5 cuillère à soupe de beurre de cacahuète crunchy

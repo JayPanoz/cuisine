@@ -20,6 +20,17 @@ yield: 2 ramequins
 
 storage: 2 jours au frigo.
 
+nutrition:
+  servingSize: 2
+  calories: 224.10
+  fatContent: 10.54
+  saturatedFatContent: 4.37
+  carbohydrateContent: 20.31
+  sugarContent: 15.88
+  fiberContent: 2.21
+  proteinContent: 11.03
+  sodiumContent: 0.03
+
 ingredients:
 - 150g de tofu soyeux
 - 25ml d’espresso (café très serré)

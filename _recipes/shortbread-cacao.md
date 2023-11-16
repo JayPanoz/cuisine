@@ -19,6 +19,17 @@ yield: 24–36 biscuits
 
 storage: 7–10 jours dans une boîte à biscuit avec du papier cuisson pour absorber l’humidité.
 
+nutrition:
+  servingSize: 36
+  calories: 1617.93
+  fatContent: 91.01
+  saturatedFatContent: 57.42
+  carbohydrateContent: 160.74
+  sugarContent: 52.93
+  fiberContent: 17.25
+  proteinContent: 25.99
+  sodiumContent: 0.06
+
 ingredients:
 - 120g de farine
 - 100g de beurre

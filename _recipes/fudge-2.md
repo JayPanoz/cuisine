@@ -19,6 +19,17 @@ yield: 24 bouchées
 
 storage: 2–3 semaines au frigo.
 
+nutrition:
+  servingSize: 24
+  calories: 1646.00
+  fatContent: 75.65
+  saturatedFatContent: 45.70
+  carbohydrateContent: 210.42
+  sugarContent: 181.42
+  fiberContent: 14.60
+  proteinContent: 23.66
+  sodiumContent: 0.49
+
 ingredients:
 - 200g de chocolat
 - 180g de lait concentré sucré

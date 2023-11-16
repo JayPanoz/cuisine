@@ -19,6 +19,17 @@ totaltime: 2 h 10 min
 yield: 2 portions
 storage: 48 h au réfrigérateur
 
+nutrition:
+  servingSize: 2
+  calories: 604.70
+  fatContent: 30.48
+  saturatedFatContent: 18.13
+  carbohydrateContent: 73.07
+  sugarContent: 55.67
+  fiberContent: 8.10
+  proteinContent: 5.84
+  sodiumContent: 0.09
+
 ingredients:
 - 100g d’aquafaba (jus de cuisson des pois chiches)
 - 100g de chocolat

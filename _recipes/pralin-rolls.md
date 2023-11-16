@@ -20,6 +20,17 @@ yield: 8 roulés
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
 tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
+nutrition:
+  servingSize: 8
+  calories: 2042.65
+  fatContent: 59.87
+  saturatedFatContent: 25.53
+  carbohydrateContent: 306.97
+  sugarContent: 134.95
+  fiberContent: 17.71
+  proteinContent: 56.33
+  sodiumContent: 2.51
+
 components: 
 - Brioche au lait pour Rolls
 - Glaçage cacao

@@ -14,9 +14,20 @@ tags: [cheesecake, sans cuisson, Turtle]
 
 preptime: 45 min
 totaltime: 3 h 15 min
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 48 heures au frigo. 1 mois au congélateur mais il faut absolument faire prendre le cheesecake au réfrigérateur avant, on ne peut pas le mettre directement au congélateur.
+
+nutrition:
+  servingSize: 8
+  calories: 3781.17
+  fatContent: 247.03
+  saturatedFatContent: 131.85
+  carbohydrateContent: 312.38
+  sugarContent: 232.38
+  fiberContent: 15.85
+  proteinContent: 66.03
+  sodiumContent: 1.28
 
 components:
 - Cocoa Crust

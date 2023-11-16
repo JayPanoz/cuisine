@@ -21,6 +21,17 @@ yield: 12 tranches
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante. 2–3 mois au congélateur.
 tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
+nutrition:
+  servingSize: 8
+  calories: 1731.45
+  fatContent: 28.86
+  saturatedFatContent: 8.48
+  carbohydrateContent: 309.94
+  sugarContent: 136.74
+  fiberContent: 16.41
+  proteinContent: 46.65
+  sodiumContent: 2.47
+
 ingredients:
 - 250g de farine d’épeautre
 - 1 sachet de levure boulangère sèche

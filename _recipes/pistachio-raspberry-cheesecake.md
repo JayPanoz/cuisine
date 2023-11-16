@@ -14,7 +14,18 @@ tags: [cheesecake, sans cuisson]
 
 preptime: 30 min
 totaltime: 3 h
-yield: 6–8 portions
+yield: 8 portions
+
+nutrition:
+  servingSize: 8
+  calories: 3521.04
+  fatContent: 234.66
+  saturatedFatContent: 132.06
+  carbohydrateContent: 259.24
+  sugarContent: 172.19
+  fiberContent: 26.97
+  proteinContent: 73.32
+  sodiumContent: 1.30
 
 storage: 48 heures au frigo. 1 mois au congélateur mais il faut absolument faire prendre le cheesecake au réfrigérateur avant, on ne peut pas le mettre directement au congélateur.
 

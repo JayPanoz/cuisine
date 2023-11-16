@@ -14,6 +14,17 @@ preptime: 10 min
 totaltime: 4 h 10 min
 yield: 2 portions
 
+nutrition:
+  servingSize: 2
+  calories: 137.00
+  fatContent: 3.04
+  saturatedFatContent: 0.00
+  carbohydrateContent: 23.56
+  sugarContent: 21.40
+  fiberContent: 0.00
+  proteinContent: 3.18
+  sodiumContent: 0.11
+
 ingredients:
 - 100g yaourt nature ou parfumé
 - 10–15g sucre ou 10% du poids du yaourt minimum, et environ 15% pour les becs sucrés

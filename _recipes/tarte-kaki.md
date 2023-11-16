@@ -20,6 +20,17 @@ yield: 12 portions
 
 storage: 2–3 jours à l’abri de la lumière et de la chaleur à température ambiante.
 
+nutrition:
+  servingSize: 12
+  calories: 1916.52
+  fatContent: 73.11
+  saturatedFatContent: 32.15
+  carbohydrateContent: 281.88
+  sugarContent: 144.08
+  fiberContent: 29.53
+  proteinContent: 17.30
+  sodiumContent: 3.79
+
 ingredients:
 - 1 pâte feuilletée ou pâte brisée
 - 2 kakis mûrs

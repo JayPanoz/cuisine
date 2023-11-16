@@ -17,6 +17,17 @@ diets: [LowCalorie, LowFat, Vegetarian, Vegan]
 preptime: 5 min
 yield: 2 portions
 
+nutrition:
+  servingSize: 2
+  calories: 252.24
+  fatContent: 1.46
+  saturatedFatContent: 0.71
+  carbohydrateContent: 52.10
+  sugarContent: 40.92
+  fiberContent: 7.44
+  proteinContent: 4.86
+  sodiumContent: 0.08
+
 ingredients:
 - 2 bananes mûres coupées en tranches et congelées
 - 2–4 cuillères à soupe de lait ou boisson végétale

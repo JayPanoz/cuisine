@@ -19,6 +19,17 @@ yield: 6 portions
 
 storage: 2–3 jours dans une boîte hermétique au frigo.
 
+nutrition:
+  servingSize: 6
+  calories: 2720.15
+  fatContent: 195.56
+  saturatedFatContent: 118.87
+  carbohydrateContent: 208.34
+  sugarContent: 127.35
+  fiberContent: 7.58
+  proteinContent: 29.40
+  sodiumContent: 2.23
+
 components:
 - Cheesecake Crust
 - Ganache pralinoise

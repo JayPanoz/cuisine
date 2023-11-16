@@ -18,6 +18,17 @@ preptime: 15 min
 totaltime: 1 h 15 min
 yield: 12–15 mini sandwiches glacés
 
+nutrition:
+  servingSize: 12
+  calories: 779.52
+  fatContent: 42.39
+  saturatedFatContent: 15.56
+  carbohydrateContent: 72.36
+  sugarContent: 43.32
+  fiberContent: 11.70
+  proteinContent: 19.44
+  sodiumContent: 0.74
+
 storage: 1–2 mois au congélateur.  
 
 ingredients:

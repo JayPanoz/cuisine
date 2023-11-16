@@ -18,6 +18,17 @@ yield: 24 bouchées
 
 storage: 2–3 semaines au frigo.
 
+nutrition:
+  servingSize: 24
+  calories: 1515.95
+  fatContent: 100.68
+  saturatedFatContent: 65.13
+  carbohydrateContent: 142.34
+  sugarContent: 126.88
+  fiberContent: 7.30
+  proteinContent: 6.81
+  sodiumContent: 0.12
+
 ingredients:
 - 100g de chocolat noir
 - 85g de sucre glace

@@ -20,6 +20,17 @@ yield: 6 mini brownies ou 12 mini muffins
 
 storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
 
+nutrition:
+  servingSize: 6
+  calories: 990.60
+  fatContent: 57.76
+  saturatedFatContent: 9.35
+  carbohydrateContent: 66.16
+  sugarContent: 32.40
+  fiberContent: 19.58
+  proteinContent: 34.84
+  sodiumContent: 1.01
+
 ingredients:
 - 200g de compote de pomme (ou 2 bananes mûres écrasées en purée)
 - 80g de beurre de cacahuète smooth (ou purée d’amande, purée de cajou, etc. si allergie)
