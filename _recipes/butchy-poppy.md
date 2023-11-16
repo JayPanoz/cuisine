@@ -21,6 +21,17 @@ yield: 8 roulés
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
 tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
+nutrition:
+  servingSize: 8
+  calories: 2606.10
+  fatContent: 111.49
+  saturatedFatContent: 36.48
+  carbohydrateContent: 302.25
+  sugarContent: 104.14
+  fiberContent: 40.25
+  proteinContent: 78.15
+  sodiumContent: 2.64
+
 components: 
 - Brioche Butchy pour Rolls
 - Crème de pavot

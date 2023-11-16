@@ -21,6 +21,17 @@ yield: 8 brioches
 storage: 2–3 jours dans une boîte à l’abri de la lumière et de la chaleur à température ambiante.
 tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 secondes au micro-ondes pour lui faire retrouver toute sa douceur.
 
+nutrition:
+  servingSize: 8
+  calories: 1718.12
+  fatContent: 15.90
+  saturatedFatContent: 7.23
+  carbohydrateContent: 334.82
+  sugarContent: 155.42
+  fiberContent: 15.09
+  proteinContent: 45.20
+  sodiumContent: 2.40
+
 ingredients:
 - 250g de farine T45–T55
 - 1 sachet de levure boulangère sèche
