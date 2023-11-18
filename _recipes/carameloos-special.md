@@ -19,6 +19,17 @@ yield: 6 portions
 
 storage: 2–3 jours dans une boîte hermétique au frigo.
 
+nutrition:
+  servingSize: 6
+  calories: 2224.90
+  fatContent: 148.75
+  saturatedFatContent: 90.20
+  carbohydrateContent: 204.42
+  sugarContent: 142.88
+  fiberContent: 8.17
+  proteinContent: 14.16
+  sodiumContent: 1.75
+
 components:
 - Speculoos Crust
 - Ganache chocolat noir

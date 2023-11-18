@@ -19,6 +19,17 @@ yield: 12 mini tartelettes
 
 storage: 3 jours dans une boîte hermétique au frigo.
 
+nutrition:
+  servingSize: 12
+  calories: 1914.70
+  fatContent: 61.39
+  saturatedFatContent: 12.56
+  carbohydrateContent: 274.16
+  sugarContent: 182.93
+  fiberContent: 14.31
+  proteinContent: 53.75
+  sodiumContent: 2.87
+
 ingredients:
 - 125g de beurre de cacahuète smooth
 - 40g de sucre de canne complet ou cassonnade

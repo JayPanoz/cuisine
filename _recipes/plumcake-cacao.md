@@ -20,6 +20,17 @@ yield: 6 mini cakes
 storage: 3–5 jours dans une boîte hermétique à l'abri de la chaleur et de la lumière, 2–3 mois au congélateur.
 tip: Pour retrouver la texture originale, remplacez simplement la compote de pomme par 8cl d’huile neutre. Pour quelque chose de plus <i lang="en">fancy</i>, mélangez 6cl d’huile neutre avec 2cl d’huile d’olive, qui apportera une petite note subtile à la dégustation, cf. <a href="dino-plumcake.html">le <i lang="en">plumcake</i> en version dinosaure</a>.
 
+nutrition:
+  servingSize: 6
+  calories: 1235.70
+  fatContent: 26.83
+  saturatedFatContent: 12.52
+  carbohydrateContent: 198.30
+  sugarContent: 83.53
+  fiberContent: 13.12
+  proteinContent: 40.06
+  sodiumContent: 3.29
+
 ingredients:
 - 110g de farine italienne 00/française T45
 - 35g de fécule de maïs/Maïzena

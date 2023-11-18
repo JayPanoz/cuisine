@@ -19,6 +19,17 @@ yield: 10 balles
 
 storage: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélateur.
 
+nutrition:
+  servingSize: 10
+  calories: 945.85
+  fatContent: 44.86
+  saturatedFatContent: 8.26
+  carbohydrateContent: 87.09
+  sugarContent: 50.59
+  fiberContent: 28.12
+  proteinContent: 32.58
+  sodiumContent: 0.38
+
 ingredients:
 - 60g de son d’avoine
 - 45g de miel

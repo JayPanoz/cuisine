@@ -20,6 +20,17 @@ yield: 8 cookies de 10 cm
 
 storage: 5–7 jours dans une boîte à biscuits, séparés avec du papier cuisson si besoin.
 
+nutrition:
+  servingSize: 8
+  calories: 1380.56
+  fatContent: 73.40
+  saturatedFatContent: 23.13
+  carbohydrateContent: 116.16
+  sugarContent: 48.72
+  fiberContent: 21.76
+  proteinContent: 47.43
+  sodiumContent: 2.99
+
 ingredients:
 - 130g de beurre de cacahuète creamy
 - 45g de farine d’avoine

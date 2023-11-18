@@ -19,6 +19,17 @@ yield: 6 portions
 
 storage: 5–7 jours dans une boîte hermétique au frigo.
 
+nutrition:
+  servingSize: 6
+  calories: 2271.90
+  fatContent: 144.22
+  saturatedFatContent: 66.13
+  carbohydrateContent: 193.78
+  sugarContent: 109.51
+  fiberContent: 11.94
+  proteinContent: 39.43
+  sodiumContent: 2.77
+
 ingredients:
 - 1 crust Speculoos
 - 1 portion de fourrage au beurre de cacahuète

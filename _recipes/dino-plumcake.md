@@ -19,6 +19,17 @@ yield: 6 mini cakes
 
 storage: 3–5 jours dans une boîte hermétique à l'abri de la chaleur et de la lumière, 2–3 mois au congélateur.
 
+nutrition:
+  servingSize: 6
+  calories: 2064.30
+  fatContent: 122.03
+  saturatedFatContent: 32.44
+  carbohydrateContent: 194.25
+  sugarContent: 79.76
+  fiberContent: 13.48
+  proteinContent: 38.80
+  sodiumContent: 4.64
+
 ingredients:
 - 90g de farine semi-complète T110
 - 30g de farine de seigle

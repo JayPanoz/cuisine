@@ -19,6 +19,17 @@ yield: 6 mini cakes
 
 storage: 3–5 jours dans une boîte hermétique à l'abri de la chaleur et de la lumière, 2–3 mois au congélateur.
 
+nutrition:
+  servingSize: 6
+  calories: 1797.75
+  fatContent: 103.31
+  saturatedFatContent: 21.17
+  carbohydrateContent: 176.76
+  sugarContent: 66.69
+  fiberContent: 4.71
+  proteinContent: 36.05
+  sodiumContent: 3.20
+
 ingredients:
 - 115g de farine italienne 00/française T45
 - 35g de fécule de maïs/Maïzena

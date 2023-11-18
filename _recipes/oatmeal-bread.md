@@ -19,6 +19,17 @@ yield: 6 mini cakes
 
 storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
 
+nutrition:
+  servingSize: 6
+  calories: 1482.49
+  fatContent: 36.24
+  saturatedFatContent: 13.52
+  carbohydrateContent: 213.33
+  sugarContent: 86.52
+  fiberContent: 33.16
+  proteinContent: 57.26
+  sodiumContent: 3.78
+
 ingredients:
 - 180g de flocons ou son d’avoine
 - 20g de fécule de maïs/Maïzena 

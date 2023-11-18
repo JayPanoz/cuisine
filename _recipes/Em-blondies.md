@@ -21,6 +21,17 @@ yield: 6 mini cakes
 storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
 tip: "Pan fan du sarrasin&nbsp;? Utilisez de la poudre d’amande pour doubler la mise de départ."
 
+nutrition:
+  servingSize: 6
+  calories: 1427.84
+  fatContent: 74.49
+  saturatedFatContent: 15.07
+  carbohydrateContent: 139.15
+  sugarContent: 96.83
+  fiberContent: 17.46
+  proteinContent: 41.19
+  sodiumContent: 0.46
+
 ingredients:
 - 1 banane mûre
 - 100g de cerises (soit environ 90g une fois dénoyautées)

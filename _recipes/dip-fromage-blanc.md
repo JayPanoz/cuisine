@@ -17,6 +17,16 @@ preptime: 10 min
 
 storage: 2 jours dans une boîte hermétique au réfrigérateur.
 
+nutrition:
+  calories: 178.68
+  fatContent: 10.27
+  saturatedFatContent: 7.02
+  carbohydrateContent: 9.52
+  sugarContent: 5.88
+  fiberContent: 0.81
+  proteinContent: 9.26
+  sodiumContent: 1.09
+
 ingredients:
 - 100–125g de fromage blanc
 - le jus d’½ citron

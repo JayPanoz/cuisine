@@ -19,6 +19,17 @@ yield: 6 mini cakes
 
 storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
 
+nutrition:
+  servingSize: 6
+  calories: 1590.42
+  fatContent: 78.47
+  saturatedFatContent: 22.02
+  carbohydrateContent: 154.20
+  sugarContent: 80.30
+  fiberContent: 16.87
+  proteinContent: 53.62
+  sodiumContent: 2.52
+
 ingredients:
 - 1 banane mûre
 - 125g de beurre de cacahuète Crunchy (avec des morceaux)

@@ -19,6 +19,17 @@ yield: 12 cookies
 
 storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur.
 
+nutrition:
+  servingSize: 12
+  calories: 1062.00
+  fatContent: 52.95
+  saturatedFatContent: 13.03
+  carbohydrateContent: 100.66
+  sugarContent: 48.16
+  fiberContent: 9.05
+  proteinContent: 37.03
+  sodiumContent: 2.20
+
 ingredients:
 - 100g de beurre de cacahuète crunchy (avec des morceaux de cacahuète)
 - 40g sucre de canne complet

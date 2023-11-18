@@ -19,6 +19,17 @@ yield: 12 cookies
 
 storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur.
 
+nutrition:
+  servingSize: 12
+  calories: 1020.40
+  fatContent: 48.95
+  saturatedFatContent: 13.80
+  carbohydrateContent: 109.25
+  sugarContent: 63.60
+  fiberContent: 6.29
+  proteinContent: 29.78
+  sodiumContent: 0.79
+
 ingredients:
 - 45g beurre de cacahuète smooth
 - 20g chocolat blanc fondu

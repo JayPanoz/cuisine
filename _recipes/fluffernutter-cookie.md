@@ -20,6 +20,17 @@ yield: 16–20 cookie sandwiches
 storage: Pour le cookie sans crème, 2 semaines à température ambiante dans un bocal à cookie, et 3 mois au congélateur. Pour le cookie assemblé, 5–7 jours dans une boîte hermétique.
 tip: Pas fan ou impossible de trouver du fluff&nbsp;? Utilisez une gelée/confiture de fruits pour une version PB&J.
 
+nutrition:
+  servingSize: 20
+  calories: 2652.72
+  fatContent: 109.85
+  saturatedFatContent: 20.97
+  carbohydrateContent: 314.21
+  sugarContent: 136.65
+  fiberContent: 26.40
+  proteinContent: 77.86
+  sodiumContent: 4.24
+
 ingredients:
 - 260g de beurre de cacahuète creamy
 - 90g de farine d’avoine
