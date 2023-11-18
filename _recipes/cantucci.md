@@ -18,6 +18,17 @@ yield: 24–32 biscuits
 
 storage: 5–7 jours dans une boîte à biscuits non-hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
 
+nutrition:
+  servingSize: 32
+  calories: 1921.75
+  fatContent: 65.43
+  saturatedFatContent: 7.13
+  carbohydrateContent: 252.45
+  sugarContent: 104.67
+  fiberContent: 21.07
+  proteinContent: 62.95
+  sodiumContent: 3.10
+
 ingredients:
 - 215g de farine italienne 00/française T45
 - 100g de sucre blanc

@@ -20,6 +20,17 @@ yield: 12 cookies
 
 storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
 
+nutrition:
+  servingSize: 12
+  calories: 1974.46
+  fatContent: 100.96
+  saturatedFatContent: 65.29
+  carbohydrateContent: 224.72
+  sugarContent: 125.20
+  fiberContent: 8.55
+  proteinContent: 40.37
+  sodiumContent: 2.72
+
 ingredients:
 - 125g de farine
 - 50g de cassonade

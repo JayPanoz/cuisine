@@ -15,6 +15,17 @@ yield: 16 tranches
 
 storage: 2–3 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 16
+  calories: 1823.12
+  fatContent: 121.30
+  saturatedFatContent: 30.40
+  carbohydrateContent: 114.52
+  sugarContent: 7.28
+  fiberContent: 13.83
+  proteinContent: 60.76
+  sodiumContent: 2.81
+
 ingredients:
 - 150g de farine
 - 3 œufs

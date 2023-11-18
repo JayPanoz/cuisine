@@ -18,6 +18,17 @@ yield: 2 portions
 
 storage: 2–3 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 2
+  calories: 1034.65
+  fatContent: 45.05
+  saturatedFatContent: 22.69
+  carbohydrateContent: 106.24
+  sugarContent: 11.36
+  fiberContent: 6.46
+  proteinContent: 41.58
+  sodiumContent: 7.47
+
 components:
 - Pâte brisée au fromage blanc
 

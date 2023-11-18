@@ -19,6 +19,17 @@ yield: 12 cookies
 
 storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et la lumière, en utilisant du papier cuisson ou de l'essuie-tout pour les séparer en étages si besoin. 2–3 mois au congélateur.
 
+nutrition:
+  servingSize: 12
+  calories: 1745.81
+  fatContent: 86.71
+  saturatedFatContent: 53.76
+  carbohydrateContent: 204.45
+  sugarContent: 105.39
+  fiberContent: 17.17
+  proteinContent: 27.10
+  sodiumContent: 2.28
+
 ingredients:
 - 100g de farine complète T150
 - 40g de farine T65

@@ -17,6 +17,17 @@ yield: 4 portions
 
 storage: 2–3 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 4
+  calories: 804.35
+  fatContent: 26.79
+  saturatedFatContent: 10.35
+  carbohydrateContent: 83.99
+  sugarContent: 35.23
+  fiberContent: 17.55
+  proteinContent: 47.09
+  sodiumContent: 2.74
+
 ingredients:
 - 50g de farine
 - 3 œufs

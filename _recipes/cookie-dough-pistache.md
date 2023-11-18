@@ -18,6 +18,17 @@ yield: 18 bouchées
 
 storage: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélateur.
 
+nutrition:
+  servingSize: 18
+  calories: 1998.25
+  fatContent: 109.36
+  saturatedFatContent: 53.30
+  carbohydrateContent: 208.06
+  sugarContent: 107.72
+  fiberContent: 12.61
+  proteinContent: 39.38
+  sodiumContent: 1.29
+
 ingredients:
 - 125g de farine
 - 75g de beurre doux ramolli

@@ -18,6 +18,17 @@ yield: 16 tranches
 
 storage: 2–3 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 16
+  calories: 1108.70
+  fatContent: 36.76
+  saturatedFatContent: 9.87
+  carbohydrateContent: 113.77
+  sugarContent: 10.96
+  fiberContent: 7.84
+  proteinContent: 75.49
+  sodiumContent: 8.18
+
 components: 
 - Lait fermenté
 
