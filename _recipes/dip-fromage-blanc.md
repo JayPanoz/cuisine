@@ -14,10 +14,12 @@ tags: [accompagnement]
 diets: [LowCalorie]
 
 preptime: 10 min
+yield: 4 portions
 
 storage: 2 jours dans une boîte hermétique au réfrigérateur.
 
 nutrition:
+  servingSize: 4
   calories: 178.68
   fatContent: 10.27
   saturatedFatContent: 7.02
