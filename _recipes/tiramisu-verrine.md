@@ -13,15 +13,27 @@ courses: [dessert, goûter]
 tags: [sans cuisson, tiramisu]
 
 preptime: 10 min
-yield: 2 portions
+yield: 4 portions
 
 storage: 2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 4
+  weight: 356
+  calories: 1006.42
+  fatContent: 59.77
+  saturatedFatContent: 36.64
+  carbohydrateContent: 100.77
+  sugarContent: 81.15
+  fiberContent: 9.11
+  proteinContent: 9.96
+  sodiumContent: 0.63
 
 ingredients:
 - 125g de mascarpone
 - 50g de sucre glace
 - 125g de framboises 
-- 6 biscuits Spéculoos
+- 8 biscuits Spéculoos
 - 1 cuillère à café d’extrait de vanille ou d’amande
 
 directions:

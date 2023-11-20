@@ -16,6 +16,18 @@ diets: [Vegetarian, Vegan]
 preptime: 5 min
 yield: 2 portions
 
+nutrition:
+  servingSize: 2
+  weight: 732
+  calories: 406.76
+  fatContent: 4.08
+  saturatedFatContent: 2.15
+  carbohydrateContent: 76.49
+  sugarContent: 64.26
+  fiberContent: 10.05
+  proteinContent: 11.73
+  sodiumContent: 0.33
+
 ingredients:
 - 2 bananes mûres 
 - 1/2 melon

@@ -17,7 +17,19 @@ cooktime: 15 min
 totaltime: 2 h 45 min 
 yield: 24–36 biscuits
 
-storage: 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de la lumière. Vous pouvez également les congeler pour 2–3 mois. 
+storage: 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de la lumière. Vous pouvez également les congeler pour 2–3 mois.
+
+nutrition:
+  servingSize: 36
+  weight: 450
+  calories: 2052.46
+  fatContent: 106.45
+  saturatedFatContent: 69.41
+  carbohydrateContent: 242.12
+  sugarContent: 126.59
+  fiberContent: 12.48
+  proteinContent: 24.30
+  sodiumContent: 1.19
 
 ingredients:
 - 150g de farine

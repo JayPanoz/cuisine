@@ -14,9 +14,21 @@ tags: [quiche, sans viande]
 
 preptime: 15 min
 cooktime: 45 min
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2–3 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 1132
+  calories: 1867.86
+  fatContent: 89.72
+  saturatedFatContent: 52.90
+  carbohydrateContent: 169.81
+  sugarContent: 30.83
+  fiberContent: 10.11
+  proteinContent: 87.33
+  sodiumContent: 3.32
 
 components:
 - Pâte brisée au fromage blanc

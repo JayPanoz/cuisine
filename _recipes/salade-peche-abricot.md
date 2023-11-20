@@ -19,6 +19,18 @@ yield: 2 portions
 
 storage: 2 jours dans une boîte hermétique au réfrigérateur.
 
+nutrition:
+  servingSize: 2
+  weight: 364
+  calories: 240.07
+  fatContent: 0.87
+  saturatedFatContent: 0.14
+  carbohydrateContent: 48.06
+  sugarContent: 39.00
+  fiberContent: 10.14
+  proteinContent: 3.58
+  sodiumContent: 0.06
+
 ingredients:
 - 1 pêche
 - 2 abricots

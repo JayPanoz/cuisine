@@ -17,7 +17,19 @@ cooktime: 15 min
 totaltime: 2 h
 yield: 12 sablés
 
-storage: 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de la lumière. Vous pouvez également les congeler pour 2–3 mois. 
+storage: 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de la lumière. Vous pouvez également les congeler pour 2–3 mois.
+
+nutrition:
+  servingSize: 12
+  weight: 521
+  calories: 2393.70
+  fatContent: 135.79
+  saturatedFatContent: 91.60
+  carbohydrateContent: 238.30
+  sugarContent: 114.97
+  fiberContent: 29.06
+  proteinContent: 39.31
+  sodiumContent: 1.20
 
 ingredients:
 - 160g de farine semi-complète T110

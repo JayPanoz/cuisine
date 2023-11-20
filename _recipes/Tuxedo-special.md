@@ -19,10 +19,22 @@ yield: 6 portions
 
 storage: 2–3 jours dans une boîte hermétique au frigo.
 
+nutrition:
+  servingSize: 6
+  weight: 841
+  calories: 3603.30
+  fatContent: 241.74
+  saturatedFatContent: 131.97
+  carbohydrateContent: 285.74
+  sugarContent: 188.37
+  fiberContent: 18.52
+  proteinContent: 63.08
+  sodiumContent: 2.28
+
 ingredients:
 - 1 crust cacao
 - 300g de ganache au chocolat blanc
-- 400g de mousse au chocolat
+- 300g de mousse au chocolat
 - des copeaux/morceaux de chocolat blanc
 
 components:

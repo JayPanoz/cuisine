@@ -12,6 +12,18 @@ preptime: 10 min
 cooktime: 20 min
 yield: 2 portions
 
+nutrition:
+  servingSize: 2
+  weight: 589
+  calories: 514.12
+  fatContent: 21.05
+  saturatedFatContent: 9.28
+  carbohydrateContent: 52.58
+  sugarContent: 8.85
+  fiberContent: 14.50
+  proteinContent: 20.67
+  sodiumContent: 2.94
+
 ingredients:
 - 120g de riz complet
 - 200g d’épinards 

@@ -18,6 +18,18 @@ yield: 2 portions
 
 storage: 2–3 jours dans une boîte hermétique au réfrigérateur.
 
+nutrition:
+  servingSize: 2
+  weight: 393
+  calories: 469.99
+  fatContent: 14.03
+  saturatedFatContent: 3.08
+  carbohydrateContent: 50.48
+  sugarContent: 5.96
+  fiberContent: 8.32
+  proteinContent: 32.02
+  sodiumContent: 4.63
+
 ingredients:
 - 160g de spaghetti à la semoule de blé ou farine complète
 - 1 sucrine

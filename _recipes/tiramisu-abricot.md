@@ -14,15 +14,27 @@ tags: [sans cuisson, tiramisu, comfort food]
 
 preptime: 20 min
 totaltime: 1 h 20 min
-yield: 4 portions
+yield: 8 portions
 
 storage: 2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 870
+  calories: 2322.10
+  fatContent: 165.84
+  saturatedFatContent: 78.16
+  carbohydrateContent: 143.48
+  sugarContent: 120.87
+  fiberContent: 8.88
+  proteinContent: 52.17
+  sodiumContent: 1.08
 
 ingredients:
 - 2 œufs
 - 250g de mascarpone
 - 40g de sucre de canne complet
-- 2 biscuits amaretti morbidi à la pistache
+- 150g d’amaretti morbidi à la pistache
 - 6 abricots
 - 30g d’amandes effilées
 - extrait de vanille

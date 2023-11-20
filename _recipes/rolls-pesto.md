@@ -14,8 +14,20 @@ preptime: 45 min
 cooktime: 15 min
 yield: 12 roulés
 
+nutrition:
+  servingSize: 12
+  weight: 245
+  calories: 1230.05
+  fatContent: 96.32
+  saturatedFatContent: 27.79
+  carbohydrateContent: 63.31
+  sugarContent: 6.52
+  fiberContent: 4.30
+  proteinContent: 24.85
+  sodiumContent: 5.21
+
 ingredients:
-- 1 pâte feuilletée
+- ½ pâte feuilletée
 - 100g de pesto genovese
 - 30g de parmigiano (facultatif)
 

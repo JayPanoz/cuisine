@@ -11,9 +11,21 @@ tags: [quiche, comfort food]
 
 preptime: 15 min
 cooktime: 45 min
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2–3 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 1031
+  calories: 3032.74
+  fatContent: 208.42
+  saturatedFatContent: 103.26
+  carbohydrateContent: 142.49
+  sugarContent: 11.55
+  fiberContent: 2.25
+  proteinContent: 145.50
+  sodiumContent: 17.30
 
 ingredients:
 - 1 pâte brisée

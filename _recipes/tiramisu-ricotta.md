@@ -17,6 +17,18 @@ yield: 4 portions
 
 storage: 2 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 6
+  weight: 710
+  calories: 1303.63
+  fatContent: 68.34
+  saturatedFatContent: 27.50
+  carbohydrateContent: 111.59
+  sugarContent: 91.23
+  fiberContent: 4.73
+  proteinContent: 49.45
+  sodiumContent: 1.10
+
 ingredients:
 - 250g de ricotta
 - 250g de fraises
@@ -24,7 +36,6 @@ ingredients:
 - 25–30g de sucre glace ou de miel
 - 2 cuillère à soupe de jus de citron
 - 1 sachet de sucre vanillé
-
 
 directions:
 - Lavez, essuyez puis équeutez les fraises. 

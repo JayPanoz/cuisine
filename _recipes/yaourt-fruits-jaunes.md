@@ -15,6 +15,18 @@ tags: [sans cuisson]
 preptime: 5 min
 yield: 2 portions
 
+nutrition:
+  servingSize: 2
+  weight: 510
+  calories: 342.69
+  fatContent: 8.61
+  saturatedFatContent: 1.38
+  carbohydrateContent: 42.64
+  sugarContent: 37.82
+  fiberContent: 8.82
+  proteinContent: 17.93
+  sodiumContent: 0.23
+
 ingredients:
 - 150g de yaourt grec 0%
 - 2 abricots 

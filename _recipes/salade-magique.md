@@ -19,6 +19,18 @@ yield: 2 portions
 
 storage: 2 jours dans une boîte hermétique au réfrigérateur.
 
+nutrition:
+  servingSize: 2
+  weight: 512
+  calories: 318.55
+  fatContent: 1.66
+  saturatedFatContent: 0.23
+  carbohydrateContent: 61.55
+  sugarContent: 54.96
+  fiberContent: 13.98
+  proteinContent: 4.50
+  sodiumContent: 0.03
+
 ingredients:
 - 1 mandarine/orange/clémentine
 - 1 kiwi

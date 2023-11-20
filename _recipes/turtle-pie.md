@@ -15,9 +15,21 @@ tags: [Turtle, tarte]
 preptime: 30 min
 cooktime: 15 min
 totaltime: 1 h 45 min
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2–3 jours au frigo.
+
+nutrition:
+  servingSize: 8
+  weight: 800
+  calories: 2857.75
+  fatContent: 153.38
+  saturatedFatContent: 72.43
+  carbohydrateContent: 301.70
+  sugarContent: 130.21
+  fiberContent: 29.58
+  proteinContent: 53.13
+  sodiumContent: 0.48
 
 components:
 - Pâte brisée épeautre caramel
@@ -26,7 +38,7 @@ components:
 
 ingredients:
 - 1 pâte brisée épeautre caramel
-- 400g de ganache chocolat noir
+- 300g de ganache chocolat noir
 - 50g de glaçage au caramel
 - 50g de noix de pécan
 - 1 blanc d’œuf

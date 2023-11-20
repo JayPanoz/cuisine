@@ -15,6 +15,18 @@ tags: [3 ingrédients]
 preptime: 5 min
 yield: 2 portions
 
+nutrition:
+  servingSize: 2
+  weight: 218
+  calories: 220.37
+  fatContent: 3.57
+  saturatedFatContent: 1.40
+  carbohydrateContent: 33.63
+  sugarContent: 11.09
+  fiberContent: 9.33
+  proteinContent: 6.40
+  sodiumContent: 0.17
+
 ingredients:
 - 4 galettes de riz (ou de maïs)
 - 4 cuillères à soupe de yaourt grec/ricotta/crème épaisse

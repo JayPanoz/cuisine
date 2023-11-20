@@ -18,6 +18,18 @@ yield: 2 portions
 
 storage: 2 jours dans une boîte hermétique au réfrigérateur.
 
+nutrition:
+  servingSize: 2
+  weight: 870
+  calories: 326.93
+  fatContent: 1.49
+  saturatedFatContent: 0.33
+  carbohydrateContent: 61.78
+  sugarContent: 53.97
+  fiberContent: 13.21
+  proteinContent: 7.35
+  sodiumContent: 0.20
+
 ingredients:
 - 1 melon
 - 1 barquette de mûres 

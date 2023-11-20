@@ -15,9 +15,21 @@ tags: [sans cuisson, tiramisu, comfort food]
 
 preptime: 20 min
 totaltime: 4 h 20 min
-yield: 4 portions
+yield: 6 portions
 
 storage: 2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 6
+  weight: 750
+  calories: 1912.05
+  fatContent: 116.76
+  saturatedFatContent: 69.88
+  carbohydrateContent: 167.39
+  sugarContent: 141.02
+  fiberContent: 10.89
+  proteinContent: 38.65
+  sodiumContent: 1.16
 
 ingredients:
 - 2 œufs
@@ -30,7 +42,6 @@ ingredients:
 - eau sucrée/lait
 - extrait d’amande
 - extrait de vanille
-- pincée de sel
 
 directions:
 - Mélangez l’eau sucrée avec l’extrait d’amande puis imbibez légèrement vos biscuits à la cuillère.
@@ -39,7 +50,7 @@ directions:
 - Ajoutez l’extrait de vanille et mélangez.
 - Ajoutez le mascarpone et fouettez à nouveau.
 - Tamisez le cacao et incorporez-le en fouettant. Le résultat doit être bien lisse et homogène.
-- Montez les blancs en neige avec la pincée de sel puis incorporez-les en soulevant la masse à la maryse jusqu’à obtenir une crème homogène.
+- Montez les blancs en neige puis incorporez-les en soulevant la masse à la maryse jusqu’à obtenir une crème homogène.
 - Lavez et essuyez les myrtilles et les figues.
 - Découpez les figues en quartiers (8 par figue).
 - Réalisez la première couche de votre tiramisu en déposant les biscuits, puis la crème mascarpone et cacao, et les myrtilles entières.

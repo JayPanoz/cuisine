@@ -19,6 +19,18 @@ yield: 1 portion
 
 storage: 2–3 jours dans une boîte hermétique au réfrigérateur.
 
+nutrition:
+  servingSize: 2
+  weight: 464
+  calories: 507.25
+  fatContent: 9.73
+  saturatedFatContent: 1.62
+  carbohydrateContent: 55.83
+  sugarContent: 8.54
+  fiberContent: 10.41
+  proteinContent: 44.20
+  sodiumContent: 2.85
+
 ingredients:
 - 100g de pâtes courtes à la semoule de blé ou farine complète
 - 75g de tomates cerises

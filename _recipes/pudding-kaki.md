@@ -14,9 +14,21 @@ tags: [antigaspi, comfort food]
 
 preptime: 25 min
 cooktime: 55 minutes
-yield: 2 portions
+yield: 4 portions
 
 storage: 2–3 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 4
+  weight: 740
+  calories: 878.59
+  fatContent: 15.93
+  saturatedFatContent: 5.46
+  carbohydrateContent: 144.80
+  sugarContent: 80.17
+  fiberContent: 13.12
+  proteinContent: 31.54
+  sodiumContent: 2.27
 
 ingredients:
 - 125g de pain rassis

@@ -11,9 +11,21 @@ tags: [quiche]
 
 preptime: 15 min
 cooktime: 45 min
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2–3 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 956
+  calories: 2549.92
+  fatContent: 168.94
+  saturatedFatContent: 54.10
+  carbohydrateContent: 118.46
+  sugarContent: 11.60
+  fiberContent: 8.17
+  proteinContent: 134.11
+  sodiumContent: 13.16
 
 ingredients:
 - 150g de farine

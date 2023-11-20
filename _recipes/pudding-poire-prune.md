@@ -14,10 +14,22 @@ tags: [antigaspi, comfort food]
 
 preptime: 25 min
 cooktime: 55 minutes
-yield: 2 portions
+yield: 4 portions
 
 storage: 2–3 jours au réfrigérateur.
 tip: Si vous multipliez les quantités pour obtenir davantage de portions, n’hésitez pas à ajouter de la pomme plutôt que de simplement multiplier le nombre de prunes ou de poires. Si ça fonctionne bien pour la confiture et que vous aimez le goût, il n’y a pas de raison que ça ne soit pas le cas pour ce pudding. La variété Gala, qui se tient bien à la cuisson, fera largement l’affaire.
+
+nutrition:
+  servingSize: 4
+  weight: 717
+  calories: 810.40
+  fatContent: 15.84
+  saturatedFatContent: 5.48
+  carbohydrateContent: 129.34
+  sugarContent: 60.54
+  fiberContent: 11.25
+  proteinContent: 31.03
+  sodiumContent: 2.27
 
 ingredients:
 - 125g de pain rassis

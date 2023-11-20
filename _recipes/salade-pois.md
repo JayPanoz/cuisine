@@ -18,6 +18,18 @@ yield: 4 portions
 storage: 2–3 jours dans une boîte hermétique au réfrigérateur.
 tip: Récupérez le jus de cuisson des pois chiches (aquafaba) pour une autre recette, comme par exemple cette <a href="mousse-chocofaba.html">mousse au chocolat.</a>
 
+nutrition:
+  servingSize: 4
+  weight: 1217
+  calories: 1100.28
+  fatContent: 57.51
+  saturatedFatContent: 11.14
+  carbohydrateContent: 84.64
+  sugarContent: 22.43
+  fiberContent: 19.69
+  proteinContent: 52.57
+  sodiumContent: 3.65
+
 ingredients:
 - Pour la salade:
     - 260g de pois chiches (soit une conserve de 400g)

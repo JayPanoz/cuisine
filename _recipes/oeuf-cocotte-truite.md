@@ -15,18 +15,30 @@ preptime: 5 min
 cooktime: 15 min
 yield: 4 ramequins
 
+nutrition:
+  servingSize: 4
+  weight: 430
+  calories: 813.79
+  fatContent: 65.81
+  saturatedFatContent: 30.76
+  carbohydrateContent: 6.48
+  sugarContent: 6.30
+  fiberContent: 0.68
+  proteinContent: 49.80
+  sodiumContent: 4.38
+
 ingredients:
-- 1 tranche de truite ou de saumon fumé
-- 1 œuf
-- 2 cuillères à soupe de crème épaisse entière 30%
+- 4 tranches de truite ou de saumon fumé
+- 4 œufs
+- 8 cuillères à soupe de crème épaisse entière 30%
 - poivre
 - ciboulette
 
 directions:
 - Préchauffez le four à 190°C.
-- Dans le ramequin beurré/huilé, repartir 1 cuillère à soupe de crème et la moitié d'une tranche de saumon découpée en morceaux/lanières.
-- Cassez ensuite l’œuf en prenant soin de ne pas casser le jaune.
-- Disposez enfin l'autre moitié de la tranche et une dernière cuillère de crème. 
+- Dans les ramequin beurrés/huilés, répartissez 1 cuillère à soupe de crème et la moitié d'une tranche de saumon découpée en morceaux/lanières.
+- Cassez ensuite un œuf en prenant soin de ne pas casser le jaune.
+- Disposez enfin l'autre moitié de la tranche et une seconde cuillère de crème. 
 - Saupoudrez de poivre.
 - Enfournez 10–15 minutes ou jusqu'à ce que ça ne gigote quasiment plus au centre. 
 - Ajoutez la ciboulette à la sortie du four.

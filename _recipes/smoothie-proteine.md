@@ -15,6 +15,18 @@ tags: [blender, mixer, sans cuisson, protéiné, liquide]
 preptime: 5 min
 yield: 1 portion
 
+nutrition:
+  servingSize: 1
+  weight: 499
+  calories: 346.88
+  fatContent: 2.08
+  saturatedFatContent: 0.99
+  carbohydrateContent: 64.08
+  sugarContent: 52.61
+  fiberContent: 9.39
+  proteinContent: 13.50
+  sodiumContent: 0.26
+
 ingredients:
 - 1 banane mûre 
 - 2 abricots bien froids

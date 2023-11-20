@@ -18,6 +18,18 @@ yield: 2 portions
 
 storage: 1–2 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 2
+  weight: 654
+  calories: 722.47
+  fatContent: 39.08
+  saturatedFatContent: 13.53
+  carbohydrateContent: 62.94
+  sugarContent: 55.30
+  fiberContent: 16.32
+  proteinContent: 21.41
+  sodiumContent: 1.82
+
 ingredients:
 - 100g de roquette
 - quelques feuilles de sucrine
@@ -25,9 +37,9 @@ ingredients:
 - 4 figues
 - 2 poires
 - 1 poignée de mélange de graines
-- 3 cuillères à soupe d’huile d’olive
-- 1 cuillère à soupe de vinaigre balsamique
-- 1 cuillère à café de miel
+- 1 cuillère à soupe d’huile d’olive
+- 1 cuillère à café de vinaigre balsamique
+- ½ cuillère à café de miel
 - sel
 - poivre
 

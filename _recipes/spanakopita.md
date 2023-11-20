@@ -18,8 +18,20 @@ yield: 4 friands
 
 storage: 2 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 4
+  weight: 754
+  calories: 1254.47
+  fatContent: 47.17
+  saturatedFatContent: 23.95
+  carbohydrateContent: 134.29
+  sugarContent: 16.28
+  fiberContent: 11.51
+  proteinContent: 66.70
+  sodiumContent: 7.03
+
 ingredients:
-- 8 feuilles soit 200g de pâte filo
+- 8 feuilles de Filo soit 200g
 - 200g d’épinards frais
 - 150g de feta
 - 1 gousse ou 3g d’ail
