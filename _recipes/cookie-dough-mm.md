@@ -20,6 +20,7 @@ storage: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélat
 
 nutrition:
   servingSize: 18
+  weight: 380
   calories: 1803.90
   fatContent: 88.91
   saturatedFatContent: 58.62

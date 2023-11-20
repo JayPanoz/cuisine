@@ -21,6 +21,7 @@ storage: 1 semaine dans boîte hermétique à l'abri de la chaleur et de la lumi
 
 nutrition:
   servingSize: 24
+  weight: 605
   calories: 2710.05
   fatContent: 147.05
   saturatedFatContent: 92.30

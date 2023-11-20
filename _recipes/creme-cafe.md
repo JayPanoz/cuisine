@@ -22,6 +22,7 @@ storage: 2 jours au frigo.
 
 nutrition:
   servingSize: 2
+  weight: 200
   calories: 224.10
   fatContent: 10.54
   saturatedFatContent: 4.37

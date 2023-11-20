@@ -13,10 +13,10 @@ courses: [snack]
 tags: [blender, mixer, sans cuisson, protéiné, liquide]
 
 preptime: 5 min
-yield: 1 portion
+yield: 2 portions
 
 nutrition:
-  servingSize: 1
+  servingSize: 2
   weight: 499
   calories: 346.88
   fatContent: 2.08

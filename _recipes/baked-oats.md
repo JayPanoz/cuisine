@@ -21,6 +21,7 @@ tip: Passez quelques secondes au micro-ondes pour déguster tiède le lendemain,
 
 nutrition:
   servingSize: 4
+  weight: 764
   calories: 1286.45
   fatContent: 63.57
   saturatedFatContent: 36.62

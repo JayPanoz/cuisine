@@ -22,6 +22,7 @@ tip: Pour retrouver la texture originale, remplacez simplement la compote de pom
 
 nutrition:
   servingSize: 6
+  weight: 656
   calories: 1235.70
   fatContent: 26.83
   saturatedFatContent: 12.52

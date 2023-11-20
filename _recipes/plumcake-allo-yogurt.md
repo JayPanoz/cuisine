@@ -21,6 +21,7 @@ storage: 3–5 jours dans une boîte hermétique à l'abri de la chaleur et de l
 
 nutrition:
   servingSize: 6
+  weight: 546
   calories: 1797.75
   fatContent: 103.31
   saturatedFatContent: 21.17

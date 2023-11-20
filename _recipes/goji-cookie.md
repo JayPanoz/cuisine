@@ -22,6 +22,7 @@ storage: 5–7 jours dans une boîte à biscuits, séparés avec du papier cuiss
 
 nutrition:
   servingSize: 8
+  weight: 300
   calories: 1380.56
   fatContent: 73.40
   saturatedFatContent: 23.13

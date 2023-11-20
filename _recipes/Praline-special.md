@@ -21,6 +21,7 @@ storage: 2–3 jours dans une boîte hermétique au frigo.
 
 nutrition:
   servingSize: 6
+  weight: 560
   calories: 2720.15
   fatContent: 195.56
   saturatedFatContent: 118.87

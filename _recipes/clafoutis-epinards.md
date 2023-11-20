@@ -19,6 +19,7 @@ storage: 2–3 jours au réfrigérateur.
 
 nutrition:
   servingSize: 4
+  weight: 1100
   calories: 804.35
   fatContent: 26.79
   saturatedFatContent: 10.35

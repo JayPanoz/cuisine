@@ -32,6 +32,7 @@ tip: Pour renforcer le goût de noix, une cuillère à soupe de tahini accompagn
 
 nutrition:
   servingSize: 12
+  weight: 956
   calories: 2022.04
   fatContent: 66.03
   saturatedFatContent: 9.09

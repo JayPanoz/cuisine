@@ -21,6 +21,7 @@ storage: 2–3 semaines au frigo.
 
 nutrition:
   servingSize: 24
+  weight: 380
   calories: 1646.00
   fatContent: 75.65
   saturatedFatContent: 45.70

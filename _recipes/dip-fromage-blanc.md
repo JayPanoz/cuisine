@@ -20,6 +20,7 @@ storage: 2 jours dans une boîte hermétique au réfrigérateur.
 
 nutrition:
   servingSize: 4
+  weight: 150
   calories: 178.68
   fatContent: 10.27
   saturatedFatContent: 7.02

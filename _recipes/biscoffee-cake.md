@@ -20,6 +20,7 @@ storage: 2–3 jours à température ambiante à l'abri de la lumière et de la 
 
 nutrition:
   servingSize: 6
+  weight: 758
   calories: 2008.27
   fatContent: 86.02
   saturatedFatContent: 33.10

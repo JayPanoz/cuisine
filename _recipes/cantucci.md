@@ -20,6 +20,7 @@ storage: 5–7 jours dans une boîte à biscuits non-hermétique à l'abri de la
 
 nutrition:
   servingSize: 32
+  weight: 525
   calories: 1921.75
   fatContent: 65.43
   saturatedFatContent: 7.13

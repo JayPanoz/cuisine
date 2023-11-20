@@ -39,6 +39,7 @@ tip: Si vous n’avez ou n’aimez pas les mashmallows, vous pouvez utiliser des
 
 nutrition:
   servingSize: 10
+  weight: 190
   calories: 973.75
   fatContent: 47.45
   saturatedFatContent: 26.35

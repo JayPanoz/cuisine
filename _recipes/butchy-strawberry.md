@@ -23,6 +23,7 @@ tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 second
 
 nutrition:
   servingSize: 8
+  weight: 860
   calories: 1679.40
   fatContent: 15.89
   saturatedFatContent: 7.12

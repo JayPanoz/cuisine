@@ -22,6 +22,7 @@ storage: 2–3 jours à l’abri de la lumière et de la chaleur à température
 
 nutrition:
   servingSize: 8
+  weight: 930
   calories: 1916.52
   fatContent: 73.11
   saturatedFatContent: 32.15

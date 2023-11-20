@@ -20,6 +20,7 @@ storage: 1 semaine dans une boîte à biscuits à l'abri de la chaleur et de la 
 
 nutrition:
   servingSize: 16
+  weight: 405
   calories: 1637.68
   fatContent: 68.00
   saturatedFatContent: 9.93

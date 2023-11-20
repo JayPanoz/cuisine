@@ -22,6 +22,7 @@ tip: La touche finale qui ne figure pas dans les ingrédients ou instructions, c
 
 nutrition:
   servingSize: 6
+  weight: 830
   calories: 2987.95
   fatContent: 198.37
   saturatedFatContent: 124.01

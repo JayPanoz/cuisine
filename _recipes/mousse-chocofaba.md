@@ -21,6 +21,7 @@ storage: 48 h au réfrigérateur
 
 nutrition:
   servingSize: 2
+  weight: 217
   calories: 604.70
   fatContent: 30.48
   saturatedFatContent: 18.13

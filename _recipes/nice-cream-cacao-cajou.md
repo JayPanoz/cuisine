@@ -15,6 +15,7 @@ yield: 2 portions
 
 nutrition:
   servingSize: 2
+  weight: 280
   calories: 435.74
   fatContent: 14.44
   saturatedFatContent: 4.00

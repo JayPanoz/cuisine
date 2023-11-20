@@ -29,6 +29,7 @@ tip: Pour un effet fantôme encore plus marqué, osez le glaçage au citron ou l
 
 nutrition:
   servingSize: 6
+  weight: 745
   calories: 1519.80
   fatContent: 11.02
   saturatedFatContent: 1.88

@@ -19,6 +19,7 @@ yield: 1 portion
 
 nutrition:
   servingSize: 1
+  weight: 182
   calories: 370.90
   fatContent: 24.48
   saturatedFatContent: 13.34

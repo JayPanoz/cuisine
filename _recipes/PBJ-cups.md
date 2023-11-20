@@ -21,6 +21,7 @@ storage: 3 jours dans une boîte hermétique au frigo.
 
 nutrition:
   servingSize: 12
+  weight: 566
   calories: 1914.70
   fatContent: 61.39
   saturatedFatContent: 12.56

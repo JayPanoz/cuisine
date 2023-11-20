@@ -22,6 +22,7 @@ tip: Pas fan ou impossible de trouver du fluff&nbsp;? Utilisez une gelée/confit
 
 nutrition:
   servingSize: 20
+  weight: 610
   calories: 2652.72
   fatContent: 109.85
   saturatedFatContent: 20.97

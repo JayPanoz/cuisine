@@ -20,6 +20,7 @@ storage: 48 heures au frigo. 1 mois au congélateur mais il faut absolument fair
 
 nutrition:
   servingSize: 8
+  weight: 1006
   calories: 3781.17
   fatContent: 247.03
   saturatedFatContent: 131.85

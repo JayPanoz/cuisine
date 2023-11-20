@@ -21,6 +21,7 @@ storage: 7–10 jours dans une boîte à biscuit avec du papier cuisson pour abs
 
 nutrition:
   servingSize: 36
+  weight: 340
   calories: 1617.93
   fatContent: 91.01
   saturatedFatContent: 57.42

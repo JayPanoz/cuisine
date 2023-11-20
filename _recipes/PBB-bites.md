@@ -20,6 +20,7 @@ yield: 12–15 mini sandwiches glacés
 
 nutrition:
   servingSize: 12
+  weight: 210
   calories: 779.52
   fatContent: 42.39
   saturatedFatContent: 15.56

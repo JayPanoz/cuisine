@@ -18,6 +18,7 @@ yield: 8 portions
 
 nutrition:
   servingSize: 8
+  weight: 1025
   calories: 3521.04
   fatContent: 234.66
   saturatedFatContent: 132.06

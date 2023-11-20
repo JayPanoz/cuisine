@@ -20,6 +20,7 @@ storage: 48 heures au frigo. Pas de congélation.
 
 nutrition:
   servingSize: 24
+  weight: 790
   calories: 1052.00
   fatContent: 24.18
   saturatedFatContent: 9.07
