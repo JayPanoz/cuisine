@@ -16,9 +16,21 @@ collections: [dino]
 preptime: 35 min
 cooktime: 35 min
 totaltime: 2 h
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 1181
+  calories: 3191.70
+  fatContent: 179.64
+  saturatedFatContent: 83.14
+  carbohydrateContent: 293.38
+  sugarContent: 116.80
+  fiberContent: 39.75
+  proteinContent: 76.48
+  sodiumContent: 1.81
 
 ingredients:
 - 1 pâte sablée

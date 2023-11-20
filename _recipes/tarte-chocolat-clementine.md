@@ -19,6 +19,18 @@ yield: 6–8 portions
 
 storage: 2 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 8
+  weight: 561
+  calories: 1774.05
+  fatContent: 72.31
+  saturatedFatContent: 19.18
+  carbohydrateContent: 231.12
+  sugarContent: 108.60
+  fiberContent: 11.19
+  proteinContent: 41.93
+  sodiumContent: 1.52
+
 ingredients:
 - 1 pâte sucrée
 - 1 portion de crème pâtissière

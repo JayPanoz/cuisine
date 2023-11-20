@@ -15,9 +15,21 @@ tags: [tarte]
 preptime: 35 min
 cooktime: 35 min
 totaltime: 2 h
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 861
+  calories: 1713.05
+  fatContent: 58.14
+  saturatedFatContent: 10.22
+  carbohydrateContent: 238.54
+  sugarContent: 117.86
+  fiberContent: 20.79
+  proteinContent: 42.58
+  sodiumContent: 1.53
 
 ingredients:
 - 1 pâte sucrée

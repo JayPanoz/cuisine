@@ -15,9 +15,21 @@ tags: [tarte]
 preptime: 25 min
 cooktime: 25 min
 totaltime: 2 h
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 711
+  calories: 1851.10
+  fatContent: 77.24
+  saturatedFatContent: 16.60
+  carbohydrateContent: 231.07
+  sugarContent: 109.87
+  fiberContent: 14.78
+  proteinContent: 45.36
+  sodiumContent: 1.51
 
 ingredients:
 - 1 pâte sucrée au cacao

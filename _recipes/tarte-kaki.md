@@ -16,12 +16,12 @@ collections: [cupboard]
 preptime: 15 min
 cooktime: 40 min
 totaltime: 2 h
-yield: 12 portions
+yield: 8 portions
 
 storage: 2–3 jours à l’abri de la lumière et de la chaleur à température ambiante.
 
 nutrition:
-  servingSize: 12
+  servingSize: 8
   calories: 1916.52
   fatContent: 73.11
   saturatedFatContent: 32.15

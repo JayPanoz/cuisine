@@ -15,9 +15,21 @@ tags: [tarte]
 preptime: 35 min
 cooktime: 20 min
 totaltime: 4 h
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 1054
+  calories: 1738.54
+  fatContent: 42.99
+  saturatedFatContent: 24.71
+  carbohydrateContent: 259.98
+  sugarContent: 103.77
+  fiberContent: 22.45
+  proteinContent: 63.96
+  sodiumContent: 0.55
 
 ingredients:
 - 1 pâte brisée épautre caramel

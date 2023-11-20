@@ -20,6 +20,18 @@ yield: 6 tartelettes de 8–10 cm
 
 storage: 2–3 jours au réfrigérateur.
 
+nutrition:
+  servingSize: 6
+  weight: 520
+  calories: 1384.26
+  fatContent: 60.53
+  saturatedFatContent: 11.98
+  carbohydrateContent: 147.47
+  sugarContent: 73.98
+  fiberContent: 15.68
+  proteinContent: 48.84
+  sodiumContent: 1.78
+
 ingredients:
 - 1 pâte sablée au beurre de cacahuète
 - ½ melon pour une curd de melon

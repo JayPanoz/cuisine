@@ -14,9 +14,21 @@ tags: [tarte, sucré-salé]
 
 preptime: 35 min
 cooktime: 55 min
-yield: 6–8 portions
+yield: 8 portions
 
 storage: 2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 1197
+  calories: 2286.07
+  fatContent: 141.97
+  saturatedFatContent: 69.20
+  carbohydrateContent: 159.39
+  sugarContent: 41.02
+  fiberContent: 15.92
+  proteinContent: 77.07
+  sodiumContent: 10.48
 
 ingredients:
 - 1 pâte feuilletée
