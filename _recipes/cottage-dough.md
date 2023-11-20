@@ -13,12 +13,12 @@ courses: [snack, dessert]
 tags: [cookie, sans cuisson, protéiné, récupération]
 
 preptime: 10 min
-yield: 4 ramequins
+yield: 18 bouchées
 
 storage: 2–3 jours au frigo dans un contenant hermétique.
 
 nutrition:
-  servingSize: 4
+  servingSize: 18
   weight: 415
   calories: 1265.18
   fatContent: 76.86

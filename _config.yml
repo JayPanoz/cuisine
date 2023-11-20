@@ -80,7 +80,7 @@ translation:
     ingredients: "Ingrédients"
     directions: "Instructions"
     category: "Catégorie"
-    nutritional_information: "Informations nutritionnelles théoriques"
+    nutritional_information: "Informations nutritionnelles"
     component_based: 'Cette recette est composée <strong class="accent">d’une ou plusieurs préparations</strong>.'
     search: "Recherche"
     search_placeholder: "Par titre ou ingrédients…"

@@ -19,6 +19,18 @@ yield: 6 portions
 
 storage: 5–7 jours dans une boîte hermétique au frigo.
 
+nutrition:
+  servingSize: 6
+  weight: 572
+  calories: 2153.35
+  fatContent: 126.63
+  saturatedFatContent: 64.50
+  carbohydrateContent: 214.74
+  sugarContent: 142.27
+  fiberContent: 10.66
+  proteinContent: 28.99
+  sodiumContent: 2.19
+
 ingredients:
 - 1 crust Speculoos
 - 1 portion de beurre de myrtilles
