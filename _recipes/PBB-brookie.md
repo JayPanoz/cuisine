@@ -15,7 +15,19 @@ preptime: 45 min
 cooktime: 20 min
 yield: 6 mini cakes
 
-storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois. 
+storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
+
+nutrition:
+  servingSize: 6
+  weight: 546
+  calories: 1581.82
+  fatContent: 62.41
+  saturatedFatContent: 24.74
+  carbohydrateContent: 204.03
+  sugarContent: 115.99
+  fiberContent: 20.75
+  proteinContent: 38.20
+  sodiumContent: 2.00
 
 directions:
 - Préchauffez votre four à 180°C.

@@ -19,6 +19,18 @@ yield: 24 biscuits
 
 storage: 5–7 jours dans une boîte à biscuit avec du papier cuisson pour absorber l’humidité.
 
+nutrition:
+  servingSize: 24
+  weight: 280
+  calories: 1277.45
+  fatContent: 80.47
+  saturatedFatContent: 51.79
+  carbohydrateContent: 120.55
+  sugarContent: 51.81
+  fiberContent: 9.14
+  proteinContent: 14.02
+  sodiumContent: 1.27
+
 components:
 - Ganache chocolat noir
 

@@ -19,6 +19,18 @@ yield: 2 verrines
 
 storage: 48 heures au frigo.
 
+nutrition:
+  servingSize: 2
+  weight: 158
+  calories: 151.66
+  fatContent: 3.85
+  saturatedFatContent: 1.23
+  carbohydrateContent: 24.09
+  sugarContent: 19.25
+  fiberContent: 2.39
+  proteinContent: 3.37
+  sodiumContent: 0.28
+
 ingredients:
 - 10cl de boisson végétale à l’amande intense
 - 10g de sucre de canne complet

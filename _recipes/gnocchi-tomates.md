@@ -19,9 +19,20 @@ ingredients:
 - 1 brique de coulis de tomates
 - 125g de tomates cerises
 - 1 paquet ou 125g de mozzarella
-- sel
 - poivre
 - basilic
+
+nutrition:
+  servingSize: 2
+  weight: 753
+  calories: 1048.55
+  fatContent: 39.04
+  saturatedFatContent: 16.64
+  carbohydrateContent: 133.31
+  sugarContent: 12.87
+  fiberContent: 9.47
+  proteinContent: 44.67
+  sodiumContent: 7.73
 
 directions:
 - Lavez et hachez le basilic. Réservez.
@@ -29,7 +40,7 @@ directions:
 - Faites les griller face découpée en bas dans une poêle bien chaude.
 - Ajoutez les gnocchi à poêler.
 - À la fin de leur cuisson, déversez le coulis de tomates dans la poêle. 
-- Salez, poivrez, et mélangez bien le tout.
+- Poivrez, et mélangez bien le tout.
 - En attendant l’ébullition du coulis, égouttez et découpez la mozzarella en petits morceaux.
 - Aux premières bulles, retirez la poêle du feu et déversez les morceaux de mozzarella dans la poêle. 
 - Faites-la à peine fondre en mélangeant bien et dressez aussitôt.

@@ -11,9 +11,21 @@ collections: [cupboard]
 
 preptime: 10 min
 cooktime: 15 min
-yield: 4 pizze
+yield: 4 pizze (soit 8 portions)
 
 storage: 1–2 jours au réfrigérateur.
+
+nutrition:
+  servingSize: 8
+  weight: 743
+  calories: 1289.15
+  fatContent: 50.23
+  saturatedFatContent: 20.64
+  carbohydrateContent: 142.74
+  sugarContent: 12.44
+  fiberContent: 9.90
+  proteinContent: 66.21
+  sodiumContent: 5.44
 
 ingredients:
 - 4 tortillas

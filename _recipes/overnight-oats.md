@@ -18,6 +18,18 @@ yield: 1 portion
 
 storage: 48 heures au frigo.
 
+nutrition:
+  servingSize: 1
+  weight: 360
+  calories: 416.36
+  fatContent: 10.15
+  saturatedFatContent: 2.67
+  carbohydrateContent: 58.59
+  sugarContent: 30.21
+  fiberContent: 12.20
+  proteinContent: 15.70
+  sodiumContent: 0.27
+
 ingredients:
 - 35–40g de flocons ou son avoine
 - 1 cuillère à café de graines de chia
@@ -26,7 +38,7 @@ ingredients:
 - 1 banane
 - 25g de framboises
 - 25g de myrtilles
-- 15g de mélange graines ou noix
+- 10g de mélange graines ou noix
 - 15g de cacao amer en poudre (facultatif)
 - 2g de miel (facultatif)
 

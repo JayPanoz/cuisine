@@ -14,9 +14,21 @@ tags: [tarte, bouchée]
 
 preptime: 1 h
 cooktime: 15 min
-yield: 12 mini tartelettes
+yield: 24 mini tartelettes
 
 storage: 4–5 jours dans une boîte hermétique au frigo. 2–3 mois au congélateur.
+
+nutrition:
+  servingSize: 24
+  weight: 538
+  calories: 2207.94
+  fatContent: 128.14
+  saturatedFatContent: 50.09
+  carbohydrateContent: 222.21
+  sugarContent: 132.41
+  fiberContent: 19.84
+  proteinContent: 32.07
+  sodiumContent: 2.76
 
 components:
 - Pâte sablée à l’avoine
@@ -24,7 +36,7 @@ components:
 
 ingredients:
 - 1 pâte sablée
-- 1 portion de caramel au beurre salé
+- ½ portion de caramel au beurre salé
 
 directions:
 - Préchauffez le four à 180°C.

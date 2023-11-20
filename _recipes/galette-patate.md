@@ -13,6 +13,18 @@ preptime: 15 min
 cooktime: 15 min
 yield: 12 galettes
 
+nutrition:
+  servingSize: 12
+  weight: 297
+  calories: 475.91
+  fatContent: 20.68
+  saturatedFatContent: 11.64
+  carbohydrateContent: 44.97
+  sugarContent: 2.77
+  fiberContent: 4.09
+  proteinContent: 25.29
+  sodiumContent: 1.41
+
 ingredients:
 - 2 pommes de terre
 - ½ oignon ou 1 échalote

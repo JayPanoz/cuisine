@@ -18,6 +18,18 @@ yield: 12 mini muffins
 
 storage: 48 heures au réfrigérateur dans un contenant hermétique. 1–2 mois au congélateur.
 
+nutrition:
+  servingSize: 12
+  weight: 343
+  calories: 917.44
+  fatContent: 56.15
+  saturatedFatContent: 17.09
+  carbohydrateContent: 55.63
+  sugarContent: 5.01
+  fiberContent: 5.21
+  proteinContent: 44.28
+  sodiumContent: 3.09
+
 ingredients:
 - 75g de farine semi-complète
 - 70g de jambon coupé en dés

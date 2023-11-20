@@ -15,12 +15,24 @@ collections: [dino, pb]
 
 preptime: 1 h
 cooktime: 20 min
-yield: 12 mini tartelettes
+yield: 24 mini tartelettes
 
 storage: 4–5 jours dans une boîte (pas besoin qu'elle soit hermétique) à l'abri de la lumière et de la chaleur.
 
+nutrition:
+  servingSize: 24
+  weight: 898
+  calories: 3308.60
+  fatContent: 169.30
+  saturatedFatContent: 95.25
+  carbohydrateContent: 364.82
+  sugarContent: 180.83
+  fiberContent: 29.67
+  proteinContent: 60.35
+  sodiumContent: 2.24
+
 ingredients:
-- 1 pâte sablée
+- 1 pâte sablée Dinosaure
 - 1 portion de beurre de myrtilles
 - 1 portion de glaçage au beurre de cacahuète
 - 80–100g de chocolat blanc

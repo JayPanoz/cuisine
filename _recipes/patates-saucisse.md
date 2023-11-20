@@ -14,8 +14,20 @@ yield: 2 portions
 
 storage: 2 jours dans une boîte hermétique au réfrigérateur.
 
+nutrition:
+  servingSize: 2
+  weight: 1144
+  calories: 1000.40
+  fatContent: 47.01
+  saturatedFatContent: 13.56
+  carbohydrateContent: 88.76
+  sugarContent: 24.56
+  fiberContent: 22.58
+  proteinContent: 48.23
+  sodiumContent: 4.86
+
 ingredients:
-- 4 saucisses type Knack
+- 2 saucisses type Knack
 - 2 pommes de terre moyennes
 - 2 carottes
 - 1 navet nouveau
@@ -34,7 +46,7 @@ directions:
 - Faites cuire vos saucisses selon les instructions sur le paquet.
 - Faites revenir les champignons et l’échalotte dans une poêle avec un filet d’huile d’olive. Saupoudrez de persil et mélangez bien.
 - Ajoutez les autres légumes et laissez cuire jusqu’à ce qu’ils deviennent fondants.
-- DÉcoupez les saucisses en tranches et ajoutez-les ensuite dans la poêle pour les saisir, mélangez bien.
+- Découpez les saucisses en tranches et ajoutez-les ensuite dans la poêle pour les saisir, mélangez bien.
 - Salez, poivrez, et mélangez une dernière fois avant de dresser.
 
 ---

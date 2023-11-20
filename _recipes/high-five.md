@@ -15,7 +15,19 @@ collections: [pb]
 
 preptime: 30 min
 totaltime: 3 h 30 min 
-yield: 15 bretzels maxi/36 bretzels mini
+yield: 15 bretzels maxi/30 bretzels mini
+
+nutrition:
+  servingSize: 30
+  weight: 700
+  calories: 3127.70
+  fatContent: 142.08
+  saturatedFatContent: 49.84
+  carbohydrateContent: 361.26
+  sugarContent: 260.16
+  fiberContent: 46.62
+  proteinContent: 69.17
+  sodiumContent: 2.73
 
 storage: 5–7 jours dans une boîte hermétique – au frigo s’il fait trop chaud. 2 mois au congélateur.
 tip: Si vous n’avez que du beurre de cacahuète crunchy (i.e. avec des éclats de cacahuètes) sous la main, vous pouvez en mettre environ 30&nbsp;grammes de plus dans le fourrage – soit 150&nbsp;grammes. Avec le beurre de cacahuète crunchy dans le caramel de dattes, vous devriez obtenir plus ou moins la bonne quantité des cacahuètes à concasser.

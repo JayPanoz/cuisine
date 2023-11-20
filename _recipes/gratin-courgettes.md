@@ -16,6 +16,18 @@ preptime: 30 min
 cooktime: 20 min
 yield: 4 portions
 
+nutrition:
+  servingSize: 4
+  weight: 1002
+  calories: 1285.74
+  fatContent: 92.32
+  saturatedFatContent: 53.05
+  carbohydrateContent: 21.29
+  sugarContent: 17.11
+  fiberContent: 5.00
+  proteinContent: 89.30
+  sodiumContent: 6.96
+
 ingredients:
 - 4 courgettes
 - 150g d’allumettes de jambon ou de poulet, ou lardons végétaux
