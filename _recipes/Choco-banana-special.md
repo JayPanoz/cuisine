@@ -19,6 +19,18 @@ yield: 6 portions
 
 storage: 2–3 jours dans une boîte hermétique au frigo.
 
+nutrition:
+  servingSize: 6
+  weight: 621
+  calories: 2080.87
+  fatContent: 112.40
+  saturatedFatContent: 56.82
+  carbohydrateContent: 227.31
+  sugarContent: 114.82
+  fiberContent: 20.84
+  proteinContent: 30.48
+  sodiumContent: 1.44
+
 ingredients:
 - 1 crust cacao
 - 2 bananes mûres écrasées en purée pour la crème de fruit

@@ -17,6 +17,18 @@ preptime: 20 min
 totaltime: 50 min
 yield: 2 ramequins
 
+nutrition:
+  servingSize: 2
+  weight: 612
+  calories: 435.86
+  fatContent: 1.80
+  saturatedFatContent: 0.30
+  carbohydrateContent: 84.95
+  sugarContent: 73.44
+  fiberContent: 13.09
+  proteinContent: 12.50
+  sodiumContent: 0.30
+
 ingredients:
 - 2 bananes
 - 1 mangue

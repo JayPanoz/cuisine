@@ -10,10 +10,22 @@ courses: [apéritif]
 tags: [sans cuisson]
 
 preptime: 10 min
-yield: 4 ramequins
+yield: 18 bouchées
 
 storage: 2–3 jours au frigo dans un contenant hermétique.
 tip: Pour la farine, tu peux également tenter le mélange. Par exemple 60g de <i lang="en">crackers</i> Ritz et 40g de bretzels apéritif.
+
+nutrition:
+  servingSize: 18
+  weight: 330
+  calories: 709.50
+  fatContent: 34.60
+  saturatedFatContent: 16.02
+  carbohydrateContent: 63.91
+  sugarContent: 11.96
+  fiberContent: 3.60
+  proteinContent: 33.82
+  sodiumContent: 4.62
 
 ingredients:
 - 200g de fromage cottage

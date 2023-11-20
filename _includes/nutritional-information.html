@@ -10,11 +10,21 @@
 {% assign size = sizeVal | replace: "–", " " | split: " " %}
 {% assign divider = size[0] | default: 6 %}
 
-<h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }} ({{ divider }})</h4>
+{% assign weight = 0 %}
+{% if page.nutrition['weight'] %}
+  {% assign weight = page.nutrition['weight'] | divided_by: divider | round: 0 %}
+{% endif %}
+
+{% if weight > 0 %}
+  <h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }} ({{ divider }} = {{weight}} g)</h4>
+{% else %}
+  <h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }} ({{ divider }})</h4>
+{% endif %}
+
 <div class="flex flex-wrap" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation">
 {% assign nutrients = page.nutrition %}
 {% for nutrient in nutrients  %}
-  {% if nutrient.first == 'servingSize' %}{% continue %}{% endif %}
+  {% if nutrient.first == 'servingSize' or nutrient.first == 'weight' %}{% continue %}{% endif %}
   {% assign itemprop = nutrient.first %}
   {% assign name = site.data[site.language].nutrients[itemprop].name %}
   {% assign rounder = 2 %}

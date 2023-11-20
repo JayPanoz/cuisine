@@ -13,6 +13,18 @@ preptime: 25 min
 cooktime: 20 min
 yield: 2 croque
 
+nutrition:
+  servingSize: 2
+  weight: 612
+  calories: 609.28
+  fatContent: 17.22
+  saturatedFatContent: 8.96
+  carbohydrateContent: 71.66
+  sugarContent: 17.52
+  fiberContent: 5.45
+  proteinContent: 38.83
+  sodiumContent: 4.25
+
 components:
 - Béchamel light
 

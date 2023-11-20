@@ -17,6 +17,18 @@ yield: 4 ramequins
 
 storage: 2–3 jours au frigo dans un contenant hermétique.
 
+nutrition:
+  servingSize: 4
+  weight: 415
+  calories: 1265.18
+  fatContent: 76.86
+  saturatedFatContent: 22.19
+  carbohydrateContent: 75.76
+  sugarContent: 58.86
+  fiberContent: 13.89
+  proteinContent: 59.72
+  sodiumContent: 2.19
+
 ingredients:
 - 200g de fromage cottage
 - 35g de sirop d’érable, de sirop d’agave, ou de miel

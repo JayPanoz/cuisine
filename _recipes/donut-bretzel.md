@@ -20,6 +20,18 @@ yield: 8 donuts
 storage: 3–5 jours dans une boîte à l’abri de la lumière et de la chaleur ou emballé dans un torchon comme le pain. 2–3 mois au congélateur.
 tip: "Si tu préfères une pâte à donut un peu plus aérée pour réaliser ces bretzels, il suffit d’ajouter un œuf à la pâte. Le reste fonctionne de la même façon."
 
+nutrition:
+  servingSize: 8
+  weight: 504
+  calories: 1435.03
+  fatContent: 31.63
+  saturatedFatContent: 19.24
+  carbohydrateContent: 237.56
+  sugarContent: 66.78
+  fiberContent: 14.35
+  proteinContent: 39.01
+  sodiumContent: 2.16
+
 ingredients:
 - 250g de farine T55
 - 150ml de lait

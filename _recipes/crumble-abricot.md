@@ -13,9 +13,21 @@ courses: [dessert, goûter]
 
 preptime: 20 min
 cooktime: 25 min
-yield: 2 ramequins
+yield: 4 ramequins
 
 storage: 48 heures au frigo, ramequin recouvert de film alimentaire.
+
+nutrition:
+  servingSize: 4
+  weight: 787
+  calories: 964.58
+  fatContent: 30.80
+  saturatedFatContent: 19.48
+  carbohydrateContent: 144.39
+  sugarContent: 101.72
+  fiberContent: 18.74
+  proteinContent: 10.52
+  sodiumContent: 0.27
 
 ingredients:
 - 2 pêches

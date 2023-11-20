@@ -9,9 +9,21 @@ cuisines: [française]
 courses: [apéritif, amuse-bouche]
 
 preptime: 10 min
-yield: 12 barquettes
+yield: 6 (2 barquettes par personne)
 
-storage: 2–3 jours au réfrigérateur.
+storage: 1 jour au réfrigérateur.
+
+nutrition:
+  servingSize: 6
+  weight: 365
+  calories: 415.84
+  fatContent: 33.11
+  saturatedFatContent: 4.54
+  carbohydrateContent: 12.64
+  sugarContent: 3.60
+  fiberContent: 8.50
+  proteinContent: 14.04
+  sodiumContent: 1.09
 
 ingredients:
 - 1 endive

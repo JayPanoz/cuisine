@@ -17,6 +17,18 @@ preptime: 20 min
 cooktime: 20 min
 yield: 8 empanadas
 
+nutrition:
+  servingSize: 8
+  weight: 451
+  calories: 1074.52
+  fatContent: 26.25
+  saturatedFatContent: 8.55
+  carbohydrateContent: 145.60
+  sugarContent: 7.62
+  fiberContent: 8.16
+  proteinContent: 57.37
+  sodiumContent: 1.50
+
 components:
 - Pâte brisée au fromage blanc
 
