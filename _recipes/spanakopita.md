@@ -60,6 +60,6 @@ directions:
 
 La <i lang="gr">Spanakopita</i> peut se traduire par “tarte aux épinards”, et c’est en version friand qu’on la présente ici – ce plat étant le plus souvent consommé dans la restauration à emporter. Vous pouvez également en faire une version tarte ou tourte à partager, bien évidemment.
 
-Pour la pâte, c’est de la pâte phyllo qu’on utilise traditionnellement, une pâte sur laquelle il faut venir ajouter du gras, et qui permet donc de doser les lipides (et acides gras saturés) comme vous le souhaitez, au contraire des pâtes brisées et feuilletées industrielles. On utilise généralement du beurre fondu ou de l’huile d’olive, mais un mélange de fromage blanc et d’œuf fonctionne parfaitement, nous allons donc en profiter.
+En remplacement de la pâte, ce sont des feuilles filo/phyllo qu’on utilise traditionnellement, des feuilles sur lesquelles il faut venir ajouter du gras, ce qui permet donc de doser la matière grasse (et acides gras saturés) comme vous le souhaitez, au contraire des pâtes brisées et feuilletées industrielles. On utilise généralement du beurre fondu ou de l’huile d’olive, mais un mélange de fromage blanc et d’œuf fonctionne parfaitement, nous allons donc en profiter.
 
 Note&nbsp;: on n’ajoute pas de sel dans cette recette car la feta en contient déjà suffisamment.
