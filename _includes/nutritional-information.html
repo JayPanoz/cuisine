@@ -25,7 +25,7 @@
     <th></th>
     {% if page.nutrition['weight'] %}
     <td class="valign-bottom">100g</td>
-    <td>{{ site.data[site.language].nutrients['servingSize'].name }}: {{ divider }} ({{ servingWeight }}g)</td>
+    <td>{{ site.data[site.language].nutrients['servingSize'].name }}: {{ servingWeight }}g ({{ divider }})</td>
     {% else %}
     <td>{{ site.data[site.language].nutrients['servingSize'].name }}: {{ divider }}</td>
     {% endif %}
