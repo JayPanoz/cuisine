@@ -52,7 +52,7 @@
     {% assign weightValue = nutrient.last | divided_by: weightDivider | round: rounder %}
     <td class="right-align" itemprop="{{ itemprop }} perHundred">{{ weightValue }}{{ unit }}</td>
     {% endif %}
-    <td class="right-align" itemprop="{{ itemprop }} perServingSize">{{ value }}{{ unit }}</td>
+    <td class="right-align" itemprop="{{ itemprop }} perServing">{{ value }}{{ unit }}</td>
   </tr>
   {% endfor %}
 </table>
