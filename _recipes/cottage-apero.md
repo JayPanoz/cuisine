@@ -7,7 +7,7 @@ images:
     path: cottage-apero/cottage-apero-1.jpg
 cuisines: [américaine]
 courses: [apéritif]
-tags: [sans cuisson]
+tags: [bouchée, sans cuisson]
 
 preptime: 10 min
 yield: 18 bouchées
