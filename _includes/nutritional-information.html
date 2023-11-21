@@ -10,20 +10,27 @@
 {% assign size = sizeVal | replace: "–", " " | split: " " %}
 {% assign divider = size[0] | default: 6 %}
 
-{% assign weight = 0 %}
 {% if page.nutrition['weight'] %}
-  {% assign weight = page.nutrition['weight'] | divided_by: divider | round: 0 %}
+  {% assign servingWeight = page.nutrition['weight'] | divided_by: divider | round: 0 %}
+  {% assign weightDivider = page.nutrition['weight'] | divided_by: 100.0 %}
 {% endif %}
 
-{% if weight > 0 %}
-  <h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }} ({{ divider }} = {{weight}}&nbsp;g)</h4>
-{% else %}
-  <h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }} ({{ divider }})</h4>
-{% endif %}
+<h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }}</h4>
 
-<div class="flex flex-wrap" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation">
+<div class="mr0 xs-mr0 sm-mr1 md-mr2 lg-mr2" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation">
 {% assign nutrients = page.nutrition %}
-{% for nutrient in nutrients  %}
+<table class="nutrition-table">
+  <caption class="left-align bold">{{site.translation[site.language].nutri_table}}</caption>
+  <tr class="bg-gray white right-align bold">
+    <th></th>
+    {% if page.nutrition['weight'] %}
+    <td>100g</td>
+    <td>{{ site.data[site.language].nutrients['servingSize'].name }}: {{ divider }} ({{ servingWeight }}g)</td>
+    {% else %}
+    <td>{{ site.data[site.language].nutrients['servingSize'].name }}: {{ divider }}</td>
+    {% endif %}
+  </tr>
+  {% for nutrient in nutrients  %}
   {% if nutrient.first == 'servingSize' or nutrient.first == 'weight' %}{% continue %}{% endif %}
   {% assign itemprop = nutrient.first %}
   {% assign name = site.data[site.language].nutrients[itemprop].name %}
@@ -35,11 +42,20 @@
   
   {% assign value = nutrient.last | divided_by: divider | round: rounder %}
   {% assign unit = site.data[site.language].nutrients[itemprop].unit %}
-  <div  class="rounded center border border-1 border-gray sm-col sm-col-2 lg-col-2 mr1 mb1">
-    <h5 class="bg-gray white m0 p1 capitalize">{{ name  }}</h5>
-    <p itemprop="{{ itemprop }}">{{ value }} {{ unit }}</p>
-  </div>
+  <tr>
+    {% if nutrient.first == 'saturatedFatContent' or nutrient.first == 'sugarContent' %}
+    <th class="regular pl1">{{ name }}</th>
+    {% else %}
+    <th>{{ name }}</th>
+    {% endif %}
+    {% if page.nutrition['weight'] > 0 %}
+    {% assign weightValue = nutrient.last | divided_by: weightDivider | round: rounder %}
+    <td class="right-align" itemprop="{{ itemprop }}">{{ weightValue }} {{ unit }}</td>
+    {% endif %}
+    <td class="right-align" itemprop="{{ itemprop }}">{{ value }} {{ unit }}</td>
+  </tr>
   {% endfor %}
+</table>
 </div>
 <!-- end nutritional information -->
 {% endif %}

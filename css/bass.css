@@ -206,7 +206,7 @@ h6, .h6 { font-size: .75rem }
 .full-width { width: 100% }
 
 
-.bold    { font-weight: bold; font-weight: bold }
+.bold    { font-weight: bold; }
 .regular { font-weight: normal }
 .italic  { font-style: italic }
 .caps    { text-transform: uppercase; letter-spacing: .2em; }
@@ -915,7 +915,7 @@ hr {
 .field-light:focus {
   outline: none;
 /*  border-color: #007FFF; */
-  border-color #CB4E06;
+  border-color: #CB4E06;
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5);
 }
 

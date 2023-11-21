@@ -45,6 +45,7 @@ translation:
     directions: "Directions"
     category: "Category"
     nutritional_information: "Nutritional Information"
+    nutri_table: "Nutrition facts per…"
     component_based: 'This is a <strong class="accent">component-based recipe</strong>.'
     search: "Search"
     search_placeholder: "for title or ingredients…"
@@ -80,7 +81,8 @@ translation:
     ingredients: "Ingrédients"
     directions: "Instructions"
     category: "Catégorie"
-    nutritional_information: "Informations nutritionnelles"
+    nutritional_information: "Nutrition"
+    nutri_table: "Valeurs nutritionnelles moyennes par…"
     component_based: 'Cette recette est composée <strong class="accent">d’une ou plusieurs préparations</strong>.'
     search: "Recherche"
     search_placeholder: "Par titre ou ingrédients…"
