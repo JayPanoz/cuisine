@@ -50,9 +50,9 @@
     {% endif %}
     {% if page.nutrition['weight'] > 0 %}
     {% assign weightValue = nutrient.last | divided_by: weightDivider | round: rounder %}
-    <td class="right-align" itemprop="{{ itemprop }}">{{ weightValue }}{{ unit }}</td>
+    <td class="right-align" itemprop="{{ itemprop }} perHundred">{{ weightValue }}{{ unit }}</td>
     {% endif %}
-    <td class="right-align" itemprop="{{ itemprop }}">{{ value }}{{ unit }}</td>
+    <td class="right-align" itemprop="{{ itemprop }} perServingSize">{{ value }}{{ unit }}</td>
   </tr>
   {% endfor %}
 </table>
