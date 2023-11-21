@@ -1,61 +1,61 @@
 # See https://schema.org/NutritionInformation
 servingSize:
-  name: portion
+  name: Portion
   type: Text
   description: le nombre de portions.
   unit:
 calories:
-  name: calories
+  name: Énergie
   type: Energy
   description: Nombre de Calories.
   unit: kcal
 carbohydrateContent:
-  name: glucides
+  name: Glucides
   type: Mass
   description: Quantité de glucides en grammes.
   unit: g
 cholesterolContent:
-  name: cholestérol
+  name: Cholestérol
   type: Mass
   description: Quantité de cholestérol en milligrammes.
   unit: mg
 fatContent:
-  name: lipides
+  name: Matières grasses
   type: Mass
-  description: Quantité de lipides en grammes.
+  description: Quantité de matières grasses en grammes.
   unit: g
 fiberContent:
-  name: fibres
+  name: Fibres
   type: Mass
   description: Quantité de fibres en grammes.
   unit: g
 proteinContent:
-  name: protéines
+  name: Protéines
   type: Mass
   description: Quantité de protéines en grammes.
   unit: g
 saturatedFatContent:
-  name: saturés
+  name: Acides gras saturés
   type: Mass
   description: Quantité d’acides gras saturés en grammes.
   unit: g
 sodiumContent:
-  name: sel
+  name: Sel
   type: Mass
   description: Quantité de sel en grammes.
   unit: g
 sugarContent:
-  name: sucres
+  name: Sucres
   type: Mass
   description: Quantité de sucre en grammes.
   unit: g
 transFatContent:
-  name: trans
+  name: Acides trans
   type: Mass
   description: Quantité d’acides trans en grammes.
   unit: g
 unsaturatedFatContent:
-  name: insaturés
+  name: Acides gras insaturés
   type: Mass
   description: Quantité d’acides gras insaturés en grammes.
   unit: g

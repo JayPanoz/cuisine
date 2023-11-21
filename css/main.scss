@@ -195,3 +195,46 @@ nav.main-nav .nav-item.active .nav-label{
 li.slider-img {
 	padding: 0;
 }
+
+.nutrition-table {
+	font-size: 0.875rem;
+}
+
+.nutrition-table caption {
+	text-align: left !important;
+}
+
+.nutrition-table th {
+	border-right: 1px solid #aaa;
+}
+
+.nutrition-table th,
+.nutrition-table td {
+	padding: 0.125rem 0.25rem;
+	vertical-align: top !important;
+	border-bottom: 1px dotted #aaa;
+}
+
+.nutrition-table td {
+	text-align: right !important;
+	border-bottom: 1px dotted #aaa;
+}
+
+.nutrition-table tr:last-child th,
+.nutrition-table tr:last-child td {
+  border-bottom: 1px solid #aaa;
+}
+
+.nutrition-table td.valign-bottom {
+	vertical-align: bottom !important;
+}
+
+.pl1 {
+	padding-left: 0.5rem !important;
+}
+
+@media screen and (min-width:40em) {
+	.pl1 {
+		padding-left: 1rem !important;
+	}
+}

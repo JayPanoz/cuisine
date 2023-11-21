@@ -10,7 +10,7 @@ images:
     alt: "La texture et coulante voire gluante, et c'est quasiment impossible de ne pas obtenir le résultat escompté. Pour ajouter du croquant, on a utilisé des M&M’s Peanut dans cette version." 
 cuisines: [américaine]
 courses: [snack]
-tags: [gooey, 3 ingrédients]
+tags: [gooey, 4 ingrédients, M&M’s]
 collections: [brownie, pb, cupboard]
 diets: [Vegetarian, Vegan]
 

@@ -10,7 +10,7 @@ images:
     alt: "Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre de craquant qu’à travers les éclats de pistache."
 cuisines: [américaine]
 courses: [snack, dessert]
-tags: [cookie, sans cuisson]
+tags: [cookie, bouchée, sans cuisson]
 
 preptime: 25 min
 totaltime: 1 h
