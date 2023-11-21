@@ -17,14 +17,14 @@
 
 <h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }}</h4>
 
-<div class="mr0 xs-mr0 sm-mr1 md-mr2 lg-mr2" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation">
+<div class="mr0 xs-mr1 sm-mr1 md-mr2 lg-mr2" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation">
 {% assign nutrients = page.nutrition %}
 <table class="nutrition-table">
   <caption class="left-align bold">{{site.translation[site.language].nutri_table}}</caption>
   <tr class="bg-gray white right-align bold">
     <th></th>
     {% if page.nutrition['weight'] %}
-    <td>100g</td>
+    <td class="valign-bottom">100g</td>
     <td>{{ site.data[site.language].nutrients['servingSize'].name }}: {{ divider }} ({{ servingWeight }}g)</td>
     {% else %}
     <td>{{ site.data[site.language].nutrients['servingSize'].name }}: {{ divider }}</td>
@@ -50,9 +50,9 @@
     {% endif %}
     {% if page.nutrition['weight'] > 0 %}
     {% assign weightValue = nutrient.last | divided_by: weightDivider | round: rounder %}
-    <td class="right-align" itemprop="{{ itemprop }}">{{ weightValue }} {{ unit }}</td>
+    <td class="right-align" itemprop="{{ itemprop }}">{{ weightValue }}{{ unit }}</td>
     {% endif %}
-    <td class="right-align" itemprop="{{ itemprop }}">{{ value }} {{ unit }}</td>
+    <td class="right-align" itemprop="{{ itemprop }}">{{ value }}{{ unit }}</td>
   </tr>
   {% endfor %}
 </table>
