@@ -53,7 +53,6 @@ directions:
 - Ajoutez la levure, le lait tiède, l’extrait de vanille (et de fleur d’oranger), et la crème fraîche. 
 - Bien pétrir jusqu'à ce que la pâte soit bien lisse et ne colle quasiment plus aux doigts – au robot, quand la pâte se décolle des parois, pas plus. Elle doit néanmoins rester bien souple, donc ajustez farine et liquide en conséquence. 
 - Laissez lever la pâte dans un bol huilé recouvert d’un torchon dans un endroit chaud pendant 1h30–2h. Elle devrait avoir doublé de volume au bout de ce laps de temps. Vous pouvez également la préparer la veille et la laisser lever au frigo pendant la nuit.
-- Préchauffez le four à 160°C.
 - Sur un plan de travail fariné, dégazez puis abaissez la pâte en un rectangle de 35 cm sur 25 environ.
 - Saupoudrez-la de la moitié des pralines roses concassées puis repliez-la sur elle même.
 - Abaissez la pâte à nouveau et répétez l’opération avec la seconde moitié des pralines.
@@ -62,6 +61,7 @@ directions:
 - Placez-les en file indienne dans un moule à cake beurré et fariné.
 - Nappez le dessus de votre mélange pour dorure.
 - Laissez lever 45 minutes à 1 h.
+- Préchauffez le four à 160°C.
 - Nappez le dessus de votre mélange pour dorure une seconde fois.
 - Enfournez 30 à 35 min où jusqu’à ce que le dessus des boules soit bien doré.
 - Laissez refroidir la brioche sur une grille avant de déguster.

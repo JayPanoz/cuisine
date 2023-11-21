@@ -56,7 +56,6 @@ directions:
 - Ajoutez la levure, le lait tiède, l’extrait de fleur d’oranger, et la crème fraîche. 
 - Bien pétrir jusqu'à ce que la pâte soit bien lisse et ne colle quasiment plus aux doigts – au robot, quand la pâte se décolle des parois, pas plus. Elle doit néanmoins rester bien souple, donc ajustez farine et liquide en conséquence. 
 - Laissez lever la pâte dans un bol huilé recouvert d’un torchon dans un endroit chaud pendant 1h30–2h. Elle devrait avoir doublé de volume au bout de ce laps de temps. Vous pouvez également la préparer la veille et la laisser lever au frigo pendant la nuit.
-- Préchauffez le four à 160°C.
 - Sur un plan de travail fariné, dégazez puis abaissez la pâte en un rectangle de 35 cm sur 25 environ.
 - Saupoudrez-la de la moitié des raisins secs réhydratés puis repliez-la sur elle même.
 - Abaissez la pâte à nouveau et répétez l’opération avec la seconde moitié de raisins secs.
@@ -64,6 +63,7 @@ directions:
 - Découpez 8 parts de poids identiques et formez des boules bien rondes. 
 - Placez-les côte à côte dans un moule beurré et fariné en laissant un peu d’espace. 
 - Laissez lever 45 minutes à 1 h jusqu’à ce que ces espaces soient comblés.
+- Préchauffez le four à 160°C.
 - Enfournez 25 à 30 min où jusqu’à ce que le dessus des boules soit bien doré.
 - Laissez refroidir la brioche sur une grille avant de la glacer.
 - Préparez le glaçage à l’orange. Mélangez 50g de jus d’orange avec 50g de sucre glace. Vous pouvez ajouter du sucre glace si le résultat vous semble trop liquide ou, au contraire, du jus d’orange s’il ne l’est pas assez.

@@ -57,10 +57,10 @@ directions:
 - Laissez lever la pâte dans un bol huilé et recouvert d’un torchon dans un endroit chaud pendant 1h30–2h. Elle devrait avoir doublé de volume au bout de ce laps de temps.
 - Sur un plan de travail légèrement fariné – moins que d'habitude, la pâte doit rester un tout petit peu collante –, abaissez la pâte.
 - Façonner des bretzels, des donuts ou des petites baguettes puis déposez-les délicatement sur la plaque de cuisson en les espaçant bien. Couvrez-les d’un torchon propre pour une seconde levée de 30 minutes environ.
-- Préchauffez le four à 200°C.
 - Faites bouillir de l’eau dans une casserole avec le sel et le bicarbonate puis baissez la température pour avoir une eau tout juste frémissante.
 - Plongez ensuite les bretzels un par un dans l’eau frémissante, et attendez qu’ils remontent pour les sortir avec un écumoire et les égoutter sur de l’essuie-tout. Le passage dans le bain doit être rapide, environ 10–15 secondes.
 - Si vous souhaitez un bretzel nature, entaillez le dessus des bretzels et saupoudrez de gros sel. Sinon, sautez cette étape.
+- Préchauffez le four à 200°C.
 - Disposez les bretzels sur une plaque recouverte de papier sulfurisé.
 - Enfournez pendant 12-20 minutes où jusqu’à ce que le bretzel ait bien bruni, que les entailles se soient développées, et qu’il sonne creux quand vous tapotez le dessous.
 - Attendez quelques minutes avant de disposer les bretzels sur une grille de refroidissement. Si vous faites des bretzels nature, arrêtez-vous là.
