@@ -5,9 +5,19 @@ title: "Brioche aux myrtilles"
 images:
   - image:
     path: bb-brioche/bb-brioche-1.jpg
+    alt: "Même si elle est moelleuse au point où l’on peut venir à se demander comment elle supporte son propre poids, la brioche se découpe très bien et donne de belles tranches bien nettes."
   - image:
     path: bb-brioche/bb-brioche-2.jpg
     alt: "Il faut être délicat avec les myrtilles lors de la confection de la brioche, mais ça en vaut réellement la peine tant leur petit côté bulle qui explose sous la dent apporte de l’excitation à la mâche en contrastant avec la mie bien aérienne de la pâte."
+  - image:
+    path: bb-brioche/bb-brioche-3.jpg
+    alt: "Les myrtilles entières font tout leur effet, et amènent un joli peps qui contraste avec la légéreté de la mie à la dégustation."
+  - image:
+    path: bb-brioche/bb-brioche-4.jpg
+    alt: "Pour bien dorer le dessus et parfaire la finition, on peut élever la température à 180°C pendant 2 minutes en toute fin de cuisson. Ça permet de créer une fine croûte sur le dessus, et on ne sent pas du tout le goût du café."
+  - image:
+    path: bb-brioche/bb-brioche-5.jpg
+    alt: "Quand les myrtilles éclatent, elles rendent du jus qui vient imbiber la mie. Résultat : des flaques humides et une texture qui vient enrichir la mâche d’une brioche toute simple au demeurant."
 cuisines: [française]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, boulangerie]
