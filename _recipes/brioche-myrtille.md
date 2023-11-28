@@ -74,7 +74,7 @@ directions:
 
 ---
 
-On sait que la combinaison de yaourt grec, de myrtilles et de sirop d’érable/miel fonctionne extrêment bien. Alors pourquoi ne pas l’envisager sous une autre forme&nbsp;? Des petites bulles acidulées lovées dans la mie bien tendre et toute douce d’une brioche, c’est vraiment quelque chose à essayer pour changer des muffins, scones, tartes, crumbles et autres recettes qui viennent instinctivement à l’esprit quand on pense à la myrtille.
+On sait que la combinaison de yaourt grec, de myrtilles et de sirop d’érable/miel fonctionne extrêmement bien. Alors pourquoi ne pas l’envisager sous une autre forme&nbsp;? Des petites bulles acidulées lovées dans la mie bien tendre et toute douce d’une brioche, c’est vraiment quelque chose à essayer pour changer des muffins, scones, tartes, crumbles et autres recettes qui viennent instinctivement à l’esprit quand on pense à la myrtille.
 
 Cette brioche toute simple est excellente nature, mais son intérêt est également de pouvoir être personnalisée ou tartinée. Glaçage à la cannelle, à la vanille ou au cacao, pâte à tartiner au chocolat ou beurre de cacahuète, <i lang="en">lemon curd</i> ou confiture de fruits rouges, les options sont en effet nombreuses&nbsp;! Vous pouvez même la tremper dans un chocolat bien chaud pour un goûter ultra réconfortant.
 
