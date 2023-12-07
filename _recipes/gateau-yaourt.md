@@ -22,7 +22,7 @@ images:
     path: gateau-yaourt/gateau-yaourt-6.jpg
     alt: "Dans ce format, la mâche est un peu plus compacte et spongieuse. On ne saura trop conseiller d’y ajouter des fruits pour amener un peu d’humidité."
 cuisines: [française]
-courses: [snack, dessert, petit déjeuner]
+courses: [snack, goûter, petit déjeuner]
 
 preptime: 5 min
 cooktime: 40 min
@@ -55,10 +55,10 @@ ingredients:
 - 1 pincée de sel
 
 directions:
-- Faites fondre le beurre. Réservez.
+- Faites fondre le beurre si besoin. Réservez.
 - Dans un bol, déversez le yaourt. Nettoyez le pot pour la suite.
 - Ajoutez les œufs, l’extrait de vanille, et fouettez vivement. 
-- Ajoutez le beurre fondu.
+- Ajoutez l’huile/beurre fondu.
 - Remplissez un pot de sucre et ajoutez-le. Mélangez.
 - Tamisez 3 pots de farine avec la levure et le sel et incorporez-les au fouet. 
 - Enfournez pour 40 minutes ou jusqu’à ce que la pointe d’un couteau ressorte sèche.
