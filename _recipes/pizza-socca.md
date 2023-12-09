@@ -32,7 +32,7 @@ totaltime: 1 h 35
 
 yield: 4
 storage: 24 heures dans un conteneur hermétique au réfrigérateur.
-tip: La socca peut bien évidemment servir nature en remplacement de pain, et pourra également être accompagnée d’un dip à l’heure de l’apéro.
+tip: La socca peut bien évidemment être servie nature, et pourra également être accompagnée d’un dip à l’heure de l’apéro.
 
 nutrition:
   servingSize: 4
@@ -48,7 +48,7 @@ nutrition:
 
 ingredients:
 - 125g de farine de pois chiche
-- 250g d’eau
+- 25cl d’eau
 - 1+½ cuillère ou 20g d’huile d’olive vierge
 - 1 pincée de sel
 - 125g de mozzarella
@@ -72,7 +72,7 @@ directions:
 - Baissez à feu moyen doux. 
 - Disposez votre coulis de tomate sur la face cuite.
 - Ajoutez la garniture préalablement préparée – dans notre recette, tranches de mozza, morceaux de jambon, champignons émincés, et câpres.
-- Reversez la socca garnie dans la poêle et recouvrez avec un couvercle. 
+- Reversez la socca garnie dans la poêle et refermez-la avec un couvercle. 
 - Laissez cuire jusqu’à ce que la garniture soit cuite. Vous pouvez également cuire au four/grill si vous préférez.
 - Poivrez, saupoudrez de basilic et servez immédiatement.
 
@@ -80,6 +80,6 @@ directions:
 
 Une pizza à la poêle réalisée sur base de socca, spécialité niçoise composée de farine de pois chiches et d’huile d'olive. Elle peut également se réaliser dans un four bien chaud, à 200°C, avec idéalement la plaque elle-même préchauffée.
 
-En plus d'être sans gluten, la farine de pois chiche a la particularité d’être riche en fibres et protéines, ce qui fait mécaniquement baisser sa quantité de glucides. Grâce au bon gras de l’huile d'olive, on obtient donc une base de pizza au profil nutritionnel très intéressant, d’autant qu’on fait le plein de protéines végétales, ce qui permet de varier la source de ce macronutriment par la même occasion.
+En plus d'être sans gluten, la farine de pois chiche a la particularité d’être riche en fibres et protéines, ce qui fait mécaniquement baisser sa quantité de glucides. Grâce au bon gras de l’huile d'olive, on obtient donc une base de pizza au profil nutritionnel très intéressant. D’autant plus qu’on fait le plein de protéines végétales, ce qui permet de varier la source de ce macro-nutriment par la même occasion.
 
 Croustillante en surface et moelleuse à cœur, la socca perd de son intérêt quand elle n’est pas dégustée chaude, servez-la donc immédiatement après cuisson, ou réchauffez-la le lendemain s’il en reste. 
