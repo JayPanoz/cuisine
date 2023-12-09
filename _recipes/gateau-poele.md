@@ -26,7 +26,7 @@ images:
     alt: "Quand on croque dedans, ça fond dans la bouche."
 cuisines: [française]
 courses: [dessert, goûter, petit-déjeuner]
-tags: [allégé, sans beurre, comfort food, automne, hiver]
+tags: [allégé, sans beurre, comfort food, automne, hiver, à la poêle]
 
 preptime: 15 min
 cooktime: 30 min
