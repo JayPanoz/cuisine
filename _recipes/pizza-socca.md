@@ -49,7 +49,7 @@ nutrition:
 ingredients:
 - 125g de farine de pois chiche
 - 25cl d’eau
-- 1+½ cuillère ou 20g d’huile d’olive vierge
+- 1+½ cuillère à soupe ou 20g d’huile d’olive vierge
 - 1 pincée de sel
 - 125g de mozzarella
 - 100g de coulis de tomate
