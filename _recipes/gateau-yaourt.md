@@ -22,7 +22,7 @@ images:
     path: gateau-yaourt/gateau-yaourt-6.jpg
     alt: "Dans ce format, la mâche est un peu plus compacte et spongieuse. On ne saura trop conseiller d’y ajouter des fruits pour amener un peu d’humidité."
 cuisines: [française]
-courses: [snack, goûter, petit déjeuner]
+courses: [snack, goûter, petit-déjeuner]
 
 preptime: 5 min
 cooktime: 40 min
