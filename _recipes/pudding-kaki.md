@@ -10,7 +10,7 @@ images:
     alt: "Moelleux et sucré se marient à merveille dans cette recette."
 cuisines: [britannique]
 courses: [dessert, goûter]
-tags: [antigaspi, comfort food]
+tags: [antigaspi, comfort food, automne, hiver]
 
 preptime: 25 min
 cooktime: 55 minutes

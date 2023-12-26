@@ -10,7 +10,7 @@ images:
     alt: "Le moelleux du pain rassis imbibé de l’appareil sucré, le fondant des fruits, les arômes des épices, quoi de mieux pour finir l’automne ?"
 cuisines: [britannique]
 courses: [dessert, goûter]
-tags: [antigaspi, comfort food]
+tags: [antigaspi, comfort food, automne, hiver]
 
 preptime: 25 min
 cooktime: 55 minutes
