@@ -19,3 +19,6 @@ special:
 cupboard:
   name: "Store Cupboard"
   description: "Quick recipes with very few ingredients you can find in the cupboard."
+filo:
+  name: "Filo Pastry"
+  description: "Forget puff pastry. All hail Filo Pastry and its healthy twist on laminated dough recipes!"

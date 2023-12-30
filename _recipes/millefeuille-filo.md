@@ -16,9 +16,10 @@ cuisines: [française, grecque]
 courses: [dessert, goûter]
 diets: [lowCalorie]
 tags: [allégé, craquant, healthy]
+collections: [filo]
 
 preptime: 25 min
-cooktime: 30 min
+cooktime: 15 min
 yield: 4 millefeuilles
 
 storage: 2–3 jours au frigo dans une boîte hermétique. Pas de congélateur car la crème pâtissière ne peut se congeler.

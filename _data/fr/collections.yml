@@ -19,3 +19,6 @@ special:
 cupboard:
   name: "Le placard"
   description: "Des recettes rapides avec peu d’ingrédients que vous trouverez dans le placard de la cuisine."
+filo:
+  name: "Phyllosophie"
+  description: "Vous avez certainement dû les voir à côté des pâtes à pizza, pâtes feuilletées et brisées, les feuilles phyllo&nbsp;! Et tout comme les feuilles de brick, vous n’avez peut-être pas osé en acheter de peur de ne savoir qu’en faire. C’est exactement pour cette raison que cette collection existe."

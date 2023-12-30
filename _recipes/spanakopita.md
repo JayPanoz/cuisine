@@ -12,6 +12,7 @@ cuisines: [grecque]
 courses: [entrée, plat, déjeuner, dîner]
 diets: [lowCalorie]
 tags: [tourte, friand]
+collections: [filo]
 
 preptime: 15 min
 cooktime: 30 min
