@@ -56,7 +56,7 @@ directions:
 
 ---
 
-Un friand à emporter pour les petits-déjeuners pressés, et le tout sans compromettre la qualité <i lang="en">healthy</i> des ses ingrédients.
+Un friand à emporter pour les petits-déjeuners pressés, et le tout sans compromettre la qualité <i lang="en">healthy</i> de ses ingrédients.
 
 Même concept que pour <a href="spanakopita.html">la <i lang="gr">spanakopita</i>.</a> En remplacement de la pâte, ce sont des feuilles filo/phyllo qu’on utilise, des feuilles sur lesquelles il faut venir ajouter du gras, ce qui permet donc de doser la matière grasse (et acides gras saturés) comme vous le souhaitez, au contraire des pâtes brisées et feuilletées industrielles. On utilise généralement du beurre fondu ou de l’huile d’olive, mais un mélange de fromage blanc et d’œuf fonctionne parfaitement, nous allons donc en profiter.
 

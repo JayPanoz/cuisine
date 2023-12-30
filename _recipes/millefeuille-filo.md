@@ -14,7 +14,7 @@ images:
     alt: "On pourrait même manger le millefeuilles en étages, comme une tartine. Et c'est d’ailleurs peut-être le moyen le moins bordélique de le manger quand on y pense."
 cuisines: [française, grecque]
 courses: [dessert, goûter]
-diets: [lowCalorie]
+diets: [LowCalorie]
 tags: [allégé, craquant, healthy]
 collections: [filo]
 
