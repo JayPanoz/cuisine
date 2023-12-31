@@ -10,7 +10,7 @@ images:
     alt: "Ultra craquant à l’extérieur à la sortie du four, et bien moelleux à l’intérieur, ce friand permet de jouer sur les textures et saura mettre en avant sa farce aux épinards et à la feta." 
 cuisines: [grecque]
 courses: [entrée, plat, déjeuner, dîner]
-diets: [lowCalorie]
+diets: [LowCalorie]
 tags: [tourte, friand]
 collections: [filo]
 
