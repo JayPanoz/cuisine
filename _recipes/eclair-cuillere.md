@@ -65,7 +65,7 @@ directions:
 
 ---
 
-Des éclairs format mini, sans pâte à choux mais avec une crème pâtissière maison à la fraise aux notes de citron et basilic.
+Des éclairs format mini, sans pâte à choux mais avec une crème pâtissière maison à la fraise, soulignée par de subtiles notes citron et basilic.
 
 C'est fin, c’est frais, c’est léger, et ça fait parfaitement l’affaire pour snacker. D’autant que ça se prépare rapidement sans four, et le montage ne demande pas une énorme attention.
 

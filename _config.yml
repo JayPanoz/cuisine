@@ -7,7 +7,7 @@ language: "fr"
 lang_direction: "ltr"
 color: "#e60000"
 twitter_username: JiminyPan
-github_username:  JayPanoz
+github_username: JayPanoz
 
 # Build settings
 markdown: kramdown
