@@ -24,7 +24,7 @@ images:
   - image:
     path: buns-groseille/buns-groseille-7.jpg
     alt: "Si les buns entrent en contact à la cuisson, aucune crainte. Ils se désolidarisent en tirant à peine dessus. Certes, on ne retrouve pas la croûte à cet endroit mais la texture différe quand même largement de la mie à l’intérieur, et peut amener un intérêt supplémentaire."
-cuisines: [anglaise, française]
+cuisines: [britannique, française]
 courses: [petit-déjeuner, goûter]
 tags: [brioche, boulangerie]
 
