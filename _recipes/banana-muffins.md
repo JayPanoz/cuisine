@@ -10,6 +10,7 @@ images:
     alt: "Une mie câline et des chunks de chocolat fondu ultra gourmands."
 cuisines: [américaine]
 courses: [snack]
+tags: [antigaspi]
 
 preptime: 15 min
 cooktime: 35 min
@@ -49,9 +50,9 @@ directions:
 - Écrasez la banane en purée pour obtenir une consistance gluante. Réservez.
 - Découpez le chocolat en morceaux irréguliers. Réservez.
 - Dans un bol, tamisez les farines et mélangez. Puis ajoutez le bicarbonate et le sel en prenant soin de ne pas les mettre en contact pour le moment. Réservez.
-- Dans un autre bol, “blanchir” l’œuf avec le sucre. Il faut que la mixture prenne la couleur de votre sucre de canne complet, soit une teinte caramel. On ne cherche pas à incorporer trop d’air au mélange, juste à le faire mousser en surface.
+- Dans un autre bol, “blanchissez” l’œuf avec le sucre. Il faut que la mixture prenne la couleur de votre sucre de canne complet, soit une teinte caramel. On ne cherche pas à incorporer trop d’air au mélange, juste à le faire mousser en surface.
 - Ajoutez la purée de banane et mélangez.
-- Faites de même avec le le lait fermenté et l’extrait de vanille.
+- Faites de même avec le lait fermenté et l’extrait de vanille.
 - Mélangez le bol des ingrédients secs (farines, sel et bicarbonate) à l’aide d’un fouet puis incorporez le en 2 fois dans le bol des ingrédients humides à l’aide d’une maryse jusqu’à ce qu’il n’y ait plus de grumeau.
 - Incorporez les morceaux de chocolat de la même façon.
 - Versez dans votre moule à (mini) muffins.
