@@ -50,16 +50,16 @@ ingredients:
 - 125g de beurre demi-sel allégé 60% de MG
 - 100g de sucre en poudre
 - 1 œuf
-- 5g de levure chimique
-- café noir pour dorure
+- 5g soit 1/2 sachet de levure chimique
+- café noir refroidi pour dorure
 - 1 fève (facultatif pour les célibataires et hors-Épiphanie)
 
 directions:
-- Sortez le beurre avant d'entamer la recette. Il faut qu'il soit bien mou.
+- Sortez le beurre et coupez-le en petits dés avant d'entamer la recette. Il faut qu'il soit bien mou.
 - Préchauffez le four à 180°C.
 - Battez l'œuf en omelette.
 - Dans un bol, pétrissez tous les ingrédients jusqu'à obtenir une pâte bien lisse que vous pouvez former en boule, comme une pâte à biscuits sablés.
-- Abaissez la pâte – et planquez la fêve – puis déposez-la dans un moule bien beurré de 20–24cm de diamètre. 
+- Abaissez la pâte – et planquez la fêve tout en vous faisant un petit repère l’air de rien histoire de la choper plus facilement – puis déposez la galette dans un moule bien beurré de 20–24cm de diamètre. 
 - À l'aide d'une fourchette, confectionnez une décoration quadrillage (ou toute autre décoration plus à votre goût).
 - Nappez le dessus de la pâte avec du café froid à l'aide d'un pinceau.
 - Enfournez pour 25–30 minutes ou jusqu'à ce que la galette soit bien dorée. 
