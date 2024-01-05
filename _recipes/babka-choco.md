@@ -1,7 +1,7 @@
 ---
 
 layout: "recipe"
-title: "Babka chocolat"
+title: "Babka au chocolat"
 images:
   - image:
     path: babka-choco/babka-choco-1.jpg
@@ -72,7 +72,7 @@ directions:
   - Dans un grand bol, mélangez la farine et le sel.
   - Ajoutez l’œuf et pétrissez jusqu’à ce que les ingrédients secs soient bien humides.
   - Ajoutez la levure, la boisson boisette, l’extrait de vanille, et le yaourt grec. 
-  - Pétrissez jusqu'à ce que la pâte soit bien lisse et ne colle quasiment plus aux doigts – au robot, quand la pâte se décolle des parois, pas plus. Elle doit néanmoins rester bien souple, donc ajustez farine et liquide en conséquence. 
+  - Pétrissez jusqu'à ce que la pâte soit bien lisse et ne colle quasiment plus aux doigts – au robot, quand la pâte se décolle des parois après 10 minutes, pas plus. Elle doit néanmoins rester bien souple, donc ajustez farine et liquide en conséquence. 
   - Laissez lever la pâte dans un bol huilé recouvert d’un torchon dans un endroit chaud pendant 1h30–2h. Elle devrait avoir doublé de volume au bout de ce laps de temps. Vous pouvez également la préparer la veille et la laisser lever au frigo pendant la nuit.
 - Préparez la garniture:
   - Découpez le chocolat en tout petits morceaux. Réservez.
@@ -101,6 +101,8 @@ La babka, en version moderne. C’est en effet la [version américaine](https://
 
 Pour ce faire, nous allons twister la pâte de la [brioche aux myrtilles](brioche-myrtille.html) avec son yaourt grec, et introduire une légère note de noisette pour complimenter la garniture au chocolat. Si vous souhaitez un goût plus prononcé et une texture en plus, n’hésitez pas à ajouter des noisettes torréifiées et concassées une fois la garniture étalée, avant de rouler.
 
+La grosse différence, c’est la farine d’épeautre, qui donnera un résultat moins filandreux/nuageux, celle-ci étant plus pauvre en gluten. En général, on la mélange d’ailleurs avec de la farine de blé pour les pâtes qui ont besoin de lever. Pour assurer le coup vous pouvez la préparer la veille et laisser reposer au réfrigérateur – qui ne fait que ralentir la fermentation, pas la stopper. En contrepartie, c’est un canevas plutôt adapté à la ganache (et sa matière grasse) qui vient la garnir.
+
 La technique de montage est la même que pour les roulés (<i lang="en">rolls</i>). Et c’est bon à savoir si vous préférez consommer la brioche sous cette forme, avec des parts individuelles bien prédéfinies. Mais l’intérêt de la babka, c'est aussi et surtout le visuel qu’elle propose, avec son effet “lacet/vague” sur le dessus, et “tourbillon” une fois tranché.
 
-Au final, on obtient une brioche bien généreuse, moelleuse et humide. Même le lendemain, elle n’est pas trop sèche. Un peu plus dure, certes, mais pas sèche étant donné la matière grasse amanée par sa garniture. Certains pourraient même préférer&nbsp;!
+Au final, on obtient une brioche bien généreuse, moelleuse et humide. Le lendemain, c’est une expérience bien différente en termes de texture&nbsp;: elle est un peu plus dure, certes, mais pas non plus sèche étant donné la matière grasse de sa garniture. Certains pourraient même préférer&nbsp;!
