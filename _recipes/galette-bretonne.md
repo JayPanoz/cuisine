@@ -22,7 +22,7 @@ images:
     path: galette-bretonne/galette-bretonne-6.jpg
     alt: "C’est quand on commence à croquer dedans que le tout doit s’effriter. La galette doit reste bien beurrée, pas trop dure."
 cuisines: [française]
-courses: [dessert, goûter]
+courses: [goûter]
 tags: [fêtes, hiver, comfort food]
 collections: [cupboard]
 
@@ -30,7 +30,7 @@ preptime: 15 min
 cooktime: 30 min
 totaltime: 45 min
 
-yield: 12 part
+yield: 12 parts
 storage: 5–7 jours dans un conteneur hermétique à l’abri de la chaleur et de la lumière
 
 nutrition:
@@ -71,8 +71,8 @@ Il n’y a pas que la galette parisienne à la frangipane et ses déclinaisons d
 
 La galette sans prise de tête nous vient néanmoins de Bretagne et se réalise avec des ingrédients du placard. Ceux-ci sont ultra attendus, le goût du produit fini est connu et reconnu, et la mâche se situe à mi-chemin entre le biscuit sablé et le quatre-quart. 
 
-C’est simple, rapide, efficace et, surtout, réconfortant à cette période de l’année. Et le tout sans être forcément plus calorique que la galette parisienne – même si on ne va pas se mentir, on découpe en 12&nbsp;portions pour tenter de limiter les acides gras saturés et le sucre ajouté, et pour les plus regardants il faudra quand même équilibrer sur la journée. 
+C’est simple, rapide, efficace et, surtout, réconfortant à cette période de l’année. Et le tout sans être forcément plus calorique que la galette parisienne. On ne va pas se mentir pour autant, si on découpe en 12&nbsp;parts c’est aussi pour tenter de limiter acides gras saturés et sucre ajouté. Il n’y a aucune raison de culpabiliser quand on mange ce genre de goûter, *a fortiori* quand on en a envie mais, pour les plus regardants, il faudra quand même ré-équilibrer les macros sur la journée/semaine. 
 
 À noter pour ceux qui vont aller regarder les valeurs nutritionnelles. J’ai utilisé du beurre allégé, retiré 25g de sucre, et totalement éliminé le sel ajouté (c’est pas comme si le beurre demi-sel était déjà salé…) par rapport aux recettes qu’on peut trouver ici et là.
 
-Si ça vous paraît tristounet de prime abord, libre à vous de personnaliser la recette, bien évidemment. Avec du rhum ou des extraits, des pépites ou des fruits secs, des confitures ou des crèmes. Au final on a une base qui se suffit amplement à elle-même, comme un croissant au beurre, mais certains préféreront des versions un peu plus complexes – j’ai moi-même hésite à faire une version farine d’épeautre et caramels mous par exemple.
+Si ça vous paraît tristounet de prime abord, libre à vous de personnaliser la recette, bien évidemment. Avec du rhum ou des extraits, des pépites ou des fruits secs, des confitures ou des crèmes. Au final on a une base qui se suffit amplement à elle-même, comme un croissant au beurre, mais certains préféreront des versions un peu plus complexes. J’ai moi-même hésite à faire une version farine d’épeautre et caramels mous par exemple.
