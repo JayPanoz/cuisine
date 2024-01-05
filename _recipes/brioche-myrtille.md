@@ -59,7 +59,7 @@ directions:
 - Dans un grand bol, mélangez la farine et le sel.
 - Ajoutez l’œuf et pétrissez jusqu’à ce que les ingrédients secs soient bien humides.
 - Ajoutez la levure, le lait tiède, l’extrait de vanille, et le yaourt grec. 
-- Bien pétrir jusqu'à ce que la pâte soit bien lisse et ne colle quasiment plus aux doigts – au robot, quand la pâte se décolle des parois, pas plus. Elle doit néanmoins rester bien souple, donc ajustez farine et liquide en conséquence. 
+- Pétrissez jusqu'à ce que la pâte soit bien lisse et ne colle quasiment plus aux doigts – au robot, quand la pâte se décolle des parois, pas plus. Elle doit néanmoins rester bien souple, donc ajustez farine et liquide en conséquence. 
 - Laissez lever la pâte dans un bol huilé recouvert d’un torchon dans un endroit chaud pendant 1h30–2h. Elle devrait avoir doublé de volume au bout de ce laps de temps. Vous pouvez également la préparer la veille et la laisser lever au frigo pendant la nuit.
 - Sur un plan de travail fariné, dégazez puis abaissez la pâte en un rectangle de 35 cm sur 25 environ.
 - Saupoudrez-la de la totalité des myrtilles puis repliez-la sur elle même.
@@ -68,7 +68,7 @@ directions:
 - Placez-les en file indienne dans un moule à cake beurré et fariné.
 - Laissez lever 45 minutes à 1 h.
 - Préchauffez le four à 160°C.
-- Nappez le dessus de votre mélange avec du café froid pour dorure. Ne vous inquiétez pas, on ne sentira absolument pas le goût du café
+- Nappez le dessus de votre mélange avec du café froid pour dorure. Ne vous inquiétez pas, on ne sentira absolument pas le goût du café après cuisson.
 - Enfournez 30 à 35 min où jusqu’à ce que le dessus de la brioche soit bien doré.
 - Laissez refroidir la brioche sur une grille avant de déguster.
 
