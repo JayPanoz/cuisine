@@ -71,7 +71,7 @@ directions:
 
 ---
 
-Une recette en 3 ingrédients plus ou moins rapide à préparer. En effet, tout va dépendre de comment vous allez la préparer, avec un résultat qui change du tout au tout&nbsp;!
+Une recette en 3 ingrédients plus ou moins rapide à préparer. En effet, tout va dépendre de *comment* vous allez la préparer, avec un résultat qui change du tout au tout&nbsp;!
 
 Gâteau au yaourt, flan, ou cheesecake à la japonaise hyper aérien qui font littéralement en bouche comme un nuage, à vous de choisir. Ça montre aussi à quel point les ingrédients et techniques peuvent compter dans les recettes, et éventuellement aussi expliquer quelques ratages – <i lang="en">been there, done that</i>.
 
