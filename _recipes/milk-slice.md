@@ -11,15 +11,15 @@ images:
     alt: "Par rapport à l’original, on a certes moins de garniture et le résultat est moins net, mais le résultat n’est pas moins bon. Et c’est un nuage en bouche."
 cuisines: [italienne]
 courses: [goûter, snack]
-tags: [petit format]
+tags: [génoise, petit format]
 
 preptime: 30 min
 cooktime: 40 min
 totaltime: 4 h
-yield: 6 mini cakes
+yield: 6 mini barres
 
-storage: 3–4 jours au frigo dans une boîte hermétique. 2–3 mois au congélateur.
-tip: Pour rendre la découpe plus facile, préparez la gênoise la veille et conservez-la dans une boite métallique une fois refroidie.
+storage: 3–4 jours dans une boîte hermétique au réfrigérateur. 2–3 mois au congélateur.
+tip: Pour rendre la découpe plus facile, préparez la gênoise la veille, enrobez-la dans du film alimentaire, et conservez-la dans une boite métallique une fois refroidie.
 
 nutrition:
   servingSize: 6
@@ -51,16 +51,16 @@ directions:
   - Blanchissez l’oeuf avec le sucre jusqu’à tripler leur volume.
   - Tamisez la farine, le cacao et le sel. Mélangez.
   - Incorporez les ingrédients secs à la maryse en essayant de conserver le maximum de volume.
-  - Enfournez  pour 30–40 minutes.
+  - Enfournez pour 30–40 minutes.
   - Démoulez la gênoise de suite et laissez refroidir à l’envers, à température ambiante. Il faut que le biscuit soit bien froid pour faciliter la découpe. 
 - Préparez la garniture:
   - Mélangez le fromage blanc avec le miel jusqu'à obtenir un mélange lisse et crémeux. 
   - Ajoutez le gélifiant et mélangez bien.
   - Réservez au frigo jusqu’à ce que la garniture soit bien prise.
 - Montage: 
-  - Détaillez les bords puis tranchez le biscuit génoise pour obtenir des couches épaisses d’1cm environ.
+  - Détaillez les bords puis tranchez le biscuit génoise pour obtenir des couches épaisses d’1cm environ. Le top c’est de le faire à la lyre.
   - Fouettez la garniture pour la rendre plus élastique et étalez-la entre 2 couches pour former un gros sandwich. Vous pouvez également ajouter un peu de croquant sous forme de biscuits/cookies, chocolat ou oléagineux concassés et saupoudrés dans la crème à ce moment-là.
-  - Laissez prendre au frigo au moins 30 minutes puis couper en mini cakes.
+  - Laissez prendre au frigo au moins 30 minutes puis couper en mini barres.
 
 ---
 
