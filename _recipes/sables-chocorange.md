@@ -16,8 +16,8 @@ courses: [snack]
 tags: [biscuit, bouchée]
 
 preptime: 10 min
-cooktime: 20 min
-totaltime: 1 h
+cooktime: 18 min
+totaltime: 50 min
 yield: 12 biscuits
 
 nutrition:
@@ -63,7 +63,7 @@ directions:
 - Déposez une barre de chocolat au tiers de la pâte et repliez-la sur elle-même en prenant soin de bien souder le bord et le disposer sur le dessous.
 - Nappez le dessus de lait à l’aide d’un pinceau. 
 - Si vous avez des chutes de chocolat (poudre et très petits morceaux), saupoudrez le dessus des biscuits avec.
-- Enfournez pour 12–15 minutes ou jusqu’à ce que les bords soient légèrement dorés.
+- Enfournez pour 15–18 minutes ou jusqu’à ce que les bords soient légèrement dorés.
 - Laissez refroidir sur la plaque avant de les disposer sur une grille.
 
 ---

@@ -13,8 +13,8 @@ courses: [snack]
 tags: [biscuit, bouchée, hiver]
 
 preptime: 10 min
-cooktime: 20 min
-totaltime: 1 h
+cooktime: 15 min
+totaltime: 45 min
 yield: 24 biscuits
 
 nutrition:
