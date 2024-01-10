@@ -26,7 +26,7 @@ images:
     alt: "Le scone n’était quasiment pas sucré, il peut s’accomoder de garnitures bien différentes sans en devenir écœurant."
 cuisines: [britannique, écossaise, irlandaise]
 courses: [accompagnement, petit-déjeuner, goûter]
-tags: [quick bread]
+collections: [quickbread]
 
 preptime: 10 min
 cooktime: 20 min

@@ -14,7 +14,7 @@ images:
     alt: "Chaque tranche est très très riche en garniture. Si bien qu’elle se suffit à elle-même." 
 cuisines: [américaine, irlandaise]
 courses: [accompagnement]
-tags: [quick bread]
+collections: [quickbread]
 
 preptime: 10 min
 cooktime: 50 min

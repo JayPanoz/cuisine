@@ -14,7 +14,7 @@ images:
     alt: "Il ne faut évidemment pas s’attendre à un pain boulanger, mais ça dépanne bien sans trop demander de travail." 
 cuisines: [américaine, écossaise, irlandaise, serbe]
 courses: [accompagnement]
-tags: [quick bread]
+collections: [quickbread]
 
 preptime: 10 min
 cooktime: 45 min 

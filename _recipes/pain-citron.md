@@ -14,7 +14,7 @@ images:
     alt: "Ça reste néanmoins net à la découpe, un peu friable mais pas trop, et on peut facilement les tartiner, comme ici avec du beurre de cacahuète." 
 cuisines: [américaine, irlandaise]
 courses: [accompagnement]
-tags: [quick bread]
+collections: [quickbread]
 
 preptime: 10 min
 cooktime: 50 min

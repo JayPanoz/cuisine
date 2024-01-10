@@ -6,7 +6,7 @@ images:
   - image:
     path: rolls/rolls.jpg
 cuisines: [américaine, française]
-courses: [apéritif]
+courses: [apéritif, amuse-bouche]
 tags: [3 ingrédients, bouchée]
 collections: [cupboard]
 

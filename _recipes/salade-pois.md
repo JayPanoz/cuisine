@@ -10,7 +10,7 @@ images:
     alt: "Une belle bouchée pleine de protéines, avec le piquant de l’oignon et de la vinaigrette pour venir réhausser le tout."
 cuisines: [française]
 courses: [entrée, déjeuner, dîner]
-tags: [accompagnement, été, protéiné, récupération, hydratation, salade]
+tags: [été, protéiné, récupération, hydratation, salade]
 
 preptime: 20 min
 yield: 4 portions

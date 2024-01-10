@@ -22,3 +22,6 @@ cupboard:
 filo:
   name: "Phyllosophie"
   description: "Vous avez certainement dû les voir à côté des pâtes à pizza, pâtes feuilletées et brisées, les feuilles phyllo&nbsp;! Et tout comme les feuilles de brick, vous n’avez peut-être pas osé en acheter de peur de ne savoir qu’en faire. C’est exactement pour cette raison que cette collection existe."
+quickbread:
+  name: "Quick Bread"
+  description: "Ni pétrissage ni repos. Les pains peuvent aussi se réaliser avec de la levure chimique ou du bicarbonate, en 2 temps 3 mouvements, pour dépanner ou non."

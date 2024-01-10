@@ -6,7 +6,7 @@ images:
   - image:
     path: cottage-apero/cottage-apero-1.jpg
 cuisines: [américaine]
-courses: [apéritif]
+courses: [apéritif, amuse-bouche]
 tags: [bouchée, sans cuisson]
 
 preptime: 10 min

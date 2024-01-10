@@ -22,3 +22,6 @@ cupboard:
 filo:
   name: "Filo Pastry"
   description: "Forget puff pastry. All hail Filo Pastry and its healthy twist on laminated dough recipes!"
+quickbread:
+  name: "Quick Bread"
+  description: "No yeast, no knead. Here is a collection of quick breads you can bake in a rush."

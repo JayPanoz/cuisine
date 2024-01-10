@@ -10,7 +10,7 @@ images:
     alt: "C'est frais, ça se marie particulièrement bien avec des légumes à l’heure de l’apéro, mais ça peut aussi venir enrober des chips salées, tortilla, nachos, etc. et salades si vous préférez." 
 cuisines: [française]
 courses: [apéritif]
-tags: [accompagnement]
+tags: [sauce, dip]
 diets: [LowCalorie]
 
 preptime: 10 min

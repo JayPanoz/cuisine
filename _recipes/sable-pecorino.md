@@ -6,7 +6,7 @@ images:
   - image:
     path: sables-pecorino/sables-pecorino.jpg
 cuisines: [française]
-courses: [apéritif]
+courses: [apéritif, amuse-bouche]
 tags: [biscuit salé]
 
 preptime: 10 min

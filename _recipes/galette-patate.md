@@ -7,7 +7,6 @@ images:
     path: galette-patate/galette-patate.jpg
 cuisines: [américaine, française]
 courses: [petit-déjeuner, déjeuner, dîner]
-tags: [accompagnement]
 
 preptime: 15 min
 cooktime: 15 min

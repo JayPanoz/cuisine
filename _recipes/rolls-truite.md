@@ -22,7 +22,7 @@ images:
     path: rolls-truite/rolls-truite-6.jpg
     alt: "Elle rend la pâte légèrement humide sans pour autant gâcher le feuilleté de la pâte. On peut même la dérouler sans aucun souci."
 cuisines: [américaine, française]
-courses: [apéritif]
+courses: [apéritif, amuse-bouche]
 tags: [3 ingrédients, bouchée]
 
 preptime: 5 min

@@ -9,7 +9,7 @@ images:
     path: empanadas/empanadas-2.jpg
     alt: "À l’intérieur, c‘est simplement le contenu d’une boîte de thon aux tomates."
 cuisines: [argentine]
-courses: [apéritif]
+courses: [apéritif, amuse-bouche]
 tags: [3 ingrédients]
 collections: [cupboard]
 

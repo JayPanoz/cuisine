@@ -20,7 +20,7 @@ images:
     alt: "La garniture beurre de cacahuète et tranches de kiwi semble improbable mais cela fonctionne extrêmement bien, l’acidité du kiwi venant trancher le gras du beurre tartiné."
 cuisines: [américaine, irlandaise]
 courses: [accompagnement]
-tags: [quick bread]
+collections: [quickbread]
 
 preptime: 10 min
 cooktime: 50 min
