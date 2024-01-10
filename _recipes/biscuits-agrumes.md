@@ -46,14 +46,14 @@ directions:
 - Zestez le citron et l’orange.
 - Pressez-les ensuite pour obtenir leur jus.
 - Dans un bol, tamisez la farine, la levure, et le sel. Mélangez.
-- Dans un autre bol, fouettez le jaune d’œuf avec le sucre. Ajoutez l’huile d’olive et le jus d’agrume et mélangez.
+- Dans un autre bol, fouettez le jaune d’œuf avec le sucre. Ajoutez l’huile d’olive et le jus d’agrume. Mélangez.
 - Incorporez la farine dans le bol des ingrédients humides.
 - Même chose avec les zestes.
 - Formez une boule – ajoutez de la farine si besoin.
 - Abaissez la pâte grossièrement à la main sur le plan de travail fariné. 
 - Emballez-la dans du film alimentaire et réservez 20 minutes au réfrigérateur.
 - Préchauffez le four à 180°C.
-- Une fois la pâte bien refroidie, abaissez-la à nouveau sur le plan de travail farine, avec une épaisseur d’environ 2–3mm.
+- Une fois la pâte bien refroidie, abaissez-la à nouveau sur le plan de travail fariné, avec une épaisseur d’environ 2–3mm.
 - Découpez vos biscuits à l’aide d’un emporte-pièce et disposez-les sur une plaque recouverte de papier-cuisson.
 - Nappez le dessus de lait à l’aide d’un pinceau. 
 - Enfournez pour 12–15 minutes ou jusqu’à ce que les bords soient légèrement dorés.
