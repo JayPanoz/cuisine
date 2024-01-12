@@ -58,7 +58,7 @@ components:
 ingredients:
 - 250g de farine 00 italienne ou T45 française
 - 2 œufs
-- 100g de crème entière liquide ou épaisse (30% MG)
+- 100g de crème épaisse (30% MG)
 - 20g de sucre
 - 1 sachet soit 5g de levure boulangère sèche
 - 2 bananes mûres écrasées en purée pour la crème de fruit
