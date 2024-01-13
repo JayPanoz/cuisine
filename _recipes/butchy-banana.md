@@ -32,7 +32,7 @@ courses: [petit-déjeuner, goûter]
 tags: [antigaspi, brioche, boulangerie]
 collections: [butchy]
 
-preptime: 20 min
+preptime: 30 min
 cooktime: 35 min
 totaltime: 4 h
 
