@@ -15,12 +15,12 @@ tags: [sans cuisson, tiramisu, comfort food]
 
 preptime: 20 min
 totaltime: 4 h 20 min
-yield: 6 portions
+yield: 8 portions
 
 storage: 2 jours au réfrigérateur.
 
 nutrition:
-  servingSize: 6
+  servingSize: 8
   weight: 750
   calories: 1912.05
   fatContent: 116.76
