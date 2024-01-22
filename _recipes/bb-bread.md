@@ -66,15 +66,13 @@ ingredients:
 directions:
 - Préchauffez le four à 180°C.
 - Écrasez les bananes mûres en purée. Réservez.
-- Dans un bol, battez les œufs avec le miel et l'extrait de vanille. 
+- Dans un bol, battez/blanchissez les œufs avec l’édulcorant et l'extrait de vanille. 
 - Ajoutez la purée de banane et mélangez.
 - Ajoutez le yaourt et mélangez jusqu'à obtenir une consistance bien homogène.
 - Dans un autre bol, tamisez la farine. 
-- Ajoutez la cannelle et mélangez. 
 - Ajoutez la levure, le bicarbonate et le sel. Mélangez. 
 - Incorporez la moitié de la farine dans le bol des ingrédients humides à la maryse. 
 - Une fois que vous ne voyez plus de grumeaux, incorporez la seconde moitié. Réservez. 
-- Hachez les amandes. Incorporez-les à la pâte à l'aide d'une maryse. Vous pouvez également en réserver 12 entières pour les déposer sur le dessus des cakes.
 - Lavez les myrtilles et incorporez-les délicatement à la pâte. 
 - Versez dans votre moule à mini cakes. 
 - Enfournez pour 45 minutes ou jusqu'à ce que la pointe d'un cure-dent ressorte sèche. 
@@ -91,4 +89,5 @@ Cette recette est un cadre. Je vous encourage vivement à l’explorer, tenter d
 Je la décline moi-même beaucoup et si vous avez besoin d’inspirations, voici une liste non exhaustive&nbsp;:
 
 - [Blueberry almond bread](bb-almond-bread.html)
+- [Blueberry applesauce bread](bb-applesauce-bread.html)
 - [PB&BB bread](p3b-bread.html)
