@@ -62,7 +62,7 @@ directions:
 - Mélangez le bol des ingrédients secs à l’aide d’un fouet puis incorporez le en 2 fois dans le bol des ingrédients humides à l’aide d’une maryse jusqu’à ce qu’il n’y ait plus de grumeau.
 - Versez dans votre moule à cake.
 - Enfournez pour 45–55 minutes ou jusqu’à ce que la pointe d’un couteau ressorte avec quelques flocons de mie.
-- Laissez refroidir avant de démouler.
+- Laissez refroidir avant de démouler sur une grille.
 
 ---
 

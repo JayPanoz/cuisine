@@ -25,3 +25,6 @@ filo:
 quickbread:
   name: "Quick Bread"
   description: "No yeast, no knead. Here is a collection of quick breads you can bake in a rush."
+sweetbread:
+  name: "Sweet bread"
+  description: "Banana, applesauce, kaki puree… Gimme all the sweet breads in pocket size!"
