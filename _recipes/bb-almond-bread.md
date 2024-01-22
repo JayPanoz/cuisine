@@ -1,7 +1,7 @@
 ---
 
 layout: "recipe"
-title: "Banana bread amandes myrtilles"
+title: "Blueberry almond bread"
 images:
   - image:
     path: bb-almond-bread/bb-almond-bread-1.jpg
