@@ -17,7 +17,7 @@ images:
     alt: "La texture est visiblement la même. Ça se joue sur des détails à la mâche."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, comfort food]
+tags: [antigaspi, cake, sans beurre, sans huile, comfort food, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

@@ -26,7 +26,7 @@ images:
     alt: "Les myrtilles ont tout de même rendu leur jus en surface."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy]
+tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

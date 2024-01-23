@@ -17,7 +17,7 @@ images:
     alt: "Ils sont lovés dans la mie bien moelleuse, et apportent une résistance à la mache, du croquant, pas du fondant."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy]
+tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

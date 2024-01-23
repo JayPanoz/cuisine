@@ -23,7 +23,7 @@ images:
     alt: "C’est gourmand, et on oublie pas le beurre de cacahuète dans la pâte."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, comfort food]
+tags: [antigaspi, cake, sans beurre, sans huile, comfort food, petit format]
 collections: [pb, sweetbread]
 
 preptime: 15 min

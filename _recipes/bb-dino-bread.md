@@ -20,7 +20,7 @@ images:
     alt: "Ça donne envie de croquer dedans."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy]
+tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
 collections: [dino, sweetbread]
 
 preptime: 15 min

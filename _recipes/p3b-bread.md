@@ -14,7 +14,7 @@ images:
     alt: "En réalité, il cache un cœur au beurre de cacahuète crunchy qui le rend hyper fondant."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, comfort food]
+tags: [antigaspi, cake, sans beurre, sans huile, comfort food, petit format]
 collections: [pb, sweetbread]
 
 preptime: 15 min

@@ -17,7 +17,7 @@ images:
     alt: "À l’intérieur, le chocolat Dulcey se fond littérallement dans la mie."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, comfort food, hiver]
+tags: [antigaspi, cake, sans beurre, sans huile, comfort food, hiver, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

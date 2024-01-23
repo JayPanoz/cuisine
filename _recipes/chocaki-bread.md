@@ -14,7 +14,7 @@ images:
     alt: "La mie est visuellement la même que celle d’un bread à la banane, mais le kaki offre une résistance à la croûte. Et il est un peu raplapla."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, hiver]
+tags: [antigaspi, cake, sans beurre, sans huile, hiver, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

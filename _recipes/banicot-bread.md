@@ -20,7 +20,7 @@ images:
     alt: "Et toujours ce joli contraste de couleur. L’abricot offrant du fondant à la mâche."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [dino, sweetbread]
 
 preptime: 15 min
