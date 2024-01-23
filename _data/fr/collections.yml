@@ -26,8 +26,8 @@ quickbread:
   name: "Quick Bread"
   description: "Ni pétrissage ni repos. Les pains peuvent aussi se réaliser avec de la levure chimique ou du bicarbonate, en 2 temps 3 mouvements, pour dépanner ou non."
 sweetbread:
-  name: "Breads US sucrés"
-  description: "Banane, compote de pomme, purée de kaki… Tous les breads sucrés à l’américaine au format poche."
+  name: "Bread à l’américaine"
+  description: "Banane, compote de pomme, purée de kaki… Tous les breads sucrés au format poche."
 smore:
   name: "S’more"
   description: "Graham crackers, chocolat et marshmallows… J’en veux encore&nbsp;!"
