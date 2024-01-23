@@ -1,7 +1,7 @@
 ---
 
 layout: "recipe"
-title: "Reese’s bread"
+title: "Reese’s PB Chips bread"
 images:
   - image:
     path: reeses-bread/reeses-bread-1.jpg
@@ -71,4 +71,4 @@ directions:
 
 Vous avez acheté un sachet de pépites de beurre de cacahuète Reese’s pour réaliser [les chunkies](reeses-chunkies.html) et vous ne savez pas quoi faire du reste&nbsp;? Bonne nouvelle, nous allons les utiliser dans ce <i lang="en">banana bread</i>.
 
-La recette vous tente mais impossible d’en trouver&nbsp;? Peut-être que le <i lang="en">[fluffernutter bread](fluffernutter-bread.html)</i>, qui utilise les mini cups de la marque, pourrait vous tenter.
+La recette vous tente mais impossible d’en trouver&nbsp;? Peut-être que les <i lang="en">[PB Cups bread](PB-cups-bread.html)</i> ou <i lang="en">[fluffernutter bread](fluffernutter-bread.html)</i>, qui utilisent les mini cups de la marque, pourraient vous tenter.
