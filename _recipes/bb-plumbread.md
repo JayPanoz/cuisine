@@ -75,4 +75,4 @@ Horreur. Malheur.
 
 Vous n’avez plus qu’une moitié de barquette de myrtilles et ce n’est pas assez pour confectionner de [blueberry bread](bb-bread.html). N’ayez crainte, il y a une solution&nbsp;!
 
-Les prunes rouges. Plus sucrées que les prunes que vous connaissez par ailleurs, elles ré-équilibrent un peu l’acidité des myrtilles, si bien que certains risque même de préférer cette version. 
+Les prunes rouges. Plus sucrées que les prunes que vous connaissez par ailleurs, elles ré-équilibrent un peu l’acidité des myrtilles, si bien que certains risquent même de préférer cette version. 
