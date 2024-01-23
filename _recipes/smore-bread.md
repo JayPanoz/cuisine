@@ -18,7 +18,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
 tags: [antigaspi, cake, sans beurre, sans huile, comfort food, petit format]
-collections: [sweetbread]
+collections: [sweetbread, smore]
 
 preptime: 15 min
 cooktime: 45 min

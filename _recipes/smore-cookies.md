@@ -11,6 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, gooey]
+collections: [smore]
 
 preptime: 15 min
 cooktime: 15 min

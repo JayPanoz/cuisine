@@ -28,3 +28,6 @@ quickbread:
 sweetbread:
   name: "Sweet bread"
   description: "Banana, applesauce, kaki puree… Gimme all the sweet breads in pocket size!"
+smore:
+  name: "S’more"
+  description: "Graham crackers, chocolate and marshmallows… Gimme some more please!"

@@ -28,3 +28,6 @@ quickbread:
 sweetbread:
   name: "Breads US sucrés"
   description: "Banane, compote de pomme, purée de kaki… Tous les breads sucrés à l’américaine au format poche."
+smore:
+  name: "S’more"
+  description: "Graham crackers, chocolat et marshmallows… J’en veux encore&nbsp;!"
