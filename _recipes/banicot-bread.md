@@ -78,3 +78,5 @@ Abricot rime avec mélange Dino.
 Cette recette utilise une combinaison d’ingrédients largement utilisée par le passé (mélange Dino, fromage blanc et sucre complet), combinaison qui offre un cadre parfait pour faire ressortir le goût de l’abricot, et l’accentuer avec des notes plus subtiles ici et là.
 
 Le <i lang="en">twist</i>, c’est d’amener une note cacaotée par dessus, dont on sait qu’elle fonctionne hyper bien dans la <i lang="de">Sachertorte</i>, qui a inspiré par ailleurs des [beignets fourrés](beignets-sachertorte.html) il y a quelques mois.
+
+Pour une version simplifiée à la vanille, n’hésitez pas à aller consulter la [recette de l’Apricot Bread](apricot-bread.html).
