@@ -10,7 +10,7 @@ images:
     alt: "Bretzel apéritif, garniture au beurre de cacahuète, caramel de dattes, cacahuètes, et chocolat noir. On peut bien voir les ingrédients quand on découpe/croque dans cette confiserie, comme dans l’originale."
 cuisines: [américaine]
 courses: [snack]
-tags: [sans cuisson, sucré-salé]
+tags: [sans cuisson, sucré-salé, Reese’s]
 collections: [pb]
 
 preptime: 30 min
