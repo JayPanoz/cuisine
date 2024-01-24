@@ -59,14 +59,14 @@ directions:
 - Dans un bol, tamisez les farines. Mélangez. 
 - Ajoutez la levure, le bicarbonate, et le sel sans les mettre en contact.
 - Dans un autre bol, blanchissez les œufs avec le sucre. 
-- Ajoutez l’extrait de vanille et mélangez. 
+- Ajoutez l’extrait de vanille, le caramel liquide, et mélangez. 
 - Ajoutez la purée de banane et mélangez. 
 - Ajoutez le lait fermenté et mélangez. 
 - Mélangez les ingrédients secs. 
 - Ajoutez-en la moitié dans le bol des ingrédients humides et incorporez délicatement à la maryse. 
 - Faites de même avec la seconde moitié jusqu'à ce que vous ne voyez plus de grumeaux.
 - Versez la pâte dans un moule à mini cakes.
-- Déposez 2 noix de pécran sur chaque mini cake
+- Déposez 2 noix de pécan sur chaque mini cake
 - Enfournez pour 35 minutes ou jusqu'à ce que la pointe d'un couteau ressorte sèche. 
 - Laissez refroidir avant de démouler sur une grille. 
 
