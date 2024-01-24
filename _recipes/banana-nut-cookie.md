@@ -11,6 +11,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner, snack]
 tags: [cookie]
+collections: [oatmeal]
 
 preptime: 15 min
 cooktime: 20 min

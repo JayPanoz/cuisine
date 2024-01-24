@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf, sans beurre, sans huile]
-collections: [pb]
+collections: [pb, oatmeal]
 
 preptime: 35 min
 cooktime: 15 min

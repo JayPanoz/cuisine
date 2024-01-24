@@ -12,6 +12,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner, snack, goûter]
 tags: [healthy]
+collections: [oatmeal]
 
 preptime: 15 min
 cooktime: 55 min

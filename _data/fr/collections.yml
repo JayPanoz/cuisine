@@ -34,3 +34,6 @@ smore:
 bucks:
   name: "Buck’s"
   description: "Les recettes de Buck sont réalisées avec de la farine de Sarrasin (Buckwheat en anglais), ce qui leur confère un goût très particulier."
+oatmeal:
+  name: "Oatmeal"
+  description: "Des recettes avec de l’avoine, en son ou flocons, crus ou cuits, voire mixés en farine."

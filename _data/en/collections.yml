@@ -34,3 +34,6 @@ smore:
 bucks:
   name: "Buck’s"
   description: "Buck’s recipes are made with Buckwheat. It’s as simple as that."
+oatmeal:
+  name: "Oatmeal"
+  description: "Recipes using oatmeal, whether baked, raw, or blended."

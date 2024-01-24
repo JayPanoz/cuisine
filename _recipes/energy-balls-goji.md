@@ -11,6 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [healthy, sans cuisson, bouchée]
+collections: [oatmeal]
 diets: [Vegetarian]
 
 preptime: 10 min

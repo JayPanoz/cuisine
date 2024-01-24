@@ -10,6 +10,7 @@ images:
     alt: "On peut aussi les former dans un moule, comme ici en format financier"
 courses: [petit-déjeuner, snack]
 tags: [biscuit, bouchée, healthy]
+collections: [oatmeal]
 
 preptime: 10 min
 cooktime: 20 min
