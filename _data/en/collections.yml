@@ -31,3 +31,6 @@ sweetbread:
 smore:
   name: "S’more"
   description: "Graham crackers, chocolate and marshmallows… Gimme some more please!"
+bucks:
+  name: "Buck’s"
+  description: "Buck’s recipes are made with Buckwheat. It’s as simple as that."
