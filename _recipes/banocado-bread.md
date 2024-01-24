@@ -49,7 +49,7 @@ ingredients:
 - pincée de sel
 
 directions:
-- Préchauffez le four à 180°C.
+- Préchauffez le four à 160°C.
 - Écrasez les bananes mûres en purée. Réservez.
 - Écrasez le demi avocat de la même façon. Réservez.
 - Dans un bol, battez/blanchissez les œufs avec le sucre et l'extrait de vanille. 
