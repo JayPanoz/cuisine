@@ -26,15 +26,15 @@ tip: Pour une version encore un peu plus saine, vous pouvez remplacer le sucre p
 
 nutrition:
   servingSize: 6
-  weight: 900
-  calories: 1510.14
-  fatContent: 28.52
-  saturatedFatContent: 7.51
-  carbohydrateContent: 232.71
-  sugarContent: 93.70
+  weight: 800
+  calories: 1442.14
+  fatContent: 25.29
+  saturatedFatContent: 5.26
+  carbohydrateContent: 228.08
+  sugarContent: 89.07
   fiberContent: 36.63
-  proteinContent: 54.89
-  sodiumContent: 3.80
+  proteinContent: 50.45
+  sodiumContent: 3.63
 
 ingredients:
 - 120g de farine T150
