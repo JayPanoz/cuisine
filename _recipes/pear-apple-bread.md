@@ -49,12 +49,12 @@ ingredients:
 - 2 œufs
 - 100g de yaourt
 - 25g de sucre de canne complet
-- 2 poires soit 150g environ
+- 2 poires soit 180g environ
 - 10g de cacahuètes grillées non salées
-- ¼ cuillère à café de cannelle
-- ¼ cuillère à café de mélange 4 épices
-- ¼ cuillère à café de levure chimique
-- ¼ cuillère à café de bicarbonate alimentaire
+- ¼ cuillère à café soit 2g de cannelle
+- ¼ cuillère à café soit 2g de mélange 4 épices
+- ¼ cuillère à café soit 2g de levure chimique
+- ¼ cuillère à café soit 2g de bicarbonate alimentaire
 - Extrait de vanille 
 - Pincée de sel 
 
