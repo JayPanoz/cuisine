@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Raisin oatmeal bread"
+title: "Oatmeal bread aux raisins secs"
 images:
   - image:
     path: raisin-oatmeal-bread/raisin-oatmeal-bread-1.jpg

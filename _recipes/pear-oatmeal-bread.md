@@ -1,7 +1,7 @@
 ---
 
 layout: "recipe"
-title: "Pear oatmeal bread"
+title: "Oatmeal bread aux poires"
 images:
   - image:
     path: pear-oatmeal-bread/pear-oatmeal-bread-1.jpg
