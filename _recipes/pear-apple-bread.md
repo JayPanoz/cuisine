@@ -44,7 +44,7 @@ nutrition:
 
 ingredients:
 - 120g de flocons ou son d’avoine
-- 100g de farine T150
+- 100g de farine complète T150
 - 200g de compote de pomme 
 - 2 œufs
 - 100g de yaourt
