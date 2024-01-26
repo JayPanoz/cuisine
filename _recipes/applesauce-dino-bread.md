@@ -11,7 +11,7 @@ images:
     alt: "À l”intérieur ça reste quand même très moelleux, et c’est un beau contraste de textures finalement, pour un bread tout simple."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format, sucré-salé]
+tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
 collections: [dino, sweetbread]
 
 preptime: 15 min
