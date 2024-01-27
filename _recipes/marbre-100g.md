@@ -55,7 +55,7 @@ directions:
 - Incorporez délicatement la farine à l’aide d’une maryse.
 - Divisez la pâte en 2 parts égales.
 - Incorporez le cacao liquide froid dans une moitié de la pâte à la maryse, en essayant de conserver le maximum de volume.
-- Versez la moitié de la pâte non cacaotée dans votre moule à cakes graissé ou chemisé.
+- Versez la moitié de la pâte classique dans votre moule à cakes graissé ou chemisé.
 - Versez la totalité de la pâte cacaotée par dessus.
 - Versez le restant de la pâte classique par dessus.
 - Pour créer l’effet marbré, plongez un couteau ou un pic en bois dans la pâte et faites un aller-retour au centre, sur toute la longueur.
