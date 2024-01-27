@@ -67,7 +67,7 @@ directions:
 - Versez la moitié de la pâte dans votre moule à mini cakes.
 - Disposez une cuillère à soupe (ou environ 10g) de beurre de cacahuète au centre de la pâte.
 - Versez la seconde moitié de la pâte dans le moule et tassez.
-- Enfournez pour 35 minutes ou jusqu'à ce que la pointe d'un cure-dent ressorte sèche. 
+- Enfournez pour 45 minutes ou jusqu'à ce que la pointe d'un cure-dent ressorte sèche. 
 - Laissez refroidir avant de démouler sur une grille.
 - Une fois les cakes refroidis, faites fondre le chocolat au micro-ondes ou bain marie.
 - Trempez le dessus de chaque cake dans le chocolat fondu, ou peignez la base à l’aide d’un pinceau de cuisine.
