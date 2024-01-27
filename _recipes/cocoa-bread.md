@@ -22,6 +22,7 @@ cooktime: 35 min
 
 yield: 6 mini cakes
 storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
+tip: Si vous ne trouvez pas de farine d’avoine ou que le prix vous paraît complètement hors-sol, mixez des flocons ou du son.
 
 nutrition:
   servingSize: 6
