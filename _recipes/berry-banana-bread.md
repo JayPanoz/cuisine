@@ -71,10 +71,10 @@ directions:
 
 ---
 
-Un <i lang="en">banana bread</i> garni de gelée/confiture de fraises ou fruits rouges, que demander de mieux&nbsp;?
+Un <i lang="en">banana bread</i> garni de gelée/confiture de fraises ou fruits rouges, que demander de plus&nbsp;?
 
 Une belle couche de garniture de couleur rubis, sucrée, et qui accompagne des noix de granola/cruestli pour le croquant. Le tout dans l’écrin moelleux et humide typique du cake à la banane. 
 
-Ça change des roulés à la génoise et des petits cakes industriels que vous trouverez dans le commerce. Et emballé, c’est tout aussi transportable pour s’offrir une petite pause plaisir dans la journée. Après tout c’est l’intérêt de se format, en plus de permettre de plus facilement gérer les portions.
+Ça change des roulés à la génoise et des petits cakes industriels que vous trouverez dans le commerce. Et emballé, c’est tout aussi transportable pour s’offrir une petite pause plaisir dans la journée. Après tout, c’est l’intérêt de se format, en plus de permettre de plus facilement gérer les portions.
 
 Le summum est de faire sa garniture soi-même, mais vous pouvez bien évidemment utiliser de la confiture ou gelée toute faite. J’ai également testé une version mûre–framboise maison, et c’était tout aussi excellent.

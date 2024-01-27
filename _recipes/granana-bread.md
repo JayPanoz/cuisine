@@ -68,7 +68,7 @@ directions:
 
 ---
 
-Un <i lang="en">banana bread</i> sans œuf, qui laisse donc la possibilité d’une version vegan en choisissant un yaourt végétal.
+Un <i lang="en">banana bread</i> sans œuf, qui laisse donc l’option vegan en choisissant un yaourt végétal.
 
 Évidemment, le concept d’œuf végétal à base de graines de chia ou de graines de lin moulues doit être archi-connu et reconnu des habitués. Mais il ne fait pas de mal de rappeler qu’il existe pour ceux qui ne l’ont jamais croisé.
 

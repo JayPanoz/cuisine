@@ -70,8 +70,8 @@ directions:
 
 La recette du <i lang="en">banana bread</i> vous plaît mais vous pestez à cause du sucre ajouté&nbsp;?
 
-Eh bien cette recette à la myrtilles et deux chocolat (cacao, chocolat blanc) est la preuve qu’il est possible de faire sans, que le cake va bien lever malgré tout, sera suffisamment sucré grâce aux myrtilles et bananes, et ne perdra pas son moelleux du tout. 
+Eh bien cette recette aux myrtilles et deux chocolat (cacao, chocolat blanc) est la preuve qu’il est possible de faire sans, que le cake va bien lever malgré tout, sera suffisamment sucré grâce aux myrtilles et bananes, et ne perdra pas son moelleux du tout. 
 
-Sachant que dans un nombre conséquent de recettes, pour diminuer la part de sucre, il suffit de diviser la quantité indiquée par 2&nbsp;: et ayant réduit encore plus dans ce modèle de recette de <i lang="en">banana bread</i>, ça ne m’a pas surpris plus que ça à titre personnel. Mais ça pourra changer la vie de certaines personnes, qui pourront se régaler tout autant.
+Sachant que dans un nombre conséquent de recettes, pour diminuer la part de sucre, il suffit de diviser la quantité indiquée par 2&nbsp;; et ayant réduit encore plus dans ce modèle de recette de <i lang="en">banana bread</i>, ça ne m’a pas surpris plus que ça à titre personnel. Mais ça pourra changer la vie de certaines personnes, qui pourront se régaler tout autant.
 
 Maintenant, vous savez. Enjoy&nbsp;!

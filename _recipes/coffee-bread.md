@@ -72,7 +72,7 @@ directions:
 
 Le petit déjeuner en un <i lang="en">banana bread</i>. Ou presque. 
 
-Vous connaissez peut-être déjà le [crumble cake](berry-crumble.html) ou le [coffee cake](biscoffee-cake.html) qui ne contiennent pas de café mais l’accompagne, voici le <i lang="en">banana bread</i> cafféiné. Littéralement.
+Vous connaissez peut-être déjà le [crumble cake](berry-crumble.html) ou le [coffee cake](biscoffee-cake.html) qui ne contiennent pas de café mais l’accompagnent, voici le <i lang="en">banana bread</i> cafféiné. Littéralement.
 
 Gros coup de boost en perspective, avec une belle mise en avant du chocolat aux amandes et noisettes. Si vous préférez néanmoins quelque chose de moins intense, regardez du côté de [la version cappuccino](cappuccino-bread.html).
 

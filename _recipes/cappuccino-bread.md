@@ -75,6 +75,6 @@ directions:
 
 Moins intense et plus fruité que le [cake au café](coffee-bread.html), ce <i lang="en">banana bread</i> aux notes de caramel et de noisette pourra séduire les amateurs d’onctueux. 
 
-On retrouve en effet cette caractéristique à la dégustation, et sera même susceptible d’adoucir la pointe d’acidité et le côté pépineux de la framboise pour celles et ceux qui n’en sont pas forcément fan.
+On retrouve en effet cette caractéristique à la dégustation, et elle sera même susceptible d’adoucir la pointe d’acidité et le côté pépineux de la framboise pour celles et ceux qui n’en sont pas forcément fan.
 
 Comme avec son grand frère plus corsé, on ne tente pas d’en faire trop en termes de saveurs supplémentaires et accents. On laisse briller le duo cappuccino et framboises.

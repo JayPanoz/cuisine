@@ -74,6 +74,8 @@ Figue, miel, vinaigre balsamique. Un trio magique…
 
 Attendez. Quoi&nbsp;?
 
-Eh oui, comme avec [le miso](raisin-miso-bread.html), on utilise un condiment dont on a davantage l’habitude en salé pour ce <i lang="en">banana bread.</i> Est-ce que vous pouvez faire sans&nbsp;? Totalement. Est-ce que ça a une valeur ajoutée&nbsp;? Oui, vraiment. Une petite pointe aigre-douce qui se marie particulièrement bien au sucré du duo de figue et de miel.
+Eh oui, comme avec [le miso](raisin-miso-bread.html), on utilise un condiment dont on a davantage l’habitude en salé pour ce <i lang="en">banana bread.</i> 
+
+Est-ce que vous pouvez faire sans&nbsp;? Totalement. Est-ce que ça a une valeur ajoutée&nbsp;? Oui, vraiment. Une petite pointe aigre-douce qui se marie particulièrement bien au sucré du duo de figue et de miel.
 
 Honnêtement, essayez, vous ne serez pas déçu. 

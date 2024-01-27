@@ -70,4 +70,4 @@ Peut-être la manière la plus simple d’obtenir un <i lang="en">[oatmeal bread
 
 Pour une fois, on coupe le gras en 2. Plutôt que d’utiliser uniquement du yaourt grec, on le mélange avec de la purée de noix de cajou. Comme toutes les purées d’oléagineux, c’est une excellente source de lipides mono-insaturés (bon gras), de vitamines, minéraux, et anti-oxydants. En bonus, ça permet de varier l’apport en protéines avec des protéines végétales.
 
-La purée de noix de cajou est plutôt neutre en goût mais plus marqué en arrière-goût. Elle vous rappellera d'ailleurs peut-être le faux-mage végétal puisqu'elle en est la base ans nombre de recettes. Si vous n’en trouvez pas, le traditionnel beurre de cacahuète ou la purée d’amande feront tout aussi bien le travail. 
+La purée de noix de cajou est plutôt neutre en goût mais plus marqué en arrière-goût. Elle vous rappellera d'ailleurs peut-être le faux-mage végétal puisqu'elle en est la base dans nombre de recettes. Si vous n’en trouvez pas, le traditionnel beurre de cacahuète ou la purée d’amande feront tout aussi bien le travail. 

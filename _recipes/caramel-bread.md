@@ -74,6 +74,8 @@ directions:
 
 Avoine et caramel, un mélange qui fonctionne tout aussi bien qu’avec l’épeautre, et que nous avions déjà visité sous forme de [mini tartelettes](tartelette-avoine-caramel.html).
 
-Ça donne une recette relativement simple avec un cake qui sert véritablement de véhicule à la garniture dégoulinante de caramel – celle-ci peut d’ailleurs être amenée à s’échapper à la cuisson. Le cake n’est pas trop sec grâce au caramel, et reste bien humide, mais si vous souhaitez quelque chose de plus aérien et moelleux, remplacez un tiers de la farine d’avoine par une farine blanche plus raffinée (T45–T65).
+Ça donne une recette relativement simple avec un cake qui sert véritablement de véhicule à la garniture dégoulinante de caramel – celle-ci peut d’ailleurs être amenée à s’échapper à la cuisson. 
+
+Le cake n’est pas trop sec grâce au caramel, et reste bien humide, mais si vous souhaitez quelque chose de plus aérien et moelleux, remplacez un tiers de la farine d’avoine par une farine blanche plus raffinée (T45–T65).
 
 À noter que pour le sucré, vous avez de la marge à la baisse pour le caramel. Ça fonctionnera tout aussi bien avec 60 ou 80 grammes, tout en permettant d’économiser un peu niveau calories si vous y portez une attention particulière.

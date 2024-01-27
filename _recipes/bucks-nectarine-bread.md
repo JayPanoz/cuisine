@@ -77,4 +77,4 @@ directions:
 
 Les <i lang="en">banana breads</i> de Buck sont réalisés avec de la farine de seigle. Elle est ici mélangée avec de la farine de blé, donc cette recette n’est pas sans gluten – désolé, pas essayé avec 100% farine de sarrasin donc je ne pourrai pas dire ce que ça donne.
 
-Variante nectarine et allégée de la version [Peach & Cream](bucks-peach-bread.html), la version nectarine n’en est pas moins délicieuse. Alors oui, les différences avec la pêche sont ténues, mais ça permet de changer, surtout que la nectarine a tendance à rendre davantage de jus.
+Variante nectarine et allégée de la version [Peach & Cream](bucks-peach-bread.html), cette version n’en est pas moins délicieuse. Alors oui, les différences avec la pêche sont ténues, mais ça permet de changer, surtout que la nectarine a tendance à rendre davantage de jus.

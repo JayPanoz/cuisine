@@ -68,6 +68,6 @@ directions:
 
 L’avocat, ça fonctionne avec les brownies, aucune raison que ça ne fonctionne pas aussi pour nos <i lang="en">banana breads</i> au format mini.
 
-L’idée au fond, c’est simplement de remplacer le gras de la recette originale (e.g. beurre), par quelque chose qui l’est moins, et qui apporte des acides gras différents (insaturés), en plus de vitamines et de micro-nutriments. 
+L’idée, au fond, c’est simplement de remplacer le gras de la recette originale (e.g. beurre), par quelque chose qui l’est moins, et qui apporte des acides gras différents (insaturés), en plus de vitamines et de micro-nutriments. 
 
 L’avocat étant plutôt neutre en goût, on ne le ressent pas du tout à la dégustation, aucune inquiétude à avoir de ce côté. Au contraire, ça permet de faire briller le chocolat, en prenant soin d’ajouter des morceaux très fin pour créer une texture hyper fondante supplémentaire. Vous pouvez faire sans mais honnêtement, les <i lang="en">breads</i> seront peut-être un peu trop fades sans.

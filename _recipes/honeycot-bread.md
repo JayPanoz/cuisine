@@ -76,6 +76,6 @@ directions:
 
 Après le [fruit frais](apricot-bread.html) puis la [confiture](herbs-apricot-bread.html), on complète la trilogie avec le fruit séché.
 
-Abricot, miel, fleur d’oranger. Un autre trio assez évident… on peut bien évidemment penser aux abricots rôtis au miel, ou à la pannacotta fleur d’oranger confiture d’abricot. Pour ne citer que ceux qui arrivent dans les premiers résultats de recherche de la combinaison.
+Abricot, miel, fleur d’oranger. Un autre trio assez évident… on peut bien évidemment penser aux abricots rôtis au miel, ou à la <i lang="it">pannacotta</i> fleur d’oranger confiture d’abricot. Pour ne citer que ceux qui arrivent dans les premiers résultats de recherche de la combinaison.
 
 Vous l’aurez également compris, on peut substituer fruit frais et fruit séché. Les ingrédients de 2 recettes changent, mais la formule reste très très proche. Vous obtiendrez juste une mâche différente.

@@ -71,7 +71,7 @@ directions:
 
 ---
 
-Ce petit cake au kaki, c’est plus ou moins la preuve que vous pouvez remplacer de la banane par de la compote de pomme dans la recettes des petits <i lang="en">breads</i> sucrés, et vous en tirez sans trop de mal.
+Ce petit cake au kaki, c’est plus ou moins la preuve que vous pouvez remplacer de la banane par de la compote de pomme dans la recettes des petits <i lang="en">breads</i> sucrés, et vous en tirer sans trop de mal.
 
 Car oui, ici, on fait moitié–moitié. Et ça donne un résultat hyper atypique, très différent du <i lang="en">banana bread</i> ou de l’<i lang="en">applesauce bread</i>. On ne peut pas vraiment dire qu’on se situe à mi-chemin, on se trouve plutôt dans le domaine du <i lang="en">bread pudding</i> renforcé, qui habille tout juste les morceaux de kaki pour lui donner une structure.
 

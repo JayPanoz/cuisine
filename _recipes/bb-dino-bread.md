@@ -74,4 +74,4 @@ directions:
 
 Le mélange de farines Dinosaure pour sublimer le [banana bread aux myrtilles](bb-bread.html). 
 
-Il n’y a pas grand-chose à ajouter. Si vous adorez ce mélange de farines, c’est probablement votre <i lang="en">go-to</i> pour les pains à la banane ou compote de pomme. Rien ne pourra le surpasser. Absolument rien.
+Il n’y a pas grand-chose à ajouter. Si vous adorez ce mélange de farines, c’est probablement votre <i lang="en">go-to</i> pour les cakes à la banane ou compote de pomme. Rien ne pourra le surpasser. Absolument rien.

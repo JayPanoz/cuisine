@@ -77,6 +77,6 @@ Un petit déjeuner à base de flocons d’avoine mais en version individuelle po
 
 Beaucoup de fibres et de protéines pour bien commencer la journée, notamment grâce à l’apport des graines de chia, qui semble minime vu comme ça mais peut radicalement changer certaines valeurs nutritionnelles, en plus d’apporter omega-3 et pas mal de micro-nutriments. Ce n’est pas pour rien qu’on le considère comme un ingrédient santé.
 
-Envie d’une version sans farine&nbsp;? Allez regarder du côté de l’OG (<i lang="en">Original Gangster</i>), [l’oatmeal bread](oatmeal-bread.html), plus moelleuse et moins ferme, un petit nuage qui fondrait presque en bouche.
+Envie d’une version sans farine&nbsp;? Allez regarder du côté de l’OG (<i lang="en">Original Gangster</i>), [l’oatmeal bread](oatmeal-bread.html), plus moelleux et moins ferme, un petit nuage qui fondrait presque en bouche.
 
 Pas envie d’allumer le four&nbsp;? Consultez la recette des <i lang="en">[overnight oats](overnight-oats.html).</i> Les mêmes bénéfices en 5 minutes chrono.

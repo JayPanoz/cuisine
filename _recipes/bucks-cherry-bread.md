@@ -69,4 +69,4 @@ directions:
 
 Les <i lang="en">banana breads</i> de Buck sont réalisés avec de la farine de seigle. Elle est ici mélangée avec de la farine de blé, donc cette recette n’est pas sans gluten – désolé, pas essayé avec 100% farine de sarrasin donc je ne pourrai pas dire ce que ça donne.
 
-Sarrasin et cerise, on sait déjà que ça fonctionne plutôt très bien, preuve en est les [blondies d’Em](Em-blondies.html). Et il n’y a rien de plus à ajouter pour cette recette de <i lang="en">banana bread</i>. On reste sur un accord tout simple, sans fioritures. Parfois c’est bien aussi de sélectionner de bon produits et de les mettre en valeur.
+Sarrasin et cerise, on sait déjà que ça fonctionne plutôt très bien, preuves en sont les [blondies d’Em](Em-blondies.html). Et il n’y a rien de plus à ajouter pour cette recette de <i lang="en">banana bread</i>. On reste sur un accord tout simple, sans fioritures. Parfois c’est bien aussi de sélectionner de bons produits et de les mettre en valeur.

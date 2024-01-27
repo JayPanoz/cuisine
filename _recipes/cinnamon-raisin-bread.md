@@ -69,6 +69,6 @@ directions:
 
 ---
 
-Un petit cake qui s’inspire des <i lang="en">cinnamon rolls</i>, et donc beaucoup plus sucré que les autres recettes que vous trouverez dans ma cuisine. Certaines personnes pourraient même être tentée d’inverser les quantités de sucre et de raisins secs – et il n’y a aucun mal à ça, ça changera simplement la texture, et les valeurs nutritionnelles.
+Un petit cake qui s’inspire des <i lang="en">cinnamon rolls</i>, et donc beaucoup plus sucré que les autres recettes que vous trouverez dans ma cuisine. Certaines personnes pourraient même être tentées d’inverser les quantités de sucre et de raisins secs – et il n’y a aucun mal à ça, ça changera simplement la texture, et les valeurs nutritionnelles.
 
 Bref, mieux vaut ne pas en abuser, même s’il propose pas mal de fibres et protéines. Il y a quand même une quantité significative de sucre ajouté, qui pourra être éventuellement utile pour alimenter une activité sportive, mais une version au miel conviendra probablement mieux à cet objectif. En étant honnête…

@@ -78,4 +78,4 @@ directions:
 
 Il n’y a pas que le <i lang="en">banana bread</i> dans le catalogue des pains sucrés, il y a également l’<i lang="en">applesauce bread</i>, pour lequel la compote de pomme remplace la banane écrasée en purée.
 
-On obtient un résultat différent, certes, mais pas déplaisant. Un peu moins aéré, un peu moins sucré, mais à peine moins humide et moelleux. Et puis ça fonctionne mieux pour certaines associations. Bref, il ne faut pas hésitez à substituer ces 2 ingrédients de temps en temps.
+On obtient un résultat différent, certes, mais pas déplaisant. Un peu moins aéré, un peu moins sucré, mais à peine moins humide et moelleux. Et puis ça fonctionne mieux pour certaines associations. Bref, il ne faut pas hésiter à substituer ces 2 ingrédients de temps en temps.
