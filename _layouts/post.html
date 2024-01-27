@@ -4,18 +4,29 @@
   {% include head.html %}
 
   <body>
-  	{% include header.html %}
+    {% include header.html %}
 
     {% include nav.html %}
 
-    <div class="post container max-width-2 px2">
-    	<h1>{{ page.title }}</h1>
-        {{ content }}
-        <p class="meta bg-darken-1 p2 mb4">Publié par <a href="https://github.com/{{ page.author }}">@{{ page.author }}</a> le {{ page.date | date: "%e %b, %Y"}}</p>
+    <div class="page-content">
+      <div class="container">
+        {% if page.images and page.images.size != 0 %}
+        <div class="xs-p2">
+          {% include hero-slider.html images=page.images %}
+        </div>
+        {% endif %}
+
+        <div class="post container max-width-2 px2">
+          <h1>{{ page.title }}</h1>
+          {{ content }}
+          <p class="meta bg-darken-1 p2 mb4">Publié par <a href="https://github.com/{{ page.author }}">@{{ page.author
+              }}</a> le {{ page.date | date: "%e %b, %Y"}}</p>
+        </div>
+      </div>
     </div>
 
-  {% include footer.html %}
-
+    {% include footer.html %}
+    <script src="{{site.baseurl}}/js/swiffy-slider.min.js" charset="utf-8" defer></script>
   </body>
 
 </html>

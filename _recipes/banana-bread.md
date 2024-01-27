@@ -18,6 +18,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
 tags: [antigaspi, cake, sans beurre, sans huile, healthy]
+collections: [sweetbread]
 
 preptime: 15 min
 cooktime: 55 min
@@ -62,7 +63,7 @@ directions:
 - Mélangez le bol des ingrédients secs à l’aide d’un fouet puis incorporez le en 2 fois dans le bol des ingrédients humides à l’aide d’une maryse jusqu’à ce qu’il n’y ait plus de grumeau.
 - Versez dans votre moule à cake.
 - Enfournez pour 45–55 minutes ou jusqu’à ce que la pointe d’un couteau ressorte avec quelques flocons de mie.
-- Laissez refroidir avant de démouler.
+- Laissez refroidir avant de démouler sur une grille.
 
 ---
 
@@ -70,4 +71,4 @@ Classique des classiques des pains sucrés à l’américaine, le <i lang="en">b
 
 L’histoire veut que la popularité du <i lang="en">banana bread</i> soit intimement liée à la création des agents levants (levure chimique, bicarbonate alimentaire) dans les années 1930, mais qu’il est difficile d’affirmer avec certitude si c’est un pur produit de la Grande Dépression – utiliser les bananes mûres plutôt que de les jeter –, ou du <i lang="en">marketing</i> des marques de préparations et ingrédients culinaires. La vérité se trouve probablement entre les deux.
 
-L’important, c’est d’obtenir un cake super moelleux sans ajouter trop de sucre, et qu’on peut décliner de 1001 façons. On l’accompagne souvent de noix ou de pépites de chocolat, mais la banane est une saveur versatile qui promet une variété impressionnante de mariages heureux…
+L’important, c’est d’obtenir un cake super moelleux sans ajouter trop de sucre, et qu’on peut décliner de [1001 façons](../collections.html#sweetbread). On l’accompagne souvent de noix ou de pépites de chocolat, mais la banane est une saveur versatile qui promet une variété impressionnante de mariages heureux…

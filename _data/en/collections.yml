@@ -25,3 +25,15 @@ filo:
 quickbread:
   name: "Quick Bread"
   description: "No yeast, no knead. Here is a collection of quick breads you can bake in a rush."
+sweetbread:
+  name: "Sweet bread"
+  description: "Banana, applesauce, kaki puree… Gimme all the sweet breads in pocket size!"
+smore:
+  name: "S’more"
+  description: "Graham crackers, chocolate and marshmallows… Gimme some more please!"
+bucks:
+  name: "Buck’s"
+  description: "Buck’s recipes are made with Buckwheat. It’s as simple as that."
+oatmeal:
+  name: "Oatmeal"
+  description: "Recipes using oatmeal, whether baked, raw, or blended."

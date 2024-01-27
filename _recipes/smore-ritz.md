@@ -27,7 +27,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [craquant, 3 ingrédients, sucré-salé]
-collections: [cupboard]
+collections: [cupboard, smore]
 
 preptime: 10 min
 cooktime: 10 min

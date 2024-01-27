@@ -11,12 +11,14 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner, snack]
 tags: [cookie]
+collections: [oatmeal]
 
 preptime: 15 min
 cooktime: 20 min
 yield: 12 cookies
 
 storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la chaleur. 2–3 mois au congélateur.
+tip: Si vous ne trouvez pas de farine d’avoine ou que le prix vous paraît complètement hors-sol, mixez des flocons ou du son.
 
 nutrition:
   servingSize: 12

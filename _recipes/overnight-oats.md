@@ -11,6 +11,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner]
 tags: [sans cuisson, healthy]
+collections: [oatmeal]
 
 preptime: 5 min
 totaltime: 6 h 

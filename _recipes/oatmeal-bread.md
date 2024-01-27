@@ -11,7 +11,8 @@ images:
     alt: "Une mie câline et bien aérée qui n’a rien à envier à celles que l’on obtient avec de la farine plus conventionnelle. Et puis des inserts de morceaux de figue pour la gourmandise."
 cuisines: [américaine]
 courses: [petit-déjeuner, snack, goûter]
-tags: [healthy]
+tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+collections: [oatmeal, sweetbread]
 
 preptime: 15 min
 cooktime: 55 min

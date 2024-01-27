@@ -25,3 +25,15 @@ filo:
 quickbread:
   name: "Quick Bread"
   description: "Ni pétrissage ni repos. Les pains peuvent aussi se réaliser avec de la levure chimique ou du bicarbonate, en 2 temps 3 mouvements, pour dépanner ou non."
+sweetbread:
+  name: "Bread américain"
+  description: "Banane, compote de pomme, purée de kaki… Tous les breads sucrés au format poche."
+smore:
+  name: "S’more"
+  description: "Graham crackers, chocolat et marshmallows… J’en veux encore&nbsp;!"
+bucks:
+  name: "Buck’s"
+  description: "Les recettes de Buck sont réalisées avec de la farine de Sarrasin (Buckwheat en anglais), ce qui leur confère un goût très particulier."
+oatmeal:
+  name: "Oatmeal"
+  description: "Des recettes avec de l’avoine, en son ou flocons, crus ou cuits, voire mixés en farine."

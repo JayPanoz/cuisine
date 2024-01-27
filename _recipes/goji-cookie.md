@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, sans œuf, sans beurre, sans huile]
-collections: [pb]
+collections: [pb, oatmeal]
 diets: [Vegetarian, Vegan]
 
 preptime: 15 min
@@ -19,6 +19,7 @@ cooktime: 15 min
 yield: 8 cookies de 10 cm
 
 storage: 5–7 jours dans une boîte à biscuits, séparés avec du papier cuisson si besoin.
+tip: Si vous ne trouvez pas de farine d’avoine ou que le prix vous paraît complètement hors-sol, mixez des flocons ou du son.
 
 nutrition:
   servingSize: 8

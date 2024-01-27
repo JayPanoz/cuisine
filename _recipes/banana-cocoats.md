@@ -11,6 +11,7 @@ images:
 cuisines: [américaine]
 courses: [snack]
 tags: [cookie, healthy]
+collections: [oatmeal]
 
 preptime: 10 min
 cooktime: 20 min

@@ -10,7 +10,7 @@ images:
     alt: "Une mie câline et des chunks de chocolat fondu ultra gourmands."
 cuisines: [américaine]
 courses: [snack]
-tags: [antigaspi]
+tags: [antigaspi, petit format]
 
 preptime: 15 min
 cooktime: 35 min
