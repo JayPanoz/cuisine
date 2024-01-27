@@ -38,7 +38,7 @@ Vous les trouverez dans une toute nouvelle collection [Bread Américain](../coll
 
 Ça a demandé un temps absolument monstrueux à publier, c’est le fruit de plus d’une année à perfectionner la recette pour permettre 1001 déclinaisons à base d’ajustements et de substitutions. Évidemment, aucun suspens vu la quantité qui en résulte&nbsp;: ça fonctionne.
 
-Des centaines de bananes à faire mûrir, des accords à trouver, des petits détails à changer ici et là, et tout un tas de choses à expérimenter puis à tester. Des milliers de Calories ingurgitées puis brûlées lors d’activités physiques, ce qui démontre aussi qu’ils ne sont un pas mauvais carburant.
+Des centaines de bananes à faire mûrir, des accords à trouver, des petits détails à changer ici et là, et tout un tas de choses à expérimenter puis à tester. Des milliers de Calories ingurgitées puis brûlées lors d’activités physiques, ce qui démontre aussi qu’ils ne sont pas un trop mauvais carburant.
 
 Au fond, l’idée est super simple&nbsp;: baisser la quantité de mauvaises graisses (acides gras saturés) et de sucre, et booster la quantité de fibres et protéines. Ce faisant, on obtient des mini cakes bien portionnés et consommables à tout moment de la journée, y compris au petit-déjeuner pour ceux qui n’arrivent pas à envisager le salé le matin.
 
