@@ -17,7 +17,7 @@ images:
     alt: "Le beurre a durci à la cuisson et offre un beau ruban à mâcher, surtout qu’il dévoile le croquant des éclats de cacahuète."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
 collections: [pb, sweetbread]
 
 preptime: 15 min
