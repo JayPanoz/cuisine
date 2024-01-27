@@ -4,16 +4,16 @@ layout: "recipe"
 title: "PB Banana bread"
 images:
   - image:
-    path: pb-banana-bread/pb-banana-bread-1.jpg
+    path: PB-banana-bread/pb-banana-bread-1.jpg
     alt: "Vu du dessus, le banana bread dans toute sa splendeur. Bien doré, texturé à l’aide du son d’avoine, et craquelé après avoir bien levé à la cuisson."
   - image:
-    path: pb-banana-bread/pb-banana-bread-2.jpg
+    path: PB-banana-bread/pb-banana-bread-2.jpg
     alt: "Vu de profil, la coque en chocolat, peinte à l’aide d’un pinceau. Cela donne des lignes en relief."
   - image:
-    path: pb-banana-bread/pb-banana-bread-3.jpg
+    path: PB-banana-bread/pb-banana-bread-3.jpg
     alt: "À l’intérieur, le banana bread d’excellence, avec une mie humide et moelleuse, enrichie de beurre de cacahuète."
   - image:
-    path: pb-banana-bread/pb-banana-bread-4.jpg
+    path: PB-banana-bread/pb-banana-bread-4.jpg
     alt: "Le beurre a durci à la cuisson et offre un beau ruban à mâcher, surtout qu’il dévoile le croquant des éclats de cacahuète."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
