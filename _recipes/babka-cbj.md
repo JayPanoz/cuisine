@@ -15,7 +15,7 @@ images:
   - image:
     path: babka-cbj/babka-cbj-4.jpg
     alt: "La mie bien filandreuse dévoile cette superposition qui offre une belle humidité à la mâche. Purée de cajou et gelée de fraises restent bien superposées, ne se mélangent absolument pas, et promettent une belle générosité."
-   - image:
+  - image:
     path: babka-cbj/babka-cbj-5.jpg
     alt: "Naturellement, on trépigne de croquer dans chaque tranche pour en arriver à ces petites mares de purée de cajou et confiture de fraises ultra onctueuses."
 cuisines: [américaine, juive, polonaise, ukrainienne]
