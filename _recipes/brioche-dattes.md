@@ -24,9 +24,9 @@ images:
   - image:
     path: brioche-dattes/brioche-dattes-7.jpg
     alt: "Le caramel de dattes est bien lisse est s’est gélifié à la cuisson. Il amène l’humidité et le fondant à la brioche."
-cuisines: [américaine]
+cuisines: [française]
 courses: [petit-déjeuner, goûter]
-tags: [brioche, roll, boulangerie]
+tags: [brioche, roll, boulangerie, blender, mixer]
 
 preptime: 45 min
 cooktime: 35 min
@@ -56,7 +56,7 @@ ingredients:
 - 1 pâte à brioche au lait pour Rolls
 - 1 portion voire 1.5 portion de caramel de dattes pour assurer le coup
 - 80g d’amandes
-- café noir froid pour dorure
+- café noir refroidi pour dorure
 
 directions:
 - Préparez la pâte à brioche.
