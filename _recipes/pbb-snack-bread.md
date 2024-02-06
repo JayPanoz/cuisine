@@ -57,15 +57,16 @@ ingredients:
 directions:
 - Préparez la fourrage au beurre de cacahuète. Réservez.
 - Préchauffez le four à 180°C.
-- Écrasez la banane mûre en purée. Pour mettre en valeur la banane, vous pouvez conserver de petits morceaux dans la purée. Réservez.
+- Écrasez la banane mûre en purée. Réservez.
 - Dans un bol, blanchissez l’œuf avec le sucre.
 - Ajoutez l'extrait de vanille et mélangez. 
 - Ajoutez la purée de banane et mélangez.
 - Ajoutez le yaourt et mélangez jusqu'à obtenir une consistance bien homogène.
-- Dans un autre bol, tamisez la farine. Ajoutez la levure, le bicarbonate et le sel. Mélangez. 
+- Dans un autre bol, tamisez la farine et le cacao. Mélangez. 
+- Ajoutez la levure, le bicarbonate et le sel. Mélangez. 
 - Incorporez la moitié de la farine dans le bol des ingrédients humides à la maryse. 
 - Une fois que vous ne voyez plus de grumeaux, incorporez la seconde moitié.
-- Versez la moitié de la pâte dans votre moule à mini-cake. Il faut compter environ 1 cuillère à soupe par empreinte. Tassez bien.
+- Versez la moitié de la pâte dans votre moule à mini-cake. Il faut compter environ 1.5 cuillère à soupe par empreinte. Tassez bien.
 - Divisez le fourrage au beurre de cacahuète en 6 morceaux de poids identique et formez des boudins.
 - Déposez les boudins au centre de chaque mini-cake.
 - Recouvrez avec la moitié restante de pâte et prenez soin de bien tasser.
