@@ -17,9 +17,9 @@ images:
     alt: "Ça rappelle un peu le gâteau invisible aux pommes tout en conservant l’attrait du banana bread."
 cuisines: [américaine, française]
 courses: [snack]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format, automne, hiver]
+tags: [allégé, antigaspi, cake, sans beurre, sans huile, healthy, petit format, automne, hiver]
 collections: [sweetbread]
-diets: [LowCalorie]
+diets: [LowCalorie, LowFat]
 
 preptime: 15 min
 cooktime: 35 min
@@ -75,5 +75,7 @@ directions:
 À l’intersection du <i lang="en">banana bread</i>, <i lang="en">apple fritter</i>, et gâteau invisible, cette recette met en valeur l’association de pomme et de banane. Avec, bien évidemment, les épices de saison.
 
 De beaux morceaux de pommes viennent en effet se lover dans tout juste ce qu’il faut de pâte pour les agglomérer, pâte empruntée au cake à la banane pour amener son moelleux et sa douceur incomparables.
+
+Ils sont présentés sous la forme de mini-cakes, mais rien ne vous empêche de les confectionner à l’arrache comme des cookies/clusters, sans moule. Aussi bien au four qu’à la poêle d’ailleurs. 
 
 Si vous avez aimé le [gâteau à la poêle](gateau-poele.html), il y a de grandes chances que ce petit snack peu calorique vous convienne tout autant. Les plus observateurs remarqueront d’ailleurs qu’ils ont de la marge pour personnaliser la recette et y ajouter des ingrédients.

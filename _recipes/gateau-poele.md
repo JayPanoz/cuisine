@@ -27,6 +27,7 @@ images:
 cuisines: [française]
 courses: [dessert, goûter, petit-déjeuner]
 tags: [allégé, sans beurre, comfort food, automne, hiver, à la poêle]
+diets: [LowCalorie]
 
 preptime: 15 min
 cooktime: 30 min
