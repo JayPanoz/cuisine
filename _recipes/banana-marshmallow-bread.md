@@ -48,7 +48,7 @@ ingredients:
 - 100g de boisson végétale fermentée (amande intense pour ma part)
 - 2 œufs
 - 30g de mini-marshmallows
-- 15g de sucre
+- 15g de sucre brun/cassonnade
 - ½ cuillère à café soit 3g de bicarbonate alimentaire
 - ¼ cuillère à café soit 2g de levure chimique
 - extrait de vanille
@@ -76,7 +76,7 @@ directions:
 
 Tout simple, tout doux, cette recette fait incontestablement partie des <i lang="en">banana breads</i> aux marshmallows puisque leur texture rappelle le [Fluffernutter](fluffernutter-bread.html) et le [S’more](smore-bread.html), mais en version simplifiée.
 
-Histoire de bien insister sur le côté cake sucré à l’américaine, on utilise néanmoins du lait fermenté. Et j’ai décidé de le réaliser à la boisson végétale pour apporter une légère note “amande intense” qui se marie bien avec la banane.
+Histoire de bien insister sur le côté cake sucré à l’américaine, on utilise néanmoins du lait fermenté. Et j’ai décidé de le réaliser à la boisson végétale pour apporter une légère note “amande intense” qui se marie bien avec la banane. Et puis, bien sûr, du sucre brun.
 
 Trop simple&nbsp;? Pas forcément si vous cherchez le moelleux du <i lang="en">banana bread</i> et le <i lang="en">gooey</i> supplémentaire qu’apportent les marshmallows. Et puis il existe pas mal de snacks composés sur cet accord&nbsp;: les marshmallows en forme de banane bien évidemment, mais également les Little Debbie’s Pies ou le banana pudding au fluff.
 
