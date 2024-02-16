@@ -51,7 +51,7 @@ ingredients:
 - 1 œuf
 - 50g de chocolat blanc
 - 50g de cacahuètes
-- ¼ cuillère à café soit 2g de levure chimique
+- ¼ cuillère à café soit 2g de poudre à lever ou levure chimique sans gluten
 - ⅛ cuillère à café soit 1g de bicarbonate alimentaire
 - extrait de vanille
 
