@@ -61,4 +61,4 @@ Le cookie maison n’est pas le cookie industriel qui est soit moelleux soit cro
 
 Notez qu’en jouant sur la quantité de sucre et de chocolat, vous pouvez contrôler comment le cookie va s'étaler. Plus il y aura de sucre, plus il sera fin, croquant, et large. Plus il y aura de chocolat, plus il sera haut, moelleux et, bien évidemment chocolaté.
 
-Pour le cookie 100% américain, vous pouvez aussi remplacer la cuillère à café de levure par une 1/2 cuillère à café de levure et 1/2 cuillère à café de bicarbonate alimentaire.
+Pour le cookie 100% américain, vous pouvez aussi remplacer la ½ cuillère à café de levure par une ¼ cuillère à café de levure et ⅛ cuillère à café de bicarbonate alimentaire.
