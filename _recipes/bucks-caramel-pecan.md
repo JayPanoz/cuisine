@@ -66,7 +66,7 @@ directions:
 - Ajoutez-en la moitié dans le bol des ingrédients humides et incorporez délicatement à la maryse. 
 - Faites de même avec la seconde moitié jusqu'à ce que vous ne voyez plus de grumeaux.
 - Versez la pâte dans un moule à mini cakes.
-- Déposez 2 noix de pécan sur chaque mini cake
+- Déposez 2 noix de pécan sur chaque mini cake.
 - Enfournez pour 35 minutes ou jusqu'à ce que la pointe d'un couteau ressorte sèche. 
 - Laissez refroidir avant de démouler sur une grille. 
 
