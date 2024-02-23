@@ -46,7 +46,7 @@ ingredients:
 - 2 œufs
 - 100g de yaourt grec
 - 25g de miel
-- 50g de noisettes torréifiées
+- 50g de noisettes torréfiées
 - ¼ cuillère à café soit 2g de levure chimique
 - ¼ cuillère à café soit 2g de bicarbonate alimentaire
 - extrait de vanille
@@ -71,6 +71,6 @@ directions:
 
 Itération cacaotée du [cake à la purée de kaki](chocaki-bread.html), on joue ici sur les saveurs d’une pâte à tartiner chocolat-noisette.
 
-Si elles ne le sont pas déjà, il faudra veiller à bien torréifier les noisettes pour en faire ressortir les arômes. Quant au kaki, plus il sera mûr est, mieux ce sera. 
+Si elles ne le sont pas déjà, il faudra veiller à bien torréfier les noisettes pour en faire ressortir les arômes. Quant au kaki, plus il sera mûr est, mieux ce sera. 
 
 On les accompagne d’un incontournable combo yaourt grec + miel mais n’hésitez pas à expérimenter d’autres notes – sirop d’érable, sucre muscovado ou complet pour une note caramélisée, etc.

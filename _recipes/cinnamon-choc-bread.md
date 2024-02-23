@@ -43,7 +43,7 @@ ingredients:
 - 100g de yaourt
 - 60g de cassonnade ou sucre roux
 - 50g de chocolat blanc
-- 30g de noisettes torréifiées
+- 30g de noisettes torréfiées
 - ¼ cuillère à café soit 2g de cannelle
 - ¼ cuillère à café soit 2g de mélange 4 épices
 - 1 cuillère à café soit 5g de levure chimique

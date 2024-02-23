@@ -8,7 +8,7 @@ images:
     alt: "Le cake donut, forcément un peu plus dense et plat que le donut levé, s’associe particulièrement bien au glaçage chocolat avec des éclats de cerneaux."
   - image:
     path: cake-donuts/cake-donut-2.jpg
-    alt: "Le cerneaux apporte du croquant, pour peu qu’il soit bien torréifié et intégré au chocolat."
+    alt: "Le cerneaux apporte du croquant, pour peu qu’il soit bien torréfié et intégré au chocolat."
   - image:
     path: cake-donuts/cake-donut-3.jpg
     alt: "Vu du dessus, on remarque que le trou typique du donut est resté bien net. La pâte se tient toute seule à la cuisson, sans besoin de moule."

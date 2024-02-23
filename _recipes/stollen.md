@@ -34,7 +34,7 @@ totaltime: 5 h
 
 yield: 20 tranches
 storage: 10 jours dans un conteneur hemétique à l’abri de la lumière et de la chaleur. 2–3 mois au congélateur.
-tip: Si vous adorez et préférez le goût d’amande, remplacez les noisettes et noix de cajou par des amandes torréifiées, et un beu de beurre par la même quantité de pâte d’amande émiettée.
+tip: Si vous adorez et préférez le goût d’amande, remplacez les noisettes et noix de cajou par des amandes torréfiées, et un beu de beurre par la même quantité de pâte d’amande émiettée.
 
 nutrition:
   servingSize: 20

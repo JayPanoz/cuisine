@@ -99,7 +99,7 @@ directions:
 
 La babka, en version moderne. C’est en effet la [version américaine](https://en.wikipedia.org/wiki/Babka) que nous allons cuisiner aujourd’hui, avec sa garniture au chocolat seulement apparue au siècle dernier, et sa forme de brioche tressée cuite dans un moule à pain/cake.
 
-Pour ce faire, nous allons twister la pâte de la [brioche aux myrtilles](brioche-myrtille.html) avec son yaourt grec, et introduire une légère note de noisette pour complimenter la garniture au chocolat. Si vous souhaitez un goût plus prononcé et une texture en plus, n’hésitez pas à ajouter des noisettes torréifiées et concassées une fois la garniture étalée, avant de rouler.
+Pour ce faire, nous allons twister la pâte de la [brioche aux myrtilles](brioche-myrtille.html) avec son yaourt grec, et introduire une légère note de noisette pour complimenter la garniture au chocolat. Si vous souhaitez un goût plus prononcé et une texture en plus, n’hésitez pas à ajouter des noisettes torréfiées et concassées une fois la garniture étalée, avant de rouler.
 
 La grosse différence, c’est la farine d’épeautre, qui donnera un résultat moins filandreux/nuageux, celle-ci étant plus pauvre en gluten. En général, on la mélange d’ailleurs avec de la farine de blé pour les pâtes qui ont besoin de lever. Pour assurer le coup vous pouvez la préparer la veille et laisser reposer au réfrigérateur – qui ne fait que ralentir la fermentation, pas la stopper. En contrepartie, c’est un canevas plutôt adapté à la ganache (et sa matière grasse) qui vient la garnir.
 

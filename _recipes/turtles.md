@@ -65,6 +65,6 @@ C’est une recette néanmoins revisitée pour la rendre plus rapide à faire, e
 
 Des pacanes bien croquantes après avoir été torréfiées, un caramel coulant comme dans une barre chocolatée, du chocolat noir pour trancher et apporter un peu d’amertume au sucré. Le résultat est divin.
 
-Si vous préférez le chocolat au lait ou le chocolat blanc, faites vous plaisir, bien évidemment. La version chocolat au lait pourra même vous rappeller le Snickers à certains égards, mais la petite pointe d’originalité des pacanes entières. Mais là aussi, vous pourriez être tenté par des amandes, du cerneaux, etc. pour les remplacer.
+Si vous préférez le chocolat au lait ou le chocolat blanc, faites vous plaisir, bien évidemment. La version chocolat au lait pourra même vous rappeller le Snickers à certains égards, avec la petite pointe d’originalité des pacanes entières. Mais là aussi, vous pourriez être tenté par des amandes, du cerneaux, etc. pour les remplacer.
 
 Bref, 4 ingrédients, de multiples déclinaisons, le tout sans cuisson. C’est le petit snack assez rapide à faire au micro-ondes avec les restes du placard et qui fera plaisir à tout le monde.

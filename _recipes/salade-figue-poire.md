@@ -44,12 +44,12 @@ ingredients:
 - poivre
 
 directions:
-- Dans une poêle bien chaude, faites torréifier les graines quelques minutes. Réservez.
+- Dans une poêle bien chaude, faites torréfier les graines quelques minutes. Réservez.
 - Découpez les fruits en quartiers et faites-les cuire à cœur à feu moyen doux.
 - Préparez la vinaigrette. Mélangez l’huile, le vinaigre, le miel, le sel et le poivre.
 - Découpez la bûche de chèvre en tranches.
 - Dressez une grande poignée de roquette dans votre assiette, puis ajoutez quelques feuilles de sucrine. Déposez des tranches de fromage de chèvre puis ajoutez les figues et poires.
-- Versez de la vinaigrette par dessus puis saupoudrez d’une belle quantité de graines torréifiées.
+- Versez de la vinaigrette par dessus puis saupoudrez d’une belle quantité de graines torréfiées.
 
 ---
 
