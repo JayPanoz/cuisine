@@ -37,3 +37,6 @@ bucks:
 oatmeal:
   name: "Oatmeal"
   description: "Des recettes avec de l’avoine, en son ou flocons, crus ou cuits, voire mixés en farine."
+turtle:
+  name: "Turtle"
+  description: "Noix de pécan, caramel, et chocolat. Revisitons ce mélange légendaire que nous devons à un confiseur chicagoan."

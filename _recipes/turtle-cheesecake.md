@@ -10,7 +10,8 @@ images:
     alt: "C'est totalement décadent, ça dégouline de caramel, les noix de pécan sont recouvertes de glaçage au cacao, c’est riche, croquant, intense et tout doux à la fois, ça explose en bouche et ça n’en finit jamais."
 cuisines: [américaine]
 courses: [dessert, goûter]
-tags: [cheesecake, sans cuisson, Turtle]
+tags: [cheesecake, sans cuisson]
+collections: [turtle]
 
 preptime: 45 min
 totaltime: 3 h 15 min

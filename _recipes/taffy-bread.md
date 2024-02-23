@@ -68,7 +68,7 @@ directions:
 
 Un <i lang="en">banana bread</i> de fête foraine, aux saveurs de pomme (compote), caramel (fudges), et cacahuètes.
 
-On pense de suite à la pomme d’amour (au caramel), mais c’est sa déclinaison nord-américaine dite “Taffy” qui nous intéresse ici, puisqu’on y ajoute des cacahuètes pour le croquant. Et comme pour [le mélange Turtle](../tags.html#Turtle), il semblerait que nous la devions à la ville de Chicago, et plus particulièrement l’enseigne [Affy Tapple](https://www.affytapple.com). 
+On pense de suite à la pomme d’amour (au caramel), mais c’est sa déclinaison nord-américaine dite “Taffy” qui nous intéresse ici, puisqu’on y ajoute des cacahuètes pour le croquant. Et comme pour [le mélange Turtle](../collections.html#turtle), il semblerait que nous la devions à la ville de Chicago, et plus particulièrement l’enseigne [Affy Tapple](https://www.affytapple.com). 
 
 Reste qu’on ne peut pas vraiment se tromper en combinant ces 3&nbsp;ingrédients, et que ce cake à la compote n’y fait pas exception. Certains augmenteront peut-être la quantité de caramel, d’autres de cacahuètes, mais avec ces proportions on obtient une bonne base bien équilibrée en tout cas, sans qu’aucune saveur ne prenne le dessus.
 

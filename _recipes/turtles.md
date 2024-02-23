@@ -20,8 +20,8 @@ images:
     alt: "On peut le constater avec les beaux filaments qui se créent à la découpe."
 cuisines: [américaine]
 courses: [snack]
-tags: [4 ingrédients, bouchée, sans cuisson, Turtle]
-collections: [cupboard]
+tags: [4 ingrédients, bouchée, sans cuisson]
+collections: [cupboard, turtle]
 
 preptime: 20 min
 totaltime: 40 min

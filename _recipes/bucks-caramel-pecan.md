@@ -22,7 +22,7 @@ cooktime: 35 min
 
 yield: 6 mini cakes
 storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et de la chaleur. 5 jours au frigo. 2 mois au congélateur.
-tip: Pour en faire une version <a href="../tags.html#Turtle">Turtle</a>, ajoutez 15g de cacao ou 50g de pépites de chocolat.
+tip: Pour en faire une version <a href="../collections.html#turtle">Turtle</a>, ajoutez 15g de cacao ou 50g de pépites de chocolat.
 
 nutrition:
   servingSize: 6

@@ -10,7 +10,8 @@ images:
     alt: "C'est incroyablement riche, bien plus que le cheesecake, et plus amer aussi, surtout en ajoutant du café à la ganache. Du coup ça pourra plaire à d’autres gens."
 cuisines: [américaine]
 courses: [dessert, goûter]
-tags: [Turtle, tarte]
+tags: [tarte]
+collections: [turtle]
 
 preptime: 30 min
 cooktime: 15 min

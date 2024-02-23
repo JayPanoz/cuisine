@@ -17,8 +17,8 @@ images:
     alt: "On peut également retrouver des flaques de caramel. Mais il ne faut pas s’attendre à y trouver une couche de caramel liquide."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format, Turtle]
-collections: [sweetbread]
+tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+collections: [sweetbread, turtle]
 
 preptime: 15 min
 cooktime: 40 min
@@ -77,7 +77,7 @@ directions:
 
 ---
 
-On avait déjà [la base à la farine de sarrasin](bucks-caramel-pecan.html) sous la main, il suffisait d’y ajouter du cacao pour en faire une [version Turtle](../tags.html#Turtle). Ou pas…
+On avait déjà [la base à la farine de sarrasin](bucks-caramel-pecan.html) sous la main, il suffisait d’y ajouter du cacao pour en faire une [version Turtle](../collections.html#turtle). Ou pas…
 
 Pour rappel, le mélange Turtle c’est chocolat + caramel + noix de pécan.
 
