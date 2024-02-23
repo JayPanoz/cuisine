@@ -46,10 +46,10 @@ directions:
 - Préchauffez le four à 180°C.
 - Dans un bol, blanchissez les oeufs avec le sucre complet jusqu'à obtenir un résultat bien mousseux de couleur caramel.
 - Ajoutez la farine tamisée et fouettez jusqu'à obtenir un appareil bien lisse. 
-- Versez le lait concentré non-sucré en continuant à fouettez. 
+- Versez le lait concentré non-sucré en continuant à fouetter. 
 - Versez une louche de l'appareil dans le fond de votre plat ou vos ramequins.
 - Hachez le chocolat noir en chunks irréguliers et disposez-les par-dessus. 
-- Découpez la banane en tranches et disposez-les par dessus le chocolat.
+- Découpez la banane en tranches et disposez-les sur les morceaux de chocolat.
 - Versez le reste de l'appareil. 
 - Enfournez pour 30–35 minutes ou jusqu'à ce que l'appareil soit pris et gigote à peine au centre. 
 - Dégustez tiède ou froid. Sortez-le quand même du frigo 20–30 minutes avant de déguster pour éviter que la texture soit trop ferme.
