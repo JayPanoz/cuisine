@@ -17,8 +17,8 @@ images:
     alt: "Certaines cups sont restées entières quand d’autres ont fondu pour créer des flaques."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, comfort food, petit format, Reese’s]
-collections: [pb, sweetbread]
+tags: [antigaspi, cake, sans beurre, sans huile, comfort food, petit format]
+collections: [pb, sweetbread, reeses]
 
 preptime: 15 min
 cooktime: 45 min

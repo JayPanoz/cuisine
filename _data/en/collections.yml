@@ -40,3 +40,6 @@ oatmeal:
 turtle:
   name: "Turtle"
   description: "Pecans, caramel, and chocolate. The original nut cluster, revisited."
+reeses:
+  name: "Reese’s"
+  description: "Recipes involving or inspired by Reese’s products, for the chocolate and peanut butter lovers."

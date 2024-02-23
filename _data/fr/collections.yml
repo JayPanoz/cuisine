@@ -40,3 +40,6 @@ oatmeal:
 turtle:
   name: "Turtle"
   description: "Noix de pécan, caramel, et chocolat. Revisitons ce mélange légendaire que nous devons à un confiseur chicagoan."
+reeses:
+  name: "Reese’s"
+  description: "Recettes inspirées ou impliquant des produits Reese’s, pour les amoureux du combo chocolat – beurre de cacahuète."

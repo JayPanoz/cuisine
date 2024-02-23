@@ -10,8 +10,8 @@ images:
     alt: "Croquant à l’extérieur mais tout moelleux à l’intérieur, avec des flaques de chocolat fondu." 
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, Reese’s]
-collections: [pb]
+tags: [cookie]
+collections: [pb, reeses]
 
 preptime: 15 min
 cooktime: 15 min

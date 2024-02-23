@@ -11,7 +11,7 @@ images:
 cuisines: [américaine]
 courses: [dessert]
 tags: [sans cuisson]
-collections: [pb, special]
+collections: [pb, special, reeses]
 
 preptime: 30 min
 totaltime: 2 h 30 min

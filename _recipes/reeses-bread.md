@@ -14,8 +14,8 @@ images:
     alt: "C’est en le croquant ou découpant que l’on découvre les pépites de beurre de cacahuète qui ont bien fondu, et amènent un contraste au cacaoté."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, comfort food, petit format, Reese’s]
-collections: [pb, sweetbread]
+tags: [antigaspi, cake, sans beurre, sans huile, comfort food, petit format]
+collections: [pb, sweetbread, reeses]
 
 preptime: 15 min
 cooktime: 45 min
