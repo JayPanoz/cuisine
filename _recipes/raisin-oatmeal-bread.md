@@ -17,7 +17,7 @@ images:
     alt: "À l’intérieur, on constate que c’est un vrai banana bread, pas entièrement composé de flocons d’avoine. Il est plus dense et promet une mâche un peu plus résistante."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [oatmeal, sweetbread]
 
 preptime: 15 min

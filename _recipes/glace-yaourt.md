@@ -7,7 +7,7 @@ images:
     path: glace-yaourt.jpg
 cuisines: [américaine, française]
 courses: [snack, dessert]
-tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière, 3 ingrédients]
+tags: [glacé, blender, mixer, sans cuisson, soft-serve, sans sorbetière, 3 ingrédients]
 diets: [LowCalorie, LowFat]
 
 preptime: 10 min

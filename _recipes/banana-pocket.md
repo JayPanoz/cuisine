@@ -14,7 +14,7 @@ images:
     alt: "Quand on croque, on découvre la farce à la banane et cruestli, aux textures qui se contrastent mais présentent une belle harmonie."
 cuisines: [française, grecque]
 courses: [petit-déjeuner]
-tags: [craquant, healthy]
+tags: [craquant]
 collections: [filo]
 
 preptime: 20 min
@@ -56,7 +56,7 @@ directions:
 
 ---
 
-Un friand à emporter pour les petits-déjeuners pressés, et le tout sans compromettre la qualité <i lang="en">healthy</i> de ses ingrédients.
+Un friand à emporter pour les petits-déjeuners pressés.
 
 Même concept que pour <a href="spanakopita.html">la <i lang="gr">spanakopita</i>.</a> En remplacement de la pâte, ce sont des feuilles filo/phyllo qu’on utilise, des feuilles sur lesquelles il faut venir ajouter du gras, ce qui permet donc de doser la matière grasse (et acides gras saturés) comme vous le souhaitez, au contraire des pâtes brisées et feuilletées industrielles. On utilise généralement du beurre fondu ou de l’huile d’olive, mais un mélange de fromage blanc et d’œuf fonctionne parfaitement, nous allons donc en profiter.
 

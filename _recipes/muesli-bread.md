@@ -14,7 +14,7 @@ images:
     alt: "Le chocolat apporte son fondant caractéristique, et rend le cake bien gourmand."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [oatmeal, sweetbread]
 
 preptime: 15 min

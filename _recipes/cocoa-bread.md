@@ -14,7 +14,7 @@ images:
     alt: "À l’intérieur c’est moins aéré, moins floconneux, et ce malgré le gras de la crème. La croûte est d’ailleurs plus épaisse, on sent qu’il y aura de la résistance."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [oatmeal, sweetbread]
 
 preptime: 15 min

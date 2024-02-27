@@ -9,7 +9,7 @@ images:
     path: biscuit-avoine/biscuit-avoine-2.jpg
     alt: "On peut aussi les former dans un moule, comme ici en format financier"
 courses: [petit-déjeuner, snack]
-tags: [biscuit, bouchée, healthy]
+tags: [biscuit, bouchée]
 collections: [oatmeal]
 
 preptime: 10 min

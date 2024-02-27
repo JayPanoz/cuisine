@@ -11,7 +11,7 @@ images:
     alt: "À l’intérieur, un mélange floconneux de noix et flaques de chocolat fondu. Gourmand comme un cookie, moelleux et fondant comme un brownie."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min
@@ -69,6 +69,6 @@ La version du <i lang="en">banana bread</i> qui prouve que vous pouvez substitue
 
 Parfaitement, ça fonctionne. Oui, ça reste suffisamment humide et moelleux grâce à la banane. Non, ni le goût de pomme ni celui de banane ne prédominent et deséquilibrent complètement ce petit cake. Bien évidemment, vous pouvez ajouter du lait/boisson végétale si ça ne vous convient pas tout à fait.
 
-Après avoir répondu à vos questions existentielles à la vue de la liste d’ingrédients, soulignons simplement qu’avoine, compote, banane et miel, font partie de ces ingrédients que l’on retrouve fréquemment dans les recettes dites <i lang="en">healthy</i> ou santé. 
+Après avoir répondu à vos questions existentielles à la vue de la liste d’ingrédients, soulignons simplement qu’avoine, compote, banane et miel, font partie de ces ingrédients que l’on retrouve fréquemment dans les recettes dites <i lang="en">healthy</i> ou santé – ça ne veut pas dire que le résultat final l’est forcément, par contre, entendons-nous bien.
 
 On sait donc que ça fonctionne pas trop mal, mais ça peut aussi donner une idée du résultat que vous allez obtenir. Si vous avez déjà tenté de multiples fois et que ça ne vous a pas vraiment plu, c’est aussi à prendre en considération. Cette recette ne va pas changer votre avis sur ce point.

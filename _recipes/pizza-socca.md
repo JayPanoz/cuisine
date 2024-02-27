@@ -23,7 +23,7 @@ images:
     alt: "La mozzarella fondue lors de la cuisson avec couvercle. On obtient un beau cheese pull."
 cuisines: [française, italienne]
 courses: [déjeuner, dîner, apéritif, plat]
-tags: [à la poêle, healthy, allégé]
+tags: [à la poêle, allégé]
 diets: [GlutenFree]
 
 preptime: 15 min

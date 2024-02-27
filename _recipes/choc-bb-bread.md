@@ -14,7 +14,7 @@ images:
     alt: "À l’intérieur, les myrtilles juteuses lovées dans une mie bien aérienne, avec des chunks au chocolat pour amener un peu de croquant fondant."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

@@ -17,7 +17,7 @@ images:
     alt: "À l’intérieur, c’est tout doux. Des framboises bien juteuses et un peu fibreuses, du chocolat qui croque sous la dent, une mie bien moelleuse."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

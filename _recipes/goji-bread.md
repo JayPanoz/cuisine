@@ -17,7 +17,7 @@ images:
     alt: "Et qui amènent un peu de résistance à la mâche. Ce n’est pas un cake qui fond dans la bouche."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

@@ -14,7 +14,7 @@ images:
     alt: "Découpé, les framboises très rouges ressortent vivement, et la mie très particulière due à l’avocat est reconnaissable entre mille."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [bucks, sweetbread]
 
 preptime: 15 min

@@ -10,7 +10,6 @@ images:
     alt: "On peut imaginer remplacer la sucrine par du brocolis pour rendre le plat encore plus healthy." 
 cuisines: [italienne, française]
 courses: [entrée, plat, déjeuner, dîner]
-tags: [healthy]
 
 preptime: 15 min
 cooktime: 12 min

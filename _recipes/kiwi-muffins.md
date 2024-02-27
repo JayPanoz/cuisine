@@ -14,7 +14,7 @@ images:
     alt: "À l’intérieur, la mie typique du banana bread, en un peu plus dense avec les farines moins raffinées du mélange Dinosaure."
 cuisines: [américaine]
 courses: [snack]
-tags: [antigaspi, healthy, petit format]
+tags: [antigaspi, petit format]
 collections: [dino]
 
 preptime: 15 min

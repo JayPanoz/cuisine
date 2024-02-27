@@ -10,7 +10,7 @@ images:
     alt: "On peut ajouter de tout, n’hésitez pas à privilégier quelques graines pour amener du croquant et rendre le bol plus intéressant."
 cuisines: [américaine]
 courses: [petit-déjeuner]
-tags: [sans cuisson, healthy]
+tags: [sans cuisson]
 collections: [oatmeal]
 
 preptime: 5 min

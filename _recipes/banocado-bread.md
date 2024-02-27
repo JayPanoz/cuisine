@@ -14,7 +14,7 @@ images:
     alt: "Effectivement, vu de plus près, il y a des flaques de chocolat un peu partout, ce qui réserve une dégustation hyper fondante."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

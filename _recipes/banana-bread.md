@@ -17,7 +17,7 @@ images:
     alt: "On peut le manger nature bien évidemment, mais c’est encore plus gourmand avec du caramel au beurre salé ou de la pâte à tartiner à la noisette par dessus."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy]
+tags: [antigaspi, cake, sans beurre, sans huile]
 collections: [sweetbread]
 
 preptime: 15 min
@@ -67,7 +67,7 @@ directions:
 
 ---
 
-Classique des classiques des pains sucrés à l’américaine, le <i lang="en">banana bread</i> se présente ici dans une version un peu améliorée sur un plan <i lang="en">healthy</i>, tout en conservant sa relative simplicité.
+Classique des classiques des pains sucrés à l’américaine, le <i lang="en">banana bread</i> se présente ici dans une version un peu améliorée, tout en conservant sa relative simplicité.
 
 L’histoire veut que la popularité du <i lang="en">banana bread</i> soit intimement liée à la création des agents levants (levure chimique, bicarbonate alimentaire) dans les années 1930, mais qu’il est difficile d’affirmer avec certitude si c’est un pur produit de la Grande Dépression – utiliser les bananes mûres plutôt que de les jeter –, ou du <i lang="en">marketing</i> des marques de préparations et ingrédients culinaires. La vérité se trouve probablement entre les deux.
 

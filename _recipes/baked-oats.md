@@ -10,7 +10,6 @@ images:
     alt: "Plusieurs couches à chaque bouchée. L’avoine au lait, dans lequel des morceaux de prunes fondants vinnent se lover, et un nuage de mascarpone qui rappelle la texture du cheesecake, surplombé de la croûte qui s’est formée à la cuisson."
 cuisines: [américaine]
 courses: [petit-déjeuner]
-tags: [healthy]
 collections: [oatmeal]
 
 preptime: 10 min

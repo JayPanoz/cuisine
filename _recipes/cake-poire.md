@@ -14,7 +14,7 @@ images:
     alt: "Une belle croûte dorée presque caramélisée, une mie bien moelleuse voire humide, et des morceaux de poires généreux et bien fondants. Voilà ce que chaque tranche pourra vous proposer à la dégustation."
 cuisines: [américaine, française]
 courses: [petit-déjeuner, goûter]
-tags: [cake, sans beurre, sans huile, healthy]
+tags: [cake, sans beurre, sans huile]
 
 preptime: 15 min
 cooktime: 60 min

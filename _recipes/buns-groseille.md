@@ -82,7 +82,7 @@ directions:
 
 ---
 
-Des mini brioches aux groseilles toutes simples mais aux ingrédients soigneusement choisis pour se complimenter. Un peu comme la [brioche aux myrtilles](brioche-myrtille.html) mais sans le <i lang="en">twist healthy</i>.
+Des mini brioches aux groseilles toutes simples mais aux ingrédients soigneusement choisis pour se complimenter. Un peu comme la [brioche aux myrtilles](brioche-myrtille.html).
 
 Une fois n’est pas coutume, on va même utiliser du beurre pour amener l’enrobé qui le caractérise à la mâche, et contraste avec le pétillant des groseilles. Avec la mie toute douce de la farine d’épeautre, on obtient un résultat généreux – pour ne pas dire riche – et moelleux. 
 

@@ -17,7 +17,7 @@ images:
     alt: "Ça rappelle un peu le gâteau invisible aux pommes tout en conservant l’attrait du banana bread."
 cuisines: [américaine, française]
 courses: [snack]
-tags: [allégé, antigaspi, cake, sans beurre, sans huile, healthy, petit format, automne, hiver]
+tags: [allégé, antigaspi, cake, sans beurre, sans huile, petit format, automne, hiver]
 collections: [sweetbread]
 diets: [LowCalorie, LowFat]
 

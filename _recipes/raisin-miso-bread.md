@@ -17,7 +17,7 @@ images:
     alt: "À l’intérieur, la mie est tout de même bien aérée, et vient enrober les raisins secs réhydratés."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format, sucré-salé]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format, sucré-salé]
 collections: [sweetbread]
 
 preptime: 15 min

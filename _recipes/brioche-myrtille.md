@@ -78,4 +78,4 @@ On sait que la combinaison de yaourt grec, de myrtilles et de sirop d’érable/
 
 Cette brioche toute simple est excellente nature, mais son intérêt est également de pouvoir être personnalisée ou tartinée. Glaçage à la cannelle, à la vanille ou au cacao, pâte à tartiner au chocolat ou beurre de cacahuète, <i lang="en">lemon curd</i> ou confiture de fruits rouges, les options sont en effet nombreuses&nbsp;! Vous pouvez même la tremper dans un chocolat bien chaud pour un goûter ultra réconfortant.
 
-Et ne vous inquiétez pas, on retrouve bien le côté brioche sans huile ni beurre. Le yaourt grec excelle quand il remplace un ingrédient moins <i lang="en">healthy</i> en comparaison, booste la teneur en protéines et apporte une petite note aigre mais onctueuse bien appréciable dans des recettes simples. Il n’y a donc aucune raison de s’en priver.
+Et ne vous inquiétez pas, on retrouve bien le côté brioche sans huile ni beurre. Le yaourt grec excelle quand il remplace un ingrédient plus gras en comparaison, booste la teneur en protéines et apporte une petite note aigre mais onctueuse bien appréciable dans des recettes simples. Il n’y a donc aucune raison de s’en priver.

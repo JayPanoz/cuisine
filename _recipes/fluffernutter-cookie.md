@@ -54,7 +54,7 @@ directions:
 
 ---
 
-Le [fluffernutter](https://en.wikipedia.org/wiki/Fluffernutter), c'est un classique de la Nouvelle-Angleterre né de la première guerre mondiale, et qui combine le beurre de cacahuète et la crème de guimauve dans un sandwich. Ça devrait forcément vous rappeler le PB&J, dans lequel la confiture remplace le marshmallow, et il en est d'ailleurs considéré comme une variante – un peu moins healthy, soyons honnête.
+Le [fluffernutter](https://en.wikipedia.org/wiki/Fluffernutter), c'est un classique de la Nouvelle-Angleterre né de la première guerre mondiale, et qui combine le beurre de cacahuète et la crème de guimauve dans un sandwich. Ça devrait forcément vous rappeler le PB&J, dans lequel la confiture remplace le marshmallow, et il en est d'ailleurs considéré comme une variante.
 
 Associé à Somerville, là où le marshmallow fluff a été inventé, ce sandwich fait souvent l'objet d'une fierté régionale, dispose de sa propre fête nationale le 8&nbsp;Octobre, et a même été proposé comme sandwich officiel de l'État du Massachusetts. Mais ne vous mettez pas pour autant la pression&nbsp;!
 

@@ -45,7 +45,7 @@ directions:
 
 ---
 
-On a déjà visité la [version sucrée protéinée plutôt <i lang="en">healthy</i> de la pâte à cookie cottage par ici](cottage-dough.html), il est temps d’évoquer la version totalement à l’opposé, la pâte cottage pour l’apéro. J’entends un énorme <i lang="en">What the Fuck!</i> derrière ton écran et, oui, je comprends.
+On a déjà visité la [version sucrée protéinée de la pâte à cookie cottage par ici](cottage-dough.html), il est temps d’évoquer la version totalement à l’opposé, la pâte cottage pour l’apéro. J’entends un énorme <i lang="en">What the Fuck!</i> derrière ton écran et, oui, je comprends.
 
 Soyons bien clair, cette pâte cottage apéro est beaucoup plus grasse que sa grande sœur, et ça pourrait largement empirer en fonction des snacks salés que tu vas utiliser pour la partie farine et, surtout, de ce que tu vas décider de mettre dedans. Donc use de la sagesse pour ne pas flinguer tes macros.
 

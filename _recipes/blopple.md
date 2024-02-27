@@ -17,7 +17,7 @@ images:
     alt: "C’est tellement humide que ça en devient gooey, comme si on mangeait la purée de banane telle quelle. Il n’y a même pas besoin de croquer dedans ou presque, on peut défaire le blopple en tirant avec les lèvres."
 cuisines: [américaine, française]
 courses: [snack]
-tags: [allégé, antigaspi, sans beurre, sans œuf, sans huile, healthy, petit format, automne, hiver]
+tags: [allégé, antigaspi, sans beurre, sans œuf, sans huile, petit format, automne, hiver]
 collections: [brownie]
 diets: [LowCalorie, LowFat, Vegetarian, Vegan]
 

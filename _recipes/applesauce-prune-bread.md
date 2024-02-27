@@ -20,7 +20,7 @@ images:
     alt: "Le pruneau est véritablement la star de ce bread américain, avec des bouchées extrêmement riches et qui le mettent en valeur comme ici. On a une belle trainée au centre, et la pâte ne vient qu’habiller ce cœur de pruneaux."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format, automne, hiver]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format, automne, hiver]
 collections: [sweetbread]
 
 preptime: 15 min

@@ -20,7 +20,7 @@ images:
     alt: "Et est bien humidifiée autour."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format, hiver]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format, hiver]
 collections: [oatmeal, sweetbread]
 
 preptime: 15 min

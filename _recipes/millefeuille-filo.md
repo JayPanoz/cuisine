@@ -15,7 +15,7 @@ images:
 cuisines: [française, grecque]
 courses: [dessert, goûter]
 diets: [LowCalorie]
-tags: [allégé, craquant, healthy]
+tags: [allégé, craquant]
 collections: [filo]
 
 preptime: 25 min
@@ -65,6 +65,6 @@ directions:
 
 Un grand classique mais avec un <i lang="en">twist</i> de plus en plus connu&nbsp;: la pâte phyllo vient remplacer la pâte feuilletée pour un résultat encore plus craquant.
 
-Les feuilles phyllo, ce sont des feuilles sur lesquelles il faut venir ajouter du gras, ce qui permet donc de doser la matière grasse (et acides gras saturés) comme vous le souhaitez, au contraire des pâtes brisées et feuilletées industrielles. On utilise généralement du beurre fondu ou de l’huile d’olive, et c’est la seconde option que nous allons sélectionner pour rendre le tout un chouïa plus <i lang="en">healthy</i>, l’huile d’olive offrant des bons acides gras.
+Les feuilles phyllo, ce sont des feuilles sur lesquelles il faut venir ajouter du gras, ce qui permet donc de doser la matière grasse (et acides gras saturés) comme vous le souhaitez, au contraire des pâtes brisées et feuilletées industrielles. On utilise généralement du beurre fondu ou de l’huile d’olive, et c’est la seconde option que nous allons sélectionner pour ses bons acides gras.
 
 Cela étant dit, si vous tenez absolument à l’enrobé du goût beurré plutôt qu’à la note fruitée de l’olive, rien ne vous empêche de l’utiliser à la place.

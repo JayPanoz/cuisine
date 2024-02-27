@@ -17,7 +17,7 @@ images:
     alt: "En jouant sur la taille des dés de poire, on peut obtenir des textures plus ou moins fondantes ou craquantes."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

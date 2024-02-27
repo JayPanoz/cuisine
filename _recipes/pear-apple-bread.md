@@ -20,7 +20,7 @@ images:
     alt: "Les morceaux de poire sont presque caramélisés, et bien fondants. Ils ont humidifié la pâte autour."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [oatmeal, sweetbread]
 
 preptime: 15 min

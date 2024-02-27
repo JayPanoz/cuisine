@@ -14,7 +14,7 @@ images:
     alt: "À l’intérieur, on obtient une mie différente avec du son d’avoine."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [oatmeal, sweetbread]
 
 preptime: 15 min

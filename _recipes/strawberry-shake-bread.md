@@ -14,7 +14,7 @@ images:
     alt: "À l’intérieur, c’est floconneux. Il faut bien y regarder à 2 fois mais on découvre des noix de granola, et c’est une agréable surprise."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

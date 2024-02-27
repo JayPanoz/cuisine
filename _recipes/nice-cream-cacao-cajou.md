@@ -7,7 +7,7 @@ images:
     path: nice-cream/nice-cream-cacao-cajou.jpg
 cuisines: [américaine]
 courses: [snack, dessert]
-tags: [glacé, blender, mixer, sans cuisson, soft-serve, healthy, sans sorbetière]
+tags: [glacé, blender, mixer, sans cuisson, soft-serve, sans sorbetière]
 diets: [LowCalorie, LowFat, Vegetarian, Vegan]
 
 preptime: 5 min

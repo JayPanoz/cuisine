@@ -14,7 +14,7 @@ images:
     alt: "Celui-ci est plus plat, moins levé. D’autant plus carré qu’on utilise de la compote de pomme, mais pas affaissé. À l’intérieur le kaki a rendu la pâte extra humide."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [oatmeal, sweetbread]
 
 preptime: 15 min

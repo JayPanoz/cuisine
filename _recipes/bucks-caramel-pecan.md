@@ -14,7 +14,7 @@ images:
     alt: "À l’intérieur, couleur caramel. La mie n’est pas forcément aussi dense que ce qu’on pourrait imaginer, bien aidée par la réaction entre lait fermenté et bicarbonate."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [bucks, sweetbread]
 
 preptime: 15 min

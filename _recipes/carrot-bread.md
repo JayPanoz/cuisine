@@ -23,7 +23,7 @@ images:
     alt: "On les retrouve à l’intérieur, pour une résultat hyper généreux. Ils amènent un joli contraste visuel avec la mie épicée."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, automne, printemps, comfort food, fêtes, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, automne, printemps, comfort food, fêtes, petit format]
 collections: [sweetbread]
 
 preptime: 30 min

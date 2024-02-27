@@ -10,7 +10,7 @@ images:
     alt: "Le résultat à la main est certes un peu moins rond, moins propre, mais en contrepartie les aliments sont à peine transformés et vous en garderez toutes les propriétés nutritionnelles."
 cuisines: [américaine]
 courses: [snack]
-tags: [healthy, sans cuisson, bouchée]
+tags: [sans cuisson, bouchée]
 collections: [oatmeal]
 diets: [Vegetarian]
 

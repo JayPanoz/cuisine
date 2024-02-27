@@ -17,7 +17,7 @@ images:
     alt: "Après avoir croqué, on se rend compte qu’une flaque s’est créée, bien juteuse, tout juste gélifiée. Ça rend le bread encore plus humide en bouche."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

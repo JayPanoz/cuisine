@@ -17,7 +17,7 @@ images:
     alt: "On peut également retrouver des flaques de caramel. Mais il ne faut pas s’attendre à y trouver une couche de caramel liquide."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread, turtle]
 
 preptime: 15 min

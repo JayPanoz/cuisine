@@ -14,7 +14,7 @@ images:
     alt: "Pourtant, ça reste moelleux, et le bread s’affaisse quand on exerce une pression. C’est un peu plus sec, certes, mais le chocolat fondu rééquilibre le tout."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 diets: [Vegetarian, Vegan]
 

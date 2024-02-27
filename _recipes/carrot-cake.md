@@ -17,7 +17,7 @@ images:
     alt: "On découvre également les raisins secs. Les plus gourmands ajouteront des noix. Si la couche du glaçage n’est pas énorme à priori, elle suffit largement, le cake étant bien moelleux."
 cuisines: [américaine, britannique, danoise, française, suisse]
 courses: [petit-déjeuner, goûter]
-tags: [cake, sans beurre, sans huile, healthy, automne, printemps, comfort food, fêtes]
+tags: [cake, sans beurre, sans huile, automne, printemps, comfort food, fêtes]
 
 preptime: 30 min
 cooktime: 40 min
@@ -84,5 +84,3 @@ La réalité est que personne ne sait trop comment la recette est née, on devin
 Aujourd’hui, on le conceptualise et l’imagine le plus souvent sous sa forme de gâteau à étages avec un glaçage au fromage frais Philadelphia®, ses notes épicées de cannelle et de 4 épices. Il est d’ailleurs de coutume de le cuisiner plutôt en automne ou au printemps à cause de ces ingrédients – et certaines patisseries ne le proposent pas hors-saison. 
 
 En d’autres termes, c’est devenu un gateau de célébration (Pâques, Thanksgiving) hyper réconfortant – on est très très loin de son <i lang="en">revival</i> anglais.
-
-Un peu difficile de jouer la carte <i lang="en">healthy</i> par-dessus, du coup. Mais pas impossible. <i lang="en">Healthy</i> ne veut pas dire moins généreux, au contraire. L’idée n’est pas de composer une recette avec le moins de calories possible, mais d’aller chercher des ingrédients de substitution avec des qualités nutritionnelles supérieures – on veut éviter les calories vides, celles qui ne sont associées à aucun nutriment indispensable à la santé.

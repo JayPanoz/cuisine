@@ -14,7 +14,7 @@ images:
     alt: "En ouvrant, on découvre une garniture aux fruits rouges d’une générosité assurée. La mie autour n’est pas mouillée pour autant, tout juste humide comme il faut."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [sweetbread]
 
 preptime: 15 min

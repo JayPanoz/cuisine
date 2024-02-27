@@ -14,7 +14,7 @@ images:
     alt: "À l’intérieur, couleur noisette. La mie n’est pas forcément aussi dense que ce qu’on pourrait imaginer, malgré la farine de sarrasin."
 cuisines: [américaine]
 courses: [petit-déjeuner, goûter]
-tags: [antigaspi, cake, sans beurre, sans huile, healthy, petit format]
+tags: [antigaspi, cake, sans beurre, sans huile, petit format]
 collections: [bucks, sweetbread]
 
 preptime: 15 min
