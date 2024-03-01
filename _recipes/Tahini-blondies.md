@@ -5,12 +5,13 @@ title: "Blondies au tahini"
 images:
   - image:
     path: tahini-blondies/tahini-blondies-1.jpg
+    alt: "Les morceaux de chocolat sont en vedette dans cette recette, et leur couleur noire se marie particulièrement bien à la pâte au sésame."
   - image:
     path: tahini-blondies/tahini-blondies-2.jpg
     alt: "Selon la durée de cuisson, le centre de vos blondies sera plus ou moins coulant. Ici, il ne l’est pas du tout, les blondies ayant passé quelques minutes de plus dans le four. Le résultat est par conséquent plus compact, plus proche de ce qu’on peut trouver dans la grande distribution, ce qui peut aussi être un objectif si, par exemple, vous voulez rendre ces blondies plus facilement transportables."
 cuisines: [américaine]
 courses: [snack]
-tags: [gooey]
+tags: [gooey, petit format, sans beurre, sans huile]
 collections: [brownie]
 
 preptime: 20 min
@@ -46,14 +47,14 @@ ingredients:
 
 directions:
 - Préchauffez le four à 180°C.
-- Concassez le chocolat noir en petits morceaux/chunks. Réservez.
+- Hachez le chocolat noir en petits morceaux/chunks. Réservez.
 - Écrasez ou mixez la banane en purée homogène, il n’y a pas besoin qu’elle soit parfaitement lisse.
 - Blanchissez tout juste les œufs avec le sucre complet. 
 - Ajoutez l’extrait de vanille, la banane, (et le miel,) et fouettez bien.
 - Mélangez la purée de sésame – d’autant plus si l’huile s’est séparée à la surface – et ajoutez-la dans le bol des ingrédients humides. Fouettez jusqu’à obtenir une belle crème.
 - Ajoutez la farine tamisée et mélangez. La pâte doit couler du fouet en ruban.
 - Ajoutez une pincée de sel de Guérande.
-- Incorporez et distribuez le chocolat concassé dans la pâte à l’aide d’une spatule/maryse. 
+- Incorporez et distribuez le chocolat haché dans la pâte à l’aide d’une spatule/maryse. 
 - Versez dans votre moule.
 - Enfournez 15–20 minutes ou jusqu’à ce que les bords soient légèrement dorés.
 - Laissez ensuite refroidir 10 minutes puis démoulez sur une grille.

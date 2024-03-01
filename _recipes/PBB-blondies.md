@@ -5,12 +5,13 @@ title: "PB&B Blondies"
 images:
   - image:
     path: PBB-blondies/PBB-blondies-1.jpg
+    alt: "Vu de l’extérieur, on devine le chocolat et les cacahuètes sous une croûte bien lisse et homogène."
   - image:
     path: PBB-blondies/PBB-blondies-2.jpg
     alt: "C’est dégoulinant au milieu, moelleux aux bords et craquant à l’extérieur, c’est tout ce qu’on attend d’un brownie, mais en différent."
 cuisines: [américaine]
 courses: [snack]
-tags: [gooey]
+tags: [gooey, petit format, sans beurre, sans huile]
 collections: [brownie, pb]
 
 preptime: 20 min

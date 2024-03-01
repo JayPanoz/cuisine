@@ -5,12 +5,13 @@ title:  "Banana brownies"
 images: 
   - image: 
     path: banana-brownie/banana-brownie-1.jpg
+    alt: "C’est tellement moelleux que le dessus a été marqué par la grille lors du refroidissement."
   - image:
     path: banana-brownie/banana-brownie-2.jpg
     alt: "On sent bien le chocolat, et la banane assure un résultat ultra fondant pour ceux qui aiment leur brownie comme ça."
 cuisines: [américaine]
 courses: [snack]
-tags: [3 ingrédients]
+tags: [3 ingrédients, petit format, sans beurre, sans huile]
 collections: [brownie, cupboard]
 diets: [Vegetarian, Vegan]
 

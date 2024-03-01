@@ -5,12 +5,13 @@ title:  "PB brownies"
 images:
   - image:
     path: PB-brownie/PB-brownie-1.jpg
+    alt: "Craquelé sur le dessus comme les grands, avec les M&M’s qui ressortent bien et proposent une belle gourmandise. On sent que le brownie va fondre en bouche."
   - image:
     path: PB-brownie/PB-brownie-2.jpg
     alt: "La texture et coulante voire gluante, et c'est quasiment impossible de ne pas obtenir le résultat escompté. Pour ajouter du croquant, on a utilisé des M&M’s Peanut dans cette version." 
 cuisines: [américaine]
 courses: [snack]
-tags: [gooey, 4 ingrédients, M&M’s]
+tags: [gooey, 4 ingrédients, M&M’s, petit format, sans beurre, sans huile]
 collections: [brownie, pb, cupboard]
 diets: [Vegetarian, Vegan]
 

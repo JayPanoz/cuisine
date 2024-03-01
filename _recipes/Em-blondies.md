@@ -5,12 +5,13 @@ title: "Em’s Blondies"
 images:
   - image:
     path: em-blondies/em-blondies-1.jpg
+    alt: "La couleur de ce blondie est bien brunie. La promesse de l’été et du bronzage sur la plage. Le chocolat blanc propose un beau contraste."
   - image:
     path: em-blondies/em-blondies-2.jpg
-    alt: "De bons gros morceaux de cerises bien juteuse, des éclats de chocolat blanc, une belle croûte et un cœur bien fondant dégoulinant pour se faire plaisir en été."
+    alt: "De bons gros morceaux de cerises bien juteuses, des éclats de chocolat blanc, une belle croûte et un cœur fondant dégoulinant pour se faire plaisir en été."
 cuisines: [américaine]
 courses: [snack]
-tags: [gooey]
+tags: [gooey, petit format, sans beurre, sans huile]
 collections: [brownie]
 diets: [GlutenFree]
 
