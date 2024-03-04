@@ -5,6 +5,7 @@ title: "Baked oats"
 images:
   - image:
     path: baked-oats-prune/baked-oats-prune-1.jpg
+    alt: "Un dessus très doré voire bruni aux bords, et un nuage de mascarpone au centre, qui propose une texture légère de nuage appétissante."
   - image:
     path: baked-oats-prune/baked-oats-prune-2.jpg
     alt: "Plusieurs couches à chaque bouchée. L’avoine au lait, dans lequel des morceaux de prunes fondants vinnent se lover, et un nuage de mascarpone qui rappelle la texture du cheesecake, surplombé de la croûte qui s’est formée à la cuisson."
