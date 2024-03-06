@@ -75,7 +75,7 @@ directions:
 
 ---
 
-Beurre de cacahuète, purée d’amande, purée de sésame… De grands classiques assez connus qu’on trouve désormais assez facilement dans les rayons de la grande distribution. 
+Beurre de cacahuète, purée d’amande, purée de sésame… De grands classiques qu’on trouve désormais assez facilement dans les rayons de la grande distribution. 
 
 Pourtant, si on y réfléchit bien, un fruit à coque star de l’apéro dont la saveur est très répandue au rayon des yaourts voire biscuits (italiens) manque à cette liste…
 
