@@ -24,7 +24,7 @@ preptime: 30 min
 totaltime: 2 h
 yield: 6 portions
 
-storage: 2–3 jours dans une boîte hermétique au frigo.
+storage: 2 jours dans une boîte hermétique au frigo.
 
 nutrition:
   servingSize: 6
