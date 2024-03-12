@@ -18,7 +18,7 @@ images:
 cuisines: [française]
 courses: [dessert, goûter]
 tags: [biscuit, entremet, sans cuisson]
-collections: [cupboard]
+collections: [cupboard, special]
 
 preptime: 25 min
 totaltime: 2 h 30 min
