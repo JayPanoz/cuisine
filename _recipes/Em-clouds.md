@@ -31,6 +31,8 @@ storage: 1 mois au congélateur.
 
 nutrition:
   servingSize: 6
+  nutriScore: 13
+  nutriScoreClass: D
   weight: 356
   calories: 878.33
   fatContent: 48.45

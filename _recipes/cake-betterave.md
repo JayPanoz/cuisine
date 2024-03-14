@@ -41,6 +41,8 @@ tip: Si vous souhaitez du croquant à la mâche, ajoutez 60g de noix ou pignons 
 
 nutrition:
   servingSize: 16
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 1008
   calories: 2315.77
   fatContent: 135.79

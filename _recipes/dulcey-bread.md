@@ -29,6 +29,8 @@ tip: Pour un dessert moins calorique, n'ajoutez que 60g de chocolat blond pour r
 
 nutrition:
   servingSize: 6
+  nutriScore: 7
+  nutriScoreClass: C
   weight: 790
   calories: 1894.50
   fatContent: 54.67

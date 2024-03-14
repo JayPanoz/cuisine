@@ -24,6 +24,8 @@ storage: 2–3 jours bien recouvert au réfrigérateur.
 
 nutrition:
   servingSize: 4
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 570
   calories: 1282.86
   fatContent: 42.22

@@ -32,6 +32,8 @@ tip: Pour augmenter la teneur en fibres et protéines, remplacer la moitié de f
 
 nutrition:
   servingSize: 6
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 794
   calories: 1601.96
   fatContent: 17.75

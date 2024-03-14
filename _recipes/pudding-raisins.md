@@ -41,6 +41,8 @@ tip: Ne lésinez pas sur le temps de marinade/macération. Plus il sera long, pl
 
 nutrition:
   servingSize: 4
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 625
   calories: 1147.20
   fatContent: 47.75

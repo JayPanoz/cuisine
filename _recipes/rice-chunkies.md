@@ -33,6 +33,8 @@ tip: Si vous aimez les notes de noisette, vous pouvez également préparer un be
 
 nutrition:
   servingSize: 12
+  nutriScore: 20
+  nutriScoreClass: E
   weight: 433
   calories: 1949.92
   fatContent: 110.55

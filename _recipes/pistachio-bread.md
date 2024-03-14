@@ -32,6 +32,8 @@ tip: Pour une version allégée, vous pouvez deja économiser 40&nbsp;Kcal, pas 
 
 nutrition:
   servingSize: 6
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 790
   calories: 1961.24
   fatContent: 63.21

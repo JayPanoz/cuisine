@@ -41,6 +41,8 @@ tip: Le glaçage est susceptible de changer significativement les valeurs nutrit
 
 nutrition:
   servingSize: 8
+  nutriScore: 2
+  nutriScoreClass: B
   weight: 541
   calories: 1327.08
   fatContent: 13.37

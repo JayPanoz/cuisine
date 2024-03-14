@@ -26,6 +26,8 @@ tip: Quand les myrtilles commencent à rendre leur jus à la surface, c‘est le
 
 nutrition:
   servingSize: 6
+  nutriScore: 1
+  nutriScoreClass: B
   weight: 870
   calories: 1755.34
   fatContent: 44.74

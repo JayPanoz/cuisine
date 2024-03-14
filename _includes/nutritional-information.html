@@ -31,7 +31,7 @@
     {% endif %}
   </tr>
   {% for nutrient in nutrients  %}
-  {% if nutrient.first == 'servingSize' or nutrient.first == 'weight' %}{% continue %}{% endif %}
+  {% if nutrient.first == 'servingSize' or nutrient.first == 'weight' or nutrient.first == 'nutriScore' or nutrient.first == 'nutriScoreClass' %}{% continue %}{% endif %}
   {% assign itemprop = nutrient.first %}
   {% assign name = site.data[site.language].nutrients[itemprop].name %}
   {% assign rounder = 2 %}
@@ -56,6 +56,10 @@
   </tr>
   {% endfor %}
 </table>
+
+{% if page.nutrition['nutriScoreClass'] %}
+  <div class="nutrition-score">{{ site.translation[site.language].nutritional_score }} {{ page.nutrition['nutriScoreClass'] }}</div>
+{% endif %}
 </div>
 <!-- end nutritional information -->
 {% endif %}

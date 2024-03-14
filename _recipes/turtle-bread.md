@@ -30,6 +30,8 @@ tip: Pour un goût plus chocolaté, intégrez un peu de chocolat noir très fina
 nutrition:
   servingSize: 6
   weight: 758
+  nutriScore: 3
+  nutriScoreClass: C
   calories: 1775.24
   fatContent: 61.95
   saturatedFatContent: 13.35
