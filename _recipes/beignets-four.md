@@ -22,6 +22,8 @@ storage: 2 jours dans une boîte à l’abri de la lumière et de la chaleur. 2�
 nutrition:
   servingSize: 8
   weight: 600
+  nutriScore: 8
+  nutriScoreClass: C
   calories: 1711.23
   fatContent: 25.74
   saturatedFatContent: 13.66

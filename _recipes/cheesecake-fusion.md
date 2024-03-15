@@ -31,6 +31,8 @@ storage: 2–3 jours dans un conteneur hermétique au réfrigérateur.
 
 nutrition:
   servingSize: 12
+  nutriScore: 11
+  nutriScoreClass: D
   weight: 1086
   calories: 2694.75
   fatContent: 145.85

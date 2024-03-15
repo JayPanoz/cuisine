@@ -29,6 +29,8 @@ tip: Pour un effet fantôme encore plus marqué, osez le glaçage au citron ou l
 
 nutrition:
   servingSize: 6
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 745
   calories: 1519.80
   fatContent: 11.02
