@@ -19,6 +19,8 @@ yield: 8 empanadas
 
 nutrition:
   servingSize: 8
+  nutriScore: -3
+  nutriScoreClass: A
   weight: 451
   calories: 1074.52
   fatContent: 26.25

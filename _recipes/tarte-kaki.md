@@ -22,15 +22,17 @@ storage: 2–3 jours à l’abri de la lumière et de la chaleur à température
 
 nutrition:
   servingSize: 8
-  weight: 930
-  calories: 1916.52
-  fatContent: 73.11
-  saturatedFatContent: 32.15
-  carbohydrateContent: 281.88
-  sugarContent: 144.08
-  fiberContent: 29.53
-  proteinContent: 17.30
-  sodiumContent: 3.79
+  nutriScore: 10
+  nutriScoreClass: C
+  weight: 715
+  calories: 1684.18
+  fatContent: 72.39
+  saturatedFatContent: 32.08
+  carbohydrateContent: 232.78
+  sugarContent: 107.88
+  fiberContent: 18.20
+  proteinContent: 15.60
+  sodiumContent: 3.76
 
 ingredients:
 - 1 pâte feuilletée ou pâte brisée

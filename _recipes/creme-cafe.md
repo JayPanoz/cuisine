@@ -23,6 +23,8 @@ storage: 2–3 jours au frigo, ramequin recouvert de film alimentaire.
 
 nutrition:
   servingSize: 2
+  nutriScore: 1
+  nutriScoreClass: B
   weight: 200
   calories: 224.10
   fatContent: 10.54

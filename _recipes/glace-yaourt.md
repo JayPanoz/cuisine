@@ -16,6 +16,8 @@ yield: 2 portions
 
 nutrition:
   servingSize: 2
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 115
   calories: 137.00
   fatContent: 3.04

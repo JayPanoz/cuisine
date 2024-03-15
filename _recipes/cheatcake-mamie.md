@@ -33,6 +33,8 @@ storage: 2–3 jours dans un conteneur hermétique au frigo.
 
 nutrition:
   servingSize: 4
+  nutriScore: 0
+  nutriScoreClass: B
   weight: 525
   calories: 754.05
   fatContent: 25.91
