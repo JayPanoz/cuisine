@@ -231,11 +231,11 @@ li.slider-img {
 
 .nutrition-score {
 	margin-top: 1rem;
-	text-align: right;
+	text-align: left;
 	font-weight: bold;
 }
 
-.nutrition-score::after {
+h4.nutrition[data-nutriclass]::after {
 	content: "";
 	margin-left: 0.5rem;
 	line-height: 1;
@@ -245,23 +245,23 @@ li.slider-img {
 	border-radius: 50%;
 }
 
-.nutrition-score[data-nutriclass="A"]::after {
+h4.nutrition[data-nutriclass="A"]::after {
 	background-color: #3d9970;
 }
 
-.nutrition-score[data-nutriclass="B"]::after {
+h4.nutrition[data-nutriclass="B"]::after {
 	background-color: #2ecc40;
 }
 
-.nutrition-score[data-nutriclass="C"]::after {
+h4.nutrition[data-nutriclass="C"]::after {
 	background-color: #ffdc00;
 }
 
-.nutrition-score[data-nutriclass="D"]::after {
+h4.nutrition[data-nutriclass="D"]::after {
 	background-color: #ff851b;
 }
 
-.nutrition-score[data-nutriclass="E"]::after {
+h4.nutrition[data-nutriclass="E"]::after {
 	background-color: #ff4136;
 }
 

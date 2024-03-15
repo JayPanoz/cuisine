@@ -15,7 +15,11 @@
   {% assign weightDivider = page.nutrition['weight'] | divided_by: 100.0 %}
 {% endif %}
 
-<h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }}</h4>
+{% if page.nutrition['nutriScoreClass'] %}
+  {% assign nutriclass = page.nutrition['nutriScoreClass'] %}
+{% endif %}
+
+<h4 class="accent mt0 mb2 xs-center mt3 nutrition" data-nutriclass="{{ nutriclass }}">{{ site.translation[site.language].nutritional_information }}</h4>
 
 <div class="mr0 xs-mr1 sm-mr1 md-mr2 lg-mr2" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation">
 {% assign nutrients = page.nutrition %}
@@ -58,8 +62,7 @@
 </table>
 
 {% if page.nutrition['nutriScoreClass'] %}
-{% assign nutriclass = page.nutrition['nutriScoreClass'] %}
-  <div class="nutrition-score" data-nutriclass="{{ nutriclass }}">{{ site.translation[site.language].nutritional_score }} {{ nutriclass }}</div>
+  <div class="nutrition-score">{{ site.translation[site.language].nutritional_score }} {{ nutriclass }}</div>
 {% endif %}
 </div>
 <!-- end nutritional information -->
