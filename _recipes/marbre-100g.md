@@ -22,6 +22,8 @@ yield: 12 tranches
 
 nutrition:
   servingSize: 12
+  nutriScore: 20
+  nutriScoreClass: E
   weight: 436
   calories: 1727.80
   fatContent: 97.30

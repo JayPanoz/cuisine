@@ -22,6 +22,8 @@ tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 second
 
 nutrition:
   servingSize: 8
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 741
   calories: 2051.55
   fatContent: 39.25

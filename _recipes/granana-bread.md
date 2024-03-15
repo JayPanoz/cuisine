@@ -27,6 +27,8 @@ tip: Si vous ne trouvez pas de farine d’avoine ou que le prix vous paraît com
 
 nutrition:
   servingSize: 6
+  nutriScore: 5
+  nutriScoreClass: C
   weight: 745
   calories: 1877.49
   fatContent: 53.67

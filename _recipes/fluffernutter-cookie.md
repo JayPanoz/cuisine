@@ -22,6 +22,8 @@ tip: Pas fan ou impossible de trouver du fluff&nbsp;? Utilisez une gelée/confit
 
 nutrition:
   servingSize: 20
+  nutriScore: 10
+  nutriScoreClass: C
   weight: 610
   calories: 2652.72
   fatContent: 109.85

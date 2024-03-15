@@ -26,6 +26,8 @@ tip: Pour modifier les valeurs des macros, envisagez le fromage blanc allégé e
 
 nutrition:
   servingSize: 4
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 695
   calories: 1498.07
   fatContent: 34.19

@@ -14,15 +14,17 @@ yield: 12 galettes
 
 nutrition:
   servingSize: 12
-  weight: 297
-  calories: 475.91
-  fatContent: 20.68
-  saturatedFatContent: 11.64
-  carbohydrateContent: 44.97
-  sugarContent: 2.77
-  fiberContent: 4.09
-  proteinContent: 25.29
-  sodiumContent: 1.41
+  nutriScore: 1
+  nutriScoreClass: B
+  weight: 356
+  calories: 685.13
+  fatContent: 29.75
+  saturatedFatContent: 15.85
+  carbohydrateContent: 72.32
+  sugarContent: 2.50
+  fiberContent: 6.92
+  proteinContent: 28.57
+  sodiumContent: 1.64
 
 ingredients:
 - 2 pommes de terre

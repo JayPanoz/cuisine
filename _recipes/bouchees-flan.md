@@ -20,6 +20,8 @@ storage: 48 heures au frigo. Pas de congélation.
 
 nutrition:
   servingSize: 24
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 790
   calories: 1052.00
   fatContent: 24.18

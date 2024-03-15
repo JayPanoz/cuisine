@@ -18,15 +18,17 @@ yield: 4 portions
 
 nutrition:
   servingSize: 4
-  weight: 1002
-  calories: 1285.74
-  fatContent: 92.32
-  saturatedFatContent: 53.05
-  carbohydrateContent: 21.29
-  sugarContent: 17.11
-  fiberContent: 5.00
-  proteinContent: 89.30
-  sodiumContent: 6.96
+  nutriScore: 2
+  nutriScoreClass: B
+  weight: 1371
+  calories: 1378.90
+  fatContent: 93.90
+  saturatedFatContent: 53.62
+  carbohydrateContent: 27.22
+  sugarContent: 22.72
+  fiberContent: 9.45
+  proteinContent: 100.74
+  sodiumContent: 8.45
 
 ingredients:
 - 4 courgettes

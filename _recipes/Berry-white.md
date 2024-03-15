@@ -22,6 +22,8 @@ tip: La touche finale qui ne figure pas dans les ingrédients ou instructions, c
 
 nutrition:
   servingSize: 6
+  nutriScore: 15
+  nutriScoreClass: D
   weight: 830
   calories: 2987.95
   fatContent: 198.37

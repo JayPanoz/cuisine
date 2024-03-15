@@ -24,15 +24,17 @@ ingredients:
 
 nutrition:
   servingSize: 2
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 753
-  calories: 1048.55
-  fatContent: 39.04
-  saturatedFatContent: 16.64
-  carbohydrateContent: 133.31
-  sugarContent: 12.87
-  fiberContent: 9.47
-  proteinContent: 44.67
-  sodiumContent: 7.73
+  calories: 972.42
+  fatContent: 31.62
+  saturatedFatContent: 16.18
+  carbohydrateContent: 123.89
+  sugarContent: 20.99
+  fiberContent: 6.23
+  proteinContent: 44.20
+  sodiumContent: 4.86
 
 directions:
 - Lavez et hachez le basilic. Réservez.

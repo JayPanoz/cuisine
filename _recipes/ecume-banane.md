@@ -19,6 +19,8 @@ yield: 2 ramequins
 
 nutrition:
   servingSize: 2
+  nutriScore: -2
+  nutriScoreClass: A
   weight: 612
   calories: 435.86
   fatContent: 1.80

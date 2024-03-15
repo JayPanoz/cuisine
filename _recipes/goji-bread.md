@@ -29,6 +29,8 @@ tip: Pour ajouter un accent de noisette, n’hésitez pas à opérer des substit
 
 nutrition:
   servingSize: 6
+  nutriScore: 0
+  nutriScoreClass: B
   weight: 785
   calories: 1689.03
   fatContent: 30.52
