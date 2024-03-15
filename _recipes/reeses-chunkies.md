@@ -22,6 +22,8 @@ storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et 
 
 nutrition:
   servingSize: 12
+  nutriScore: 21
+  nutriScoreClass: E
   weight: 430
   calories: 1974.46
   fatContent: 100.96
