@@ -24,6 +24,8 @@ tip: "Pan fan du sarrasin&nbsp;? Utilisez de la poudre d’amande pour doubler l
 
 nutrition:
   servingSize: 6
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 475
   calories: 1427.84
   fatContent: 74.49
