@@ -22,6 +22,8 @@ yield: 24 tranches
 
 nutrition:
   servingSize: 24
+  nutriScore: 1
+  nutriScoreClass: B
   weight: 687
   calories: 2008.27
   fatContent: 72.69

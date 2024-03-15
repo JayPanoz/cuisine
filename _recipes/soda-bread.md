@@ -24,6 +24,8 @@ storage: 2–3 jours enroulé dans un chiffon.
 
 nutrition:
   servingSize: 16
+  nutriScore: -2
+  nutriScoreClass: A
   weight: 587
   calories: 1281.42
   fatContent: 17.74
