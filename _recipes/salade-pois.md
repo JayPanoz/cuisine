@@ -20,6 +20,8 @@ tip: Récupérez le jus de cuisson des pois chiches (aquafaba) pour une autre re
 
 nutrition:
   servingSize: 4
+  nutriScore: -2
+  nutriScoreClass: A
   weight: 1217
   calories: 1100.28
   fatContent: 57.51

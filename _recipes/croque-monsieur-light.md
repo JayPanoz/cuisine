@@ -15,6 +15,8 @@ yield: 2 croque
 
 nutrition:
   servingSize: 2
+  nutriScore: 2
+  nutriScoreClass: B
   weight: 612
   calories: 609.28
   fatContent: 17.22

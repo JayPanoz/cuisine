@@ -20,6 +20,8 @@ yield: 6 mini barres
 
 nutrition:
   servingSize: 6
+  nutriScore: 16
+  nutriScoreClass: D
   weight: 389
   calories: 1262.03
   fatContent: 53.75

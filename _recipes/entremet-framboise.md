@@ -29,6 +29,8 @@ yield: 8 parts (entremet de 14 cm de diamètre)
 
 nutrition:
   servingSize: 8
+  nutriScore: 14
+  nutriScoreClass: D
   weight: 1099
   calories: 2940.36
   fatContent: 145.08
