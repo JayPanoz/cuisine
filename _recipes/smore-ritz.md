@@ -39,6 +39,8 @@ tip: Si vous n’avez ou n’aimez pas les mashmallows, vous pouvez utiliser des
 
 nutrition:
   servingSize: 10
+  nutriScore: 20
+  nutriScoreClass: E
   weight: 190
   calories: 973.75
   fatContent: 47.45
