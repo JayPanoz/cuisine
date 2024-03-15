@@ -58,7 +58,8 @@
 </table>
 
 {% if page.nutrition['nutriScoreClass'] %}
-  <div class="nutrition-score">{{ site.translation[site.language].nutritional_score }} {{ page.nutrition['nutriScoreClass'] }}</div>
+{% assign nutriclass = page.nutrition['nutriScoreClass'] %}
+  <div class="nutrition-score" data-nutriclass="{{ nutriclass }}">{{ site.translation[site.language].nutritional_score }} {{ nutriclass }}</div>
 {% endif %}
 </div>
 <!-- end nutritional information -->

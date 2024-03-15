@@ -235,6 +235,36 @@ li.slider-img {
 	font-weight: bold;
 }
 
+.nutrition-score::after {
+	content: "";
+	margin-left: 0.5rem;
+	line-height: 1;
+	width: 0.8rem;
+	height: 0.8rem;
+	display: inline-block;
+	border-radius: 50%;
+}
+
+.nutrition-score[data-nutriclass="A"]::after {
+	background-color: #3d9970;
+}
+
+.nutrition-score[data-nutriclass="B"]::after {
+	background-color: #2ecc40;
+}
+
+.nutrition-score[data-nutriclass="C"]::after {
+	background-color: #ffdc00;
+}
+
+.nutrition-score[data-nutriclass="D"]::after {
+	background-color: #ff851b;
+}
+
+.nutrition-score[data-nutriclass="E"]::after {
+	background-color: #ff4136;
+}
+
 .pl1 {
 	padding-left: 0.5rem !important;
 }
