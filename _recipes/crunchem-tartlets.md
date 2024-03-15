@@ -21,6 +21,8 @@ storage: 4–5 jours dans une boîte (pas besoin qu'elle soit hermétique) à l'
 
 nutrition:
   servingSize: 24
+  nutriScore: 16
+  nutriScoreClass: D
   weight: 898
   calories: 3308.60
   fatContent: 169.30
