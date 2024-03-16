@@ -42,17 +42,17 @@ tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 second
 
 nutrition:
   servingSize: 16
-  nutriScore: 6
+  nutriScore: 5
   nutriScoreClass: C
-  weight: 956
-  calories: 2505.54
-  fatContent: 80.49
-  saturatedFatContent: 42.33
-  carbohydrateContent: 358.06
-  sugarContent: 149.60
-  fiberContent: 26.87
-  proteinContent: 64.26
-  sodiumContent: 1.70
+  weight: 926
+  calories: 2267.02
+  fatContent: 57.18
+  saturatedFatContent: 27.97
+  carbohydrateContent: 355.95
+  sugarContent: 146.36
+  fiberContent: 25.82
+  proteinContent: 64.15
+  sodiumContent: 1.74
 
 components: 
 - Curd de fruit

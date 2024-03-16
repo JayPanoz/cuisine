@@ -23,15 +23,17 @@ tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 second
 
 nutrition:
   servingSize: 8
-  weight: 592
-  calories: 1718.12
-  fatContent: 15.90
-  saturatedFatContent: 7.23
-  carbohydrateContent: 334.82
-  sugarContent: 155.42
-  fiberContent: 15.09
-  proteinContent: 45.20
-  sodiumContent: 2.40
+  nutriScore: 6
+  nutriScoreClass: C
+  weight: 692
+  calories: 1731.05
+  fatContent: 16.39
+  saturatedFatContent: 7.33
+  carbohydrateContent: 335.71
+  sugarContent: 156.08
+  fiberContent: 16.40
+  proteinContent: 45.77
+  sodiumContent: 2.41
 
 ingredients:
 - 250g de farine T45–T55

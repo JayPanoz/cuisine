@@ -23,15 +23,17 @@ tip: Si la brioche a perdu de son moelleux, vous pouvez la passer 15–20 second
 
 nutrition:
   servingSize: 8
-  weight: 907
-  calories: 2606.10
-  fatContent: 111.49
-  saturatedFatContent: 36.48
-  carbohydrateContent: 302.25
-  sugarContent: 104.14
-  fiberContent: 40.25
-  proteinContent: 78.15
-  sodiumContent: 2.64
+  nutriScore: 1
+  nutriScoreClass: B
+  weight: 901
+  calories: 2499.65
+  fatContent: 107.20
+  saturatedFatContent: 33.32
+  carbohydrateContent: 286.68
+  sugarContent: 106.05
+  fiberContent: 40.18
+  proteinContent: 76.57
+  sodiumContent: 1.77
 
 components: 
 - Brioche Butchy pour Rolls
