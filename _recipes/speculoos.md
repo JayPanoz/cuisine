@@ -21,6 +21,8 @@ storage: 5–7 jours dans une boîte à biscuits à l'abri de la chaleur et de l
 
 nutrition:
   servingSize: 36
+  nutriScore: 20
+  nutriScoreClass: E
   weight: 450
   calories: 2052.46
   fatContent: 106.45

@@ -22,6 +22,8 @@ yield: 12 biscuits
 
 nutrition:
   servingSize: 12
+  nutriScore: 12
+  nutriScoreClass: D
   weight: 461
   calories: 1851.70
   fatContent: 80.50
