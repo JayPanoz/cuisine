@@ -17,14 +17,16 @@ yield: 2 portions
 
 nutrition:
   servingSize: 2
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 425
-  calories: 425.01
-  fatContent: 14.42
-  saturatedFatContent: 9.78
-  carbohydrateContent: 57.70
-  sugarContent: 46.66
-  fiberContent: 15.82
-  proteinContent: 6.80
+  calories: 415.90
+  fatContent: 15.27
+  saturatedFatContent: 10.40
+  carbohydrateContent: 53.81
+  sugarContent: 43.69
+  fiberContent: 15.20
+  proteinContent: 6.71
   sodiumContent: 0.10
 
 ingredients:
