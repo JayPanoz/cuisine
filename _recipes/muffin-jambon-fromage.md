@@ -20,6 +20,8 @@ storage: 48 heures au réfrigérateur dans un contenant hermétique. 1–2 mois 
 
 nutrition:
   servingSize: 12
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 343
   calories: 917.44
   fatContent: 56.15

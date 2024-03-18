@@ -21,15 +21,17 @@ storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la ch
 
 nutrition:
   servingSize: 12
-  weight: 310
-  calories: 1062.00
-  fatContent: 52.95
-  saturatedFatContent: 13.03
-  carbohydrateContent: 100.66
-  sugarContent: 48.16
+  nutriScore: 14
+  nutriScoreClass: D
+  weight: 256
+  calories: 1069.25
+  fatContent: 53.46
+  saturatedFatContent: 13.17
+  carbohydrateContent: 100.70
+  sugarContent: 48.20
   fiberContent: 9.05
-  proteinContent: 37.03
-  sodiumContent: 2.20
+  proteinContent: 37.64
+  sodiumContent: 2.22
 
 ingredients:
 - 100g de beurre de cacahuète crunchy (avec des morceaux de cacahuète)

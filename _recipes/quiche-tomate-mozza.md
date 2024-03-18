@@ -20,15 +20,17 @@ storage: 2–3 jours au réfrigérateur.
 
 nutrition:
   servingSize: 8
-  weight: 1132
-  calories: 1867.86
-  fatContent: 89.72
-  saturatedFatContent: 52.90
-  carbohydrateContent: 169.81
-  sugarContent: 30.83
-  fiberContent: 10.11
-  proteinContent: 87.33
-  sodiumContent: 3.32
+  nutriScore: 3
+  nutriScoreClass: C
+  weight: 1178
+  calories: 2091.03
+  fatContent: 115.51
+  saturatedFatContent: 65.72
+  carbohydrateContent: 169.32
+  sugarContent: 29.73
+  fiberContent: 10.51
+  proteinContent: 88.62
+  sodiumContent: 4.31
 
 components:
 - Pâte brisée au fromage blanc

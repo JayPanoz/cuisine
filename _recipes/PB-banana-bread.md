@@ -29,6 +29,8 @@ tip: Plus le chocolat sera noir, plus il sera amer et apportera un contraste sai
 
 nutrition:
   servingSize: 6
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 810
   calories: 2027.88
   fatContent: 69.80

@@ -27,6 +27,8 @@ tip: Pour une crème pâtissière ultra fraîche, n’hésitez pas à faire infu
 
 nutrition:
   servingSize: 4
+  nutriScore: 2
+  nutriScoreClass: B
   weight: 535
   calories: 861.98
   fatContent: 24.64

@@ -23,6 +23,8 @@ yield: 6 muffins
 
 nutrition:
   servingSize: 6
+  nutriScore: 15
+  nutriScoreClass: D
   weight: 502
   calories: 1471.03
   fatContent: 44.98

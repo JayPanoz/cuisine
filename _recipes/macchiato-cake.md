@@ -25,6 +25,8 @@ yield: 6 mini cakes
 
 nutrition:
   servingSize: 6
+  nutriScore: 21
+  nutriScoreClass: E
   weight: 515
   calories: 2160.77
   fatContent: 130.25

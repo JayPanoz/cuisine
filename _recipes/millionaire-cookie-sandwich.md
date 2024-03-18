@@ -21,6 +21,8 @@ storage: 5–7 jours dans une boîte à biscuit avec du papier cuisson pour abso
 
 nutrition:
   servingSize: 24
+  nutriScore: 17
+  nutriScoreClass: D
   weight: 280
   calories: 1277.45
   fatContent: 80.47

@@ -21,6 +21,8 @@ storage: 2–3 jours dans une boîte hermétique au réfrigérateur.
 
 nutrition:
   servingSize: 2
+  nutriScore: -1
+  nutriScoreClass: A
   weight: 464
   calories: 507.25
   fatContent: 9.73

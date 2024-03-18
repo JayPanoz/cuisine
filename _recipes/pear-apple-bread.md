@@ -32,15 +32,17 @@ tip: Pour une version encore un peu plus saine, vous pouvez remplacer le sucre p
 
 nutrition:
   servingSize: 6
-  weight: 829
-  calories: 1474.36
-  fatContent: 29.46
-  saturatedFatContent: 5.56
-  carbohydrateContent: 229.81
-  sugarContent: 88.82
-  fiberContent: 36.34
-  proteinContent: 49.42
-  sodiumContent: 3.65
+  nutriScore: 0
+  nutriScoreClass: B
+  weight: 859
+  calories: 1458.06
+  fatContent: 30.43
+  saturatedFatContent: 7.57
+  carbohydrateContent: 222.08
+  sugarContent: 83.07
+  fiberContent: 37.25
+  proteinContent: 50.40
+  sodiumContent: 3.66
 
 ingredients:
 - 120g de flocons ou son d’avoine

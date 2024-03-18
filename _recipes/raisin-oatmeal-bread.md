@@ -29,6 +29,8 @@ tip: Pour une version encore un peu plus saine, vous pouvez remplacer le sucre p
 
 nutrition:
   servingSize: 6
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 806
   calories: 1703.78
   fatContent: 26.95
