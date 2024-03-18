@@ -21,15 +21,17 @@ storage: 2 jours au réfrigérateur.
 
 nutrition:
   servingSize: 8
-  weight: 861
-  calories: 1713.05
-  fatContent: 58.14
-  saturatedFatContent: 10.22
-  carbohydrateContent: 238.54
-  sugarContent: 117.86
-  fiberContent: 20.79
-  proteinContent: 42.58
-  sodiumContent: 1.53
+  nutriScore: 3
+  nutriScoreClass: C
+  weight: 996
+  calories: 1798.55
+  fatContent: 66.71
+  saturatedFatContent: 12.16
+  carbohydrateContent: 234.07
+  sugarContent: 113.79
+  fiberContent: 20.43
+  proteinContent: 43.52
+  sodiumContent: 1.60
 
 ingredients:
 - 1 pâte sucrée

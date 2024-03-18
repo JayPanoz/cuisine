@@ -21,15 +21,17 @@ storage: 2 jours au réfrigérateur.
 
 nutrition:
   servingSize: 8
-  weight: 1054
-  calories: 1738.54
-  fatContent: 42.99
-  saturatedFatContent: 24.71
-  carbohydrateContent: 259.98
-  sugarContent: 103.77
+  nutriScore: 2
+  nutriScoreClass: B
+  weight: 1059
+  calories: 1745.79
+  fatContent: 43.51
+  saturatedFatContent: 24.85
+  carbohydrateContent: 260.01
+  sugarContent: 103.81
   fiberContent: 22.45
-  proteinContent: 63.96
-  sodiumContent: 0.55
+  proteinContent: 64.58
+  sodiumContent: 0.56
 
 ingredients:
 - 1 pâte brisée épautre caramel
