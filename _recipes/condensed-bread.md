@@ -32,15 +32,17 @@ tip: Plus les bananes seront mûres/noires, plus elles seront sucrées. À vous 
 
 nutrition:
   servingSize: 6
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 785
-  calories: 2111.84
-  fatContent: 66.74
-  saturatedFatContent: 40.84
-  carbohydrateContent: 295.10
-  sugarContent: 131.50
-  fiberContent: 35.14
-  proteinContent: 61.03
-  sodiumContent: 3.74
+  calories: 2065.84
+  fatContent: 55.04
+  saturatedFatContent: 28.34
+  carbohydrateContent: 316.70
+  sugarContent: 150.60
+  fiberContent: 29.84
+  proteinContent: 56.68
+  sodiumContent: 3.78
 
 ingredients:
 - 120g de farine T45–T65

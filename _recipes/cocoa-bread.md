@@ -26,15 +26,17 @@ tip: Si vous ne trouvez pas de farine d’avoine ou que le prix vous paraît com
 
 nutrition:
   servingSize: 6
+  nutriScore: 1
+  nutriScoreClass: B
   weight: 750
-  calories: 1728.64
-  fatContent: 59.19
-  saturatedFatContent: 12.69
-  carbohydrateContent: 206.26
-  sugarContent: 72.79
+  calories: 1918.04
+  fatContent: 82.19
+  saturatedFatContent: 26.99
+  carbohydrateContent: 203.06
+  sugarContent: 71.69
   fiberContent: 42.61
   proteinContent: 63.12
-  sodiumContent: 3.60
+  sodiumContent: 3.56
 
 ingredients:
 - 150g de farine d’avoine

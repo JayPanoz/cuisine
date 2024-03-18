@@ -21,15 +21,17 @@ storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et 
 
 nutrition:
   servingSize: 12
-  weight: 380
-  calories: 1709.42
-  fatContent: 85.96
-  saturatedFatContent: 53.64
-  carbohydrateContent: 198.40
-  sugarContent: 105.20
-  fiberContent: 8.57
-  proteinContent: 30.39
-  sodiumContent: 2.15
+  nutriScore: 20
+  nutriScoreClass: E
+  weight: 388
+  calories: 1639.07
+  fatContent: 83.42
+  saturatedFatContent: 51.94
+  carbohydrateContent: 189.41
+  sugarContent: 96.67
+  fiberContent: 8.56
+  proteinContent: 24.41
+  sodiumContent: 1.95
 
 ingredients:
 - 125g de farine

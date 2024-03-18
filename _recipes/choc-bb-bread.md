@@ -26,6 +26,8 @@ tip: Plus les bananes seront mûres/noires, plus elles seront sucrées. À vous 
 
 nutrition:
   servingSize: 6
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 770
   calories: 1582.79
   fatContent: 37.83

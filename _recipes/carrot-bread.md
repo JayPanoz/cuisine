@@ -34,6 +34,8 @@ storage: 2–3 jours dans une boîte hermétique au frigo. 2–3 mois au congél
 
 nutrition:
   servingSize: 6
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 1030
   calories: 1913.24
   fatContent: 52.83
@@ -50,6 +52,7 @@ components:
 ingredients:
 - 120g de farine d'épeautre
 - 100g de farine complète T150
+- 200g de compote de pomme
 - 2 carottes finement râpées/mixées soit 150g
 - 2 œufs
 - 100g de yaourt grec, fromage blanc, ou ricotta
@@ -66,14 +69,13 @@ ingredients:
 
 directions:
 - Préchauffez votre four à 180°C.
-- Écrasez la banane mûre en purée. Réservez.
 - Râpez les carottes, l'important est de les avoir fines, à vous de voir ce que vous préférez en terme de longueur. Mettez-les dans une passoire et essayez d'en sortir le maximum d'eau/humidité à la force de vos mains. Réservez. 
 - Dans un bol, blanchissez les œufs avec le sucre et l'extrait de vanille. On cherche à obtenir un mélange mousseux donc il va falloir fouetter jusqu'à doubler le volume du mélange au minimum. Au batteur électrique ça prend 2 minutes, à la main ça en prendra probablement 10.
 - Dans un autre bol, préparez vos ingrédients secs (farines, cannelle, 4 épices, muscade, sel, et bicarbonate) et tamisez-les.
-- Ajoutez le yaourt au mélange œuf et sucre, et incorporez-le sans trop fouetter. 
+- Ajoutez la compote et le yaourt au mélange œuf et sucre, et incorporez-le sans trop fouetter. 
 - Mélangez vos ingrédients secs au fouet et intégrez-les en plusieurs fois à la maryse jusqu'à ce que tout soit lisse. 
 - Ajoutez les noix de cajou toastées et hachées. 
-- Ajoutez les carottes et les raisins et mélangez une dernière fois en douceur, à la maryse. 
+- Ajoutez les carottes et mélangez une dernière fois en douceur, à la maryse. 
 - Versez votre pâte dans le moule à mini cakes et enfournez pour 40 minutes ou jusqu'à ce que la lame d'un couteau ressorte avec quelques flocons de mie. 
 - Laissez refroidir quelques minutes puis démoulez puis attendez que les cakes soit à température ambiante pour le glacage.
 - Réalisez le glaçage au yaourt grec et disposez-le sur le dessus de chaque mini cake.

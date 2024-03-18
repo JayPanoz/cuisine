@@ -28,6 +28,8 @@ tip: Si vous souhaitez un cake à étages, il va falloir trouver un autre glaça
 
 nutrition:
   servingSize: 16
+  nutriScore: 5
+  nutriScoreClass: C
   weight: 861
   calories: 1558.83
   fatContent: 30.18

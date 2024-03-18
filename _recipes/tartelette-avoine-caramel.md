@@ -20,6 +20,8 @@ storage: 4–5 jours dans une boîte hermétique au frigo. 2–3 mois au congél
 
 nutrition:
   servingSize: 24
+  nutriScore: 18
+  nutriScoreClass: D
   weight: 538
   calories: 2207.94
   fatContent: 128.14

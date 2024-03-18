@@ -28,6 +28,8 @@ tip: Pour obtenir une crème pâtissière d’une couleur bien rose, il faudra u
 
 nutrition:
   servingSize: 12
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 592
   calories: 990.97
   fatContent: 15.09
