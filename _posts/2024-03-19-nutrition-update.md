@@ -11,7 +11,7 @@ Il est également là pour souligner que l’étiquette “Healthy” s’est en
 
 ## Un indicateur familier pour vous y retrouver
 
-L’idée n’est pas d’afficher de meilleurs scores que les produits du commerce, mais de vous aider à comparer les recettes entre-elles, dans leur catégorie – ça n’a en effet aucun sens de comparer une recette de snack avec une entrée ou un plat.
+L’idée n’est pas d’afficher de meilleurs scores que les produits du commerce, mais de vous aider à comparer les recettes entre-elles en toute transparence, dans leur catégorie – ça n’a en effet aucun sens de comparer une recette de snack avec une entrée ou un plat.
 
 Pour les explications détaillées, rendez-vous sur le site de [Santé Publique France](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/articles/nutri-score). Pour le résumé, on prend tout bêtement les nutriments à limiter (énergie, acides gras saturés, sucres, et sel), puis on y soustrait les nutriments et aliments à favoriser (fibres, protéines, fruits, légumes, et légumineuses). On obtient ainsi un score qui permet d’attribuer une lettre et une couleur.
 
