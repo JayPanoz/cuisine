@@ -17,6 +17,8 @@ Pour les explications détaillées, rendez-vous sur le site de [Santé Publique 
 
 C'est ce principe qui est repris dans la section “Nutrition” des recettes, avec le nouvel algorithme. Et ça permet de [lister les recettes selon leur score](../scores.html) par la même occasion.
 
+Si vous êtes dev et que vous souhaitez récupérer voire contribuer à la librairie, [le dépôt du fork GitHub est ici](https://github.com/JayPanoz/nutri-score).
+
 Encore une fois, je me limiterai à parler de simple indicateur dans le contexte du site. Si vous voulez comparer les recettes avec des produits du commerce, je vous encourage à plutôt regarder les valeurs nutritionnelles, mais également la liste d’ingrédients et le [niveau de transformation du produit](https://fr.openfoodfacts.org/nova).
 
 ## La nutrition, c’est compliqué
