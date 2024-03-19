@@ -10,7 +10,8 @@ images:
     alt: "Ici on est plus sur du cake que du cookie, il y a de quoi être décontenancé si on ne s’y attend pas."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, sans œuf]
+tags: [sans œuf]
+collections: [cookie]
 diets: [Vegetarian, Vegan]
 
 preptime: 25 min

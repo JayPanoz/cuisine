@@ -10,7 +10,8 @@ images:
     alt: "Pour une vraie expérience cookie dough, la consistance doit ressembler à la pâte à cookie après passage au frigo. Il faut donc pouvoir passer une cuillère à glace dedans sans forcer et former des boules. Pour une expérience plus onctueuse on peut néanmoins ajouter du lait."
 cuisines: [américaine]
 courses: [snack, dessert]
-tags: [cookie, bouchée, sans cuisson, protéiné, récupération]
+tags: [bouchée, sans cuisson, protéiné, récupération]
+collections: [cookie]
 
 preptime: 10 min
 yield: 18 bouchées

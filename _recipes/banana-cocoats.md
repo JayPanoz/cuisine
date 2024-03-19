@@ -10,8 +10,7 @@ images:
     alt: "C‘est vraiment très très moelleux, il ne faut pas en attendre du croquant."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
-collections: [oatmeal]
+collections: [oatmeal, cookie]
 
 preptime: 10 min
 cooktime: 20 min

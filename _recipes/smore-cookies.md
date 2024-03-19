@@ -10,8 +10,8 @@ images:
     alt: "Croquant à l’extérieur mais tout moelleux à l’intérieur, avec des flaques de chocolat fondu et du marshmallow bien gluant." 
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, gooey]
-collections: [smore]
+tags: [gooey]
+collections: [smore, cookie]
 
 preptime: 15 min
 cooktime: 15 min

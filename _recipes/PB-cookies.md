@@ -10,8 +10,7 @@ images:
     alt: "Le cookie est très différent de ce que tu peux attendre car il force à mâcher longuement en bouche, pas à croquer sous la dent."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
-collections: [pb]
+collections: [pb, cookie]
 
 preptime: 15 min
 cooktime: 10 min

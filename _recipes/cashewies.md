@@ -17,7 +17,7 @@ images:
     alt: "Le caramel bien mou est caractéristique de ce cookie. Il faut se débrouiller pour en prendre un peu à chaque bouchée, plutôt que de garder le centre pour la fin."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
+collections: [cookie]
 
 preptime: 15 min
 cooktime: 15 min

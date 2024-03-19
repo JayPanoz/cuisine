@@ -10,7 +10,8 @@ images:
     alt: "Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre aucun craquant."
 cuisines: [américaine]
 courses: [snack, dessert]
-tags: [cookie, bouchée, sans cuisson]
+tags: [bouchée, sans cuisson]
+collections: [cookie]
 
 preptime: 25 min
 totaltime: 1 h

@@ -10,7 +10,7 @@ images:
     alt: "Le biscuit est d’une richesse assez exceptionnelle quand on prend le temps de le déguster, car on découvre différents niveaux de saveurs en bouche."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
+collections: [cookie]
 
 preptime: 30 min
 cooktime: 30 min

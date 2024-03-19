@@ -20,7 +20,7 @@ images:
     alt: "À l’intérieur c’est toujours aussi moelleux, avec des morceaux de cacahuète et chocolat blanc bien généreux."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
+collections: [cookie]
 diets: [GlutenFree]
 
 preptime: 15 min

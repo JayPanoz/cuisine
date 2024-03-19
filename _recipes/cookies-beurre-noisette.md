@@ -10,7 +10,7 @@ images:
     alt: "Croquant à l’extérieur mais tout moelleux à l’intérieur."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
+collections: [cookie]
 
 preptime: 15 min
 cooktime: 15 min

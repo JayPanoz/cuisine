@@ -43,3 +43,6 @@ turtle:
 reeses:
   name: "Reese’s"
   description: "Recipes involving or inspired by Reese’s products, for the chocolate and peanut butter lovers."
+cookie:
+  name: "Cookie"
+  description: "Chewy, crunchy, gooey, cakey. Here’s the favorite collecton of the Cookie Monster."

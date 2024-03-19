@@ -11,6 +11,7 @@ images:
 cuisines: [française, belge]
 courses: [snack]
 tags: [biscuit]
+collections: [cookie]
 
 preptime: 30 min
 cooktime: 15 min

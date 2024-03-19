@@ -10,8 +10,8 @@ images:
     alt: "Le cookie est friable tout en proposant une belle mâche, les baies de goji toastées lors de la cuisson offrent du croquant, les pépites de chocolat complètent le tableau avec du fondant."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, sans œuf, sans beurre, sans huile]
-collections: [pb, oatmeal]
+tags: [sans œuf, sans beurre, sans huile]
+collections: [pb, oatmeal, cookie]
 diets: [Vegetarian, Vegan]
 
 preptime: 15 min

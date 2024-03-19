@@ -20,7 +20,8 @@ images:
     alt: "Le cookie est hyper moelleux, et les chunks de chocolat et de cacahuètes amènent du fondant et du croquant." 
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, sans œuf]
+tags: [sans œuf]
+collections: [cookie]
 
 preptime: 15 min
 cooktime: 15 min

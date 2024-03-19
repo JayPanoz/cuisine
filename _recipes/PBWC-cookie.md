@@ -10,8 +10,7 @@ images:
     alt: "Chunks de chocolat blanc et noisettes pour le croc, beurre de cacahuète pour la mâche."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
-collections: [pb]
+collections: [pb, cookie]
 
 preptime: 30 min
 cooktime: 10 min
