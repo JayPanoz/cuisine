@@ -19,6 +19,8 @@ storage: 48 heures au frigo, ramequin recouvert de film alimentaire.
 
 nutrition:
   servingSize: 4
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 787
   calories: 964.58
   fatContent: 30.80

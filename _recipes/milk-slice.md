@@ -23,6 +23,8 @@ tip: Pour rendre la découpe plus facile, préparez la gênoise la veille, enrob
 
 nutrition:
   servingSize: 6
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 455
   calories: 921.64
   fatContent: 29.94

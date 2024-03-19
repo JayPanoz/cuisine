@@ -10,8 +10,7 @@ images:
     alt: "C‘est vraiment très très moelleux, il ne faut pas en attendre du croquant."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
-collections: [oatmeal]
+collections: [oatmeal, cookie]
 
 preptime: 10 min
 cooktime: 20 min
@@ -21,6 +20,8 @@ storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la ch
 
 nutrition:
   servingSize: 12
+  nutriScore: 0
+  nutriScoreClass: B
   weight: 600
   calories: 1494.06
   fatContent: 24.92

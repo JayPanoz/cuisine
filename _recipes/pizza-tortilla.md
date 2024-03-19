@@ -17,15 +17,17 @@ storage: 1–2 jours au réfrigérateur.
 
 nutrition:
   servingSize: 8
-  weight: 743
-  calories: 1289.15
-  fatContent: 50.23
-  saturatedFatContent: 20.64
-  carbohydrateContent: 142.74
-  sugarContent: 12.44
-  fiberContent: 9.90
-  proteinContent: 66.21
-  sodiumContent: 5.44
+  nutriScore: 0
+  nutriScoreClass: B
+  weight: 856
+  calories: 1253.38
+  fatContent: 55.13
+  saturatedFatContent: 18.46
+  carbohydrateContent: 113.19
+  sugarContent: 20.91
+  fiberContent: 10.48
+  proteinContent: 74.90
+  sodiumContent: 3.46
 
 ingredients:
 - 4 tortillas

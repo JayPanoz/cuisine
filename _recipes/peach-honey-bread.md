@@ -28,15 +28,17 @@ storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et d
 
 nutrition:
   servingSize: 6
-  weight: 896
-  calories: 1492.68
-  fatContent: 26.66
-  saturatedFatContent: 11.28
-  carbohydrateContent: 240.62
-  sugarContent: 87.61
+  nutriScore: 2
+  nutriScoreClass: B
+  weight: 795
+  calories: 1423.84
+  fatContent: 22.72
+  saturatedFatContent: 9.28
+  carbohydrateContent: 237.03
+  sugarContent: 84.02
   fiberContent: 26.73
-  proteinContent: 53.42
-  sodiumContent: 3.71
+  proteinContent: 49.38
+  sodiumContent: 3.58
 
 ingredients:
 - 100g de farine complète T150

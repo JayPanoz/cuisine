@@ -12,7 +12,7 @@ cuisines: [américaine]
 courses: [snack]
 tags: [glacé, 3 ingrédients, bouchée, sans cuisson]
 collections: [pb, cupboard]
-diets: [LowCalorie, Vegetarian, Vegan]
+diets: [Vegetarian, Vegan]
 
 preptime: 15 min
 totaltime: 1 h 15 min
@@ -20,15 +20,17 @@ yield: 12–15 mini sandwiches glacés
 
 nutrition:
   servingSize: 12
+  nutriScore: 10
+  nutriScoreClass: C
   weight: 210
-  calories: 779.52
-  fatContent: 42.39
-  saturatedFatContent: 15.56
-  carbohydrateContent: 72.36
-  sugarContent: 43.32
-  fiberContent: 11.70
-  proteinContent: 19.44
-  sodiumContent: 0.74
+  calories: 680.56
+  fatContent: 41.39
+  saturatedFatContent: 21.52
+  carbohydrateContent: 52.41
+  sugarContent: 30.27
+  fiberContent: 13.37
+  proteinContent: 16.91
+  sodiumContent: 0.48
 
 storage: 1–2 mois au congélateur.  
 

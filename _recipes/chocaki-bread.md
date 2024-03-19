@@ -25,6 +25,8 @@ storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et d
 
 nutrition:
   servingSize: 6
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 710
   calories: 1532.88
   fatContent: 38.01

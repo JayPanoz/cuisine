@@ -15,6 +15,8 @@ storage: 1 jour au réfrigérateur.
 
 nutrition:
   servingSize: 6
+  nutriScore: -4
+  nutriScoreClass: A
   weight: 365
   calories: 415.84
   fatContent: 33.11

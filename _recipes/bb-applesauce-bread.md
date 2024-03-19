@@ -29,15 +29,17 @@ tip: Quand les myrtilles commencent à rendre leur jus à la surface, c‘est le
 
 nutrition:
   servingSize: 6
-  weight: 805
-  calories: 1631.12
-  fatContent: 43.95
-  saturatedFatContent: 22.47
-  carbohydrateContent: 251.90
-  sugarContent: 85.58
-  fiberContent: 17.88
-  proteinContent: 43.50
-  sodiumContent: 3.61
+  nutriScore: 4
+  nutriScoreClass: C
+  weight: 804
+  calories: 1439.06
+  fatContent: 20.94
+  saturatedFatContent: 8.17
+  carbohydrateContent: 254.74
+  sugarContent: 86.39
+  fiberContent: 17.45
+  proteinContent: 43.46
+  sodiumContent: 3.64
 
 ingredients:
 - 220g de farine ou mélange de farines

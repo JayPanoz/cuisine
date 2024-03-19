@@ -10,7 +10,8 @@ images:
     alt: "Ici on est plus sur du cake que du cookie, il y a de quoi être décontenancé si on ne s’y attend pas."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, sans œuf]
+tags: [sans œuf]
+collections: [cookie]
 diets: [Vegetarian, Vegan]
 
 preptime: 25 min
@@ -21,6 +22,8 @@ storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la ch
 
 nutrition:
   servingSize: 12
+  nutriScore: 5
+  nutriScoreClass: C
   weight: 550
   calories: 1532.63
   fatContent: 29.69

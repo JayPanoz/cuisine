@@ -23,6 +23,8 @@ tip: Le tahini est également l’ingrédient secret de certaines recettes de co
 
 nutrition:
   servingSize: 6
+  nutriScore: 10
+  nutriScoreClass: C
   weight: 505
   calories: 1629.22
   fatContent: 88.57

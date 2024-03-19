@@ -38,6 +38,8 @@ tip: Si le bun a perdu de son moelleux, vous pouvez le passer 15–20 secondes a
 
 nutrition:
   servingSize: 8
+  nutriScore: 2
+  nutriScoreClass: B
   weight: 601
   calories: 1483.87
   fatContent: 48.07

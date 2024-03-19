@@ -22,6 +22,8 @@ storage: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélat
 
 nutrition:
   servingSize: 10
+  nutriScore: -1
+  nutriScoreClass: A
   weight: 225
   calories: 945.85
   fatContent: 44.86

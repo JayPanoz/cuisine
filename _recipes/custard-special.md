@@ -28,6 +28,8 @@ storage: 2 jours dans une boîte hermétique au frigo.
 
 nutrition:
   servingSize: 6
+  nutriScore: 18
+  nutriScoreClass: D
   weight: 565
   calories: 1748.00
   fatContent: 102.39

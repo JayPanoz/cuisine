@@ -28,6 +28,8 @@ storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et d
 
 nutrition:
   servingSize: 6
+  nutriScore: 1
+  nutriScoreClass: B
   weight: 860
   calories: 1635.31
   fatContent: 35.66

@@ -22,6 +22,8 @@ storage: 2–3 jours au frigo.
 
 nutrition:
   servingSize: 8
+  nutriScore: 12
+  nutriScoreClass: D
   weight: 800
   calories: 2857.75
   fatContent: 153.38

@@ -26,6 +26,8 @@ tip: Pour en faire une version <a href="../collections.html#turtle">Turtle</a>, 
 
 nutrition:
   servingSize: 6
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 745
   calories: 1598.79
   fatContent: 37.48

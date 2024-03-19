@@ -18,7 +18,7 @@ images:
 cuisines: [américaine]
 courses: [accompagnement]
 tags: [4 ingrédients]
-collections: [cupboard]
+collections: [cupboard, quickbread]
 
 preptime: 5 min
 cooktime: 40 min 
@@ -29,6 +29,8 @@ tip: Plus votre moule sera petit et étroit, mieux ce sera. Dans un moule à cak
 
 nutrition:
   servingSize: 16
+  nutriScore: 0
+  nutriScoreClass: B
   weight: 556
   calories: 1058.60
   fatContent: 13.14

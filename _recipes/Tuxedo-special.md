@@ -21,15 +21,17 @@ storage: 2–3 jours dans une boîte hermétique au frigo.
 
 nutrition:
   servingSize: 6
-  weight: 841
-  calories: 3603.30
-  fatContent: 241.74
-  saturatedFatContent: 131.97
-  carbohydrateContent: 285.74
-  sugarContent: 188.37
-  fiberContent: 18.52
-  proteinContent: 63.08
-  sodiumContent: 2.28
+  nutriScore: 18
+  nutriScoreClass: D
+  weight: 858
+  calories: 3669.80
+  fatContent: 245.75
+  saturatedFatContent: 134.20
+  carbohydrateContent: 291.70
+  sugarContent: 194.97
+  fiberContent: 18.16
+  proteinContent: 64.90
+  sodiumContent: 2.32
 
 ingredients:
 - 1 crust cacao

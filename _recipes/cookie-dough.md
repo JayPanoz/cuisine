@@ -10,7 +10,8 @@ images:
     alt: "Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre aucun craquant."
 cuisines: [américaine]
 courses: [snack, dessert]
-tags: [cookie, bouchée, sans cuisson]
+tags: [bouchée, sans cuisson]
+collections: [cookie]
 
 preptime: 25 min
 totaltime: 1 h
@@ -20,6 +21,8 @@ storage: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélat
 
 nutrition:
   servingSize: 18
+  nutriScore: 17
+  nutriScoreClass: D
   weight: 340
   calories: 1582.10
   fatContent: 77.79

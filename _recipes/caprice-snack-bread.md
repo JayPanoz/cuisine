@@ -32,6 +32,8 @@ tip: Si votre beurre de cacahuète est épais, n’hésitez pas à le passer 20�
 
 nutrition:
   servingSize: 6
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 840
   calories: 2355.53
   fatContent: 81.41

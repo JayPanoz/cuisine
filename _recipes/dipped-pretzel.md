@@ -26,8 +26,10 @@ tip: Pour faire fondre le chocolat sans prise de tête au micro-ondes, découpez
 
 nutrition:
   servingSize: 36
+  nutriScore: 20
+  nutriScoreClass: E
   weight: 200
-  calories: 1025.00
+  calories: 925.00
   fatContent: 36.60
   saturatedFatContent: 21.30
   carbohydrateContent: 127.90

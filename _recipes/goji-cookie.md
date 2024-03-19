@@ -10,8 +10,8 @@ images:
     alt: "Le cookie est friable tout en proposant une belle mâche, les baies de goji toastées lors de la cuisson offrent du croquant, les pépites de chocolat complètent le tableau avec du fondant."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, sans œuf, sans beurre, sans huile]
-collections: [pb, oatmeal]
+tags: [sans œuf, sans beurre, sans huile]
+collections: [pb, oatmeal, cookie]
 diets: [Vegetarian, Vegan]
 
 preptime: 15 min
@@ -23,6 +23,8 @@ tip: Si vous ne trouvez pas de farine d’avoine ou que le prix vous paraît com
 
 nutrition:
   servingSize: 8
+  nutriScore: 14
+  nutriScoreClass: D
   weight: 300
   calories: 1380.56
   fatContent: 73.40

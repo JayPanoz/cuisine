@@ -21,15 +21,17 @@ storage: 2 jours au réfrigérateur.
 
 nutrition:
   servingSize: 8
-  weight: 696
-  calories: 1769.44
-  fatContent: 73.89
-  saturatedFatContent: 13.25
-  carbohydrateContent: 213.86
-  sugarContent: 95.62
-  fiberContent: 15.84
-  proteinContent: 45.28
-  sodiumContent: 1.52
+  nutriScore: 3
+  nutriScoreClass: C
+  weight: 956
+  calories: 2127.57
+  fatContent: 79.27
+  saturatedFatContent: 15.94
+  carbohydrateContent: 277.42
+  sugarContent: 145.60
+  fiberContent: 17.29
+  proteinContent: 57.36
+  sodiumContent: 1.85
 
 ingredients:
 - 1 pâte sucrée au cacao

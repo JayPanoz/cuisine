@@ -18,6 +18,8 @@ yield: 8 portions
 
 nutrition:
   servingSize: 8
+  nutriScore: 15
+  nutriScoreClass: D
   weight: 1025
   calories: 3521.04
   fatContent: 234.66

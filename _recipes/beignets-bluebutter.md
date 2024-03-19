@@ -21,6 +21,8 @@ storage: 2 jours dans une boîte à l’abri de la lumière et de la chaleur. 2�
 
 nutrition:
   servingSize: 8
+  nutriScore: 11
+  nutriScoreClass: D
   weight: 745
   calories: 2096.07
   fatContent: 66.91

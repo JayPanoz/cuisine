@@ -19,6 +19,8 @@ storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abr
 
 nutrition:
   servingSize: 6
+  nutriScore: 7
+  nutriScoreClass: C
   weight: 546
   calories: 1581.82
   fatContent: 62.41

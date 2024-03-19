@@ -32,6 +32,8 @@ tip: Pour une petite pointe de miel, utilisez du cacao malté en poudre type Ton
 
 nutrition:
   servingSize: 4
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 433
   calories: 954.84
   fatContent: 32.09

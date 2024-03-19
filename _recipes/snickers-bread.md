@@ -32,15 +32,17 @@ tip: Si vous souhaitez limiter l’apport énergétique de chaque portion, la bo
 
 nutrition:
   servingSize: 6
-  weight: 855
-  calories: 2194.74
-  fatContent: 69.95
-  saturatedFatContent: 26.83
-  carbohydrateContent: 304.60
-  sugarContent: 134.59
-  fiberContent: 28.28
-  proteinContent: 65.01
-  sodiumContent: 3.73
+  nutriScore: 5
+  nutriScoreClass: C
+  weight: 865
+  calories: 2249.24
+  fatContent: 73.11
+  saturatedFatContent: 28.72
+  carbohydrateContent: 310.29
+  sugarContent: 139.64
+  fiberContent: 28.40
+  proteinContent: 65.78
+  sodiumContent: 3.74
 
 ingredients:
 - 220g de farine d’épeautre

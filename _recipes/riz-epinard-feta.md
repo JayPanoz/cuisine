@@ -14,7 +14,9 @@ yield: 2 portions
 
 nutrition:
   servingSize: 2
-  weight: 589
+  nutriScore: 0
+  nutriScoreClass: B
+  weight: 738
   calories: 514.12
   fatContent: 21.05
   saturatedFatContent: 9.28

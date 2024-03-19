@@ -34,6 +34,8 @@ tip: Pour une version allégée en sucre sans beurre ni huile, remplacez l’hui
 
 nutrition:
   servingSize: 6
+  nutriScore: 5
+  nutriScoreClass: C
   weight: 596
   calories: 1657.15
   fatContent: 54.37

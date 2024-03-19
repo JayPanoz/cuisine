@@ -34,6 +34,8 @@ yield: 6 scones
 
 nutrition:
   servingSize: 6
+  nutriScore: -4
+  nutriScoreClass: A
   weight: 426
   calories: 1040.46
   fatContent: 14.29

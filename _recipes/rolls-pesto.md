@@ -17,6 +17,8 @@ yield: 12 roulés
 
 nutrition:
   servingSize: 12
+  nutriScore: 21
+  nutriScoreClass: E
   weight: 245
   calories: 1230.05
   fatContent: 96.32

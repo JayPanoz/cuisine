@@ -22,6 +22,8 @@ tip: "Si tu préfères une pâte à donut un peu plus aérée pour réaliser ces
 
 nutrition:
   servingSize: 8
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 504
   calories: 1435.03
   fatContent: 31.63

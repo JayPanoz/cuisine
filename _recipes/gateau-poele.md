@@ -39,6 +39,8 @@ tip: Pour un effet encore plus réconfortant l’hiver ou les jours de mauvais t
 
 nutrition:
   servingSize: 8
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 776
   calories: 1436.07
   fatContent: 47.03

@@ -21,6 +21,8 @@ storage: 2–3 semaines au frigo.
 
 nutrition:
   servingSize: 24
+  nutriScore: 23
+  nutriScoreClass: E
   weight: 380
   calories: 1646.00
   fatContent: 75.65

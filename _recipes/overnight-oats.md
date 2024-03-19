@@ -21,15 +21,17 @@ storage: 48 heures au frigo.
 
 nutrition:
   servingSize: 1
-  weight: 360
-  calories: 416.36
-  fatContent: 10.15
-  saturatedFatContent: 2.67
-  carbohydrateContent: 58.59
-  sugarContent: 30.21
-  fiberContent: 12.20
-  proteinContent: 15.70
-  sodiumContent: 0.27
+  nutriScore: -2
+  nutriScoreClass: A
+  weight: 372
+  calories: 519.98
+  fatContent: 17.94
+  saturatedFatContent: 3.08
+  carbohydrateContent: 65.08
+  sugarContent: 35.00
+  fiberContent: 15.50
+  proteinContent: 15.74
+  sodiumContent: 0.18
 
 ingredients:
 - 35–40g de flocons ou son avoine

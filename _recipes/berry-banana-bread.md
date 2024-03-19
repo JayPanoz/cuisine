@@ -25,14 +25,16 @@ storage: 2–3 jours dans une boîte hermétique à l’abri de la lumière et d
 
 nutrition:
   servingSize: 6
-  weight: 815
-  calories: 1745.29
-  fatContent: 31.20
-  saturatedFatContent: 12.52
-  carbohydrateContent: 304.31
-  sugarContent: 155.08
-  fiberContent: 27.13
-  proteinContent: 45.28
+  nutriScore: 4
+  nutriScoreClass: C
+  weight: 1010
+  calories: 1700.72
+  fatContent: 31.15
+  saturatedFatContent: 12.60
+  carbohydrateContent: 286.80
+  sugarContent: 124.50
+  fiberContent: 30.29
+  proteinContent: 46.77
   sodiumContent: 4.10
 
 components:

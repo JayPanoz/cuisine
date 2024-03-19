@@ -18,15 +18,17 @@ yield: 2 portions
 
 nutrition:
   servingSize: 2
-  weight: 732
-  calories: 406.76
-  fatContent: 4.08
-  saturatedFatContent: 2.15
-  carbohydrateContent: 76.49
-  sugarContent: 64.26
-  fiberContent: 10.05
-  proteinContent: 11.73
-  sodiumContent: 0.33
+  nutriScore: 3
+  nutriScoreClass: C
+  weight: 583
+  calories: 350.74
+  fatContent: 3.82
+  saturatedFatContent: 2.07
+  carbohydrateContent: 65.25
+  sugarContent: 53.79
+  fiberContent: 8.38
+  proteinContent: 10.48
+  sodiumContent: 0.27
 
 ingredients:
 - 2 bananes mûres 

@@ -17,15 +17,17 @@ tip: Pour la farine, tu peux également tenter le mélange. Par exemple 60g de <
 
 nutrition:
   servingSize: 18
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 330
-  calories: 709.50
-  fatContent: 34.60
-  saturatedFatContent: 16.02
-  carbohydrateContent: 63.91
-  sugarContent: 11.96
-  fiberContent: 3.60
-  proteinContent: 33.82
-  sodiumContent: 4.62
+  calories: 675.50
+  fatContent: 27.96
+  saturatedFatContent: 12.90
+  carbohydrateContent: 69.11
+  sugarContent: 9.28
+  fiberContent: 4.12
+  proteinContent: 34.74
+  sodiumContent: 5.10
 
 ingredients:
 - 200g de fromage cottage

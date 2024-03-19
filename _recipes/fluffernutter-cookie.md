@@ -10,8 +10,8 @@ images:
     alt: "Une belle quenelle bien généreuse de crème de guimauve déposée sur un biscuit, avant que le sandwich soit refermé avec un deuxième biscuit. Ceux-ci restent friables pour ne pas que la crème déborde lorsqu’on croque dedans."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, sans œuf, sans beurre, sans huile]
-collections: [pb, oatmeal]
+tags: [sans œuf, sans beurre, sans huile]
+collections: [pb, oatmeal, cookie]
 
 preptime: 35 min
 cooktime: 15 min
@@ -22,6 +22,8 @@ tip: Pas fan ou impossible de trouver du fluff&nbsp;? Utilisez une gelée/confit
 
 nutrition:
   servingSize: 20
+  nutriScore: 10
+  nutriScoreClass: C
   weight: 610
   calories: 2652.72
   fatContent: 109.85

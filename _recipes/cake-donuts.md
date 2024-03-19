@@ -29,6 +29,8 @@ tip: Le glaçage est susceptible de changer significativement les valeurs nutrit
 
 nutrition:
   servingSize: 8
+  nutriScore: 13
+  nutriScoreClass: D
   weight: 521
   calories: 2019.26
   fatContent: 101.69

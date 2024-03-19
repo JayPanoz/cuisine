@@ -19,6 +19,8 @@ yield: 15 bretzels maxi/30 bretzels mini
 
 nutrition:
   servingSize: 30
+  nutriScore: 14
+  nutriScoreClass: D
   weight: 700
   calories: 3127.70
   fatContent: 142.08

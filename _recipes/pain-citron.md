@@ -22,6 +22,8 @@ yield: 16 tranches
 
 nutrition:
   servingSize: 16
+  nutriScore: -2
+  nutriScoreClass: A
   weight: 566
   calories: 1280.87
   fatContent: 29.05

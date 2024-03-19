@@ -10,7 +10,8 @@ images:
     alt: "Après, forcément, il faut s’attendre à une sensation différente du cookie cuit, raison pour laquelle certaines personnes détestent. On est vraiment sur un mélange cru qui n’offre du craquant que grâce aux M&M’s, qu’il faudra bien faire attention de ne pas trop abîmer en les incorporant."
 cuisines: [américaine]
 courses: [snack, dessert]
-tags: [cookie, bouchée, sans cuisson, M&M’s]
+tags: [bouchée, sans cuisson, M&M’s]
+collections: [cookie]
 
 preptime: 25 min
 totaltime: 1 h
@@ -20,6 +21,8 @@ storage: 5–7 jours au frigo dans un contenant hermétique, 3 mois au congélat
 
 nutrition:
   servingSize: 18
+  nutriScore: 19
+  nutriScoreClass: E
   weight: 380
   calories: 1803.90
   fatContent: 88.91

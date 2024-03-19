@@ -229,6 +229,42 @@ li.slider-img {
 	vertical-align: bottom !important;
 }
 
+.nutrition-score {
+	margin-top: 1rem;
+	text-align: left;
+	font-weight: bold;
+}
+
+h4.nutrition[data-nutriclass]::after {
+	content: "";
+	margin-left: 0.5rem;
+	line-height: 1;
+	width: 0.8rem;
+	height: 0.8rem;
+	display: inline-block;
+	border-radius: 50%;
+}
+
+h4.nutrition[data-nutriclass="A"]::after {
+	background-color: #3d9970;
+}
+
+h4.nutrition[data-nutriclass="B"]::after {
+	background-color: #2ecc40;
+}
+
+h4.nutrition[data-nutriclass="C"]::after {
+	background-color: #ffdc00;
+}
+
+h4.nutrition[data-nutriclass="D"]::after {
+	background-color: #ff851b;
+}
+
+h4.nutrition[data-nutriclass="E"]::after {
+	background-color: #ff4136;
+}
+
 .pl1 {
 	padding-left: 0.5rem !important;
 }

@@ -38,6 +38,8 @@ tip: Si vous adorez et préférez le goût d’amande, remplacez les noisettes e
 
 nutrition:
   servingSize: 20
+  nutriScore: 8
+  nutriScoreClass: C
   weight: 1156
   calories: 3663.34
   fatContent: 160.11

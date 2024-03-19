@@ -20,7 +20,7 @@ images:
     alt: "À l’intérieur c’est toujours aussi moelleux, avec des morceaux de cacahuète et chocolat blanc bien généreux."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
+collections: [cookie]
 diets: [GlutenFree]
 
 preptime: 15 min
@@ -33,6 +33,8 @@ tip: Si vous aimez les notes de noisette, vous pouvez également préparer un be
 
 nutrition:
   servingSize: 12
+  nutriScore: 20
+  nutriScoreClass: E
   weight: 433
   calories: 1949.92
   fatContent: 110.55

@@ -20,15 +20,17 @@ storage: 2–3 jours au réfrigérateur.
 
 nutrition:
   servingSize: 4
-  weight: 740
-  calories: 878.59
-  fatContent: 15.93
-  saturatedFatContent: 5.46
-  carbohydrateContent: 144.80
-  sugarContent: 80.17
-  fiberContent: 13.12
-  proteinContent: 31.54
-  sodiumContent: 2.27
+  nutriScore: 2
+  nutriScoreClass: B
+  weight: 650
+  calories: 825.39
+  fatContent: 16.69
+  saturatedFatContent: 5.71
+  carbohydrateContent: 131.16
+  sugarContent: 66.54
+  fiberContent: 9.12
+  proteinContent: 32.14
+  sodiumContent: 2.30
 
 ingredients:
 - 125g de pain rassis

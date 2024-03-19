@@ -36,6 +36,8 @@ tip: La socca peut bien évidemment être servie nature, et pourra également ê
 
 nutrition:
   servingSize: 4
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 839
   calories: 1147.30
   fatContent: 58.86

@@ -16,15 +16,17 @@ yield: 2 portions
 
 nutrition:
   servingSize: 2
-  weight: 1146
-  calories: 1146.85
-  fatContent: 17.15
-  saturatedFatContent: 2.88
-  carbohydrateContent: 160.99
-  sugarContent: 31.18
-  fiberContent: 47.01
-  proteinContent: 63.28
-  sodiumContent: 2.48
+  nutriScore: -4
+  nutriScoreClass: A
+  weight: 991
+  calories: 1054.05
+  fatContent: 16.61
+  saturatedFatContent: 2.81
+  carbohydrateContent: 148.22
+  sugarContent: 26.83
+  fiberContent: 40.07
+  proteinContent: 57.66
+  sodiumContent: 3.09
 
 ingredients:
 - 160g de semoule, de quinoa ou de mélange de céréales

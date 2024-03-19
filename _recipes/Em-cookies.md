@@ -20,7 +20,8 @@ images:
     alt: "Le cookie est hyper moelleux, et les chunks de chocolat et de cacahuètes amènent du fondant et du croquant." 
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie, sans œuf]
+tags: [sans œuf]
+collections: [cookie]
 
 preptime: 15 min
 cooktime: 15 min
@@ -31,6 +32,8 @@ storage: 3–5 jours dans une boîte non hermétique à l'abri de la chaleur et 
 
 nutrition:
   servingSize: 12
+  nutriScore: 20
+  nutriScoreClass: E
   weight: 445
   calories: 1802.96
   fatContent: 91.32

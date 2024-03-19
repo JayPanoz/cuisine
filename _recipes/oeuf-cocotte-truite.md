@@ -17,15 +17,17 @@ yield: 4 ramequins
 
 nutrition:
   servingSize: 4
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 430
-  calories: 813.79
-  fatContent: 65.81
-  saturatedFatContent: 30.76
-  carbohydrateContent: 6.48
-  sugarContent: 6.30
-  fiberContent: 0.68
-  proteinContent: 49.80
-  sodiumContent: 4.38
+  calories: 596.79
+  fatContent: 39.47
+  saturatedFatContent: 13.65
+  carbohydrateContent: 8.58
+  sugarContent: 6.24
+  fiberContent: 0.00
+  proteinContent: 51.61
+  sodiumContent: 4.47
 
 ingredients:
 - 4 tranches de truite ou de saumon fumé

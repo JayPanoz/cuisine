@@ -19,6 +19,8 @@ yield: 24 biscuits
 
 nutrition:
   servingSize: 24
+  nutriScore: 6
+  nutriScoreClass: C
   weight: 401
   calories: 1532.08
   fatContent: 62.37

@@ -20,6 +20,8 @@ storage: 48 heures au frigo. 1 mois au congélateur mais il faut absolument fair
 
 nutrition:
   servingSize: 8
+  nutriScore: 16
+  nutriScoreClass: D
   weight: 841
   calories: 3076.26
   fatContent: 211.12

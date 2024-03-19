@@ -28,14 +28,16 @@ yield: 16 tranches
 
 nutrition:
   servingSize: 16
-  weight: 582
-  calories: 1215.24
-  fatContent: 25.72
-  saturatedFatContent: 7.08
-  carbohydrateContent: 193.99
-  sugarContent: 26.11
-  fiberContent: 22.17
-  proteinContent: 41.25
+  nutriScore: 0
+  nutriScoreClass: B
+  weight: 629
+  calories: 1381.20
+  fatContent: 28.03
+  saturatedFatContent: 7.21
+  carbohydrateContent: 221.12
+  sugarContent: 26.61
+  fiberContent: 27.16
+  proteinContent: 47.61
   sodiumContent: 4.08
 
 storage: 2–3 jours dans un conteneur hermétique à l’abri de la chaleur et de la lumière.

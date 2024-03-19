@@ -33,6 +33,8 @@ tip: Pour rendre la découpe plus facile, préparez la gênoise la veille, enrob
 nutrition:
   servingSize: 8
   weight: 822
+  nutriScore: 13
+  nutriScoreClass: D
   calories: 2136.68
   fatContent: 134.33
   saturatedFatContent: 71.40

@@ -19,6 +19,8 @@ yield: 1 portion
 
 nutrition:
   servingSize: 1
+  nutriScore: 4
+  nutriScoreClass: C
   weight: 182
   calories: 370.90
   fatContent: 24.48

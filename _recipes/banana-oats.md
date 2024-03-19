@@ -28,8 +28,8 @@ tip: Passez quelques secondes au micro-ondes pour déguster tiède le lendemain,
 
 nutrition:
   servingSize: 4
-#  nutriScore: 3
-#  nutriScoreClass: C
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 714
   calories: 1203.18
   fatContent: 44.76

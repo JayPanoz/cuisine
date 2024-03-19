@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{% assign allTags = "" %}
+{% for recipe in site.recipes %}
+{% if recipe.nutrition.nutriScoreClass %}
+{% assign thisTag = recipe.nutrition.nutriScoreClass | append:'|' %}
+{% assign allTags = allTags | append:thisTag %}
+{% endif %}
+{% endfor %}
+{% assign allTags = allTags | split:'|' | sort | uniq %}
+
+<div class="container">
+  <article class="post-content px2">
+    {% include tag-navigation.html %}
+    <h1>{{ site.translation[site.language].scores }}</h1>
+    {% include score.html scores=allTags %}
+
+    <div class="clearfix">
+      {% unless allTags[0] %}
+      <p>{{ site.translation[site.language].scores_browse }}</p>
+      {% endunless %}
+
+      {% for score in allTags %}
+      <div data-tagged="{{ score }}" class="tag-result-container hide">
+        <h2 class="capitalize"><a name="{{ score | capitalize }}"></a>Score {{ score | capitalize }}</h2>
+        {% assign sorted = site.recipes | sort:"title" %}
+        {% for recipe in sorted %}
+        {% if recipe.nutrition.nutriScoreClass == score %}
+        <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
+            <a class="block relative bg-accent" href="{{ recipe.url | prepend: site.baseurl }}">
+              <div class="image ratio bg-cover"{% if recipe.images and recipe.images.size != 0 %} style="background-image:url({{site.baseurl}}/images/{{ recipe.images[0].path }});"{% endif %}></div>
+              <h4 class="title p2 m0 absolute bold white bottom-0 left-0">{{ recipe.title }}</h4>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </article>
+</div>
+
+<script src="{{site.baseurl}}/js/tag-browse.js" charset="utf-8" defer></script>

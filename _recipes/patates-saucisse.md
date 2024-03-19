@@ -16,15 +16,17 @@ storage: 2 jours dans une boîte hermétique au réfrigérateur.
 
 nutrition:
   servingSize: 2
-  weight: 1144
-  calories: 1000.40
-  fatContent: 47.01
-  saturatedFatContent: 13.56
-  carbohydrateContent: 88.76
-  sugarContent: 24.56
-  fiberContent: 22.58
-  proteinContent: 48.23
-  sodiumContent: 4.86
+  nutriScore: -3
+  nutriScoreClass: A
+  weight: 1054
+  calories: 794.22
+  fatContent: 40.75
+  saturatedFatContent: 13.52
+  carbohydrateContent: 67.59
+  sugarContent: 24.68
+  fiberContent: 20.95
+  proteinContent: 32.22
+  sodiumContent: 4.48
 
 ingredients:
 - 2 saucisses type Knack

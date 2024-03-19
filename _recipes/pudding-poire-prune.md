@@ -21,15 +21,17 @@ tip: Si vous multipliez les quantités pour obtenir davantage de portions, n’h
 
 nutrition:
   servingSize: 4
-  weight: 717
-  calories: 810.40
-  fatContent: 15.84
-  saturatedFatContent: 5.48
-  carbohydrateContent: 129.34
-  sugarContent: 60.54
-  fiberContent: 11.25
-  proteinContent: 31.03
-  sodiumContent: 2.27
+  nutriScore: 2
+  nutriScoreClass: B
+  weight: 682
+  calories: 799.98
+  fatContent: 16.78
+  saturatedFatContent: 5.74
+  carbohydrateContent: 124.24
+  sugarContent: 55.72
+  fiberContent: 9.70
+  proteinContent: 32.19
+  sodiumContent: 2.31
 
 ingredients:
 - 125g de pain rassis

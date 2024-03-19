@@ -15,7 +15,11 @@
   {% assign weightDivider = page.nutrition['weight'] | divided_by: 100.0 %}
 {% endif %}
 
-<h4 class="accent mt0 mb2 xs-center mt3">{{ site.translation[site.language].nutritional_information }}</h4>
+{% if page.nutrition['nutriScoreClass'] %}
+  {% assign nutriclass = page.nutrition['nutriScoreClass'] %}
+{% endif %}
+
+<h4 class="accent mt0 mb2 xs-center mt3 nutrition" data-nutriclass="{{ nutriclass }}">{{ site.translation[site.language].nutritional_information }}</h4>
 
 <div class="mr0 xs-mr1 sm-mr1 md-mr2 lg-mr2" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation">
 {% assign nutrients = page.nutrition %}
@@ -31,7 +35,7 @@
     {% endif %}
   </tr>
   {% for nutrient in nutrients  %}
-  {% if nutrient.first == 'servingSize' or nutrient.first == 'weight' %}{% continue %}{% endif %}
+  {% if nutrient.first == 'servingSize' or nutrient.first == 'weight' or nutrient.first == 'nutriScore' or nutrient.first == 'nutriScoreClass' %}{% continue %}{% endif %}
   {% assign itemprop = nutrient.first %}
   {% assign name = site.data[site.language].nutrients[itemprop].name %}
   {% assign rounder = 2 %}
@@ -56,6 +60,10 @@
   </tr>
   {% endfor %}
 </table>
+
+{% if page.nutrition['nutriScoreClass'] %}
+  <div class="nutrition-score">{{ site.translation[site.language].nutritional_score }} {{ nutriclass }}</div>
+{% endif %}
 </div>
 <!-- end nutritional information -->
 {% endif %}

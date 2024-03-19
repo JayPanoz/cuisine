@@ -43,3 +43,6 @@ turtle:
 reeses:
   name: "Reese’s"
   description: "Recettes inspirées ou impliquant des produits Reese’s, pour les amoureux du combo chocolat – beurre de cacahuète."
+cookie:
+  name: "Cookie"
+  description: "Moelleux ou craquant, aux pépites ou au noix… La collection préférée du Cookie Monster."

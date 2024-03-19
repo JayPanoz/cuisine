@@ -45,6 +45,7 @@ translation:
     directions: "Directions"
     category: "Category"
     nutritional_information: "Nutritional Information"
+    nutritional_score: "Nutritional Score:"
     nutri_table: "Nutrition facts per…"
     component_based: 'This is a <strong class="accent">component-based recipe</strong>.'
     search: "Search"
@@ -73,6 +74,8 @@ translation:
     cuisine_browse: "No recipes are marked as being for a specific cuisine."
     diets: "Diets"
     diet_browse: "No recipes are marked as being for a specific diet."
+    scores: "Nutrition"
+    scores_browse: "No recipes are scored."
     tags: "Tags"
     tag_browse: "No recipes have any tags yet."
   fr:
@@ -82,6 +85,7 @@ translation:
     directions: "Instructions"
     category: "Catégorie"
     nutritional_information: "Nutrition"
+    nutritional_score: "Score:"
     nutri_table: "Valeurs nutritionnelles moyennes par…"
     component_based: 'Cette recette est composée <strong class="accent">d’une ou plusieurs préparations</strong>.'
     search: "Recherche"
@@ -110,5 +114,7 @@ translation:
     cuisine_browse: "Aucune recette n’a encore été taggée pour un type de cuisine."
     diets: "Régimes alimentaires"
     diet_browse: "Aucune recette n’a encore été taggée pour un type de régime alimentaire."
+    scores: "Nutrition"
+    scores_browse: "Aucune recette n’a encore été notée."
     tags: "Tags"
     tag_browse: "Aucune recette n’a encore été taggée."

@@ -29,6 +29,8 @@ tip: On utilise un mélange de sucres brun et blanc pour rappeler le cookie, mai
 
 nutrition:
   servingSize: 6
+  nutriScore: 5
+  nutriScoreClass: C
   weight: 785
   calories: 1784.17
   fatContent: 41.01

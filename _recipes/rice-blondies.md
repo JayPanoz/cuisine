@@ -28,6 +28,8 @@ tip: Si vous souhaitez du dégoulinant sous une autre forme, misez sur le carame
 
 nutrition:
   servingSize: 6
+  nutriScore: 11
+  nutriScoreClass: D
   weight: 466
   calories: 1489.30
   fatContent: 69.60

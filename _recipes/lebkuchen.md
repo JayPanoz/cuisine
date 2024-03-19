@@ -26,6 +26,8 @@ tip: Pour le glaçage vous pouvez également en faire un tout simple au sucre gl
 
 nutrition:
   servingSize: 16
+  nutriScore: 15
+  nutriScoreClass: D
   weight: 486
   calories: 1707.66
   fatContent: 71.90

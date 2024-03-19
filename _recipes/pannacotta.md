@@ -21,6 +21,8 @@ storage: 48 heures au frigo.
 
 nutrition:
   servingSize: 2
+  nutriScore: 3
+  nutriScoreClass: C
   weight: 158
   calories: 151.66
   fatContent: 3.85

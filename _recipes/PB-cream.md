@@ -30,6 +30,8 @@ tip: Pour ajouter du croquant, n’hésitez pas à ajouter quelques pépites de 
 
 nutrition:
   servingSize: 4
+  nutriScore: 0
+  nutriScoreClass: B
   weight: 480
   calories: 904.79
   fatContent: 37.97

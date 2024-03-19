@@ -30,6 +30,8 @@ tip: Pour booster la teneur en bonnes graisses et protéines, allez regarder du 
 
 nutrition:
   servingSize: 6
+  nutriScore: 2
+  nutriScoreClass: B
   weight: 449
   calories: 691.93
   fatContent: 8.55

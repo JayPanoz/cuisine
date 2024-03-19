@@ -21,6 +21,8 @@ storage: 48 h au réfrigérateur
 
 nutrition:
   servingSize: 2
+  nutriScore: 13
+  nutriScoreClass: D
   weight: 217
   calories: 604.70
   fatContent: 30.48

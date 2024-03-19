@@ -10,8 +10,7 @@ images:
     alt: "Chunks de chocolat blanc et noisettes pour le croc, beurre de cacahuète pour la mâche."
 cuisines: [américaine]
 courses: [snack]
-tags: [cookie]
-collections: [pb]
+collections: [pb, cookie]
 
 preptime: 30 min
 cooktime: 10 min
@@ -21,6 +20,8 @@ storage: 4-5 jours dans une boîte hermétique à l'abri de la lumière et la ch
 
 nutrition:
   servingSize: 12
+  nutriScore: 14
+  nutriScoreClass: D
   weight: 245
   calories: 1020.40
   fatContent: 48.95
