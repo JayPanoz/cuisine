@@ -1,0 +1,13 @@
+<div id="tag-list">
+  {% if include.scores %}
+  {% for score in include.scores %}
+  <span title="Score" class="button button-outline h5 bg-gray white border-1 mb1 capitalize nowrap" itemprop="recipeScore" data-tag-type="score" data-tag-label="{{ score }}">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 512 512" fill="currentColor">
+      <path d="M459.634 103.639c-55.269-55.269-144.881-55.269-200.151 0l-3.469 3.47-3.47-3.47c-55.269-55.269-144.882-55.269-200.152 0-38.431 38.438-50.069 93.464-35.045 142.025H137.57l70.049-112.492 75.152 214.848L332.5 246.616h161.838c15.491-48.789 3.985-104.288-34.704-142.977z"/>
+      <path d="m277.899 427.531-78.31-223.899-43.992 70.647H29.93c6.076 10.533 13.459 20.509 22.456 29.52l3.469 3.469 200.152 200.151 200.152-200.151 3.469-3.469c8.731-8.732 15.921-18.389 21.886-28.561H352.593l-74.694 152.293z"/>
+    </svg>
+    <a href="{{ site.baseurl }}/scores.html#{{ score }}" class="white" rel="tag">Score {{ score }}</a>
+  </span>
+  {% endfor %}
+  {% endif %}
+  </div>

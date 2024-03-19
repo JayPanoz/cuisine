@@ -74,6 +74,8 @@ translation:
     cuisine_browse: "No recipes are marked as being for a specific cuisine."
     diets: "Diets"
     diet_browse: "No recipes are marked as being for a specific diet."
+    scores: "Nutrition"
+    scores_browse: "No recipes are scored."
     tags: "Tags"
     tag_browse: "No recipes have any tags yet."
   fr:
@@ -112,5 +114,7 @@ translation:
     cuisine_browse: "Aucune recette n’a encore été taggée pour un type de cuisine."
     diets: "Régimes alimentaires"
     diet_browse: "Aucune recette n’a encore été taggée pour un type de régime alimentaire."
+    scores: "Nutrition"
+    scores_browse: "Aucune recette n’a encore été notée."
     tags: "Tags"
     tag_browse: "Aucune recette n’a encore été taggée."
