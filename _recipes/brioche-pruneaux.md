@@ -53,7 +53,7 @@ ingredients:
 - 1 clémentine/mandarine soit 50g environ
 - 20g de sucre en poudre
 - 1 cuillère à café soit 5g de levure boulangère sèche
-- ¼ cuillère à café soit 2g de sel iodé
+- ¼ cuillère à café soit 2g de sel
 - ¼ cuillère à café soit 2g de cannelle
 - extrait de vanille
 - café noir refroidi pour dorure

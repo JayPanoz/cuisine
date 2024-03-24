@@ -46,14 +46,14 @@ nutrition:
 
 ingredients:
 - 250g de farine 00 ou T45–65
-- 1 sachet de levure boulangère sèche
+- 125g de myrtilles
 - 100g de yaourt grec
 - 1 œuf
 - 50g de lait ou boisson végétale tiède
 - 30g de sirop d’érable, d’agave ou de miel
-- 1/2 cuillère à café de sel
+- 1 sachet soit 5g de levure boulangère sèche
 - extrait de vanille
-- 125g de myrtilles
+- ¼ cuillère à café soit 2g de sel
 - café refroidi pour dorure
 
 directions:
