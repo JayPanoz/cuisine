@@ -49,6 +49,7 @@ components:
 directions:
 - Préchauffez le four à 180°C.
 - Dans un bol, battez la pâte à tartiner avec les œufs et la vanille en fouettant bien pour obtenir une sorte de crème. La pâte remplace en quelque sorte le mélange de beurre et de sucre, on cherche donc à obtenir une consistance similaire. Vous pouvez éventuellement ajouter un peu d'huile ou de beurre si besoin. Vous pouvez également chauffer la pâte au micro-ondes pour la rendre plus liquide si celle-ci se révèle trop compliquée à manipuler. 
+- Ajoutez les œufs et mélangez.
 - Dans un autre bol, tamisez la farine, le sel, et la levure. Mélangez.
 - Ajoutez-en la moitié à la crème en continuant à battre puis ajoutez la moitié de fromage blanc. 
 - Rebelote avec les autres moitiés en continuant à battre jusqu'à l'obtention d'une pâte bien lisse. Attention, on ne veut pas trop la travailler – on risque en effet d'obtenir une pâte trop dense après cuisson –, il faut la travailler juste ce qu'il faut pour que ces ingrédients soient incorporés. 

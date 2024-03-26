@@ -22,15 +22,15 @@ nutrition:
   servingSize: 16
   nutriScore: 8
   nutriScoreClass: C
-  weight: 845
-  calories: 2125.16
-  fatContent: 92.61
-  saturatedFatContent: 57.11
-  carbohydrateContent: 263.57
-  sugarContent: 108.32
-  fiberContent: 29.50
-  proteinContent: 39.13
-  sodiumContent: 23.09
+  weight: 853
+  calories: 2073.30
+  fatContent: 91.93
+  saturatedFatContent: 57.61
+  carbohydrateContent: 249.76
+  sugarContent: 109.87
+  fiberContent: 27.78
+  proteinContent: 39.38
+  sodiumContent: 3.34
 
 ingredients:
 - 150g de farine semi-complète T110
@@ -50,8 +50,10 @@ components:
 - Crumble de canne
 
 directions:
+- Préparez le crumble.
 - Préchauffez le four à 180°C.
-- Dans un bol, crémez le beurre avec le sucre. 
+- Dans un bol, crémez le beurre avec le sucre.
+- Ajoutez l’œuf et mélangez.
 - Dans un autre bol, tamisez la farine, la cannelle, le sel, et la levure. Mélangez.
 - Ajoutez-en la moitié à la crème de beurre en continuant à battre. 
 - Ajoutez la moitié de yaourt grec/crème épaisse en continuant à battre. 
@@ -64,6 +66,6 @@ directions:
 
 ---
 
-Le <i lang="en">Berry crumble</i> est un <i lang="en">coffee cake</i> typique de celui que tu te tapes avec ton café Starbucks, mais en version fruits rouge. C‘est moelleux, on sent bien la cannelle, ça se laisserait presque tremper dans ta pinte de sucre caféinée mais il n’y en a pas du tout besoin tellement c’est humide de base.
+Le <i lang="en">Berry crumble</i> est un <i lang="en">coffee cake</i> typique de celui que tu te tapes avec ton café Starbucks, mais en version fruits rouges. C‘est moelleux, on sent bien la cannelle, ça se laisserait presque tremper dans ta pinte de sucre caféinée mais il n’y en a pas du tout besoin tellement c’est humide de base.
 
 Le risque avec cette recette finalement, c’est de voir disparaître le cake en un seul goûter.

@@ -8,7 +8,7 @@ ingredients:
 - 55g de farine de seigle
 - 35g de beurre
 - 35g de sucre de canne complet
-- 1/2 cuillère à café de cannelle
+- ¼ cuillère à café soit 2g de
 
 directions:
 - Sortez le beurre une heure avant de l’utiliser et découpez-le en petits dés.
