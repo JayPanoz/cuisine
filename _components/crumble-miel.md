@@ -7,7 +7,7 @@ image: crumble-miel.jpg
 ingredients:
 - 55g de farine T45–T65
 - 15g d’huile neutre
-- 15g d’huile d’olive
+- 10g d’huile d’olive
 - 25g de miel
 - ¼ cuillère à café soit 2g de cannelle
 
