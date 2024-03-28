@@ -15,7 +15,7 @@ tags: [sans cuisson, tiramisu, comfort food]
 preptime: 20 min
 yield: 4 portions
 
-storage: 2 jours au réfrigérateur.
+storage: 2 jours au réfrigérateur recouvert de film alimentaire.
 
 nutrition:
   servingSize: 6
