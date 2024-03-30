@@ -4,10 +4,12 @@ layout: recipe
 title:  "Beurre de myrtille"
 image: beurre-myrtille.jpg
 
+storage: 10 jours maximum au frigo si vous en faites plus que nécessaire.
+
 ingredients:
 - 200g de myrtilles
 - 20g de cassonade (soit 10% du poids des myrtilles)
-- 60g de beurre de cacahuète creamy (soit 30% du poids du coulis)
+- 60g de beurre de cacahuète creamy (soit 30% du poids du coulis après évaporation/réduction)
 - ½ cuillère à café de jus de citron
 - extrait de vanille 
 
@@ -20,5 +22,3 @@ directions:
 ---
 
 Un beurre de myrtille qui peut se décliner en tartinade ou fourrage de tartelettes et beignets.
-
-storage: 10 jours maximum au frigo si vous en faites plus que nécessaire.
