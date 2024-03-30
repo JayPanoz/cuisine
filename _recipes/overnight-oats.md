@@ -5,6 +5,7 @@ title:  "Overnight oats"
 images:
   - image:
     path: overnight-oats/overnight-oats-1.jpg
+    alt: "Ça remplit autant le bol que ça remplit l’estomac, avec des protéines et des fibres pour bien commencer la journée. Que des choses naturelles là-dedans, on est loin des céréales petit-déjeuner."
   - image:
     path: overnight-oats/overnight-oats-2.jpg
     alt: "On peut ajouter de tout, n’hésitez pas à privilégier quelques graines pour amener du croquant et rendre le bol plus intéressant."
