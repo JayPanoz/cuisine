@@ -24,7 +24,8 @@ preptime: 15 min
 totaltime: 6 h 
 yield: 2 portions
 
-storage: 48 heures au frigo. 
+storage: 48 heures au frigo.
+tip: Pour une version allégée et simplifiée, jetez un œil sur <a href="pbb-oats.html">la recette des overnight oats PB&B</a>.
 
 nutrition:
   servingSize: 2
