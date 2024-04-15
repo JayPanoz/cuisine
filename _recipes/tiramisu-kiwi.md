@@ -20,6 +20,7 @@ courses: [dessert, goûter]
 tags: [sans cuisson, tiramisu, comfort food]
 
 preptime: 20 min
+totaltime: 2 h 20
 yield: 2 portions
 
 storage: 2 jours au réfrigérateur recouvert de film alimentaire.
