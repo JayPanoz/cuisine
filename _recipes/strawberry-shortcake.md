@@ -22,7 +22,7 @@ tags: [comfort food, entremet, génoise, petit format, sans beurre, sans huile]
 preptime: 20 min
 cooktime: 25 min
 
-yield: 4
+yield: 4 shortcakes
 storage: Pour le biscuit génoise, 3–4 jours dans un conteneur hermétique à l'abri de la chaleur et de la lumière.
 tip: Pour rendre la découpe plus facile, préparez la gênoise la veille, enrobez-la dans du film alimentaire, et conservez-la dans une boite métallique une fois refroidie.
 
