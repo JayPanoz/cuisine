@@ -46,3 +46,6 @@ reeses:
 cookie:
   name: "Cookie"
   description: "Chewy, crunchy, gooey, cakey. Here’s the favorite collecton of the Cookie Monster."
+overnight:
+  name: "Overnight Oats"
+  description: "No-bake. A couple of steps. The perfect recipe you can twist, with many health benefits, a lot of fiber and protein content out of the box."

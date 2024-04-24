@@ -15,7 +15,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner]
 tags: [sans cuisson]
-collections: [oatmeal]
+collections: [oatmeal, overnight]
 
 preptime: 15 min
 totaltime: 6 h 
@@ -60,8 +60,6 @@ directions:
 - Filmez/refermez et conservez au réfrigérateur pour la nuit. 
 
 ---
-
-La veille pour le lendemain, sans cuisson. Pas de prise de tête, des dizaines de déclinaisons.
 
 On a déjà abordé le concept des <i lang="en">overnight oats</i> à travers [une recette personnalisable](overnight-oats.html), voici la variante <i lang="en">carrot cake</i> inspirée du [gâteau du même nom](carrot-cake.html).
 

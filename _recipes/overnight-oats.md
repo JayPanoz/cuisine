@@ -12,7 +12,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner]
 tags: [sans cuisson]
-collections: [oatmeal]
+collections: [oatmeal, overnight]
 
 preptime: 5 min
 totaltime: 6 h 

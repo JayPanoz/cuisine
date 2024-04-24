@@ -18,7 +18,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner]
 tags: [sans cuisson, protéiné]
-collections: [oatmeal, pb]
+collections: [oatmeal, overnight, pb]
 
 preptime: 15 min
 totaltime: 6 h 
@@ -63,7 +63,6 @@ directions:
 - Filmez/refermez et conservez au réfrigérateur pour la nuit. 
 
 ---
-La veille pour le lendemain, sans cuisson. Pas de prise de tête, des dizaines de déclinaisons.
 
 Après la [version inspirée du carrot cake](carrot-cake-oats.html), celle qui va lorgner le [mélange préféré d’Elvis](bb-cups.html).
 

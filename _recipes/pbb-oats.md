@@ -12,7 +12,7 @@ images:
 cuisines: [américaine]
 courses: [petit-déjeuner]
 tags: [sans cuisson, protéiné]
-collections: [oatmeal, pb]
+collections: [oatmeal, overnight, pb]
 
 preptime: 15 min
 totaltime: 6 h 
@@ -55,9 +55,7 @@ directions:
 
 ---
 
-La veille pour le lendemain, sans cuisson. Pas de prise de tête, des dizaines de déclinaisons.
-
-En l’occurrence une version simplifiée et un peu allégée des [PB oats](pb-oats.html). Exit le cacao et les pacanes, bonjour le sirop d’érable.
+Porridge du lendemain version simplifiée et un peu allégée des [PB oats](pb-oats.html). Exit le cacao et les pacanes, bonjour le sirop d’érable.
 
 La base est la même, à savoir beurre de cacahuète et banane. Une association qui fonctionne très bien et que [nous avons visité régulièrement dans la cuisine](../collections.html#pb).
 

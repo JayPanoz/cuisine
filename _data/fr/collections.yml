@@ -46,3 +46,6 @@ reeses:
 cookie:
   name: "Cookie"
   description: "Moelleux ou craquant, aux pépites ou au noix… La collection préférée du Cookie Monster."
+overnight:
+  name: "Overnight Oats"
+  description: "La veille pour le lendemain, sans cuisson. Pas de prise de tête, des dizaines de déclinaisons."

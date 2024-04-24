@@ -17,7 +17,7 @@ images:
     alt: "Les morceaux de pommes lovées dans un porridge bien crémeux, se tenant sur une cuillère."
 cuisines: [américaine]
 courses: [petit-déjeuner]
-collections: [oatmeal]
+collections: [oatmeal, overnight]
 
 preptime: 15 min
 cooktime: 10 min
@@ -62,9 +62,7 @@ directions:
 
 ---
 
-La veille pour le lendemain, sans cuisson. Pas de prise de tête, des dizaines de déclinaisons.
-
-En l’occurence, façon tarte aux pommes nord-américaine aujourd’hui, avec une garniture qui rappelle un peu le strudel en termes de texture.
+Le porridge du lendemain façon tarte aux pommes, avec une garniture qui rappelle un peu le strudel en termes de texture.
 
 C’est ultra réconfortant au petit-déjeuner, et ça permet de partir du bon pied, avec pas mal de marge (calorique) pour compléter l’apport en protéines – œuf, oléagineux, fromage, dinde, lentilles ou haricots, etc.
 
