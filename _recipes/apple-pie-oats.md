@@ -66,4 +66,4 @@ Le porridge du lendemain façon tarte aux pommes, avec une garniture qui rappell
 
 C’est ultra réconfortant au petit-déjeuner, et ça permet de partir du bon pied, avec pas mal de marge (calorique) pour compléter l’apport en protéines – œuf, oléagineux, fromage, dinde, lentilles ou haricots, etc.
 
-Ce coup-ci, il y a besoin d’une cuisson pour préparer la garniture, mais l’étape reste minimaliste par rapport à une cuisson au four. Et ça vaut largement le coup d’y passer ses quelques minutes à la dégustation, avec des pommes qui délivrent toute leur saveur.
+Ce coup-ci, il y a besoin d’une cuisson pour préparer la garniture, mais l’étape reste minimaliste par rapport à une cuisson au four. Et ça vaut largement le coup d’y passer ces quelques minutes à la dégustation, avec des pommes qui délivrent toute leur saveur.
