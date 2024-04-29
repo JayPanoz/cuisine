@@ -93,6 +93,7 @@ Je la décline moi-même beaucoup et si vous avez besoin d’inspirations, voici
 - [Blueberry almond bread](bb-almond-bread.html)
 - [Blueberry applesauce bread](bb-applesauce-bread.html)
 - [Blueberry dinosaur bread](bb-dino-bread.html)
+- [Blueberry macadamia bread](bb-macadamia-bread.html)
 - [Blueberry malted bread](bb-malted-bread.html)
 - [Blueberry plumbread](bb-plumbread.html)
 - [PB&BB bread](p3b-bread.html)
