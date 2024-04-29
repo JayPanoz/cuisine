@@ -76,4 +76,4 @@ Les mini cups Reese’s, c’est une garniture au beurre de cacahuète dans une 
 
 D’ailleurs, ça avait plutôt bien fonctionné sous forme de [banana bread](PB-cups-bread.html).
 
-Si vous zappez la phase déco comme je l’ai fait en plaçant une mini-cups entière sur chaque cookie, il y a même de grandes chances que vous surpreniez vos invités, car le cookie ne laissera alors rien deviner au visuel.
+Si vous zappez la phase déco comme je l’ai fait en plaçant une mini-cup entière sur chaque cookie, il y a même de grandes chances que vous surpreniez vos invités, car le cookie ne laissera alors rien deviner au visuel.
