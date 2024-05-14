@@ -17,7 +17,7 @@ images:
     alt: "La mie est identique au banana bread, même avec la protéine en poudre mais c’est un peu plus sec. Avec des hachures de chocolat normal, on pourrait obtenir un résultat plus intéressant en bouche, les pépites de chocolat restant des morceaux solides."
 
 cuisines: [américaine]
-courses: [petit-déjeuner, goûter, snack]
+courses: [petit-déjeuner, goûter]
 tags: [antigaspi, cake, sans beurre, sans huile, petit format, protéiné]
 collections: [sweetbread]
 
