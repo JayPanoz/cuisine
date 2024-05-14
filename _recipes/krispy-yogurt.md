@@ -22,22 +22,22 @@ tip: Vous pouvez évidemment remplacer le riz soufflé par du quinoa soufflé, d
 
 nutrition:
   servingSize: 1
-  nutriScore: 2
+  nutriScore: 1
   nutriScoreClass: B
-  weight: 155
-  calories: 185.92
-  fatContent: 6.45
-  saturatedFatContent: 4.25
-  carbohydrateContent: 21.50
-  sugarContent: 9.08
-  fiberContent: 4.20
-  proteinContent: 6.94
-  sodiumContent: 0.24
+  weight: 147
+  calories: 154.96
+  fatContent: 6.35
+  saturatedFatContent: 4.23
+  carbohydrateContent: 14.59
+  sugarContent: 8.42
+  fiberContent: 4.10
+  proteinContent: 6.41
+  sodiumContent: 0.15
 
 ingredients:
 - 75g de fromage blanc
 - 60g de framboises
-- 1 poignée soit environ 15g de riz soufflé
+- 1 poignée soit environ 7g de riz soufflé
 - 1 cuillère à café soit 5g de sirop d’érable
 
 directions:
