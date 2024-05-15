@@ -23,13 +23,13 @@ collections: [cupboard]
 preptime: 10 min
 totaltime: 40 min
 
-yield: 12 carrés
+yield: 16 carrés
 storage: 5–7 jours dans un conteneur hermétique à l'abri de la chaleur et de la lumière, séparés en étages par du papier cuisson. 2 mois au congélateur. 
 
 tip: C’est une recette de base. Vous pouvez bien évidemment ajouter les ingrédients de votre choix pour rendre la recette plus gourmande e.g. couche de chocolat sur le dessus, morceaux de fruits secs, graines ou noix, beurre de cacahuète, caramel, etc.
 
 nutrition:
-  servingSize: 12
+  servingSize: 16
   nutriScore: 22
   nutriScoreClass: E
   weight: 435
