@@ -11,7 +11,7 @@ images:
     alt: "Selon la durée de cuisson, le centre de vos blondies sera plus ou moins coulant. Ici, il ne l’est pas du tout, les blondies ayant passé quelques minutes de plus dans le four. Le résultat est par conséquent plus compact, plus proche de ce qu’on peut trouver dans la grande distribution, ce qui peut aussi être un objectif si, par exemple, vous voulez rendre ces blondies plus facilement transportables."
 cuisines: [américaine]
 courses: [snack]
-tags: [gooey, petit format, sans beurre, sans huile]
+tags: [gooey, petit format, sans beurre]
 collections: [brownie]
 
 preptime: 20 min
@@ -19,7 +19,7 @@ cooktime: 20 min
 yield: 6 mini cakes
 
 storage: 3-5 jours à température ambiante dans une boîte hermétique à l'abri de la lumière et de la chaleur. Ou congélateur pour 2–3 mois.
-tip: Le tahini est également l’ingrédient secret de certaines recettes de cookies
+tip: Le tahini est également l’ingrédient secret de certaines recettes de cookies.
 
 nutrition:
   servingSize: 6
