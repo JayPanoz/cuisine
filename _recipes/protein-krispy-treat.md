@@ -59,7 +59,7 @@ directions:
 
 ---
 
-Classique des classiques du snacking nord-américain, les [Rice Krispies Treats](https://www.ricekrispies.com/en_US/recipes/the-original-treats-recipe.html) s’envisagent sont une recette rapide, avec peu d’ingrédients, et qui se fait généralement en famille avec les enfants.
+Classique des classiques du snacking nord-américain, les [Rice Krispies Treats](https://www.ricekrispies.com/en_US/recipes/the-original-treats-recipe.html) sont une recette rapide, avec peu d’ingrédients, et qui se fait généralement en famille avec les enfants.
 
 Mais pas que&nbsp;!
 
