@@ -22,7 +22,7 @@ images:
     path: banana-cinnamon-rolls/banana-cinnamon-rolls-6.jpg
     alt: "Un morceau déroulé, dont on voit qu’il est bien imbibé de notre garniture, avec les points de cannelle moulue qui ne laissent aucun doute. La pâte est ultra humide par conséquent."
 cuisines: [américaine]
-courses: [snack, petit déjeuner, goûter]
+courses: [snack, petit-déjeuner, goûter]
 tags: [antigaspi, brioche, boulangerie, comfort food, gooey, petit format, roll, sans œuf]
 
 preptime: 15 min
