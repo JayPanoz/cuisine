@@ -52,7 +52,7 @@ directions:
 - Préparez la vinaigrette:
     - Épluchez et hachez l’ail très finement.
     - Lavez et hachez le persil.
-    - Saler et poivrer le vinaigre dans un bol.
+    - Salez et poivrez le vinaigre dans un bol.
     - Versez progressivement l’huile en fouettant.
     - Ajoutez l’ail et le persil.
 - Une fois les pois chiches refroidis, préparez la salade:
