@@ -60,6 +60,6 @@ Encore des <i lang="en">overnight oats</i>, mais en version protéinée cette fo
 
 Et pour apporter de la fraîcheur aux commencement des beaux jours, on s’inspire du gâteau aux fraises et joue sur l’association avec la vanille, en toute simplicité.
 
-Le résultat est bien gourmand, avec une texture qui rappelle un peu la génoise grâce à la protéine végétale, et des morceaux de fruits bien frais qui laissent exploser toute leur saveur à la dégustation. 
+Le résultat est bien gourmand, avec une texture qui rappelle un peu le cake grâce à la protéine végétale, et des morceaux de fruits bien frais qui laissent exploser toute leur saveur à la dégustation. 
 
 Parfois les choses les plus simples sont les meilleures, et pour ne rien gâcher, ce petit-déjeuner riche en protéines et en fibres boostera vos apports nutritionnels pour le reste de la journée. Que demander de plus&nbsp;?
