@@ -17,7 +17,7 @@ images:
     alt: "Elle ne coule ni de la cuillère, ni ne s’effondre dans le ramequin. Ce n'est donc pas trop liquide."
 cuisines: [américaine]
 courses: [dessert]
-tags: [3 ingrédients, sans cuisson, comfort food]
+tags: [3 ingrédients, sans cuisson, comfort food, blender, mixer, petit format]
 collections: [cupboard, pb]
 diets: [Vegetarian, Vegan]
 
@@ -25,7 +25,7 @@ preptime: 10 min
 totaltime: 2 h 10 min
 
 yield: 4 ramequins
-storage: 2–3 jours au frigo, ramequin recouvert de film alimentaire 
+storage: 2–3 jours au frigo, ramequin recouvert de film alimentaire.
 tip: Pour ajouter du croquant, n’hésitez pas à ajouter quelques pépites de chocolat, des morceaux de cacahuètes, du granola/cruestli/muesli, des tranches de bananes séchées, etc. avant de servir.
 
 nutrition:
