@@ -19,4 +19,4 @@ directions:
 
 ---
 
-Une garniture aux myrtilles pour garnir <i lang="en">pies</i> et tartes.
+Une garniture aux myrtilles pour garnir <i lang="en">pies</i>, tartes, et chaussons.
