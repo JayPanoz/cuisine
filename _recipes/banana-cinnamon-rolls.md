@@ -70,7 +70,7 @@ directions:
 - Saupoudrez la pâte de cette garniture et distribuez-la délicatement à l'aide de la paume de la main, en laissant une marge de 1cm de chaque côté le plus long. 
 - Roulez la pâte dans le sens le plus long. Prenez bien le temps de la compacter.
 - Découpez 8 roulés à l’aide d’un couteau huilé ou de fil.
-- Déposez chaque roulé l'un contre l'autre dans un moule/plat tamisé – la garniture va dégouliner sous les roulés donc si vous n’utilisez pas de tapis/papier cuisson, ça risque d’être galère pour démouler.
+- Déposez chaque roulé l'un contre l'autre dans un moule/plat recouvert de papier cuisson – la garniture va dégouliner sous les roulés donc si vous n’utilisez pas de tapis/papier cuisson, ça risque d’être galère pour démouler.
 - Nappez le dessus de chaque roulé avec votre ingrédient pour dorure. 
 - Enfournez pour 30–35 minutes ou jusqu’à ce que les roulés soient bien dorés.
 - Laissez refroidir un peu avant de démouler et de séparer les roulés, puis laissez refroidir sur une grille. 
