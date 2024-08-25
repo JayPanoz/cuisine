@@ -38,7 +38,7 @@ ingredients:
     - 1 concombre 
     - 150g de tomates cerises
     - 1 oignon rouge 
-    - 200g de cottage cheese ou de feta (voire du thon)
+    - 200g de cottage cheese ou de feta
 - Pour la vinaigrette:
     - 3 cuillères à soupe d’huile d’olive 
     - 1 cuillère à soupe de vinaigre balsamique 
@@ -64,6 +64,6 @@ directions:
 
 ---
 
-Une petite salade de pois chiches pour accompagner la récupération après l’effort, avec des protéines végétales (pois chiches) mais également animales (<i lang="en">cottage cheese</i> ou feta, voire même du thon si vous préférez), et des aliments riches en eau histoire de bien se réhydrater.
+Une petite salade de pois chiches pour accompagner la récupération après l’effort, avec des protéines végétales (pois chiches) mais également animales (<i lang="en">cottage cheese</i> ou feta), et des aliments riches en eau histoire de bien se réhydrater.
 
 Évidemment, cette salade peut se préparer à l’avance et se composer d’autres ingrédients, par exemple des légumes de saison ou des alternatives <i lang="en">vegan</i>. On l’accompagne ici d’une vinaigrette, mais rien ne vous empêche de faire une sauce aux herbes et fromage blanc pour apporter l’effet velouté si vous n’avez pas de <i lang="en">cottage cheese</i> sous la main par exemple.
