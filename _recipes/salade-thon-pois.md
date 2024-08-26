@@ -44,6 +44,7 @@ ingredients:
 - 1 petite boite soit 140g de maïs doux
 - 1 avocat
 - 2 échalotes
+- jus de citron
 - sel
 - poivre
 
@@ -55,6 +56,7 @@ directions:
 - Dénoyautez et coupez l’avocat en petits dés.
 - Déversez l’ensemble des ingrédients dans un saladier.
 - Ajoutez le maïs doux et le thon par-dessus.
+- Versez le jus de citron.
 - Salez et poivrez, puis mélangez bien le tout.
 
 ---
