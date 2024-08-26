@@ -4,9 +4,9 @@ title:  "La veille Sport et Santé du 26 août"
 author: JayPanoz
 ---
 
-On essaye quelque chose de plus organisé pour ma veille, on verra ce que ça peut donner. L’idée est de davantage filtrer, associer, compléter, réagir, et archiver les articles sur ces 2 thématiques et qui me passent quotidiennement sous le nez.
+On essaye quelque chose de plus organisé pour ma veille, on verra ce que ça peut donner. L’idée est de davantage filtrer, associer, compléter, réagir, et archiver les articles sur ces 2 thématiques qui me passent quotidiennement sous les yeux.
 
-Pour l’instant, je ne me pose pas de contrainte. Ces billets de veille seront publiés quand il y aura matière, ne les attendez pas avec un rythme bien défini. 
+Pour l’instant, je ne me pose pas de contrainte. Ces billets de veille seront publiés quand il y aura matière, ne les attendez pas avec un rythme prédéfini. 
 
 Attendez-vous néanmoins à des contenus centrés sur le cyclisme et le running, mes centres d’intérêts principaux. Notez également qu’ils seront aussi bien en anglais qu’en français.
 
@@ -14,15 +14,17 @@ Attendez-vous néanmoins à des contenus centrés sur le cyclisme et le running,
 
 Petit documentaire hyper communicatif sur la chaîne de Makari Espe, [vidéaste qui a décidé de se mettre au vélo](https://youtu.be/iuGHVRQyCEk?si=tegSUsnavUNHZO-H).
 
-Ça permet de se souvenir qu’on se cherche beaucoup quand on commence une nouvelle activité, qu’on doute et qu’on a tout un tas de questions. Et c’est agréable quand on baigne dans des environnements trop souvent riches en jugements sur les pratiques des autres et les petites cases dans lesquelles on cherche à les enfoncer.
+Ça permet de se souvenir qu’on se cherche beaucoup quand on commence une nouvelle activité, qu’on doute et qu’on a tout un tas de questions. Ce genre de témoignage est agréable à regarder quand on baigne dans des environnements trop souvent riches en jugements sur les pratiques des autres et petites cases dans lesquelles on cherche à les enfoncer.
 
-Je pense que ça parlera à pas mal de gens, et qu’ils seront même contents pour elle à la fin de la vidéo. D’un autre côté, ça peut aussi enclencher une remontée de souvenirs, et amener pourquoi pas à une autocritique pour accueillir au mieux les gens qui ne savent pas trop comment s’y prendre.
+Je pense que ça parlera à pas mal de gens, et qu’ils seront même contents pour elle à la fin de la vidéo. D’un autre côté, ça peut aussi déclencher des souvenirs, et amener pourquoi pas à une autocritique sur la façon d’accueillir au mieux les gens qui ne savent pas trop comment s’y prendre quand ils débutent.
 
 On oublie souvent que toutes les personnes n’ont pas le même caractère, et que se montrer proactif peut les aider à s’intégrer plus sereinement dans un groupe parce qu’ils n’oseront pas forcément le faire d’eux-mêmes.
 
 * * *
 
-Dan Lloyd, ancien cycliste pro devenu présentateur GCN, s'est lancé dans la documentation de 6 mois de changement de vie dans l'objectif de mieux vivre en vieillissant. En effet il s’est totalement laissé aller depuis sa retraite de cycliste pro. Et jusqu'ici cette mini-série peut carrément servir de TL;DR pour se mettre à jour de l'état de la science. 
+Dan Lloyd, ancien cycliste pro devenu présentateur GCN, s'est lancé dans la documentation de 6 mois de changement de vie dans l'objectif de mieux vivre en vieillissant. En effet il s’est totalement laissé aller depuis sa retraite de cycliste pro. 
+
+Jusqu'ici cette mini-série peut carrément servir de TL;DR pour se mettre à jour de l'état de la science. 
 
 - Ep. 1 – [introduction](https://youtu.be/YIEjavvzCfU)
 - Ep. 2 – [le VO2Max, outil de prédiction en dehors du sport](https://youtu.be/CAGq_KUSrxw)
@@ -30,13 +32,13 @@ Dan Lloyd, ancien cycliste pro devenu présentateur GCN, s'est lancé dans la do
 - Ep. 4 – [la nutrition](https://youtu.be/qyqJpQU8f-Y)
 - Ep. 5 – [le sommeil/la récupération](https://youtu.be/LIgURQ8UOEw)
 
-À noter une transparence rare et rafraichissante. Dan est honnête envers lui-même et les domaines qui posent encore quelques problèmes, et c’est aussi quelque part la preuve d’une certaine sagesse.
+À noter une transparence rare et rafraichissante. Dan est honnête envers lui-même et ne cache pas les domaines qui posent encore quelques problèmes.
 
-Ça fait écho à une autre vidéo d’un autre présentateur de GCN, Oliver Bridgewood, scientifique de formation. Vidéo dans laquelle [il explique comment il a amélioré sa performance sur le vélo](https://www.youtube.com/watch?v=NDY8-lcEIHI).
+Ça fait écho à une vidéo d’un autre présentateur de GCN, Oliver Bridgewood, scientifique de formation. Vidéo dans laquelle [il explique comment il a amélioré sa performance sur le vélo](https://www.youtube.com/watch?v=NDY8-lcEIHI).
 
 Et il n’y a pas vraiment de secret, l’activité physique s’inscrit dans un système complexe dont les 2 autres composantes sont l’alimentation et la récupération. Ces 3 choses interagissent ensemble et ne doivent pas être conçues en isolation. 
 
-Il ne sert à rien par exemple d’augmenter la charge (volume * intensité) d’activité physique pour perdre du poids si vous ne voulez pas rééquilibrez votre alimentation – je parle d’expérience.
+Il ne sert à rien par exemple d’augmenter la charge (volume * intensité) d’activité physique pour perdre du poids si vous ne voulez pas rééquilibrer votre alimentation – je parle d’expérience.
 
 Il ne sert à rien, non plus, de s’interdire un croissant aux amandes parce que vous pensez que ça va peser sur votre performance en course ou à vélo. Ce qu’on veut, c’est trouver un équilibre, être bien dans sa tête et dans son corps.
 
@@ -96,6 +98,6 @@ Mais au fond ce n’est qu’un élément de plus à retrouver dans un contexte 
 
 Les données je les utilise pourtant beaucoup, j’ai je pense assez de recul pour les interpréter et utiliser à bon escient, mais elles demandent un effort certain. Par exemple, l’algorithme d’entrainement Garmin est incapable de détecter mes pics de performance, le calcul théorique de Strava sur la puissance en vélo est totalement à côté de la plaque (près de 50 watts d’erreur à la baisse sur 180 watts moyens réels), et le nombre de calories dépensées pendant l’activité est très largement sous-évalué si on a pas ce fameux capteur de puissance.
 
-Ça colle d’ailleurs avec les [recherches sur la précision des trackers d’activité](https://theconversation.com/how-accurate-are-wearable-fitness-trackers-less-than-you-might-think-236462). Ils ne sont pas mauvais sur les algorithmes liés à la performance (V02Max, SPO2, fréquence cardiaque), mais ça peut être la cata sur l’estimation des calories dépensées, et le suivi du sommeil.
+Ça colle d’ailleurs avec les [recherches sur la précision des trackers d’activité](https://theconversation.com/how-accurate-are-wearable-fitness-trackers-less-than-you-might-think-236462). Ils ne sont pas mauvais sur les métriques liés à la performance (V02Max, SPO2, fréquence cardiaque), mais ça peut être la cata sur l’estimation des calories dépensées, et le suivi du sommeil.
 
-Bref, prenez de grosses pincettes, et si vous sentez que les données vous pourrissent la vie, essayez de les mettre de côté pendant quelques jours et d’y revenir avec un œil plus critique, voire une personne pour vous aider à comprendre comment mieux les interpréter.
+Bref, prenez de grosses pincettes, et si vous sentez que les données vous pourrissent la vie, essayez de les mettre de côté pendant quelques jours et d’y revenir avec un œil plus critique, voire accompagné d’une personne pour vous aider à comprendre comment mieux les interpréter.
