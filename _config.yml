@@ -11,6 +11,7 @@ github_username: JayPanoz
 
 # Build settings
 markdown: kramdown
+future: true
 
 permalink: /:title:output_ext
 
