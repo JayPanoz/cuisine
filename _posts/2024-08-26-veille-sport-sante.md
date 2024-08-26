@@ -72,7 +72,7 @@ Heureusement, [Bicycling est allé chercher des réponses](https://www.bicycling
 
 Dense et riche [entrevue avec Maëva Danois](https://stadion-actu.fr/maeva-danois-du-3000-m-steeple-au-trail-aujourdhui-pour-moi-une-heure-et-demie-cest-une-sortie-courte/), ancienne coureuse de 3000m steeple qui s’éclate désormais en trail. On peut en retenir à peu près ce qu’on souhaite y trouver&nbsp;: les incompréhensions suite à certaines séances ou courses, la performance qui se construit lentement, les paysages qu’on va chercher au haut des sommets, le partage avec les autres, etc.
 
-Pour ma part, j’ai décidé d’en ressortit quelque chose de très simple mais également puissant&nbsp;: “C’est ça qui est beau dans ce sport, c’est que ce qui te paraissait long, insurmontable des années peut devenir basique.”
+Pour ma part, j’ai décidé d’en ressortir quelque chose de très simple mais également puissant&nbsp;: “C’est ça qui est beau dans ce sport, c’est que ce qui te paraissait long, insurmontable des années peut devenir basique.”
 
 C’est autant un message d’encouragement pour ceux qui s’y mettent tout juste et galèrent un peu, qu’un mantra à se répéter régulièrement une fois que c’est devenu normal, partie intégrante de notre quotidien.
 
@@ -86,7 +86,7 @@ Tout est question d’équilibre, et le sport doit s’inscrire dans l’objecti
 
 [Quand la montagne de données finit par nuire aux sportifs](https://www.bfmtv.com/tech/objets-connectes/ma-montre-connectee-m-a-degoute-quand-la-montagne-de-donnees-finit-par-nuire-aux-sportifs_AV-202408240014.html), ça peut donner une dépression et un arrêt total de toute activité physique pendant plus d’un an.
 
-Si mon point de vue s’est quelque peu modéré avec les bons retours de la fonction “entraînement adaptatif” des montres Garmin depuis quelques mois. Son objectif est d’accompagner en douceur les personnes qui ne savent pas vraiment par où commencer leur entrainement en remettant les données dans un contexte (fatigue, sommeil, etc.), en les encourageant même à ne pas trop en faire. Et je trouve cette approche saine.
+J’avoue que mon point de vue s’est quelque peu modéré avec les bons retours de la fonction “entraînement adaptatif” des montres Garmin depuis quelques mois. Son objectif est d’accompagner en douceur les personnes qui ne savent pas vraiment par où commencer leur entrainement en remettant les données dans un contexte (fatigue, sommeil, etc.), en les encourageant même à ne pas trop en faire. Et je trouve cette approche saine.
 
 Il n’en reste pas moins que je trouve globalement la visualisation des données brutes absolument catastrophique en termes d’expérience utilisateur.
 
