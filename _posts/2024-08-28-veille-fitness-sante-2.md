@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "La veille fitness et santé du 2 septembre"
+title:  "La veille fitness et santé du 28 août"
 author: JayPanoz
 ---
 
-C’est parti pour la veille fitness et santé. Où l’on parle de la diète méditerranéenne, de l’inclusion des clubs de sport, d’améliorer son équilibre et sa mobilité, de troubles alimentaires, de recherche sur le diabète, de roues et de pneus.
+C’est reparti pour la veille fitness et santé… Et beaucoup plus rapidement que prévu. C’est la fin des vacances donc il y a un peu de temps pour s’en occuper, mais je devine que le rythme va ralentir avec la rentrée, et le filtrage qui va s’affiner avec le temps. 
+
+Aujourd’hui, on va parler de la diète méditerranéenne, de l’inclusion des clubs de sport, d’équilibre et de mobilité, de troubles alimentaires, de recherche sur le diabète, de roues et de pneus.
 
 ## Lifestyle
 
@@ -56,7 +58,7 @@ L’œil du sportif est surtout attiré par les données cardiaques (fréquence,
 
 * * *
 
-Le diabète est la maladie chronique sur laquelle les progrès semblent le plus rapides depuis le début de l’année, au point d’être la priorité chez [les fabricants de montre connectée](https://finance.yahoo.com/news/samsung-races-apple-develop-blood-233037141.html), qui cherchent à mesurer le taux de glucose dans le sang de manière non-intrusive (sans piqûre). 
+Le diabète est la maladie chronique sur laquelle les progrès semblent le plus rapides – ou tout du moins médiatisés – depuis le début de l’année, au point d’être la priorité chez [les fabricants de montre connectée](https://finance.yahoo.com/news/samsung-races-apple-develop-blood-233037141.html), qui cherchent à mesurer le taux de glucose dans le sang de manière non-intrusive (sans piqûre). 
 
 Si les [cyclistes pro connaissaient déjà le concept](https://www.bikeradar.com/advice/health/continuous-glucose-monitoring), d’ailleurs interdit en course, c’est le grand public qui est désormais visé aux États-Unis avec [des capteurs disponibles sans ordonnance](https://www.theverge.com/2024/8/26/24226685/dexcom-stelo-hands-on-continuous-glucose-monitor-wearables).
 
@@ -70,7 +72,7 @@ Et forcément, les fabricants de ces roues déploient une énergie monumentale �
 
 Ce qu’on peut en retenir, et ce qu’on savait déjà, c’est que beaucoup de fabricants assurent aller bien au-delà des standards (ETRTO) et de leurs spécifications. C'est d’ailleurs également le cas pour les casques, avec des tests beaucoup plus poussés que ceux requis pour une commercialisation. L’université de Virginia Tech fait d’ailleurs [office de locomotive pour ces derniers](https://helmet.beam.vt.edu/bicycle-helmet-ratings.html).
 
-Reste que l’argument “la norme spécifie que…” devient bien relative dans la réalité, à en croire le discours qui se veut rassurant des fabricants. Mais on peut au moins garder à l’esprit que les choses sont probablement un peu plus compliqués que ça.
+Reste que l’argument “la norme spécifie que…” devient bien relatif dans la réalité, à en croire le discours qui se veut rassurant des fabricants. Au final, on peut au moins garder à l’esprit que les choses sont probablement un peu plus compliqués que les vieilles rengaines qui n’apportent pas forcément grand-chose aux débats.
 
 * * *
 
