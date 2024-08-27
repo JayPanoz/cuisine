@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "La veille fitness et santé du 1er septembre"
+title:  "La veille fitness et santé du 2 septembre"
 author: JayPanoz
 ---
 
-C’est parti pour la veille fitness et santé. Où l’on parle de la diète méditerranéenne, de l’inclusion des clubs de sport, d’améliorer son équilibre et sa mobilité, de troubles alimentaires, de recherche sur le diabète, et de pneus.
+C’est parti pour la veille fitness et santé. Où l’on parle de la diète méditerranéenne, de l’inclusion des clubs de sport, d’améliorer son équilibre et sa mobilité, de troubles alimentaires, de recherche sur le diabète, de roues et de pneus.
 
 ## Lifestyle
 
@@ -13,6 +13,12 @@ La diète méditerranéenne est très souvent évoquée et étudiée comme le se
 Marco Romagnoli n’hésite pas à la définir comme le miroir d’une crise sociétale profonde, la recherche d’un mode de vie qui renforce les relations sociales et qui est bon pour la santé.
 
 Or, dans nos sociétés modernes, nous en sommes à (re)découvrir que [15 minutes de sport en entreprise peuvent améliorer notre santé et bien-être au travail](https://www.20minutes.fr/vie-pro/4106781-20240823-15-minutes-sport-entreprise-ameliorer-sante-bien-etre-travail)…
+
+* * *
+
+Après les confinements, beaucoup de personnes se sont découvertes un côté aventurier, et on croise beaucoup de récits de leurs voyages et explorations en ligne. 
+
+Parfois, on n’ose pas ou on ne sait pas comment se lancer. Le magazine Parade a listé [35 idées pour se jeter à l’eau](https://parade.com/living/how-to-be-more-adventurous-according-to-life-coaches).
 
 ## Société
 
@@ -23,6 +29,14 @@ Si les obstacles sont nombreux, on peut néanmoins noter des initiatives pour am
 ## Entrainement
 
 En plus de la musculation/renforcement, améliorer son équilibre et sa mobilité, ça permet d’améliorer sa qualité de vie en vieillissant. Je pense également aux cyclistes qui peuvent en bénéficier pour palier aux effets négatifs de ce sport porté si on ne fait rien d’autre à côté. [Voici 10 astuces pour s’y mettre](https://www.eatthis.com/easy-ways-to-improve-balance-and-mobility/).
+
+* * *
+
+On le sait, la récupération est une composante importante de la qualité de vie et la performance. Alors pourquoi ne pas [essayer la sieste](https://www.verywellhealth.com/power-naps-8699027) pour voir ce que ça donne si vous ne l’avez pas encore intégrée à votre quotidien&nbsp;?
+
+* * *
+
+On travaille le bas du corps en course à pied ou à vélo, mais pas les mêmes muscles, et pas de la même façon. The Manual liste [les bénéfices d’un renforcement “bas du corps” et les exercices à envisager](https://www.themanual.com/fitness/lower-body-workouts/). Pas mal de ces exercices se retrouvent dans les programmes ciblés sur le cyclisme ou le running donc n’hésitez pas à y jeter un coup d’œil&nbsp;!
 
 ## Nutrition
 
@@ -50,6 +64,24 @@ Pendant ce temps, les recherches continuent sur [le diabète de type 1.5](https:
 
 ## Matos
 
+On reparle des roues sans crochet. Très répandues en VTT, l’arrivée des roues sans crochets dans le monde du cyclisme sur route s’est [faite avec fracas](https://www.bikeradar.com/features/tech/de-gendt-uae-tour-crash-are-hookless-rims-safe).
+
+Et forcément, les fabricants de ces roues déploient une énergie monumentale à rassurer les consommateurs, [n’hésitant pas à ouvrir les portes de leurs laboratoires à la presse](https://velo.outsideonline.com/road/road-gear/why-choose-hookless-wheels/).
+
+Ce qu’on peut en retenir, et ce qu’on savait déjà, c’est que beaucoup de fabricants assurent aller bien au-delà des standards (ETRTO) et de leurs spécifications. C'est d’ailleurs également le cas pour les casques, avec des tests beaucoup plus poussés que ceux requis pour une commercialisation. L’université de Virginia Tech fait d’ailleurs [office de locomotive pour ces derniers](https://helmet.beam.vt.edu/bicycle-helmet-ratings.html).
+
+Reste que l’argument “la norme spécifie que…” devient bien relative dans la réalité, à en croire le discours qui se veut rassurant des fabricants. Mais on peut au moins garder à l’esprit que les choses sont probablement un peu plus compliqués que ça.
+
+* * *
+
 [Un guide complet des pneus vélo](https://www.bikeradar.com/advice/buyers-guides/bike-tyres-explained) chez BikeRadar, qui passe en revue tout ce qu’on peut trouver sur le marché.
 
 Ce qui permet de signaler cette vidéo sur [les raisons pour lesquelles on crève à vélo](https://youtu.be/wAd0He6h7Is?si=rlbtN8t5OgfW5BCy), et à quel point trouver la bonne pression est important. Un manufacturier, Pirelli, a même partagé qu’un pneu entrée de gamme gonflé à la bonne pression offrira de meilleures performances qu’un pneu haut de gamme gonflé à la mauvaise. Et pour vous aider à trouver une base autour de laquelle travailler, il y a des services comme [Silca](https://silca.cc/en-eu/pages/pro-tire-pressure-calculator) ou [Zipp](https://axs.sram.com/guides/tire/pressure).
+
+* * *
+
+Chez Shimano, il semble qu’il y ait de la Recherche & Développement autour des cales de pédales automatiques. [Un brevet sur des chaussures capables d’ajuster automatiquement les cales a été découvert](https://velo.outsideonline.com/gravel/gravel-gear/shimano-patent-electric-cycling-shoe-auto-adjust-cleat-position).
+
+On sait qu’un mauvais positionnement peut créer des problèmes voire amener à une blessure, mais honnêtement, ma première réaction est de me dire que Shimano pourrait déjà faire en sorte que son packaging puisse servir d’outil pour installer les nouvelles cales exactement au même endroit que celles que l’on remplace. 
+
+Une solution 0.1, certes, pas mercantile ni innovante pour un sous. Mais [si des outils dédiés existent](https://road.cc/content/review/ergon-tp1-pedal-cleat-tool-274119), c’est aussi et surtout parce que c’est ultra relou de re-régler les cales après les avoir changées, et que ça peut amener à retarder au maximum ce remplacement.
