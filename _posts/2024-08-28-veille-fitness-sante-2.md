@@ -28,6 +28,8 @@ Sans surprise, les [Jeux Paralympiques permettent de creuser sur le thème de l�
 
 Si les obstacles sont nombreux, on peut néanmoins noter des initiatives pour améliorer la situation, mais également un changement de mentalité. De plus en plus de dirigeants semblent en effet comprendre que le sport n'était pas seulement lié à la performance, mais aussi à l'inclusion et à la santé. La tendance est au sport bien-être.
 
+C'est aussi l’occasion de mentionner cet article du site Mon Parcours Handicap pour [choisir son vélo et le financer](http://monparcourshandicap.gouv.fr/actualite/velo-adapte-au-handicap-quel-materiel-choisir-et-comment-le-financer).
+
 ## Entrainement
 
 Améliorer son équilibre et sa mobilité, ça permet d’améliorer sa qualité de vie en vieillissant. Je pense notamment aux cyclistes qui peuvent en bénéficier pour palier aux effets négatifs de ce sport porté si on ne fait rien d’autre à côté. [Voici 10 astuces pour s’y mettre](https://www.eatthis.com/easy-ways-to-improve-balance-and-mobility/).
