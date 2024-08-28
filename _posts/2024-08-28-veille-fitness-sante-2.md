@@ -18,7 +18,7 @@ Or, dans nos sociétés modernes, nous en sommes à (re)découvrir que [15 minut
 
 * * *
 
-Après les confinements, beaucoup de personnes se sont découvertes un côté aventurier, et on croise de nombreux récits de voyage ou exploration en ligne. 
+Après les confinements, beaucoup de personnes se sont découvertes un côté aventurier, et on croise de nombreux récits de voyage ou expérience en ligne. 
 
 Parfois, on n’ose pas ou on ne sait pas comment se lancer. Le magazine Parade a listé [35 idées pour se jeter à l’eau](https://parade.com/living/how-to-be-more-adventurous-according-to-life-coaches).
 
@@ -42,7 +42,7 @@ On le sait, la récupération est une composante essentielle de la qualité de v
 
 On travaille le bas du corps en course à pied ou à vélo, mais pas les mêmes muscles, et pas de la même façon. Raison pour laquelle on conseille un autre sport à côté, ou du renforcement.
 
-Pour les autres, The Manual liste [les bénéfices d’un renforcement “bas du corps” et les exercices à envisager](https://www.themanual.com/fitness/lower-body-workouts/).
+Plus généralement, The Manual liste [les bénéfices d’un renforcement “bas du corps” et les exercices à envisager](https://www.themanual.com/fitness/lower-body-workouts/).
 
 Nombre de ces exercices se retrouvent dans les programmes ciblés sur le cyclisme ou le running donc n’hésitez pas à y jeter un coup d’œil&nbsp;!
 
@@ -58,7 +58,9 @@ Le plus important, néanmoins, aussi sensible que peut être le sujet, c’est d
 
 ## Santé
 
-L’œil du sportif est surtout attiré par les données cardiaques (fréquence, zones, fréquence max, etc.) enregistrées par ses gadgets connectés. Parfois on peut être amené à s’intéresser aussi aux risques qui pourraient avoir un impact sur notre activité physique. 
+L’œil du sportif est surtout attiré par les données cardiaques (fréquence, zones, fréquence max, etc.) enregistrées par ses gadgets connectés. 
+
+Parfois on peut être amené à s’intéresser aussi aux risques qui pourraient avoir un impact sur notre activité physique. 
 
 Mais combien d’entre nous peuvent expliquer comment le système cardiovasculaire fonctionne et “tombe en panne”&nbsp;? [Cet article de Verywell Health](https://www.verywellhealth.com/cardiovascular-system-8695175) vous explique toutes les bases.
 
