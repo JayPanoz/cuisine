@@ -18,7 +18,7 @@ Or, dans nos sociétés modernes, nous en sommes à (re)découvrir que [15 minut
 
 * * *
 
-Après les confinements, beaucoup de personnes se sont découvertes un côté aventurier, et on croise beaucoup de récits de leurs voyages et explorations en ligne. 
+Après les confinements, beaucoup de personnes se sont découvertes un côté aventurier, et on croise de nombreux récits de voyage ou exploration en ligne. 
 
 Parfois, on n’ose pas ou on ne sait pas comment se lancer. Le magazine Parade a listé [35 idées pour se jeter à l’eau](https://parade.com/living/how-to-be-more-adventurous-according-to-life-coaches).
 
@@ -40,7 +40,9 @@ On le sait, la récupération est une composante essentielle de la qualité de v
 
 * * *
 
-On travaille le bas du corps en course à pied ou à vélo, mais pas les mêmes muscles, et pas de la même façon. The Manual liste [les bénéfices d’un renforcement “bas du corps” et les exercices à envisager](https://www.themanual.com/fitness/lower-body-workouts/).
+On travaille le bas du corps en course à pied ou à vélo, mais pas les mêmes muscles, et pas de la même façon. Raison pour laquelle on conseille un autre sport à côté, ou du renforcement.
+
+Pour les autres, The Manual liste [les bénéfices d’un renforcement “bas du corps” et les exercices à envisager](https://www.themanual.com/fitness/lower-body-workouts/).
 
 Nombre de ces exercices se retrouvent dans les programmes ciblés sur le cyclisme ou le running donc n’hésitez pas à y jeter un coup d’œil&nbsp;!
 
@@ -52,7 +54,7 @@ Heureusement, les choses évoluent. Le tabou des troubles alimentaires chez les 
 
 Dans le cas de Megan, c’est un regard extérieur qui a pu l’aider à trouver un équilibre. Je ne sais pas si ça pourra en aider certains mais je pense important de souligner qu’il peut également y avoir un déclic quand on repense la nourriture comme un carburant pour alimenter l’activité physique, et pas l’activité physique comme un moyen de manger ce qu’on veut, ou d’éliminer les calories ingérées en trop. Ça ne veut évidemment pas dire qu’on ne peut pas se faire plaisir
 
-Le plus important, néanmoins, aussi sensible que peut-être le sujet, c’est de ne pas hésiter à se poser des questions si on observe que quelque chose ne semble pas aller. Aussi bien pour nos proches que pour nous-même. Et bien sûr, accepter d’en parler.
+Le plus important, néanmoins, aussi sensible que peut être le sujet, c’est de ne pas hésiter à se poser des questions si on observe que quelque chose ne semble pas aller. Aussi bien chez nos proches que chez soi-même. Et bien sûr, accepter d’en parler.
 
 ## Santé
 
@@ -68,7 +70,7 @@ Si les [cyclistes pro connaissaient déjà le concept](https://www.bikeradar.com
 
 Pendant ce temps, les recherches continuent sur [le diabète de type 1.5](https://www.sciencealert.com/some-people-with-diabetes-could-unknowingly-have-type-1-5), peu connu et mal diagnostiqué. Mais aussi sur les aliments à risque, puisqu’un [lien a été établi entre diabète de type 2 et viande rouge, jambon et steaks végétaux](https://www.medisite.fr/diabete-diabete-viande-rouge-jambon-et-meme-steaks-vegetaux-font-flamber-le-risque.5714116.60.html).
 
-L’époque où l’on diabolisait un macronutriment en particulier (ici les glucides, spécifiquement le sucre) est définitivement terminée. Et ça explique logiquement pourquoi le conseil nutritionnel se porte aujourd’hui sur le fait de manger de tout, en quantité raisonnable, plutôt que de bannir.
+L’époque où l’on diabolisait un macronutriment en particulier (ici les glucides, spécifiquement à cause du sucre) est définitivement terminée. Et ça explique logiquement pourquoi le conseil nutritionnel se porte aujourd’hui sur le fait de manger de tout, en quantité raisonnable, plutôt que de bannir.
 
 ## Matos
 
@@ -78,7 +80,7 @@ Et forcément, les fabricants de ces roues déploient une énergie monumentale �
 
 Ce qu’on peut en retenir, et ce qu’on savait déjà, c’est que beaucoup de fabricants assurent aller bien au-delà des standards (ETRTO) et de leurs spécifications. C'est d’ailleurs également le cas pour les casques, avec des tests beaucoup plus poussés que ceux requis pour une commercialisation. L’université de Virginia Tech fait d’ailleurs [office de locomotive pour ces derniers](https://helmet.beam.vt.edu/bicycle-helmet-ratings.html).
 
-Reste que l’argument “la norme spécifie que…” devient bien relatif dans la réalité, à en croire le discours qui se veut rassurant des fabricants. Au final, on peut au moins garder à l’esprit que les choses sont probablement un peu plus compliqués que ces vieilles rengaines qui n’apportent pas forcément grand-chose aux débats.
+Reste que l’argument “la norme spécifie que…” devient bien relatif dans la réalité, à en croire le discours qui se veut rassurant des fabricants. Au final, même en étant critique sur le marketing engagé, on peut au moins garder à l’esprit que les choses sont probablement un peu plus compliqués que ces vieilles rengaines qui n’apportent pas forcément grand-chose aux débats.
 
 * * *
 
