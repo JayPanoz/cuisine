@@ -6,7 +6,7 @@ author: JayPanoz
 
 Encore une veille particulièrement dense, dans laquelle vous trouverez je l’espère des sujets susceptibles de vous intéresser. 
 
-Comme d’habitude désormais, on s’intéresse un peu à tout&nbsp;: les débats de société, le styles de vie, l’entrainement en vélo et en running, la musculation et le renforcement, la nutrition, le matériel… Mais pas que.
+Comme d’habitude désormais, on s’intéresse un peu à tout&nbsp;: les débats de société, les styles de vie, l’entrainement en vélo et en running, la musculation et le renforcement, la nutrition, le matériel… Mais pas que.
 
 Aujourd’hui, on inaugure une nouvelle section “Technique”, parce que c’est également quelque chose d’important dans la pratique d’un sport. Et on ne s’y intéresse pas forcément si on a pas quelqu’un pour nous dire de le faire. 
 
