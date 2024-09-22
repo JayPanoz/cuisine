@@ -4,6 +4,8 @@ title:  "La veille fitness et santé du 22 septembre"
 author: JayPanoz
 ---
 
+Une veille #5 probablement trop dense et riche pour être résumée de manière convenable. Donc on va se limiter au fait qu’une section “Culture” est venue s’ajouter aux catégories désormais habituelles.
+
 ## Société
 
 [Au Pays basque, la Skyrhune s’arrête pour dire non au "trail business".](https://www.liberation.fr/sports/au-pays-basque-la-skyrhune-sarrete-pour-dire-non-au-trail-business-20240921_6TSEVB2QRFC7NKMHU7INU3RZKI/) Gros contraste après l’Ultra-Trail Mont-Blanc et [ses audiences record.](http://ledauphine.com/sport/2024/09/11/des-audiences-records-pour-l-ultra-trail-du-mont-blanc-avec-4-millions-de-telespectateurs)
@@ -128,7 +130,7 @@ C’est un message important à faire passer&nbsp;: si quelque chose ne va pas, 
 
 ## Nutrition
 
-> “Il faut prendre le problème dans son ensemble et ne pas reporter toute la responsabilité sur l'individu.” 
+> Il faut prendre le problème dans son ensemble et ne pas reporter toute la responsabilité sur l'individu.
 
 La malbouffe coûte plus de 12 milliards d'euros par an en dépenses de santé en France. Chef de l'unité Nutrition prévention à l’hôpital Bichat (Paris), [Boris Hansel pointe notamment du doigt la publicité et la "pression marketing" auxquelles on est "plus ou moins sensibles", selon notre milieu social.](https://www.francetvinfo.fr/replay-radio/le-grand-temoin/malbouffe-il-faut-prendre-le-probleme-dans-son-ensemble-et-ne-pas-reporter-toute-la-responsabilite-sur-l-individu-defend-un-nutritionniste_6759544.html)
 
