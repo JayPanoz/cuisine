@@ -138,11 +138,11 @@ Problème, [des milliards d’euros d’argent public financent l’économie de
 
 * * *
 
-Le double champion olympique [Remco Evenpoel nous partage une journée d’entrainement, et ce qu’il manque pour alimenter 7 heures de vélo](https://www.youtube.com/watch?v=gr2zt2UEJBY). 
+Le double champion olympique [Remco Evenpoel nous partage une journée d’entrainement, et ce qu’il mange pour alimenter 7 heures de vélo](https://www.youtube.com/watch?v=gr2zt2UEJBY). 
 
 Pas forcément inintéressant de jeter un coup d’œil dessus même si vous n’envisagez pas de rouler autant que lui, en imaginant que vous n’en apprendrez rien.
 
-Savoir estimer sa dépense et son apport calorique, ce n’est pas quelque chose d’inné, et certains pourront découvrir qu’ils ne s’aliment pas du tout suffisamment pour leur activité physique par exemple, ce qui pourra expliquer les performances en baisse ou les coups de mou.
+Savoir estimer sa dépense et son apport calorique, ce n’est pas quelque chose d’inné, et certains pourront découvrir qu’ils ne s’aliment pas du tout suffisamment pour leur activité physique par exemple, ce qui pourra expliquer les performances en baisse, un ressenti détestable, ou des coups de mou.
 
 Dans cette démarche, [voici à quoi peuvent ressembler 1500&nbsp;kcal de qualité](https://www.eatthis.com/1500-calorie-meal-plan/), donc avec des nutriments utiles pour le métabolisme.
 
@@ -206,7 +206,7 @@ L’alcool est un poison, et l’Association américaine pour la recherche sur l
 
 * * *
 
-Attention, vidéo commentée d’émission nord-américaine, donc en grossissant les traits à l’extrême, sur un cas extrêmement particulier par ailleurs.
+Attention, vidéo commentée d’émission nord-américaine, donc avec un grossissement des traits à l’extrême, sur un cas déjà particulier par ailleurs.
 
 Si l’absence d’activité physique n’est pas bonne pour la santé, un surplus de l’est pas forcément non plus. Vous pouvez être très actif, et ne pas être en bonne santé du tout. [Exemple extrême d’une personne qui s’exerce 8&nbsp;h par jour](https://www.youtube.com/watch?v=z2pHlwI-WTo).
 
