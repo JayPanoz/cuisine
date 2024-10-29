@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "La veille fitness et santé du 31 octobre"
+title:  "La veille fitness et santé du 29 octobre"
 author: JayPanoz
 ---
 
-Une nouvelle veille, plus d’un mois après. Évidemment, le filtrage s’affine avec le temps, et les informations sont plus fouillées, parfois sur des sujets très particuliers. 
+Une nouvelle veille, plus d’un mois après. Évidemment, le filtrage s’affine avec le temps, et les informations peuvent être amenés à se croiser pour un résultat un peu plus riche. 
 
-On reste sur les thématiques habituelles, et on ajoute du business, de la découverte et des voyages. Nous allons sur l’hiver, et c’est le bon moment de planifier vos vacances à vélo l’année prochaine.
+On reste sur les thématiques habituelles, et on ajoute du business, de la découverte et des voyages. Nous allons sur l’hiver, et c’est le bon moment de planifier vos vacances à vélo l’année prochaine. D’un autre côté, ça signifie qu’il faut aussi vous équiper pour la pluie et la nuit.
 
 ## Société
 
@@ -20,13 +20,19 @@ Personnellement, ce qui m’inquiète au-delà de tout ceci, c’est le fait que
 
 Au final, et on peut déjà le percevoir dans certains échanges, ça normalise aussi les décisions ultra néfastes comme d’ignorer les signaux envoyés par son corps (blessure, fatigue, etc.), de culpabiliser parce que vous n’en faites pas autant que d’autres ou parce que vous avez manqué un entrainement, etc. Et sur le long-terme, ça ne vous rendra pas plus heureux, et ça pourra même vous mener au burn-out.
 
-* * *
-
-[Athlètes et écologie : comment concilier l’inconciliable&nbsp;?](https://www.montagnes-magazine.com/actus-athletes-ecologie-comment-concilier-inconciliable) Vraie question car on doute parfois que certains athlètes ont conscience de l’impact de leurs activités, partie d’un métier à ré-inventer.
+Il serait vraiment temps qu’on arrête d’écouter les gros cons. Ça fonctionnait bien avant, pas de raison que ça ne fonctionne plus maintenant.
 
 * * *
 
-Chez France Info, [une enquête sur le peloton professionnel surmédicalisé](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/enquete-cyclisme-l-ombre-du-dopage-sur-un-peloton-surmedicalise_6832526.html). Qu’on le veuille ou non, le cyclisme sera toujours interpellé sur le dopage, et il est intéressant de constater l’émergence d’un dopage médical tout à fait légal, qui réside dans une zone grise pour le moment.
+[Athlètes et écologie : comment concilier l’inconciliable&nbsp;?](https://www.montagnes-magazine.com/actus-athletes-ecologie-comment-concilier-inconciliable) 
+
+On peut effectivement parfois douter que certains athlètes ont conscience de l’impact de leurs activités, entre-autres parce que ça fait partie d’un métier à réinventer – et on sait qu’on n’aime pas forcément ce processus de réinvention.
+
+* * *
+
+Chez France Info, [une enquête sur le peloton professionnel surmédicalisé](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/enquete-cyclisme-l-ombre-du-dopage-sur-un-peloton-surmedicalise_6832526.html). 
+
+Qu’on le veuille ou non, le cyclisme sera toujours interpellé sur le dopage, et il est intéressant de constater l’émergence d’un dopage médical tout à fait légal, qui réside dans une zone grise pour le moment.
 
 * * *
 
@@ -54,7 +60,9 @@ Or, pour le moment, la recherche sur ce point ne nous mène qu’à d’autres h
 
 ## Lifestyle
 
-On continue à observer Makari Espe développer ses connaissances et sa pratique du vélo, [avec son premier voyage solo en bikepacking](https://youtu.be/NVjdRfWVfs0?si=ySJmEsN6aXz5PbmA). L’apprentissage des pédales automatiques ne manquera pas de rappeler d’excellents souvenirs à celles et ceux qui ont décidé de sauter le pas.
+On continue à observer Makari Espe développer sa pratique du vélo, [avec son premier voyage solo en bikepacking](https://youtu.be/NVjdRfWVfs0?si=ySJmEsN6aXz5PbmA). 
+
+L’apprentissage des pédales automatiques ne manquera pas de rappeler d’excellents souvenirs à celles et ceux qui ont décidé de sauter le pas un jour.
 
 * * *
 
@@ -63,6 +71,18 @@ Pour un podcast chez Slate, [Delphine Saltel consulte différents spécialistes 
 * * *
 
 L’ultra-cycliste Vedangi Kulkarni voulait battre le record du tour du monde à vélo, et sera finalement la première à en faire deux fois le tour. [Explications et portrait](https://velo.outsideonline.com/road/road-culture/ultracyclist-vedangi-kulkarni-wanted-to-be-the-fastest-instead-shell-be-the-first/).
+
+* * *
+
+Il fait 11.000 km à vélo jusqu'au Népal pour gravir un sommet mythique&nbsp;: [un alpiniste de 22 ans doit renoncer au dernier moment](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/chamonix/temoignage-il-fait-11-000-km-a-velo-jusqu-au-nepal-pour-gravir-un-sommet-mythique-un-alpiniste-de-22-ans-doit-renoncer-au-dernier-moment-3046006.html).
+
+22 ans, et certainement plus sage que beacoup d’entre-nous, en renonçant au but de son voyage de plusieurs mois là où nous sommes souvent incapables de prendre le repos nécessaire à la guérison d’une blessure par exemple.
+
+* * *
+
+[24&nbsp;h à monter et à descendre le Mont Artzamendi](http://www.fastclub.cc/2024/06/28/24h-dans-le-mont-artzamendi/), où le défi de Maxime Prieur, présentateur GCN en français.
+
+Pour ma part, je dois avouer que sa mésaventure de disque centerlock qui se dévisse fait désormais figure de nouvelle peur cauchemardesque lors d’une sortie. Désolé, j’ai fait une fixation là-dessus. 
 
 ## Business
 
@@ -84,9 +104,13 @@ Et si vous cherchez à vous équiper, [BikeRadar a récemment publié ce test](h
 
 * * *
 
-La recomposition corporelle refait la une grâce à [une étude menée au Canada](https://weelz.ouest-france.fr/le-velo-meilleur-que-les-regimes-pour-perdre-du-poids-et-etre-en-meilleure-sante). Attention, il faut quand même aller lire l’étude en détail car certains sont importants, notamment le très très gros volume des participants à l’étude, qui pourra paraître impossible à atteindre pour beaucoup de personnes avec les contraintes de la vie active.
+La recomposition corporelle refait la une grâce à [une étude menée au Canada](https://weelz.ouest-france.fr/le-velo-meilleur-que-les-regimes-pour-perdre-du-poids-et-etre-en-meilleure-sante). 
 
-Pour ces personnes, Bicycling a eu la bonne idée d’y [dédier un article quelques semaines auparavant](https://www.bicycling.com/health-nutrition/a62335563/does-cycling-burn-belly-fat/), et qui remet surtout en perspective l’activité physique comme élément d’un tout, avec la récupération et la nutrition – une nuance qui peut disparaître si on ne lit pas avec attention des articles qui ont relayé l’étude canadienne. 
+Attention, il faut quand même aller lire l’étude en détail car certains sont importants, notamment le très très gros volume des participants à l’étude, qui pourra paraître impossible à atteindre pour beaucoup de personnes avec les contraintes de la vie active.
+
+Pour ces personnes, Bicycling a eu la bonne idée d’y [dédier un article quelques semaines auparavant](https://www.bicycling.com/health-nutrition/a62335563/does-cycling-burn-belly-fat/), et qui remet surtout en perspective l’activité physique comme élément d’un tout, avec la récupération et la nutrition – une nuance qui peut disparaître si on ne lit pas avec attention des articles qui ont relayé l’étude canadienne.
+
+Comme l’a en effet découvert Seth de Berm Peak de manière [assez terrifiante après un check-up](https://youtu.be/Hv2tMIcBZyk?si=uMaWv0QWKJZ299Nw), il est important de prendre le recul nécessaire pour voir cet ensemble en entier.
 
 * * *
 
@@ -106,9 +130,23 @@ Elle a pris de l'ampleur grâce à Jakob Ingebrigtsen, athlète norvégien qui a
 
 Pour les autres, moins au fait des techniques d’entrainement, la montre GPS peut guider vos premiers pas. Désormais classique [retour d’expérience d’entrainement adaptatif Garmin](https://youtu.be/jNGFXHZTfJ8?si=VNmaFlOJaOa0PTkS).
 
-J’en profite d’ailleurs pour proposer mon retour car il ne sera pas aussi dithyrambique, mais je ne suis pas forcément la cible de cette fonctionnalité non plus. Pour dire les choses simplement, le fait que cet algorithme ne supporte pas l’entrainement croisé (plusieurs sports) le réserve à un rôle de simple gimmick pour les gens comme moi à l’heure actuelle.
+J’en profite d’ailleurs pour proposer mon retour car il ne sera pas aussi dithyrambique, mais je ne suis pas forcément la cible de cette fonctionnalité non plus. 
 
-En passant, mon niveau de fitness et performance ont très largement plongé, quasiment autant que lors de périodes où j’étais blessé, avec une activité physique très mesurée. Et même un entrainement complètement en freestyle pas structuré du tout m’a donné de meilleurs résultats… Bref, Garmin a encore beaucoup de travail. 
+Pour dire les choses simplement, le fait que cet algorithme ne supporte pas l’entrainement croisé (plusieurs sports) le réserve à un rôle de simple gimmick pour les gens comme moi à l’heure actuelle.
+
+En 2 semaines, mon niveau de fitness et performance ont très largement plongé, quasiment autant que lors de périodes où j’étais blessé. 
+
+Et même un entrainement absolument pas structuré, au feeling, m’a donné de meilleurs résultats… Bref, Garmin a encore beaucoup de travail.
+
+* * *
+
+À un niveau plus global encore, [comment devenir un meilleur cycliste chez Bicycling](https://www.bicycling.com/training/a62350469/become-a-better-faster-cyclist/). Les principes de base et signes qui permettent de mesurer vos progrès.
+
+* * *
+
+Vous vous ennuyez à l’entrainement&nbsp;? Peut-être que [le secret de Geraint Thomas](https://www.bikeradar.com/features/opinion/geraint-thomas-training-secrets) pourra alors vous servir.
+
+Spoiler&nbsp;: c’est de garder le sens de l’aventure et d’explorer au lieu de tout le temps faire les mêmes boucles.
 
 * * *
 
@@ -126,11 +164,13 @@ Rappel qu’il est préférable de reprendre l’activité physique en douceur, 
 
 Ce qui permet de relayer cet article sur [les dangers de trop courir, et de comment trouver le bon équilibre](https://www.danslateteduncoureur.fr/blog/volume-dangers-trop-courir-trouver-equilibre).
 
-On en revient toujours à la problématique de l’activité a priori bénéfique qui peut devenir néfaste si on en fait trop, et au risque de glisser dans ce cas de figure sans s’en rendre compte. Parfois, finalement, quitte à passer pour le chieur de service, il ne faut pas hésiter à aborder la question.
+On en revient toujours à la problématique de l’activité a priori bénéfique qui peut devenir néfaste si on en fait trop, et de glisser dans ce cas de figure sans s’en rendre compte. 
+
+Parfois, finalement, quitte à passer pour le chieur de service, il ne faut pas hésiter à aborder la question.
 
 * * *
 
-Et sans transition, on passe sur une vidéo de Running Channel qui explique [tout ce que votre corps endure pendant un marathon](https://youtu.be/iJWW47BfXFc?si=3MVcNVfC51gumGHv). Ça permet également d’expliquer pourquoi le premier participant, Philippides, en est mort.
+Et sans transition, on passe sur une vidéo de Running Channel qui explique [tout ce que votre corps endure pendant un marathon](https://youtu.be/iJWW47BfXFc?si=3MVcNVfC51gumGHv). Ça permet également d’expliquer pourquoi le premier participant, Philippides, y a succombé.
 
 * * *
 
@@ -138,17 +178,19 @@ Tant qu’à creuser la question du corps, quelques [conseils pour soigner ou é
 
 ## Nutrition
 
-Le thème de la malbouffe s’est imposé dans les médias depuis quelques semaines, suite à [un rapport de l'Institut Montaigne préconise de taxer les produits ultra-transformés](https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/alimentation-faut-il-taxer-la-malbouffe-4881554). Si on parle surtout du sucre ajouté, il ne faut pas oublier que cela concerne aussi les produits [trop salés et riches en acides gras saturés](https://www.francetvinfo.fr/sante/alimentation/reportage-je-vois-ca-comme-une-punition-l-idee-d-une-taxe-sur-les-sucres-transformes-ne-fait-pas-l-unanimite-aupres-des-consommateurs_6864566.html).
+Le thème de la malbouffe s’est imposé dans les médias depuis quelques semaines, suite à [un rapport de l'Institut Montaigne préconise de taxer les produits ultra-transformés](https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/alimentation-faut-il-taxer-la-malbouffe-4881554). 
+
+Si on parle surtout du sucre ajouté, il ne faut pas oublier que cela concerne aussi les produits [trop salés et riches en acides gras saturés](https://www.francetvinfo.fr/sante/alimentation/reportage-je-vois-ca-comme-une-punition-l-idee-d-une-taxe-sur-les-sucres-transformes-ne-fait-pas-l-unanimite-aupres-des-consommateurs_6864566.html).
 
 En parallèle, la France est en passe de devenir un [temple de la malbouffe](https://www.francetvinfo.fr/sante/alimentation/reportage-mcdo-c-est-un-petit-peche-mignon-la-france-futur-temple-de-la-malbouffe-a-l-image-des-etats-unis_6851105.html), avec de nombreuses chaines nord-américaines qui y trouvent un territoire où développer leur activité. 
 
-Pire encore, [des commerçants importent sciemment des snacks interdits sur le territoire européen](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-4861711) pour répondre à la demande en malbouffe.
+Pire encore, [des commerçants importent sciemment des snacks interdits sur le territoire européen](https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-4861711) pour répondre à la demande.
 
 * * *
 
 Sur ce sujet des aliments ultra-transformés, [il convient de ne pas oublier que les substituts végétaux s’inscivrent dans cette catégorie](https://www.slate.fr/sante/devons-nous-mefier-aliments-vegetaliens-remplacent-viande-ultratransformes-regime-alimentaire-substituts).
 
-Il faut nuancer toutefois, car le vrai problème survient quand les aliments ultra-transformés composent la majorité du régime alimentaire, et pas une petite partie. 
+Il faut nuancer toutefois, car le vrai problème survient quand les aliments ultra-transformés composent la majorité du régime alimentaire, et pas seulement une petite partie. 
 
 D’autre part, il convient de souligner que la catégorisation NOVA est simpliste, parfois mal comprise, et [peine à représenter la réalité de nos connaissances actuelles](https://www.medicalnewstoday.com/articles/not-all-ultra-processed-foods-are-made-alike-researchers-warn-against-villainizing-entire-food-group). Une mise à jour s’impose à mesure que nos connaissances évoluent.
 
@@ -160,7 +202,15 @@ Pour compléter et aider à appréhender ces résultats, [Trainer Road a interro
 
 En pratique, avec la méthode la plus fiable disponible pour mesurer la dépense énergétique, on peut se rendre contre que celle-ci peut être largement sous-estimée à partir de la puissance et de la fréquence cardiaque, et que certains athlètes peuvent donc se retrouver en sous-alimentation chronique. 
 
-Bref, calculer les calories, c’est beaucoup plus compliqué que de peser les aliments puis additionner les valeurs nutritionnelles. Ça ne veut pas dire que ça ne peut pas être utile en soi, ne serait-ce que pour se familiariser avec les apports des aliments, et les dépenses qui peuvent varier d’un jour à l’autre, mais il semblerait bien que ça ne puisse pas aller bien plus loin que ça.
+Bref, calculer les calories, c’est beaucoup plus compliqué que de peser les aliments puis additionner les valeurs nutritionnelles. 
+
+Ça ne veut pas dire que ça ne peut pas être utile en soi, ne serait-ce que pour se familiariser avec les apports des aliments, et les dépenses qui peuvent varier d’un jour à l’autre, mais il semblerait bien que ça ne puisse pas aller bien plus loin que ça.
+
+* * *
+
+[L’impact de la caféine en running](https://run.outsideonline.com/nutrition-and-health/racing-nutrition/caffeine-and-running/). Il est prouvé que la caféine améliore les performances, mais les bénéfices ne s’arrêtent pas là.
+
+Effort perçu, meilleurs réflexes, prise de décision… ce serait dommage de vous en priver.
 
 ## Santé
 
@@ -176,7 +226,15 @@ Conclusion que je partage entièrement.
 
 * * *
 
-On observe une [augmentation des cas d’arrêts cardiaques chez les jeunes en bonne santé](https://www.dailymail.co.uk/health/article-13920613/Alarming-rise-super-fit-slim-young-people-suffering-heart-attacks-experts-reveal-theories-surge.html), et naturellement la question du COVID. Mais il n’y a pas que ça, l’abus de substances et la mauvaise alimentation offrent un terrain propice aux effets de la contamination.
+On observe une [augmentation des cas d’arrêts cardiaques chez les jeunes en bonne santé](https://www.dailymail.co.uk/health/article-13920613/Alarming-rise-super-fit-slim-young-people-suffering-heart-attacks-experts-reveal-theories-surge.html), et naturellement la question du COVID se pose. 
+
+Mais il n’y a pas que ça, l’abus de substances et la mauvaise alimentation offrent un terrain propice aux effets de la contamination.
+
+* * *
+
+Sera-t-il bientôt possible de mesurer la pression sanguine avec un simple smartphone&nbsp;? [C’est ce qu’une app Android propose de faire](https://www.sciencealert.com/your-smartphone-could-soon-measure-your-blood-pressure-with-just-a-touch), avec des résultats assez précis selon une première étude.
+
+Évidemment, celle-ci est développée par des chercheurs de l’université de Pittsburgh, dans l’objectif d’atteindre les populations qui ont accès à des soins limités.
 
 ## Santé mentale
 
@@ -192,15 +250,31 @@ Ce n’est pas forcement une découverte inattendue, mais c’est un bon rappel 
 
 ## Matos
 
+Avec le changement d’heure et la nuit qui tombe bien plus tôt, il faut compter sur les lumières pour être visible. [Petit tour de revue des lumières arrière chez Bike Radar](https://youtu.be/p219g9Mw4js?si=KGQQFaFM_WEopOUn).
+
+* * *
+
+Et comme il va pleuvoir, [on s’équipe en conséquence chez Transition Vélo](https://www.transitionvelo.com/guide-achat/comment-sequiper-pour-rouler-sous-la-pluie-a-velo/).
+
+* * *
+
 100&nbsp;km à vélo, c’est déjà un bel objectif. 160 ou <i lang="en">Century</i>, c’est la version anglo-saxonne qui se base sur les <i lang="en">miles</i>. Et autant dire que c'est toujours mieux d’être bien équipé pour une telle sortie.
 
 Bicycling dévoile une [liste de vélos spécialement conçus pour ça](https://www.bicycling.com/bikes-gear/g62265643/best-bikes-for-a-century/).
 
 * * *
 
-Affublé d’un lancement absolument catastrophique à cause de son logiciel très loin d’être suffisamment développé, le compteur GPS Coros Dura se refait une réputation ces dernières semaines avec les améliorations apportés, mais également des points très forts qui ressortent des tests longue durée.
+Si vous avez déjà un vélo pour accomplir ce Century, peut-être que vous pourriez lui donner une seconde jeunesse grâce à [cette liste d’améliorations qui ne mangent pas de pain](https://www.bicycling.com/bikes-gear/a62336645/cheap-bike-upgrades-diy-at-home/).
+
+* * *
+
+Affublé d’un lancement absolument catastrophique à cause de son logiciel insuffisamment développé, le compteur GPS Coros Dura se refait une réputation ces dernières semaines avec les améliorations apportés, mais également des points très forts qui ressortent des tests longue durée.
 
 Chez Bikepacking, [on l’a rechargé une seule fois en 5 mois](https://youtu.be/_T56diErjlY?si=oru5BOCzV6L2YO7y) par exemple, arguant d’une autonomie phénoménale qu’on ne retrouve chez aucun autre fabricant.
+
+* * *
+
+L’actualité particulièrement dévastatrice des dernières semaines fait écho à [cette vidéo que Road Cycling Club avait publiée quelques jours plus tôt](https://youtu.be/Vwn4fqZM0tY?si=uFOglZ_-4_oB9JZD). N’hésitez pas à y jeter un coup d’œil si vous avez dans l’idée de vous équiper d’une caméra.
 
 * * *
 
@@ -215,6 +289,14 @@ Making of.
 En parlant de pneu, [un test sur les différentes largeurs en gravel](https://youtu.be/4OWhNNSCY8I?si=6autsG-mwtXR-_ZP), de 40 à 50&nbsp;mm.
 
 La bonne nouvelle, finalement, c’est que vous prenez ce que vous voulez ou pouvez (dégagement du cadre ou de la fourche)&nbsp;: la différence des temps chronométrés se trouve dans la marge d’erreur, signe que cela n’aura pas une énorme importance pour le commun des mortels.
+
+* * *
+
+Pneu toujours, leur pression en particulier. 
+
+Les roues à moyeux capables de dégonfler et gonfler les pneus pendant roulage font un retour fracassant sur le devant de la scène avec [la victoire de Marianne Vos aux championnats du monde de Gravel](https://www.lavoixdunord.fr/1509924/article/2024-10-07/pneus-auto-gonflants-une-nouvelle-etape-franchie-grace-marianne-vos-championne). 
+
+Vous en aviez peut-être entendu parler sur Paris–Roubaix depuis 2&nbsp;ans, avec des résultats moins probants. Ce coup-ci, le système aurait carrément sauvé la coureuse néerlandaise d’une crevaison dans le final vers Louvain.
 
 * * *
 
@@ -236,7 +318,13 @@ On voit de plus en plus de vélos équipés du porte-bagage Tailfin pour le bike
 
 La transmission automatique pour vélo musculaire/analogique arrive [chez Shimano avec le Q’Auto](https://www.transitionvelo.com/composants/transmissions/shimano-qauto-le-fabricant-japonais-sattaque-a-la-transmission-automatique-pour-les-velos-musculaires/).
 
-Ce système disponible en 2025 utilisera plusieurs capteurs pour apprendre des habitudes de l’utilisateur et changer automatiquement les rapports. À voir si l’IA derrière le système essayera de monter d’un pignon en étant tout à gauche dans les montées de col et se rendre compte qu’elle ne peut pas en râlant. Pour une expérience plus réaliste, bien évidemment. 
+Ce système disponible en 2025 utilisera plusieurs capteurs pour apprendre des habitudes de l’utilisateur et changer automatiquement les rapports. 
+
+À voir si l’IA derrière le système essayera de monter d’un pignon en étant tout à gauche dans les montées de col puis  se rendra compte qu’elle ne peut pas en râlant. Pour une expérience plus réaliste, bien évidemment.
+
+* * *
+
+On enchaîne sur cette vidéo de GCN Tech, qui résume [pourquoi les solutions alternatives à la bonne vieille chaine de vélo ne l’ont jamais détronée](https://youtu.be/5lmDhq74Hw8?si=wuJUkENnvJs68lsa).
 
 ## Voyage et découverte
 
@@ -244,7 +332,9 @@ On commence avec [un nouveau magazine consécré au vélotourisme pour vous insp
 
 * * *
 
-Pour les chamois et autres passionnés de la grimpette, [le challenge KOM de Taiwan](https://youtu.be/Xq1ReYZir7o?si=IlCbloYnPI6q9Fn1). Paradis pour les uns, et enfer pour les autres. En effet, l'épreuve est reconnue comme l'une des courses cyclistes les plus difficiles au monde car elle compte près de 3500&nbsp;m de dénivelé positif, sur un parcours de 105&nbsp;kilomètres.
+Pour les chamois et autres passionnés de la grimpette, [le challenge KOM de Taiwan](https://youtu.be/Xq1ReYZir7o?si=IlCbloYnPI6q9Fn1). Paradis pour les uns, enfer pour les autres. 
+
+En effet, l'épreuve est reconnue comme l'une des courses cyclistes les plus difficiles au monde car elle compte près de 3500&nbsp;m de dénivelé positif, sur un parcours de 105&nbsp;kilomètres.
 
 * * *
 
@@ -252,11 +342,11 @@ Pour les amateurs de gravel, [des vacances à prévoir en Italie](https://youtu.
 
 * * *
 
-Pour les VTTistes, [un petit tour par les Dolomites s’impose](https://alpinemag.fr/dolomites-le-film-de-kilian-bron-vtt/). [RedBull vous propose néanmoins quelques options alternatives](https://www.redbull.com/int-en/films/anytime) si ça ne vous dit pas. 
+Pour les VTTistes, [un petit tour par les Dolomites s’impose](https://alpinemag.fr/dolomites-le-film-de-kilian-bron-vtt/). Si ça ne vous dit pas trop, [RedBull vous propose néanmoins quelques options alternatives](https://www.redbull.com/int-en/films/anytime). 
 
 * * *
 
-Vous pourrez ensuite rentrer par [la route du Sel](https://www.tf1info.fr/voyages/videos/video-entre-la-france-et-l-italie-la-route-du-sel-9741-2325581.html), réservée aux randonneurs et cyclistes plusieurs jours par semaine.
+Vous pourrez ensuite rentrer par [la route du Sel entre France et Italie](https://www.tf1info.fr/voyages/videos/video-entre-la-france-et-l-italie-la-route-du-sel-9741-2325581.html), réservée aux randonneurs et cyclistes plusieurs jours par semaine.
 
 * * *
 
